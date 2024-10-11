@@ -1,0 +1,64 @@
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 2.00.pje.1
+08/10/2024 10:15:29: Acessou https://corregedoria.pje.jus.br/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 EVEu0hlxKDcAsINCulwsOxJU3qNMUVcO "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:15:29: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenPadrao(TokenInfo token, String senha, Int32 slot, String tribunal, CookieContainer& cookie, String viewState, String html, Boolean ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 753
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 357
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 5.06.pje.1
+08/10/2024 10:16:17: Acessou https://pje.trt6.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 ry4RVuhPZ4k8SMmu17gYRWtzcihmInEd "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:16:17: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenPadrao(TokenInfo token, String senha, Int32 slot, String tribunal, CookieContainer& cookie, String viewState, String html, Boolean ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 753
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 292
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 6.01.pje.2
+08/10/2024 10:16:56: Acessou https://pje.tre-ac.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.aou7j79xcdh "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:16:56: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenSSO(TokenInfo token, String senha, Int32 slot, String tribunal, String viewState, String html, String url, CookieContainer& cookie, Boolean& ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 666
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 315
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 5.02.pje.1
+08/10/2024 10:17:35: Acessou https://pje.trt2.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 5AJNMHCGWah1jY48fq9eBJ6DAbjU2H0u "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:17:35: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenPadrao(TokenInfo token, String senha, Int32 slot, String tribunal, CookieContainer& cookie, String viewState, String html, Boolean ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 753
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 292
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 8.23.pje.1
+08/10/2024 10:18:15: Acessou https://pje.tjrr.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 k0yoRulZwTzAgTg33PzOFKzloBdx0Gne "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:18:15: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenPadrao(TokenInfo token, String senha, Int32 slot, String tribunal, CookieContainer& cookie, String viewState, String html, Boolean ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 753
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 357
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 5.24.pje.1
+08/10/2024 10:19:03: Acessou https://pje.trt24.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 imvDu3xzphzUTbQu113WUjX9ySMfmraP "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:19:04: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenPadrao(TokenInfo token, String senha, Int32 slot, String tribunal, CookieContainer& cookie, String viewState, String html, Boolean ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 753
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 292
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 6.00.pje.3
+08/10/2024 10:19:58: Acessou https://pje.tse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.ukxtwskfpho "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:19:58: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenSSO(TokenInfo token, String senha, Int32 slot, String tribunal, String viewState, String html, String url, CookieContainer& cookie, Boolean& ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 666
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 315
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 4.01.pje.1
+08/10/2024 10:20:53: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.ukxtwskfpho "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+08/10/2024 10:20:53: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenSSO(TokenInfo token, String senha, Int32 slot, String tribunal, String viewState, String html, String url, CookieContainer& cookie, Boolean& ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 666
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 315

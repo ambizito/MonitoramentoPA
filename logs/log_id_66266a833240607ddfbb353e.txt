@@ -1,0 +1,8 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 4.05.pje2.2
+08/10/2024 10:26:21: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.c1y783qdwid "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+08/10/2024 10:26:21: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenSSO(TokenInfo token, String senha, Int32 slot, String tribunal, String viewState, String html, String url, CookieContainer& cookie, Boolean& ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 666
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 315

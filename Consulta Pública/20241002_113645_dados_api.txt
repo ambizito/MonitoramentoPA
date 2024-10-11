@@ -1,0 +1,5 @@
+{
+    "data_criacao": "02/10/2024",
+    "percentual_processos_atualizados_24h": 73.0,
+    "status": "fudeu"
+}

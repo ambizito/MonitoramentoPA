@@ -1,0 +1,8 @@
+PA36454b@legisadvogados@B8179675-293F-4A0B-833E-E69B82A823D7@mark em 5.16.pje.2
+08/10/2024 10:14:15: Acessou https://pje.trt16.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 Hrnx9rQZ8f2Eu2PC51ji3SIs2df9dGDS "(60202542115702717528587782411) VANESSA FERNANDES FERREIRA DE SOUZA:87774496220"
+08/10/2024 10:14:15: Exceção: O sistema não pode encontrar o arquivo especificado
+Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
+   em ProcessoAgil.TribunalToken.LogarTokenPadrao(TokenInfo token, String senha, Int32 slot, String tribunal, CookieContainer& cookie, String viewState, String html, Boolean ignoreTimeOut) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 753
+   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 292
