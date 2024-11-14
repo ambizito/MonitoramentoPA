@@ -1,0 +1,15 @@
+MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos em 8.14.pje.1
+12/11/2024 20:12:59: Acessou https://pje.tjpa.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 190803 0.149216k1a73 "LAERCIO SERRA DA SILVA:94463654300"
+12/11/2024 20:13:02: Logou https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:13:02: Perfil advogado e usuário LAERCIO SERRA DA SILVA
+OAB = MA9447 ; URL = https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.14.pje.1 ; usuarioId = MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos ; Cookies (
+Name = JSESSIONID ; Value = IbXChuFgn9Qq6gMQ-AGwXaQhDKbmvnyw4jLxrXMR.pje2-1g-n35 ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE5ODEsImlhdCI6MTczMTQ1MzE4MiwiYXV0aF90aW1lIjoxNzMxNDUzMTgxLCJqdGkiOiI0ZDNjZmRiOS05NDBjLTRlMWEtYjM5Yy0xY2ZiMWIzODhlYzkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBhLTFnIiwic3ViIjoiZWUwMzVkNzQtZDEwYy00MDg3LWExZTUtODFkMjc0ZDI3N2YwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYS0xZyIsInNlc3Npb25fc3RhdGUiOiI3ZTYzNGJkNy04M2IzLTQ3MzctYWMwYy02ZDhkOGIyMTA2NTYiLCJhdF9oYXNoIjoiaHBCMHNBUUlRMTN0Wjdwb0ZYYXhtUSIsImFjciI6IjEiLCJzaWQiOiI3ZTYzNGJkNy04M2IzLTQ3MzctYWMwYy02ZDhkOGIyMTA2NTYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxBRVJDSU8gU0VSUkEgREEgU0lMVkEiLCJqdHIiOiI4MTQiLCJKVFIiOiI4MTQiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiI5NDQ2MzY1NDMwMCIsImdpdmVuX25hbWUiOiJMQUVSQ0lPIFNFUlJBIERBIFNJTFZBIiwiZW1haWwiOiJsYWVyY2lvanVzQHlhaG9vLmNvbS5iciJ9.o9Q9BkgJBG5uCYYkgNanyYaI1lQzTbOHCp-B6UzzXy6ROLrc1PIQ82nmzx42FcHTLruvRjKhpNUNR5mIW8-Py9hes8898_vVAxlPqFEUKfwpZn05NJ4OHr3ABmi9LSyfLlNsZVT_iILn9wSujj7qLF3qAd69O2CWRQ8T_2fP_XU4-wY7q6DwvJDSCZbBfEVMQuScbnBkBCeQ0kIE1bx3ep74a3HoxjO1MHB1lHy7Wjh-_lhFMctQjpJ5OefrUWEWXlCNk4EZZdpnq21H14jlW1auYgvfIbHqyEeycun5-RrDmcpZDgmLjStO1iIM2pzX5Fr6s_yBPrUVOSBlspRT6w ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = PJE-TJPA-1G-StickySessionRule ; Value = "pje2-1g-n35:pje-tjpa-1g" ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /
+)
+12/11/2024 20:13:02: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:13:04: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:13:04: Rodou

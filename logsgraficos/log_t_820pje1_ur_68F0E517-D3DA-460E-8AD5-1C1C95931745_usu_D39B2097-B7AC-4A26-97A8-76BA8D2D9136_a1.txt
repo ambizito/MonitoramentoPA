@@ -1,0 +1,33 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 8.20.pje.1
+13/11/2024 01:03:16: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 0.401usmd1sm1 "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+13/11/2024 01:03:19: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:03:19: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = UOg8oXVujXWPfjKdDAc-56a6vSVy81LwMzEi1mvV.pje1g-104-4gv4m ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTkzOTgsImlhdCI6MTczMTQ3MDU5OCwiYXV0aF90aW1lIjoxNzMxNDcwNTk4LCJqdGkiOiI0ZmNlN2RkNS1jMDliLTQ3YzAtOWIwMC02NTZhZDQzOGE3Y2QiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiODQxOTY3YzMtMDAyYS00ZDNiLWFjYzgtNTZiODk4ZjY3NDQ0IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiI4ZDZjZjIwNy05ZDQwLTRjZDMtOWFhOS0zMjg5NDY4MzEyOWUiLCJhdF9oYXNoIjoicEdabDRSSGYzRmxmNGZWNDg0QkxyUSIsImFjciI6IjEiLCJzaWQiOiI4ZDZjZjIwNy05ZDQwLTRjZDMtOWFhOS0zMjg5NDY4MzEyOWUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BTk9MWVMgTUFSQ0VMSU5PIFBBU1NFUkFUIERFIFNJTEFOUyIsIkpUUiI6IjgyMCIsImp0ciI6IjgyMCIsInByZWZlcnJlZF91c2VybmFtZSI6IjAwODEwMDY0NDY0IiwiZ2l2ZW5fbmFtZSI6Ik1BTk9MWVMgTUFSQ0VMSU5PIFBBU1NFUkFUIERFIFNJTEFOUyIsImVtYWlsIjoibWFub2x5c19zaWxhbnNAaG90bWFpbC5jb20ifQ.hBlZlkR_9sthT8-MA49JngoS3uE5BdBOYe9troJqsRtG_QkkG4T0mYzSdeSl-GDXFqQyyjAtoMUd9C054PFwWJQw_czjsGTOKGfsyY2kfdjKdn52BNcgDsDaUyQ-z4ZHEK9gqNvRoPxh2OnR6ZZEervnRCWtCpOWt5MbqnecuLHL1N9MXv1q7Jh56RyDuyBbgGMNiNhNkbH1vftWAv4wNprPk3EO4XxAzgxjvplckECa5kmIzotjlp3OyOlSRa41f2NFzzgNl-HoXp6sEayU55P9YJDMI9QMpv5RHnx5EjnsOGoMPMMS7Qj8c1MTl4Om2BuJuShYioN3KwBqfbB4Aw ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-4gv4m:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 4f9e9df9c51af2b9c262055dcb4d61ca ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:03:20: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:03:21: Total: 1
+13/11/2024 01:03:21: Total: 1
+13/11/2024 01:03:24: advogado 0100532-70.2016.8.20.0104 >> Processo com 2 parte(s), 55 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:03:25: Total: 2
+13/11/2024 01:03:25: Total: 2
+13/11/2024 01:03:27: advogado 0809307-23.2020.8.20.5106 >> Processo com 2 parte(s), 70 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:03:29: advogado 0804039-22.2019.8.20.5106 >> Processo com 2 parte(s), 67 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:03:29: Total: 1
+13/11/2024 01:03:29: Total: 1
+13/11/2024 01:03:32: advogado 0101201-48.2016.8.20.0129 >> Processo com 2 parte(s), 55 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 01:03:32: Total: 1
+13/11/2024 01:03:32: Total: 1
+13/11/2024 01:03:35: advogado 0812985-27.2021.8.20.5004 >> Processo com 3 parte(s), 58 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 01:03:35: Total: 2
+13/11/2024 01:03:35: Total: 2
+13/11/2024 01:03:37: advogado 0840846-02.2018.8.20.5001 >> Processo com 2 parte(s), 17 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:03:39: advogado 0811580-38.2016.8.20.5001 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:03:39: Entrou na aba acervo do perfil e mapeou 7 processos e teve erro em 0 processos
+13/11/2024 01:03:39: Rodou

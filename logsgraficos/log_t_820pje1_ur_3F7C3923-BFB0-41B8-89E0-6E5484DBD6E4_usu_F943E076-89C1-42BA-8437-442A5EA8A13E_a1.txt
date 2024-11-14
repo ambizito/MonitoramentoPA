@@ -1,0 +1,60 @@
+PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 8.20.pje.1
+13/11/2024 01:22:27: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 2314lando 0.aou7j79xcdh "landoaldo falcao de sousa neto:05505553400 2024-09-02 12:06:18"
+13/11/2024 01:22:32: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:22:32: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO
+OAB = PB13544 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = KE1yr7NxncFd-CIUuCf5TCMkJYG_H3fHgROyXokH.pje1g-104-f6dwt ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1MDA1NTEsImlhdCI6MTczMTQ3MTc1MSwiYXV0aF90aW1lIjoxNzMxNDcxNzUxLCJqdGkiOiI3YzA3ZmJkNC0wYTJmLTRiOWUtODZhYS1jOGI0Y2I3Njc1ODgiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiOWFiMTYzNDgtMDkyZC00NTc3LWI1YjUtMTEzYWM1ZjRlYjYwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiJkMjdiMWVhMS00ZmNjLTQ4YjUtOTAxNS1kMDZiOGUxZDAzZTIiLCJhdF9oYXNoIjoia1kybGxLczdDVXNEclcwdmNreWsyQSIsImFjciI6IjEiLCJzaWQiOiJkMjdiMWVhMS00ZmNjLTQ4YjUtOTAxNS1kMDZiOGUxZDAzZTIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxBTkRPQUxETyBGQUxDQU8gREUgU09VU0EgTkVUTyIsIkpUUiI6IjgyMCIsImp0ciI6IjgyMCIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1NTA1NTUzNDAwIiwiZ2l2ZW5fbmFtZSI6IkxBTkRPQUxETyBGQUxDQU8gREUgU09VU0EgTkVUTyIsImVtYWlsIjoiZmFsY2FvZGVzb3VzYS5hZHZvY2FjaWFAZ21haWwuY29tIn0.zoH7sOngDbQkQ-2hxE06ZkrqNkk0r-b4knW73FoapumYtohTbEx_4dTRxzT6B1A4hsb2J-vdmXSQWSv8TYGl5qWEm5v6yY4askwruGDY7hVaZVk0Pz8WR0Nj85KjJtaqo3u6P47VFSgaBmTwXHSBAXbckVXKdYsPWkUlITIYEJOjRsvXz5nBI5JdzO3rQSEx5rdNUEhpY28y_d305nNH2yjeFulbEHgUf5qhCcfU5PBGxrmzwgfrLoWIoL7nlhvx6a86_T2_Z_atQtuwS_A0uRVkLXBXp0NA5DG-Zb8hYVK9QErQLLxMUw5L8AWljDnqf6_G5odZ7IPiut_v0BR73g ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-f6dwt:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 2a4c59967be6997e262752c2d35860e8 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:22:33: Total: 1
+13/11/2024 01:22:36: advogado 0810052-76.2024.8.20.5004 >> Processo com 8 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:22:37: Total: 1
+13/11/2024 01:22:40: advogado 0810052-76.2024.8.20.5004 >> Processo com 8 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:22:41: Total: 1
+13/11/2024 01:22:44: advogado 0810052-76.2024.8.20.5004 >> Processo com 8 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:22:44: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Respondidos nos últimos 10 dias e detectou 3 e leu 2
+13/11/2024 01:22:45: Total: 1
+13/11/2024 01:22:45: Total: 1
+13/11/2024 01:22:48: advogado 0812334-87.2015.8.20.5106 >> Processo com 2 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:22:48: Total: 1
+13/11/2024 01:22:48: Total: 1
+13/11/2024 01:22:50: advogado 0801648-52.2023.8.20.5107 >> Processo com 5 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:22:50: Total: 3
+13/11/2024 01:22:50: Total: 3
+13/11/2024 01:22:50: advogado 0801621-33.2014.8.20.5124 >> Processo já foi verificado recentemente
+13/11/2024 01:22:50: advogado 0813014-47.2017.8.20.5124 >> Processo já foi verificado recentemente
+13/11/2024 01:22:50: advogado 0806479-97.2020.8.20.5124 >> Processo já foi verificado recentemente
+13/11/2024 01:22:51: Total: 5
+13/11/2024 01:22:51: Total: 5
+13/11/2024 01:22:51: advogado 0810052-76.2024.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 01:22:51: advogado 0814001-89.2016.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 01:22:53: advogado 0801585-11.2024.8.20.5004 >> Processo com 3 parte(s), 65 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:22:55: advogado 0809416-13.2024.8.20.5004 >> Processo com 3 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:22:56: advogado 0816700-43.2022.8.20.5004 >> Processo com 2 parte(s), 62 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:22:57: Total: 1
+13/11/2024 01:22:57: Total: 1
+13/11/2024 01:23:00: advogado 0820819-56.2022.8.20.5001 >> Processo com 5 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:23:01: Entrou na aba acervo do perfil e mapeou 11 processos e teve erro em 0 processos
+13/11/2024 01:23:02: Procuracao: Perfil procurador/gestor e usuário Procuradoria - BOTOESTHETIC NATAL SERVIÇOS ESTÉTICOS LTDA
+13/11/2024 01:23:04: Total: 1
+13/11/2024 01:23:06: procurador/gestor 0814936-51.2024.8.20.5004 >> Processo com 3 parte(s), 42 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:23:07: Total: 1
+13/11/2024 01:23:10: procurador/gestor 0810052-76.2024.8.20.5004 >> Processo com 8 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:23:10: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta, Respondidos nos últimos 10 dias e detectou 2 e leu 2
+13/11/2024 01:23:11: Total: 4
+13/11/2024 01:23:11: Total: 4
+13/11/2024 01:23:11: procurador/gestor 0810052-76.2024.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 01:23:11: procurador/gestor 0814936-51.2024.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 01:23:14: procurador/gestor 0801585-11.2024.8.20.5004 >> Processo com 3 parte(s), 65 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:23:17: procurador/gestor 0809416-13.2024.8.20.5004 >> Processo com 3 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:23:17: Total: 2
+13/11/2024 01:23:17: Total: 2
+13/11/2024 01:23:20: procurador/gestor 0869592-64.2024.8.20.5001 >> Processo com 3 parte(s), 22 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:23:24: procurador/gestor 0820819-56.2022.8.20.5001 >> Processo com 5 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:23:25: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+13/11/2024 01:23:25: Rodou

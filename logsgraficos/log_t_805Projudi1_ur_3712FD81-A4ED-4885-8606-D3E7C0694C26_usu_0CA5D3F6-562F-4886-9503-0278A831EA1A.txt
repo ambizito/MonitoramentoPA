@@ -1,0 +1,12 @@
+5785RN@meirozegrilo@3712FD81-A4ED-4885-8606-D3E7C0694C26@jobs em 8.05.Projudi.1
+13/11/2024 01:21:30: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:21:31: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:21:31: Não capturou o total de processos para o OAB 5785RN
+html: salvo no mongo.
+13/11/2024 01:21:31: Rodou com falha
+5785RN@meirozegrilo@3712FD81-A4ED-4885-8606-D3E7C0694C26@jobs em 8.05.Projudi.1
+13/11/2024 01:22:31: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:22:31: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:22:32: Não capturou o total de processos para o OAB 5785RN
+html: salvo no mongo.
+13/11/2024 01:22:32: Rodou com falha

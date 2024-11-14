@@ -1,0 +1,21 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.08.pje.1
+12/11/2024 18:24:45: Acessou https://pje.trt8.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 ZCg0g4qMKRVNqixK16D3Ztg6jo60hbcH "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 18:24:48: Logou https://pje.trt8.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 18:24:48: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.trt8.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.08.pje.1 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = 9395f900740c2f50~On4dOeMjxrCl4gwUylmpNxvR ; Domain = pje.trt8.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt8.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = d9ae5f98-0718-47c3-b37b-1ffd85b86115 ; Domain = pje.trt8.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt8.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkMjAyZmYwNi0wMmM1LTRhMTgtOGI0Yy01ODIzYzc3YjViOWQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQ2Njg3LCJzdWIiOiJhNDdiYzhmZi02NjY2LTQ4NzItYmJkOS1hZWRjOGIyNmIxM2EucGplIiwiZXhwIjoxNzMxNDUwMjg3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjcwNjY3MCwibG9naW4iOiIxMDM0MDUwNjQ4MiIsIm5vbWUiOiJCUkVOREEgSk9SREFOQSBMT0JBVE8gQVJBVUpPIFRFSVhFSVJBIiwicGVyZmlsIjoxMDIzMTcsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6ODIyNzEsImRlc2NyaWNhbyI6IkJSRU5EQSBKT1JEQU5BIExPQkFUTyBBUkFVSk8gVEVJWEVJUkEgKDEwMy40MDUuMDY0LTgyKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDgiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt8.jus.br ; Path = /
+Name = access_token_footer ; Value = 4HcWJZHQflSaU7KbrIXWuIw_fCRzJxSJx3k-aKL2upQ ; Domain = pje.trt8.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhYmU3NDg4Yy1hZjRiLTQ1NzItYjNmZS00MTA1Yzg3ZDliMjMiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQ2Njg3LCJzdWIiOiJhNDdiYzhmZi02NjY2LTQ4NzItYmJkOS1hZWRjOGIyNmIxM2EucGplIiwiZXhwIjoxNzMxNDg5ODg3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIxMDM0MDUwNjQ4MiIsInBlcmZpbCI6MTAyMzE3LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDgifQ.g34XPoFPXDX-E88unTR4TS2DqMvQ1b0ZuVfym6375eM ; Domain = pje.trt8.jus.br ; Path = /
+Name = Xsrf-Token ; Value = BF37B35C0F3FB591F17D4F57AE2BEB961626325F735FDB3471F6FC67030B934CF48FD5F4BFDC0D09AECB2A3EA2E5A62EB335 ; Domain = pje.trt8.jus.br ; Path = /
+)
+12/11/2024 18:24:49: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 18:24:50: Total: 1
+12/11/2024 18:24:50: Total: 1
+12/11/2024 18:24:50: advogado 0000100-33.2023.5.08.0120 >> Processo já foi verificado recentemente
+12/11/2024 18:24:51: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 18:24:51: Rodou

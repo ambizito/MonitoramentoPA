@@ -1,0 +1,33 @@
+RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 4.05.pje.2.00
+12/11/2024 21:14:26: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 m01lVeyscxjfSjNUylKNwke79xYmm12W "RODRIGO ANDRADE DO NASCIMENTO01399099400"
+12/11/2024 21:14:29: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:14:29: Perfil advogado e usuário Rodrigo Andrade do Nascimento
+OAB = RN11195 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus ; Cookies (
+Name = JSESSIONID ; Value = UbnOgmB8MI3UNLo211y0x1B6.node08 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000c166cc297a962e2ecb8242dd8937ee4ceea4917a7db8c8874d6b6cb115fe61b108499a59e6113000cdcbbb30dc8e6d4cb31fb989328ea7a4961d1cbdc84a4e83cce0edd45b64aace2a6ef9449d46a77cf4f96e65e39cee96 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 21:14:38: Total: 1
+12/11/2024 21:14:49: advogado 0800573-40.2023.4.05.8401 >> Processo com 5 parte(s), 13 andamento(s) e 18 expediente(s) atualizado
+12/11/2024 21:16:14: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 6 e leu 1
+12/11/2024 21:16:29: Total: 4
+12/11/2024 21:16:29: Total: 4
+12/11/2024 21:16:29:  0800804-67.2023.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:29:  0800586-39.2023.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:29:  0800810-74.2023.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:29:  0800573-40.2023.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50: Total: 8
+12/11/2024 21:16:50: Total: 8
+12/11/2024 21:16:50:  0801797-45.2013.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0800158-09.2013.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0800267-23.2013.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0801264-35.2015.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0800256-36.2023.4.05.8403 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0800567-33.2023.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0804223-98.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:16:50:  0800965-77.2023.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 21:17:06: Total: 0
+12/11/2024 21:17:06: Total: 0
+12/11/2024 21:17:07: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+12/11/2024 21:17:07: Rodou

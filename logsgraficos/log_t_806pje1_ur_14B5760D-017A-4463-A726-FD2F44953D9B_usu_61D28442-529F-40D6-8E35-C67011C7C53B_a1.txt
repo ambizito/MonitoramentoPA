@@ -1,0 +1,24 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 8.06.pje.1
+12/11/2024 19:28:05: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 0.pdxt4aed8cd "GERSON SANTINI:01529424160"
+12/11/2024 19:28:07: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+12/11/2024 19:28:07: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = fL5iIZjkhxO1o0MEj0RAw7VLjHF1wWBmm4gUqCaX.tjpjp28 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NzkyODcsImlhdCI6MTczMTQ1MDQ4NywiYXV0aF90aW1lIjoxNzMxNDUwNDg3LCJqdGkiOiI4ZmM3Y2EzNi1jMzM0LTQ1YzItOTVlYi1jYWQ0YTcxZWI2YjciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiZjc0OTg5ZTMtMzZjMi00NjM0LWJhYmItNTE0NDgxMTNiZDQ2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiJmNGI5NjYxNi02NTUxLTRhZTMtYjA2Zi01MTg2NWEzMmNkMWMiLCJhdF9oYXNoIjoiSWNNT3lfbnQ4MExJNjROTVJqZU8zdyIsImFjciI6IjEiLCJzaWQiOiJmNGI5NjYxNi02NTUxLTRhZTMtYjA2Zi01MTg2NWEzMmNkMWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkdFUlNPTiBTQU5USU5JIiwianRyIjoiODA2IiwiSlRSIjoiODA2IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDE1Mjk0MjQxNjAiLCJnaXZlbl9uYW1lIjoiR0VSU09OIFNBTlRJTkkiLCJlbWFpbCI6ImdlcnNvbnNhbnRpbmlAaG90bWFpbC5jb20ifQ.xoXXgB6rwmHLLA0PgyujemughBrpriZyl8aG7SDRqqTC8RF7eINYuL3qSsjTuj-9rkmMMMb21oGiXqnqpHoktHqP59B3cdrAT29eOmF0SBhz6A5jmAu5RYZP_kE3dvU5cR5XGvgS_2k3OtTnU53CrroqC4T4dwCZ8hx0yoiANpD5g0Cv7UnImclb_xmp0fYadtMFef674K5mCUy0bC5D-axPJnLtxzQUKOnDm1Bl5HN2_IQLdolh6y8tqnTYRdVC9-LuGRi7Zwh8CZjFyPx5OlZAO4fy26mutVQp4ZPSH4UltSAajnsAVfyu9CC0kzEOUF_nXlaN0pSRVgNuFn4cOQ ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp28:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 19:28:08: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:28:09: Total: 4
+12/11/2024 19:28:09: Total: 4
+12/11/2024 19:28:09: advogado 0123460-86.2017.8.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 19:28:11: advogado 0034046-67.2023.8.06.0001 >> Processo com 3 parte(s), 72 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 19:28:11: advogado 0214778-43.2023.8.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 19:28:12: advogado 3030853-90.2023.8.06.0001 >> Processo com 2 parte(s), 22 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 19:28:12: Total: 1
+12/11/2024 19:28:12: Total: 1
+12/11/2024 19:28:12: advogado 0203903-54.2023.8.06.0117 >> Processo já foi verificado recentemente
+12/11/2024 19:28:13: Entrou na aba acervo do perfil e mapeou 5 processos e teve erro em 0 processos
+12/11/2024 19:28:13: Rodou

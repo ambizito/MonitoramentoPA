@@ -1,0 +1,4 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.06.pje.2
+13/11/2024 21:47:48: Acessou https://pje.tjce.jus.br/pje2grau/login.seam
+13/11/2024 21:48:03: Erro no acesso: Senha invalida
+html: salvo no mongo.

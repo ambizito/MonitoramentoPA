@@ -1,0 +1,4 @@
+RN7621@allenmedeiros@FF9EFDE9-4104-4BAD-9D2D-5EA6A61879DC@bezos em 4.05.CRETA.1.84
+13/11/2024 19:31:11: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 19:31:43: Erro no acesso: Senha invalida
+html: salvo no mongo.

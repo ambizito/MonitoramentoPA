@@ -1,0 +1,44 @@
+SP438903@katiabargierirocha@96D2D2B0-67C1-4B17-ADE1-769CAE3EEEE0@mark em 4.03.pje.1
+12/11/2024 22:34:56: Acessou https://pje1g.trf3.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 092021 0.iaombgqkur9 "KATIA BARGIERI DE CARVALHO ROCHA:29587752830"
+12/11/2024 22:34:59: Logou https://pje1g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:34:59: Perfil advogado e usuário KATIA BARGIERI DE CARVALHO ROCHA
+OAB = SP438903 ; URL = https://pje1g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.03.pje.1 ; usuarioId = SP438903@katiabargierirocha@96D2D2B0-67C1-4B17-ADE1-769CAE3EEEE0@mark ; Cookies (
+Name = JSESSIONID ; Value = cR8pwfezHJkcLCir_Z6HN82-cJcdE4yk2Voy70QL.svlpje1g05 ; Domain = pje1g.trf3.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf3.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTA0OTgsImlhdCI6MTczMTQ2MTY5OCwiYXV0aF90aW1lIjoxNzMxNDYxNjk4LCJqdGkiOiJkM2FhYzM3Ny04MGE5LTQyMDAtYWM1Yy0wYjkxNTQ1Yzg2NWYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYzLTFnIiwic3ViIjoiODkxNmZiZjgtZWQ5ZS00NDI3LThhOWItNDYwNzQ4NGJkYWJkIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMy0xZyIsInNlc3Npb25fc3RhdGUiOiJlNDAzNGVmNS04MTg0LTQ1OWMtODdiNS1iZjU5MThiMTdiM2IiLCJhdF9oYXNoIjoidTZIWUJjS2FydEx4a1BSQk9TZGE1QSIsImFjciI6IjEiLCJzaWQiOiJlNDAzNGVmNS04MTg0LTQ1OWMtODdiNS1iZjU5MThiMTdiM2IiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IktBVElBIEJBUkdJRVJJIERFIENBUlZBTEhPIFJPQ0hBIiwiSlRSIjoiNDAzIiwianRyIjoiNDAzIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMjk1ODc3NTI4MzAiLCJnaXZlbl9uYW1lIjoiS0FUSUEgQkFSR0lFUkkgREUgQ0FSVkFMSE8gUk9DSEEiLCJlbWFpbCI6ImthdGlhYmFyZ2llcmlyb2NoYUBnbWFpbC5jb20ifQ.JYumKNgIaLxx9Ld0CldDxMdbPRmoYTwaF3Q35Vn3orUo-cwnMOTpxgG4ePjA4UGq61x1Cy0N__OCrqCUdoMcJmzv6PYUBUkEst_Ut5bGOKY-LZkKh3JZeZmV49xeMNoaR_IcjB4Euv2eKh-fwtFfPPN-SyW6wwqkV1jZeoZWvXTkf7QJH-AHzCxxWbCJ2nZMje7zG1SwRvzpSDZY4PIjdB3xVkVgSOrXHyzSWmZ57DVwjvsrFzNF-7iRUl5E2dmsKzyNjH1WrkRBrVNhSpYwulvLONI45zvFKhW-uyBcZpe-GkhzQfW5LauZ4W8Su5ekHgizXlmg7IqqxokciNhG-g ; Domain = pje1g.trf3.jus.br ; Path = /pje
+Name = PJESID ; Value = 5c899baef08c4a9c ; Domain = pje1g.trf3.jus.br ; Path = /
+Name = ak_bmsc ; Value = 8ACB421BD224038A9F69831A2039AC46~000000000000000000000000000000~YAAQTODEFz0/V9SSAQAA2cooIxmMRpzsnrQOYyemJgQRotAF7zCNGnjPbSdihXaPQArumuokma4sBFGGpEAVVc4fiM3eNq2rpynws/qoA6SNn8YeAfjeRXfxlxjTRdc/dghjAw9IUxTjdUktkUii1yDupMjYH/r/Sk+csLX4EHvkwrQDfb/vIRV5gLKNGH2nUWoYnC6b4kUOajge8Y1Gym9I0LWItXgZig3Q4i/d7tRVcKdTBsr035T8LUS9mWd8MTHP470IjbgW2dO6NYQ53VyvaEWAgEydN6e6++gZvamX49x219LWSrpcGWDc/J6SHjunVvHVlHZvFEdnL6feWqY6wx/dQsFEnA9Nwbo= ; Domain = pje1g.trf3.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.trf3.jus.br ; Path = /
+Name = ak_bmsc ; Value = 8ACB421BD224038A9F69831A2039AC46~000000000000000000000000000000~YAAQTODEFz0/V9SSAQAA2cooIxmMRpzsnrQOYyemJgQRotAF7zCNGnjPbSdihXaPQArumuokma4sBFGGpEAVVc4fiM3eNq2rpynws/qoA6SNn8YeAfjeRXfxlxjTRdc/dghjAw9IUxTjdUktkUii1yDupMjYH/r/Sk+csLX4EHvkwrQDfb/vIRV5gLKNGH2nUWoYnC6b4kUOajge8Y1Gym9I0LWItXgZig3Q4i/d7tRVcKdTBsr035T8LUS9mWd8MTHP470IjbgW2dO6NYQ53VyvaEWAgEydN6e6++gZvamX49x219LWSrpcGWDc/J6SHjunVvHVlHZvFEdnL6feWqY6wx/dQsFEnA9Nwbo= ; Domain = .trf3.jus.br ; Path = /
+Name = bm_mi ; Value = 9DCFD8522209E43D19CE83AB3F85EECA~YAAQTODEFz8/V9SSAQAAOtUoIxlvonKQH+n+bQxc6efoNfGsZri3/EkOIvfjMY2wZbnDWOeRcvGw4iFB9SPE9YEI/5mMRFNTULpjz5OlGdc3ILDpA0aOtlgEmaIi0b6RQ7v3L2O9TF/aFmXGNvCt1+/HDlR5Q8LIwBCR4xu2LqTppTIXrlxsq1XvB56zh+Ry0QiUyCOLK47OB19yglFtP7jrl/LYUGlBTQ6C/SUkqLSUsQxQhQTLGkt80uWtKCg9YEP3Zif+uOgxzZCP6CrhmKLDptROi669F5pVWUMvgkejfwo1g+jDDHV4D49k4HK60s9MwvrxwJjQc1rkwi5Qax5242W6ZpNULkJYMQniS4dcug==~1 ; Domain = .trf3.jus.br ; Path = /
+Name = bm_sv ; Value = 82F5BF10E3E870F245387AAF967B8241~YAAQTODEF0E/V9SSAQAAH9YoIxkz2EsV7rbhsj3limpgH0JREWo3iJyqAcIM1bfxkcT1YBkMRlxtgulSxeH//q72ut6q3muHN56mpXDqxZ13qC6ctMzTkL/qtRgUx7JlZARsO/imUX1pmIGp9K00IU1Vxsh1cnsP31IsSil2cbsf0ZSuux7Uw/fTXJsU3Or2fo8KsRVKnsHea0DeiMFQWwkn4Pf13W25lV72t0WVk67FfFbW+vtbhvlKK45kIAwnyw==~1 ; Domain = .trf3.jus.br ; Path = /
+)
+12/11/2024 22:34:59: Total: 1
+12/11/2024 22:35:01: advogado 5025637-15.2024.4.03.6301 >> Processo com 3 parte(s), 71 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:35:01: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 4 e leu 1
+12/11/2024 22:35:02: Total: 14
+12/11/2024 22:35:02: Total: 14
+12/11/2024 22:35:02: advogado 5025637-15.2024.4.03.6301 >> Processo já foi verificado recentemente
+12/11/2024 22:35:04: advogado 5104297-57.2023.4.03.6301 >> Processo com 2 parte(s), 66 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 22:35:04: advogado 5044695-04.2024.4.03.6301 >> Processo já foi verificado recentemente
+12/11/2024 22:35:05: advogado 5105307-39.2023.4.03.6301 >> Processo com 2 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:35:06: advogado 5003444-69.2024.4.03.6183 >> Processo com 2 parte(s), 59 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:35:07: advogado 5073977-24.2023.4.03.6301 >> Processo com 3 parte(s), 28 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:08: advogado 0079084-08.2021.4.03.6301 >> Processo com 3 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:09: advogado 0076812-41.2021.4.03.6301 >> Processo com 3 parte(s), 18 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:10: advogado 0084547-28.2021.4.03.6301 >> Processo com 3 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:11: advogado 0077414-32.2021.4.03.6301 >> Processo com 3 parte(s), 18 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:12: advogado 0077512-17.2021.4.03.6301 >> Processo com 3 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:13: advogado 0077807-54.2021.4.03.6301 >> Processo com 3 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:13: advogado 0078388-69.2021.4.03.6301 >> Processo com 3 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:15: advogado 0051262-15.2019.4.03.6301 >> Processo com 3 parte(s), 22 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:35:15: Total: 1
+12/11/2024 22:35:15: Total: 1
+12/11/2024 22:35:16: advogado 5019109-88.2021.4.03.6100 >> Processo com 6 parte(s), 61 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 22:35:16: Total: 2
+12/11/2024 22:35:16: Total: 2
+12/11/2024 22:35:17: advogado 5013828-33.2020.4.03.6183 >> Processo com 2 parte(s), 67 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 22:35:18: advogado 5006693-33.2021.4.03.6183 >> Processo com 2 parte(s), 37 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:35:19: Entrou na aba acervo do perfil e mapeou 17 processos e teve erro em 0 processos
+12/11/2024 22:35:19: Rodou

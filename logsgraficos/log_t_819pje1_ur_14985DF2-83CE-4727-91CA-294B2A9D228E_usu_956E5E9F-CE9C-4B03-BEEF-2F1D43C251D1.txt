@@ -1,0 +1,18 @@
+04936862401@paulomedeirosadv@14985DF2-83CE-4727-91CA-294B2A9D228E@linus em 8.19.pje.1
+12/11/2024 23:35:29: Acessou https://tjrj.pje.jus.br/1g/login.seam
+12/11/2024 23:35:31: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 23:35:31: Perfil advogado e usuário PAULO RAFAEL SOARES MESQUITA DE MEDEIROS
+OAB = 04936862401 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = 04936862401@paulomedeirosadv@14985DF2-83CE-4727-91CA-294B2A9D228E@linus ; Cookies (
+Name = JSESSIONID ; Value = _qz0CpiJgbj0TddHvzDHQu7Bz6bRucDlJg0j6oPN.pje-legacy-6494dcd4ff-xsghl ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTQxMzAsImlhdCI6MTczMTQ2NTMzMCwiYXV0aF90aW1lIjoxNzMxNDY1MzMwLCJqdGkiOiI3YjhmOTNmMC1lNzFkLTQ5Y2YtOGVkYS04ZjIwM2IxYzM2MGUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiZTQ2MTM5YzEtZWI2ZC00MzI1LWE0ZDktYzBhYjRkZWM2NTVhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiIwMjc0N2ExZC0yYTc1LTQwOTEtYjYxNS1jMjZiYjIzZTNlZGYiLCJhdF9oYXNoIjoiMFFmMVpkS3RrS2Z4Y1lqYm5FVEQ5USIsImFjciI6IjEiLCJzaWQiOiIwMjc0N2ExZC0yYTc1LTQwOTEtYjYxNS1jMjZiYjIzZTNlZGYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJQQVVMTyBSQUZBRUwgU09BUkVTIE1FU1FVSVRBIERFIE1FREVJUk9TIiwianRyIjoiODE5IiwiSlRSIjoiODE5IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ5MzY4NjI0MDEiLCJnaXZlbl9uYW1lIjoiUEFVTE8gUkFGQUVMIFNPQVJFUyBNRVNRVUlUQSBERSBNRURFSVJPUyIsImVtYWlsIjoiYWR2b2dhZG9AcGF1bG9tZWRlaXJvcy5hZHYuYnIifQ.SC-IFuoP1Pt_uR-yILGxkH-6O6GsnAsWUiFRRD0k8nIENxi8O31Ibv2pu7XtQWH7SeRGc5RpyP9gkv625HydgxLAm77WWBqKabxgGpZlGXKlr181YTKM_Ja7zF4xshHIh5cnPsDs8H9B8nNwMPNcjq_EabxTAn6sgVj4PFOJbrqAr2qn0HYcpHz6e7wx_mJmfJV_h2zbkNEtsO3VJK3dQY8gLKkfOZme8iBhylgJEnXTi4sEz7bHPmzQl5dt1zAQD3VI3tBr-d7FnL5zpBrHd9lhcTFJEM0z8wnaD0Tq_E2rw3_UBh4bAFcv3HnVRj2PyrqkFJ9G06rVSiqoNF3hRA ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-6494dcd4ff-xsghl:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAADbCXxZwPjtHPUYkoez8PVdZ8b74oQKJoznC1ffj76VT/48CNYZp8PZK0vq0dgLO2qVEoWkUCfGvkYMVaEXN84cdu2qguzGiWrxI4uVDkoropdW1CI32NS4CZkuX5jyfLs8QQQ= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+12/11/2024 23:35:31: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:35:39: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:35:39: Rodou

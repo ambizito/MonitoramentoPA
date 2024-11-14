@@ -1,0 +1,24 @@
+PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 4.05.pje.1.83
+12/11/2024 22:54:41: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 ZlYgWx104eWSGu1EQCY1eqhsMn6dDsvK "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+12/11/2024 22:54:44: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:54:44: Perfil advogado e usuário JOSE HARAN DE BRITO VEIGA PESSOA
+OAB = PB13028 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = sLxvsaavZh4IFMqYVemjDEZ+.node04 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c15fbc13e72c564b1c7e418ed6b3db669d36b46e6dff7b47c43a752e7376d44bd84e5be9e771a511d41b4f491d728fcc092408e370e6b2af73c0d2241a2be32cc ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000098375b6d43fd10350e11c671793ff59234c66a24a99a866dff8869d565cd86b08d634a5561130005bb99c318797063d44d6b71f9965f1ad4b1f13341f75a7fa499af257e55b5269be1ba94ff3c30be31ea7692ddd68243f ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357ca5429a83c33e59c2a4cbe570f231c993d36b46e6dff7b47c43a752e7376d44bd0da2a917f5fb6074c071a8e924d7c9e07d87012ff619a2b7c642ce967a9d7f7f ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_C0A06461F1F6A2CB657CC7198166A88D_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357ca5429a83c33e59c2a4cbe570f231c993d36b46e6dff7b47c43a752e7376d44bd0da2a917f5fb6074c071a8e924d7c9e07d87012ff619a2b7c642ce967a9d7f7f ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_C0A06461F1F6A2CB657CC7198166A88D_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 22:54:51: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:55:11: Total: 0
+12/11/2024 22:55:11: Total: 0
+12/11/2024 22:55:32: Total: 0
+12/11/2024 22:55:32: Total: 0
+12/11/2024 22:55:47: Total: 0
+12/11/2024 22:55:47: Total: 0
+12/11/2024 22:55:48: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:55:48: Rodou

@@ -1,0 +1,12 @@
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.17.pje.2
+12/11/2024 18:42:57: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.qe6y4asf81q "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 18:43:02: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 18:43:02: Perfil advogado e usuário 
+OAB = RN5382 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState =  ; tribunal = 8.17.pje.2 ; usuarioId = RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = wnHVPSmzS7Fg0N8AJxiRXDwLdCYAkJI9VM45N621.keycloak-2 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+12/11/2024 18:43:03: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:43:06: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:43:06: Rodou

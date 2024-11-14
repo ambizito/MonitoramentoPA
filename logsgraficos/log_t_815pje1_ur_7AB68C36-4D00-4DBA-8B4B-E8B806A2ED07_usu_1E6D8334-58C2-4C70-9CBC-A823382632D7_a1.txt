@@ -1,0 +1,27 @@
+RN17699@evertsgomes@7AB68C36-4D00-4DBA-8B4B-E8B806A2ED07@gates em 8.15.pje.1
+12/11/2024 20:05:23: Acessou https://pje.tjpb.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Eg067831094 0.imtb3wpxk3u "everton gomes dos santos:06783109470"
+12/11/2024 20:05:27: Logou https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:05:27: Perfil advogado e usuário EVERTON GOMES DOS SANTOS
+OAB = RN17699 ; URL = https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.15.pje.1 ; usuarioId = RN17699@evertsgomes@7AB68C36-4D00-4DBA-8B4B-E8B806A2ED07@gates ; Cookies (
+Name = JSESSIONID ; Value = 2V9OZdHPP0PtKzBtciaqU43VUMDkZ3YPudH2EsTs.pje31-v21 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = TS019bf079 ; Value = 01766fbb17ec73ee5d972ad6daf879bf2c3e83dd8fdb0a37fe254334f9b5f52026e008d4e66c597b00c0254e613d6c783df23cb978 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE1MjYsImlhdCI6MTczMTQ1MjcyNiwiYXV0aF90aW1lIjoxNzMxNDUyNzI2LCJqdGkiOiJiNzU4MDM2ZS03MDlhLTQzYjctOGZhOS00YjlmOThiNTk3ZjUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBiLTFnIiwic3ViIjoiOGM2YzFjN2YtZTZkYS00OTNlLTgxNjctZGZlNzNkMGFkNTNmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYi0xZyIsInNlc3Npb25fc3RhdGUiOiJiMTQ2NWQwZi05NDc3LTQ1MTctYTViYS0zYzJkMTdhNjIwYjgiLCJhdF9oYXNoIjoiYkVBUXlGcEZSaTBFZ2w2VV95VmpyQSIsImFjciI6IjEiLCJzaWQiOiJiMTQ2NWQwZi05NDc3LTQ1MTctYTViYS0zYzJkMTdhNjIwYjgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkVWRVJUT04gR09NRVMgRE9TIFNBTlRPUyIsIkpUUiI6IjgxNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA2NzgzMTA5NDcwIiwiZ2l2ZW5fbmFtZSI6IkVWRVJUT04gR09NRVMgRE9TIFNBTlRPUyIsImVtYWlsIjoiZXZlcnRvbmdzYW50b3MuYWR2QGdtYWlsLmNvbSJ9.YkH9BPMDSlfl5LCT5h0J5db8VSJce9txR9OdnWGN042DMe_BdubPsI5BdO-NSsZdTXhempbrKywT7gGNMlNzeeL0IkiD0vwkqkrqSThu4NmiHk5P7Q_k0EPZsEsm7_7WU0UsCeFkoCXkeKAuivgXWl1vMepe3UzSC455nqrpG1dwL2jzxG61hlsTmUE30naP9nbjOkFjuLF9lZiOBIORcf5Kndfg8gkdSgadaC553g4JJRkeozBuo1SKmtRHeRROqcvBzw4qaeHt3IqomCxfE1Htb-zpo-7qYZQ9_wOv0kqzYOt-zNmih_kU--VjS7t9exskcz_eJ3ywa6JXS0ZyiQ ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = PJE-TJPB-1G-StickySessionRule ; Value = pje31-v21:pje-tjpb-1g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = BIGipServerpool_pje1g_prod ; Value = 1527054346.36895.0000 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = TS01d5de65 ; Value = 01766fbb17ec73ee5d972ad6daf879bf2c3e83dd8fdb0a37fe254334f9b5f52026e008d4e66c597b00c0254e613d6c783df23cb978 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /
+)
+12/11/2024 20:05:27: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:05:29: Total: 1
+12/11/2024 20:05:29: Total: 1
+12/11/2024 20:05:29: advogado 0801252-22.2021.8.15.0601 >> Processo já foi verificado recentemente
+12/11/2024 20:05:29: Total: 1
+12/11/2024 20:05:29: Total: 1
+12/11/2024 20:05:29: advogado 0800811-12.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:05:29: Total: 2
+12/11/2024 20:05:29: advogado 0866932-90.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:05:29: advogado 0851495-72.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:05:30: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 20:05:30: Rodou

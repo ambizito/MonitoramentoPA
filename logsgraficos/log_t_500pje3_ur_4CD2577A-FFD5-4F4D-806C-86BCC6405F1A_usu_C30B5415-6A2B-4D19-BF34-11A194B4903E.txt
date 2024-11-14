@@ -1,0 +1,40 @@
+07888580416@ccgd@4CD2577A-FFD5-4F4D-806C-86BCC6405F1A@berners em 5.00.pje.3
+13/11/2024 01:42:55: Acessou https://pje.tst.jus.br/tst/login.seam
+13/11/2024 01:42:56: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 01:42:57: Perfil advogado e usuário NICACIO ANUNCIATO DE CARVALHO NETTO
+OAB = 07888580416 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = 07888580416@ccgd@4CD2577A-FFD5-4F4D-806C-86BCC6405F1A@berners ; Cookies (
+Name = JSESSIONID ; Value = 92630455d70c33cd~L0V22Eu5BmVL14Mmcc0FKEod ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 9543a333-26a8-4c67-946a-0bff88b4e23b ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlYmM3ZWIzMy1kNDc1LTRhMWMtOTRmYy0xZDM0MjY1OTc4NmIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDcyOTc1LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNDc2NTc1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ1NDQ3LCJsb2dpbiI6IjA3ODg4NTgwNDE2Iiwibm9tZSI6Ik5JQ0FDSU8gQU5VTkNJQVRPIERFIENBUlZBTEhPIE5FVFRPIiwicGVyZmlsIjozODUyNSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjozMTQ2MywiZGVzY3JpY2FvIjoiTklDQUNJTyBBTlVOQ0lBVE8gREUgQ0FSVkFMSE8gTkVUVE8gKDA3OC44ODUuODA0LTE2KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRTVCIsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = WyrDh4v_QF45AcwAXMR9IZsrqt_rpRe_28BQHqr8SAs ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlMDA5MmQ1Yi1iODE0LTQ5MWQtODAzYS1lYTYzYjMxZWRhY2EiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDcyOTc1LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTE2MTc1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNzg4ODU4MDQxNiIsInBlcmZpbCI6Mzg1MjUsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFNUIn0.1NLvqVSkQXmLXTBwg_E8JCui_o5LMePv7HZULn3-y_c ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 184F31645130EFF55086D8DFE9E9B11D44533C77A1D19CFF62E87E5B9CAA5EEC83C986D9D85FF802CD2A2846530E45779F24 ; Domain = pje.tst.jus.br ; Path = /
+)
+13/11/2024 01:42:58: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 01:42:59: Total: 6
+13/11/2024 01:42:59: Total: 6
+13/11/2024 01:42:59: advogado 0000035-26.2020.5.21.0041 >> Processo já foi verificado recentemente
+13/11/2024 01:42:59: advogado 0000054-43.2020.5.21.0005 >> Processo já foi verificado recentemente
+13/11/2024 01:42:59: advogado 0000462-54.2022.5.21.0008 >> Processo já foi verificado recentemente
+13/11/2024 01:42:59: advogado 0000528-31.2022.5.21.0009 >> Processo já foi verificado recentemente
+13/11/2024 01:42:59: advogado 0016403-97.2022.5.16.0003 >> Processo já foi verificado recentemente
+13/11/2024 01:42:59: advogado 1000957-95.2019.5.00.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:43:00: Total: 2
+13/11/2024 01:43:00: Total: 2
+13/11/2024 01:43:00: advogado 0000035-26.2020.5.21.0041 >> Processo já foi verificado recentemente
+13/11/2024 01:43:00: advogado 0000528-31.2022.5.21.0009 >> Processo já foi verificado recentemente
+13/11/2024 01:43:00: Total: 2
+13/11/2024 01:43:00: Total: 2
+13/11/2024 01:43:00: advogado 0000462-54.2022.5.21.0008 >> Processo já foi verificado recentemente
+13/11/2024 01:43:00: advogado 0016403-97.2022.5.16.0003 >> Processo já foi verificado recentemente
+13/11/2024 01:43:00: Total: 1
+13/11/2024 01:43:00: Total: 1
+13/11/2024 01:43:00: advogado 0000054-43.2020.5.21.0005 >> Processo já foi verificado recentemente
+13/11/2024 01:43:00: Total: 1
+13/11/2024 01:43:00: Total: 1
+13/11/2024 01:43:00: advogado 1000957-95.2019.5.00.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:43:01: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+13/11/2024 01:43:01: Rodou

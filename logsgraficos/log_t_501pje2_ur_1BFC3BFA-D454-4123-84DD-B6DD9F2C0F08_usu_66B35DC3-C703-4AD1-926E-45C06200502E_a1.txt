@@ -1,0 +1,27 @@
+RN25593@velloso@1BFC3BFA-D454-4123-84DD-B6DD9F2C0F08@berners em 5.01.pje.2
+12/11/2024 20:29:21: Acessou https://pje.trt1.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 6vth1jvjYj9NmHfjB9WtbibrvuNks0bQ "ANA FLAVIA VELLOSO BORGES PEREIRA MACEDO76897257400"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.aou7j79xcdh "ANA FLAVIA VELLOSO BORGES PEREIRA MACEDO76897257400"
+12/11/2024 20:29:28: Logou https://pje.trt1.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 20:29:29: Perfil advogado e usuário ANA FLAVIA VELLOSO BORGES PEREIRA MACEDO
+OAB = RN25593 ; URL = https://pje.trt1.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id5 ; tribunal = 5.01.pje.2 ; usuarioId = RN25593@velloso@1BFC3BFA-D454-4123-84DD-B6DD9F2C0F08@berners ; Cookies (
+Name = JSESSIONID ; Value = aece2e9b1a696be3~3eTNjOsHe94bVeXqx9nj5ovf ; Domain = pje.trt1.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt1.jus.br ; Path = /segundograu
+Name = MO ; Value = P ; Domain = pje.trt1.jus.br ; Path = /
+Name = sso_refresh_token ; Value = eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI4ZmViYjJiOS0zYmIzLTQzZmItYTMxMS0xMjJmMmNlODIwNGUifQ.eyJleHAiOjE3MzE0ODI5NjYsImlhdCI6MTczMTQ1NDE2NiwianRpIjoiNzdlZmU4ZjctMmFiYS00YWIyLWExNzAtY2IzZjA2NzJiZTM1IiwiaXNzIjoiaHR0cHM6Ly9zc28uY2xvdWQucGplLmp1cy5ici9hdXRoL3JlYWxtcy9wamUiLCJhdWQiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsInN1YiI6IjkxODMzZjg1LWFmYjgtNDhiOC04Njc2LTc3NWVkMzZmM2UzMiIsInR5cCI6IlJlZnJlc2giLCJhenAiOiJwamUtdHJ0MS0yZyIsInNlc3Npb25fc3RhdGUiOiIzZGZiNDgzNi1jZjhiLTQ2NmEtYjgxMy00OGViZDM5MTY1YTQiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIiwic2lkIjoiM2RmYjQ4MzYtY2Y4Yi00NjZhLWI4MTMtNDhlYmQzOTE2NWE0In0.X8cFa1pdMXlmGIR65CwLke013bj2jzd8wFjb-D4hVxw ; Domain = pje.trt1.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyMTM0OTZiZC0xODJkLTRhMjAtYWE4Ny02NjdmNjJkNDI1YWEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU0MTY2LCJzdWIiOiI5OGM5ZTQ4Ni1mYjBmLTQwNzEtODY5ZS1mOTY3M2ZiOWYyYzUucGplIiwiZXhwIjoxNzMxNDU3NzY2LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjUzNDA4NywibG9naW4iOiI3Njg5NzI1NzQwMCIsIm5vbWUiOiJBTkEgRkxBVklBIFZFTExPU08gQk9SR0VTIFBFUkVJUkEgTUFDRURPIiwicGVyZmlsIjo4ODQxNSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjo2MjkxMywiZGVzY3JpY2FvIjoiQU5BIEZMQVZJQSBWRUxMT1NPIEJPUkdFUyBQRVJFSVJBIE1BQ0VETyAoNzY4Ljk3Mi41NzQtMDApIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwib3JpZ2VtIjoiVFJUMSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt1.jus.br ; Path = /
+Name = access_token_footer ; Value = -xJ32vxRhPIFderZa05i7yVIt5OGkBufXAC1stt1OdY ; Domain = pje.trt1.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1NDAyNGU3ZS02N2VkLTQ1MGUtOTU3OC0zOWQyNTk0MmIzYzIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU0MTY2LCJzdWIiOiI5OGM5ZTQ4Ni1mYjBmLTQwNzEtODY5ZS1mOTY3M2ZiOWYyYzUucGplIiwiZXhwIjoxNzMxNDk3MzY2LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI3Njg5NzI1NzQwMCIsInBlcmZpbCI6ODg0MTUsIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMSJ9.JT_UsikFsuo4O_1EijJ4UYlQPGSJIiEi3eN0q6Z0EMg ; Domain = pje.trt1.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 9FB6D68D76CBA8E2F5E17076EA64B52211E4CD7B42C45CE2598BCC01C14FD480ADF61A148E9843FE8611ECB54AC84A8DDB5D ; Domain = pje.trt1.jus.br ; Path = /
+)
+12/11/2024 20:29:31: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 20:29:33: Total: 1
+12/11/2024 20:29:33: Total: 1
+12/11/2024 20:29:35: advogado 0100524-89.2019.5.01.0000 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+12/11/2024 20:29:35: advogado 0100524-89.2019.5.01.0000 >> Processo com 6 parte(s), 58 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:29:36: Total: 1
+12/11/2024 20:29:36: Total: 1
+12/11/2024 20:29:36: advogado 0100524-89.2019.5.01.0000 >> Processo já foi verificado recentemente
+12/11/2024 20:29:37: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 20:29:37: Rodou

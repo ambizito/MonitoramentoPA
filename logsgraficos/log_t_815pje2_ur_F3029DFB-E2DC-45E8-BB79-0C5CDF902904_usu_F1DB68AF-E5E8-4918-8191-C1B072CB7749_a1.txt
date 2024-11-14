@@ -1,0 +1,2 @@
+RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners em 8.15.pje.2
+12/11/2024 23:14:36: Não abriu a página de login https://pjesg.tjpb.jus.br/pje2g/login.seam

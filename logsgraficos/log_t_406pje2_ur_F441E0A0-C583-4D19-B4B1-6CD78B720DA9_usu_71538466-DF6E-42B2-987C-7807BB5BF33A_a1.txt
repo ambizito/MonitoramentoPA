@@ -1,0 +1,13 @@
+PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark em 4.06.pje.2
+12/11/2024 23:25:46: Acessou https://pje2g.trf6.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 88509332 oiNOOP0xVJ7otkerTzX8sOrVl5jVC1A4 "DOUGLAS BRANDAO DO NASCIMENTO:06698038474"
+12/11/2024 23:25:48: Logou https://pje2g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:25:48: Perfil advogado e usuário DOUGLAS BRANDAO DO NASCIMENTO
+OAB = PB17064 ; URL = https://pje2g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 4.06.pje.2 ; usuarioId = PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark ; Cookies (
+Name = JSESSIONID ; Value = kdns78gMzwe3ZLfWyh1rLlPf7c0v018VByF56him.trf6pje2goutjb01 ; Domain = pje2g.trf6.jus.br ; Path = /pje
+Name = PJE-TRF6-2G-StickySessionRule ; Value = trf6-pje2goutjb01:pje-trf6-2g ; Domain = pje2g.trf6.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf6.jus.br ; Path = /
+)
+12/11/2024 23:25:49: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:25:56: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:25:56: Rodou

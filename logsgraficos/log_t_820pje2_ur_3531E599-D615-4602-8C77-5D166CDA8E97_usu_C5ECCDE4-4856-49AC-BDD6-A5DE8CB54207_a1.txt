@@ -1,0 +1,16 @@
+PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark em 8.20.pje.2
+13/11/2024 00:34:58: Acessou https://pje2g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 776933 0.gx8a2lj2rjs "ENIO SILVA NASCIMENTO77693329587"
+13/11/2024 00:35:02: Logou https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:35:02: Perfil advogado e usuário ENIO SILVA NASCIMENTO
+OAB = PB11946 ; URL = https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.2 ; usuarioId = PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark ; Cookies (
+Name = JSESSIONID ; Value = lsmbVraCOdk9lDcGVk4jtPasRyzFWvKBiec1FPfh.pje2g-90-6vfhq ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTc3MDAsImlhdCI6MTczMTQ2ODkwMSwiYXV0aF90aW1lIjoxNzMxNDY4OTAwLCJqdGkiOiI0ZTY2YzA3Ny0zM2JiLTQ0NDUtYTE1Mi01NDYyZjc1N2RmMjEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTJnIiwic3ViIjoiMjc4NzgwNjUtNDhjNi00OGVkLWFmYjEtNWJiODQ4MWM1YjAxIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0yZyIsInNlc3Npb25fc3RhdGUiOiIyNTNmYjc5MC1jNjgxLTRhMGUtYmJiZC01NmIxYjE1ZWFhOTkiLCJhdF9oYXNoIjoiWkR2N2VVY3p0VUJ6b3QxVEEzUTBqUSIsImFjciI6IjEiLCJzaWQiOiIyNTNmYjc5MC1jNjgxLTRhMGUtYmJiZC01NmIxYjE1ZWFhOTkiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkVOSU8gU0lMVkEgTkFTQ0lNRU5UTyIsIkpUUiI6IjgyMCIsImp0ciI6IjgyMCIsInByZWZlcnJlZF91c2VybmFtZSI6Ijc3NjkzMzI5NTg3IiwiZ2l2ZW5fbmFtZSI6IkVOSU8gU0lMVkEgTkFTQ0lNRU5UTyIsImVtYWlsIjoiZW5pb0BuYXNjaW1lbnRvYmFyYm9zYS5jb20uYnIifQ.I_OgZPgSQrhL2fzw6VE3su2swVp0wGswArAx4rCtQSZo52b4XT4CH4SFNghbayv58BsG2ZOyjYxHkVl-3K6I-w-SwF0f3g64u6OYmQdcJw0xoAuquxOe01gXCb-vYL-cbhkcdKwEbIkCnUQkq80mZzlUFvSxU1572CA5K0BgafXtOwDSg1o82G1PfVf2-BQ6e8lw_ExCqTCzDAC86TlpPpNZ_aJMynYaHHzIXhbWOjfNLoTcPhOCOUEkRQbWBGsbaHoMhucUW9rLq2Z9EqtSHVxOKUyxYN5NrfBUWWa_xo7_qmkG02ucHD89HFyc7UPopXgK5PmGn3QOTJeS2nfrBQ ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-2G-StickySessionRule ; Value = "pje2g-90-6vfhq:pje-tjrn-2g" ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 4cf2af9d7d7c130a96128ce3c67750ef ; Domain = pje2g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /
+)
+13/11/2024 00:35:02: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:35:04: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:35:04: Rodou

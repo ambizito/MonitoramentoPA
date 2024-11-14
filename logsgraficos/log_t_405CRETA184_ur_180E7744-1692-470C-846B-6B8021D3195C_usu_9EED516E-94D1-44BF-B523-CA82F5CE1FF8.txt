@@ -1,0 +1,6 @@
+RN6792@meloadvogados@180E7744-1692-470C-846B-6B8021D3195C@berners em 4.05.CRETA.1.84
+12/11/2024 23:13:36: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+12/11/2024 23:14:07: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 23:14:17: Não acessou a url de pesquisa para o OAB RN6792
+html: salvo no mongo.
+12/11/2024 23:14:17: Rodou

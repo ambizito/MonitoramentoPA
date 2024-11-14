@@ -1,0 +1,29 @@
+RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark em 8.20.pje.2
+13/11/2024 00:36:34: Acessou https://pje2g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Eu151929 0.0d57mthteaw "ANA LUIZA BARRETO VERAS:05291758430"
+13/11/2024 00:36:38: Logou https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:36:38: Perfil advogado e usuário ANA LUIZA BARRETO VERAS
+OAB = RN19356 ; URL = https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.2 ; usuarioId = RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark ; Cookies (
+Name = JSESSIONID ; Value = sqVR6uQNZFm51StDbI7oHDhrAv-XJ279YrmhN-CR.pje2g-90-g7gtj ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTc3OTYsImlhdCI6MTczMTQ2ODk5NywiYXV0aF90aW1lIjoxNzMxNDY4OTk2LCJqdGkiOiI3OTI5ZjE4YS0xNGNkLTQwZmItODU0YS1mODgyYThlNWQ4ODciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTJnIiwic3ViIjoiMjNmZjVlMjgtNGMwMS00YThhLTlkMmEtNWVmYWEzZDFiMTBhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0yZyIsInNlc3Npb25fc3RhdGUiOiIxNzJhNDNiMy0xNmJkLTQyZDYtYTliMC1mZTA1MWI2NDVjZjgiLCJhdF9oYXNoIjoiRDhEOUhYdGNBeXFMaktzSlk2aEYwdyIsImFjciI6IjEiLCJzaWQiOiIxNzJhNDNiMy0xNmJkLTQyZDYtYTliMC1mZTA1MWI2NDVjZjgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFOQSBMVUlaQSBCQVJSRVRPIFZFUkFTIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDUyOTE3NTg0MzAiLCJnaXZlbl9uYW1lIjoiQU5BIExVSVpBIEJBUlJFVE8gVkVSQVMiLCJlbWFpbCI6ImFuYWx1aXphdmVyYXNAaWNsb3VkLmNvbSJ9.olxX4JrQHL-GnfEGGa6MasoA2s_RSDPKRLCrl9B8CCAAgXBqBtRI7voTp-jEcMBHHe0aX_QNjJiZziYGnoIJuRPKaICChLXW75DdSbXoVIMvFjAF55nXKJy0QFxN_y87hkPw_aK0nJq-N3f2K70gMKlUwGpJj_vSTN4FYss9bR51-wyNvTSYl61QhaV4cdAZj6_XzGK6nfhSDsWok3adk61LilLN_ev08lWZ_8XfdoBp7vg5_p48mFGWyAGdePHSqH0f62F9btBkTJPXVVxsWOWewFzmc6wobE7vIdDStsAjnnXh0gG6kQA3BeC1MKczx8yY4Rl7DrELUEjcj_ClbA ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-2G-StickySessionRule ; Value = "pje2g-90-g7gtj:pje-tjrn-2g" ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = b30c92cc751d4d4579cc771efb8e46a3 ; Domain = pje2g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /
+)
+13/11/2024 00:36:38: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:36:40: Total: 4
+13/11/2024 00:36:40: Total: 4
+13/11/2024 00:36:40: advogado 0807532-23.2024.8.20.0000 >> Processo já foi verificado recentemente
+13/11/2024 00:36:40: advogado 0800634-72.2019.8.20.5107 >> Processo já foi verificado recentemente
+13/11/2024 00:36:40: advogado 0800645-04.2019.8.20.5107 >> Processo já foi verificado recentemente
+13/11/2024 00:36:40: advogado 0802213-11.2023.8.20.0000 >> Processo já foi verificado recentemente
+13/11/2024 00:36:41: Total: 5
+13/11/2024 00:36:41: Total: 5
+13/11/2024 00:36:41: advogado 0809996-48.2021.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 00:36:41: advogado 0800637-27.2019.8.20.5107 >> Processo já foi verificado recentemente
+13/11/2024 00:36:41: advogado 0813014-43.2022.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 00:36:41: advogado 0800633-87.2019.8.20.5107 >> Processo já foi verificado recentemente
+13/11/2024 00:36:41: advogado 0822326-48.2019.8.20.5004 >> Processo já foi verificado recentemente
+13/11/2024 00:36:41: Entrou na aba acervo do perfil e mapeou 9 processos e teve erro em 0 processos
+13/11/2024 00:36:41: Rodou

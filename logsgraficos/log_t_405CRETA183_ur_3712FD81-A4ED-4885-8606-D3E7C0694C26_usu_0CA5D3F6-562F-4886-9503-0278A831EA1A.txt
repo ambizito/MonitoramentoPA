@@ -1,0 +1,4 @@
+RN5785@meirozegrilo@3712FD81-A4ED-4885-8606-D3E7C0694C26@jobs em 4.05.CRETA.1.83
+13/11/2024 19:42:17: Acessou https://creta.jfpe.jus.br/cretape/login.wsp
+13/11/2024 19:43:10: Erro no acesso: Senha invalida
+html: salvo no mongo.

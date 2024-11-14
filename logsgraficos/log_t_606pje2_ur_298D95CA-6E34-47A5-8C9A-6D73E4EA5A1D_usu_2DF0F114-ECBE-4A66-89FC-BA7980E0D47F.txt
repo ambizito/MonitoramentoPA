@@ -1,0 +1,8 @@
+05146428409@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 6.06.pje.2
+12/11/2024 21:24:11: Acessou https://pje.tre-ce.jus.br/pje/login.seam
+12/11/2024 21:24:13: Erro no acesso: Desconhecido
+html: salvo no mongo.
+05146428409@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 6.06.pje.2
+12/11/2024 21:25:14: Acessou https://pje.tre-ce.jus.br/pje/login.seam
+12/11/2024 21:25:16: Erro no acesso: Desconhecido
+html: salvo no mongo.

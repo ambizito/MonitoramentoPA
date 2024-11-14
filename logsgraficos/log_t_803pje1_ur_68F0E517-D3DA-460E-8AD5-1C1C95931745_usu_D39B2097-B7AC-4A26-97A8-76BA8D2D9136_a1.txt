@@ -1,0 +1,13 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 8.03.pje.1
+12/11/2024 22:06:22: Acessou https://pje.tjap.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 0.m2uv2ofklym "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 22:06:25: Logou https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 22:06:25: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.03.pje.1 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = dxP7-YLqkb7VTvmUc41cf7Sc7AMxvU8bea2gw69g.prd-1g-5f4d9c4447-q7z7k ; Domain = pje.tjap.jus.br ; Path = /1g
+Name = INGRESSCOOKIE ; Value = b0ea086f6b9d2b6a ; Domain = pje.tjap.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjap.jus.br ; Path = /
+)
+12/11/2024 22:06:26: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:06:28: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:06:28: Rodou

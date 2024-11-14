@@ -1,0 +1,18 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 5.03.pje.1
+13/11/2024 14:32:51: Acessou https://pje.trt3.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 GngzHMPjPYumDo6EnELebLK2V3ls3bVm "GERSON SANTINI:01529424160"
+13/11/2024 14:33:13: Logou https://pje.trt3.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 14:33:19: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.trt3.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.03.pje.1 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = ad0af6d684e36084~nkFTV1hJCGOi55xZlFePpb2q ; Domain = pje.trt3.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt3.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 6305fb2b-732b-4478-b4dc-4a6f4ab69a52 ; Domain = pje.trt3.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt3.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlNGU0ODJmNi1iYmExLTRjZDQtYWUzOC0xZWJmNjYzNWIxNWYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTE5MjAxLCJzdWIiOiI0MzUwNjBiYy00OGJkLTRlMmYtOWZkZi03YjRjNTBkYmJiM2UucGplIiwiZXhwIjoxNzMxNTIyODAxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjIzODgwODcsImxvZ2luIjoiMDE1Mjk0MjQxNjAiLCJub21lIjoiR0VSU09OIFNBTlRJTkkiLCJwZXJmaWwiOjI3Mjg5NywicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoyMDcyMzUsImRlc2NyaWNhbyI6IkdFUlNPTiBTQU5USU5JICgwMTUuMjk0LjI0MS02MCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiQ0VSVElGSUNBRE8iLCJvcmlnZW0iOiJUUlQzIiwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt3.jus.br ; Path = /
+Name = access_token_footer ; Value = 1MHm0-Tet_-1AjfFvNWXw0mY1KWmRdGcEw0qGHQ6k5Q ; Domain = pje.trt3.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI0Y2M2YjVmMC1hYzYxLTQwZGUtYWQ1MC00YjQ5YmE1NDZmY2UiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTE5MjAxLCJzdWIiOiI0MzUwNjBiYy00OGJkLTRlMmYtOWZkZi03YjRjNTBkYmJiM2UucGplIiwiZXhwIjoxNzMxNTYyNDAxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwMTUyOTQyNDE2MCIsInBlcmZpbCI6MjcyODk3LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDMifQ.h0YKIYk_9oq5ZnthoCj6axDAZAg_CzQi-HdGhD7w9AI ; Domain = pje.trt3.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 9DB1BBC25719B78050F41C75F42199F23DB3D468E7A93832DA5269342DD2EFE7F941B25667A2AD6E9802F302651580A9E7C6 ; Domain = pje.trt3.jus.br ; Path = /
+)
+13/11/2024 14:34:53: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 14:38:39: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 14:38:39: Rodou

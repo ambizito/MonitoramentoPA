@@ -1,0 +1,18 @@
+RN14724@fffpadvogados@BACAA728-3AD2-4984-B742-97B51B96C342@gates em 8.06.pje.2
+12/11/2024 23:33:14: Acessou https://pje.tjce.jus.br/pje2grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Socram1988 0.ybklxgmey6c "MARCOS VINICIUS DE FREITAS VERAS:07793221427"
+12/11/2024 23:33:17: Logou https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam
+12/11/2024 23:33:17: Perfil advogado e usuário MARCOS VINICIUS DE FREITAS VERAS
+OAB = RN14724 ; URL = https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id1 ; tribunal = 8.06.pje.2 ; usuarioId = RN14724@fffpadvogados@BACAA728-3AD2-4984-B742-97B51B96C342@gates ; Cookies (
+Name = JSESSIONID ; Value = 5FbTf_TDiKNqkLlE6bCSdxt8nN5HJuRnfN4HO2jp.tjpjp39 ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTM5OTYsImlhdCI6MTczMTQ2NTE5NywiYXV0aF90aW1lIjoxNzMxNDY1MTk2LCJqdGkiOiI4ZDUxYTkzYi1mZjgwLTRmNDctOGQzNi0wMWRjMDdjN2QzNmEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTJnIiwic3ViIjoiZGY0YmUwYjYtMjk0YS00NWUxLWIyOTEtNWJlNGU0NTA2ZTcyIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0yZyIsInNlc3Npb25fc3RhdGUiOiJhNzAzNjYzMC0yZDk1LTRjZGEtOWYzMS0xNmRhOTAwNGIzYmEiLCJhdF9oYXNoIjoiazQ2cFR6X2tGZW8wd0ZWaXVDUm9PUSIsImFjciI6IjEiLCJzaWQiOiJhNzAzNjYzMC0yZDk1LTRjZGEtOWYzMS0xNmRhOTAwNGIzYmEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BUkNPUyBWSU5JQ0lVUyBERSBGUkVJVEFTIFZFUkFTIiwianRyIjoiODA2IiwiSlRSIjoiODA2IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDc3OTMyMjE0MjciLCJnaXZlbl9uYW1lIjoiTUFSQ09TIFZJTklDSVVTIERFIEZSRUlUQVMgVkVSQVMiLCJlbWFpbCI6Im1hcmNvcy5hZHYuZnJlaXRhc0BnbWFpbC5jb20ifQ.OSV-AsC2YVe3LndSUhTmgYxI9KNZz6dbMHr-qid5pkchZ9cEM8EFT7PGJLRvSv2dHkVEHLXKoGN1c4bYxjyvSCfwvY8XMmvs4Fp1VALFeRgrtr5TPKXgyvYyRFQ7nH0xIKpuqzA-eEDDxPcLMYb9qgvgOXfF-r6Xanyz9xInHBFi8TWaad5yGsl488Q8Tgzb8478x0sKQhIT0wqO-HDqagtt-g7erZQ41lnJlbtFxH6lIMT5p-ZJnhQSkag37rzguNsytGulX75OF717I4GsxkxWatFgtYM4nCP28d95rEuQc5Kl_u4MC8tsZ8_xWOsMEgUMjUwlpXAX_g03uihYVQ ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = PJE-TJCE-2G-StickySessionRule ; Value = "tjpjp39:pje-tjce-2g" ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 23:33:17: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:33:21: Total: 1
+12/11/2024 23:33:21: Total: 1
+12/11/2024 23:33:21: advogado 3001655-27.2023.8.06.0221 >> Processo já foi verificado recentemente
+12/11/2024 23:33:27: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 23:33:27: Rodou

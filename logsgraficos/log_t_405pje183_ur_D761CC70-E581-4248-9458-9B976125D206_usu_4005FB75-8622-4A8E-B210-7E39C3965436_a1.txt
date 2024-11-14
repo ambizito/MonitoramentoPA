@@ -1,0 +1,27 @@
+RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos em 4.05.pje.1.83
+12/11/2024 19:13:42: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Rodrigo@053 8rqU2jpA4nrNa85pteygbI5vTBPD1ABz "RODRIGO ALVES DA SILVA RODRIGUES GENTIL:05370712450"
+12/11/2024 19:13:45: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:13:45: Perfil advogado e usuário RODRIGO ALVES DA SILVA RODRIGUES
+OAB = RN9792 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos ; Cookies (
+Name = JSESSIONID ; Value = zXNCl8UpRWZmFPWcCTrf2kGX.node01 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c8ecebb837c50d20c7af6ee68f80b424cc9b6566617a3c69de40738db0b8082a232e3b85499efd3f20ecd3253e2323c3b3339133f8bbd16395329bd5e93532001 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000f7ae59851a5b16d4c598fb670b819941258f53d40e79fd5ed4ee8b85dc978cab086d1e46a8113000f9ef5437bd9db6a2adedb7fc7b6eb4409371eeb923430414d850e0b9805d1b18232dbc8153534bae52d1434d2ceb29a1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c29c7acdb4bb905662f1b9b545fb7e87ec9b6566617a3c69de40738db0b8082a224278206849b05ebfb8ead359a8d622960adca5ba7da5adc69f8d3f42018d4dc ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_D4C3FD77DD074AD488B9DBE3867A8D6A_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c29c7acdb4bb905662f1b9b545fb7e87ec9b6566617a3c69de40738db0b8082a224278206849b05ebfb8ead359a8d622960adca5ba7da5adc69f8d3f42018d4dc ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_D4C3FD77DD074AD488B9DBE3867A8D6A_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 19:13:53: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 19:14:13: Total: 0
+12/11/2024 19:14:13: Total: 0
+12/11/2024 19:14:35: Total: 3
+12/11/2024 19:14:35: Total: 3
+12/11/2024 19:14:35:  0817657-03.2022.4.05.8300 >> Processo já foi verificado recentemente
+12/11/2024 19:14:35:  0804209-26.2023.4.05.8300 >> Processo já foi verificado recentemente
+12/11/2024 19:14:35:  0812258-56.2023.4.05.8300 >> Processo já foi verificado recentemente
+12/11/2024 19:14:51: Total: 0
+12/11/2024 19:14:51: Total: 0
+12/11/2024 19:14:52: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 19:14:52: Rodou

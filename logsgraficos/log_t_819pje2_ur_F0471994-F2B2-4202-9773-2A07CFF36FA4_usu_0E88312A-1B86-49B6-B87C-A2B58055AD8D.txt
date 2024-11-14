@@ -1,0 +1,8 @@
+13516841249@tmassis@F0471994-F2B2-4202-9773-2A07CFF36FA4@bezos em 8.19.pje.2
+12/11/2024 17:27:53: Acessou https://tjrj.pje.jus.br/2g/login.seam
+12/11/2024 17:27:54: Erro no acesso: Desconhecido
+html: salvo no mongo.
+13516841249@tmassis@F0471994-F2B2-4202-9773-2A07CFF36FA4@bezos em 8.19.pje.2
+12/11/2024 17:28:54: Acessou https://tjrj.pje.jus.br/2g/login.seam
+12/11/2024 17:28:54: Erro no acesso: Desconhecido
+html: salvo no mongo.

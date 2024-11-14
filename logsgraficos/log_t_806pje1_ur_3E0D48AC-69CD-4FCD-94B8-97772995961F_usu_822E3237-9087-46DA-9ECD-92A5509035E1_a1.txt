@@ -1,0 +1,74 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 8.06.pje.1
+13/11/2024 00:34:02: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 0.ukxtwskfpho "HEITOR FERNANDES MOREIRA04532923484"
+13/11/2024 00:34:05: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+13/11/2024 00:34:05: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = U8KScqNunE1LFTjw4LkHNCIp6lulJaedgfzhfYZf.tjpjp28 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTc2NDQsImlhdCI6MTczMTQ2ODg0NSwiYXV0aF90aW1lIjoxNzMxNDY4ODQ0LCJqdGkiOiJmMTYyODA5ZC1mNTc3LTQ1N2ItOWU3NS03MDE5ZjQwNjZkOTAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiMDg3ZmI1NTAtODk0MC00NjlhLTg2NWEtOGJlODQzMjY0ZjY5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiJjZDUwNDY2ZS0zMThkLTQxYTUtODE2Ny0wNWE1YWQ3ODI3OTQiLCJhdF9oYXNoIjoiVWhtdjhVcUVldFc4YUFheHFjYXpzUSIsImFjciI6IjEiLCJzaWQiOiJjZDUwNDY2ZS0zMThkLTQxYTUtODE2Ny0wNWE1YWQ3ODI3OTQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsImp0ciI6IjgwNiIsIkpUUiI6IjgwNiIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0NTMyOTIzNDg0IiwiZ2l2ZW5fbmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsImVtYWlsIjoiaGVpdG9yZmVybmFuZGVzYWR2b2NhY2lhQGdtYWlsLmNvbSJ9.FJJTe6DRwCGsoVVBHjxOWrLDEFSjNIO5hrk7NSPeAiGvAEQ5c4Qp8hdZq8v9bo8XVAlUykEHQWI3mxMn025Pk93bLy3hI94Ldk0nTX3cIg2sUP0azimytmu5CzLkIooZdj9C7sEy-eP8PxviobJR_nkSA0Js4NTMDSrGuyZ6wQjxNUDOOYyupPoN6bovlVU7rnCjG8vao3WuFYKDJGVeGPAp9CrxxFRjQ_zor4qyY2UaIcGqdw-AqZOm0QcRX1iH3y_ZhpTrjtNJIx-pHuam323XSNUl7u9gszVvuHDhx_I9CRO6ly_qdOpGUfnYXJGLzFFYBMMQcha3sEL80awhdg ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp28:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+13/11/2024 00:34:05: Total: 1
+13/11/2024 00:34:08: advogado 0200724-11.2024.8.06.0107 >> Processo com 2 parte(s), 36 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:34:08: Entrou na aba expediente do perfil para as categorias Respondidos nos últimos 10 dias e detectou 1 e leu 1
+13/11/2024 00:34:10: Total: 15
+13/11/2024 00:34:10: Total: 15
+13/11/2024 00:34:10: advogado 0200313-19.2024.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 3002121-89.2024.8.06.0090 >> Processo com 2 parte(s), 10 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 00:34:11: advogado 3000219-04.2024.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 0200743-68.2024.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 3000429-26.2022.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 3000453-54.2022.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 3000693-77.2021.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 3002320-48.2023.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:11: advogado 3001445-78.2023.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:12: advogado 3000455-24.2022.8.06.0090 >> Processo com 3 parte(s), 57 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 00:34:12: advogado 3000590-02.2023.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:12: advogado 3000454-39.2022.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:12: advogado 3000694-62.2021.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:14: advogado 3000087-49.2021.8.06.0090 >> Processo com 3 parte(s), 62 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 00:34:14: advogado 3001444-98.2020.8.06.0090 >> Processo já foi verificado recentemente
+13/11/2024 00:34:15: Total: 9
+13/11/2024 00:34:15: Total: 9
+13/11/2024 00:34:15: advogado 0006157-83.2019.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:15: advogado 0050129-69.2020.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:15: advogado 0200727-93.2024.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:15: advogado 0006220-11.2019.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:17: advogado 0003043-39.2019.8.06.0097 >> Processo com 2 parte(s), 63 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 00:34:17: advogado 0003044-24.2019.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:18: advogado 0050121-58.2021.8.06.0097 >> Processo com 3 parte(s), 66 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:34:18: advogado 0050126-17.2020.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:18: advogado 0050372-13.2020.8.06.0097 >> Processo já foi verificado recentemente
+13/11/2024 00:34:19: Total: 3
+13/11/2024 00:34:19: Total: 3
+13/11/2024 00:34:19: advogado 0200724-11.2024.8.06.0107 >> Processo já foi verificado recentemente
+13/11/2024 00:34:19: advogado 0200791-73.2024.8.06.0107 >> Processo já foi verificado recentemente
+13/11/2024 00:34:19: advogado 0200792-58.2024.8.06.0107 >> Processo já foi verificado recentemente
+13/11/2024 00:34:20: Total: 22
+13/11/2024 00:34:20: Total: 22
+13/11/2024 00:34:20: advogado 0200142-91.2024.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:20: advogado 0200235-54.2024.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:20: advogado 0050573-21.2021.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:20: advogado 0200041-25.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:20: advogado 0200236-39.2024.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:20: advogado 0200021-34.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 0200187-95.2024.8.06.0145 >> Processo com 4 parte(s), 35 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 00:34:22: advogado 0200143-76.2024.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 0005655-97.2019.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 0050150-61.2021.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 0200141-09.2024.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 0200328-85.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 3000067-53.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:22: advogado 0050240-06.2020.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 0050561-07.2021.8.06.0145 >> Processo com 3 parte(s), 61 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 00:34:23: advogado 3000050-17.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 0050560-22.2021.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 0050562-89.2021.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 0050563-74.2021.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 0050153-16.2021.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 3000019-94.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:23: advogado 0200011-87.2022.8.06.0145 >> Processo já foi verificado recentemente
+13/11/2024 00:34:24: Entrou na aba acervo do perfil e mapeou 49 processos e teve erro em 0 processos
+13/11/2024 00:34:24: Rodou

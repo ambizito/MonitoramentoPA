@@ -1,0 +1,12 @@
+94463654300@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos em 8.10.Projudi.1
+12/11/2024 17:33:40: Acessou https://projudi.tjma.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 17:33:41: Logou https://projudi.tjma.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 17:33:41: Não capturou o total de processos para o OAB 94463654300
+html: salvo no mongo.
+12/11/2024 17:33:41: Rodou com falha
+94463654300@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos em 8.10.Projudi.1
+12/11/2024 17:34:41: Acessou https://projudi.tjma.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 17:34:41: Logou https://projudi.tjma.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 17:34:41: Não capturou o total de processos para o OAB 94463654300
+html: salvo no mongo.
+12/11/2024 17:34:41: Rodou com falha

@@ -1,0 +1,17 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.11.pje.1
+12/11/2024 18:24:40: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0.vufvhuryfdw "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+12/11/2024 18:24:43: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:24:43: Perfil advogado e usuário 
+OAB = RN18719 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = T-tso8rYuU5oc6Ccx6lQNWr0rCw7fHvpe0JgUS5m.pjev2-vra-0027 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_5_sn_F54F20FD5F93AED7A9D57DC37D9E3FCD_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_5_sn_F54F20FD5F93AED7A9D57DC37D9E3FCD_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+12/11/2024 18:24:44: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:24:47: Total: 1
+12/11/2024 18:24:47: Total: 1
+12/11/2024 18:24:53: advogado 1005908-92.2024.8.11.0003 >> Processo com 2 parte(s), 63 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 18:24:54: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 18:24:54: Rodou

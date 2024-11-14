@@ -1,0 +1,18 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 5.03.pje.1
+12/11/2024 22:27:26: Acessou https://pje.trt3.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 5VwmoegubLY0f6BsJlC4wrVm5HtpvbS5 "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 22:27:32: Logou https://pje.trt3.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 22:27:36: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.trt3.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.03.pje.1 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = c9d53e8bd26deaea~oAJNYsE-oI23aNZQbSAKPQpi ; Domain = pje.trt3.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt3.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 820f5c2c-2df5-46ca-afe5-1b272e8d05de ; Domain = pje.trt3.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt3.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkZTM3MGZiZS0yZWQyLTQ5NGItODZjNi1kNDRkMzg3YzFhNGMiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYxMjY3LCJzdWIiOiI0MzUwNjBiYy00OGJkLTRlMmYtOWZkZi03YjRjNTBkYmJiM2UucGplIiwiZXhwIjoxNzMxNDY0ODY3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjMwNjgxNTIsImxvZ2luIjoiMDU1Nzc5ODg0MTEiLCJub21lIjoiUFJJU0NJTExBIExJQ0lBIEZFSVRPU0EgREUgQVJBVUpPIENBQlJBTCIsInBlcmZpbCI6MzY4MzQyLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjI4MjI2OCwiZGVzY3JpY2FvIjoiUFJJU0NJTExBIExJQ0lBIEZFSVRPU0EgREUgQVJBVUpPIENBQlJBTCAoMDU1Ljc3OS44ODQtMTEpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwib3JpZ2VtIjoiVFJUMyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt3.jus.br ; Path = /
+Name = access_token_footer ; Value = 4WeYbAbs3-oCeBySPQo6Ozb7jyWC1GkbStmBHee-0Hw ; Domain = pje.trt3.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2NzU1YTY0Mi1mYjUwLTRlMGYtOTRiMy0yOGI2OGEzNGE2ZjQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYxMjY3LCJzdWIiOiI0MzUwNjBiYy00OGJkLTRlMmYtOWZkZi03YjRjNTBkYmJiM2UucGplIiwiZXhwIjoxNzMxNTA0NDY3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTU3Nzk4ODQxMSIsInBlcmZpbCI6MzY4MzQyLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDMifQ.Vy2DObhrYEgGqTszaQFlkrY0cUzD8Il7QTt4OzHliIw ; Domain = pje.trt3.jus.br ; Path = /
+Name = Xsrf-Token ; Value = F7A9F96D6945A093D369764E54CBD195CE31D70FB8ED1E43E212FE3F8521E5C60C1317BD564947ABF8C7C1768C62379698E3 ; Domain = pje.trt3.jus.br ; Path = /
+)
+12/11/2024 22:27:41: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 22:27:42: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:27:42: Rodou

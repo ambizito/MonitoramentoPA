@@ -1,0 +1,22 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.03.pje.1
+13/11/2024 01:19:29: Acessou https://pje.trt3.jus.br/primeirograu/login.seam
+13/11/2024 01:19:34: Logou https://pje.trt3.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 01:19:38: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+13/11/2024 01:19:42: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 01:19:45: Total: 1
+13/11/2024 01:19:45: Total: 1
+13/11/2024 01:19:45: advogado 0011910-29.2016.5.03.0107 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: Total: 10
+13/11/2024 01:19:45: Total: 10
+13/11/2024 01:19:45: advogado 0010078-90.2019.5.03.0030 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0010252-02.2019.5.03.0030 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0010292-81.2019.5.03.0030 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0010394-21.2021.5.03.0164 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0010554-29.2022.5.03.0029 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0010912-30.2018.5.03.0030 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0011204-70.2022.5.03.0031 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0011258-10.2020.5.03.0030 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0011355-75.2018.5.03.0031 >> Processo já foi verificado recentemente
+13/11/2024 01:19:45: advogado 0011433-82.2023.5.03.0164 >> Processo já foi verificado recentemente
+13/11/2024 01:19:47: Entrou na aba acervo do perfil e mapeou 11 processos e teve erro em 0 processos
+13/11/2024 01:19:47: Rodou

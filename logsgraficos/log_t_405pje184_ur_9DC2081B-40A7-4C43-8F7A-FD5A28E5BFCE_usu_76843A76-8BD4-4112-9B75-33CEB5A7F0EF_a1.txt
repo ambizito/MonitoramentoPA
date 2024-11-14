@@ -1,0 +1,18 @@
+PB26120@adelisnildarocha@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark em 4.05.pje.1.84
+12/11/2024 18:29:08: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 190621 nu37FVTpoH2LsOZxEXpmuVTH4xYQxK8U "ADELISNILDA DE SOUSA ROCHA FORMIGA:03774404429"
+12/11/2024 18:29:10: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:29:10: Perfil advogado e usuário ADELISNILDA DE SOUSA ROCHA FORMIGA
+OAB = PB26120 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = PB26120@adelisnildarocha@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark ; Cookies (
+Name = JSESSIONID ; Value = J2Yrq9neqNuA5wmWuAwPw-t1.node03 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 18:29:12: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:29:18: Total: 0
+12/11/2024 18:29:18: Total: 0
+12/11/2024 18:29:25: Total: 0
+12/11/2024 18:29:25: Total: 0
+12/11/2024 18:29:30: Total: 0
+12/11/2024 18:29:30: Total: 0
+12/11/2024 18:29:31: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:29:31: Rodou

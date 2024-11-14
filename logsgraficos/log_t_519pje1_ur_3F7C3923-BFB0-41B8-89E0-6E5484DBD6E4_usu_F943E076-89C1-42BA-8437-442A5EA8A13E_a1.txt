@@ -1,0 +1,6 @@
+PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 5.19.pje.1
+12/11/2024 18:26:46: Acessou https://pje.trt19.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 2314lando SHgvLpt8CbgYepq0M7H0fYX06IymUIB7 "landoaldo falcao de sousa neto:05505553400 2024-09-02 12:06:18"
+12/11/2024 18:26:49: Logou https://pje.trt19.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 18:26:49: Procuracao: Perfil jus postulandi e usuário JusPostulandi - LANDOALDO FALCAO DE SOUSA NETO filtrado, não roda.
+12/11/2024 18:26:49: Rodou

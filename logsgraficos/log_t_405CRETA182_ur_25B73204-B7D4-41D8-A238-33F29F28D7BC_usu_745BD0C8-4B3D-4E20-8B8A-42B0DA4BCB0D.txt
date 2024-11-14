@@ -1,0 +1,6 @@
+Pe36084@laurindoneto@25B73204-B7D4-41D8-A238-33F29F28D7BC@bezos em 4.05.CRETA.1.82
+13/11/2024 00:54:17: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+13/11/2024 00:54:38: Logou https://jefvirtual.jfpb.jus.br/cretapb/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+13/11/2024 00:54:58: Não capturou o total de processos para o OAB 
+html: salvo no mongo.
+13/11/2024 00:54:58: Rodou

@@ -1,0 +1,20 @@
+RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark em 4.05.pje.2.00
+13/11/2024 00:47:14: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm g4l2S941jdfW3nC2eeW5zfWAUUhXT0f1 "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+13/11/2024 00:47:18: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:47:18: Perfil advogado e usuário GERSON BRENDO MESQUITA FERREIRA
+OAB = RN24861 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark ; Cookies (
+Name = JSESSIONID ; Value = DSJycegHSLSfxPj+3iz1duzP.node07 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab200026514e1324870819b25d4f5ed67c3d4cf9b8819e1ddd904e08f696a5cb54148208ac39c891113000933f81c62ff8a1810cc098796cb27469f292287f4ebd0464e26f93a81f187243c616196373fe0d3cd177d8fe29a07c8c ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+13/11/2024 00:48:50: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 00:49:02: Total: 0
+13/11/2024 00:49:02: Total: 0
+13/11/2024 00:49:18: Total: 1
+13/11/2024 00:49:18: Total: 1
+13/11/2024 00:49:18:  0800190-11.2024.4.05.0000 >> Processo já foi verificado recentemente
+13/11/2024 00:49:31: Total: 0
+13/11/2024 00:49:31: Total: 0
+13/11/2024 00:49:32: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:49:32: Rodou

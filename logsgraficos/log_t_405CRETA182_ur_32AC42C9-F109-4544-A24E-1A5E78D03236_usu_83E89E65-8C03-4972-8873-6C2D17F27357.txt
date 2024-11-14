@@ -1,0 +1,6 @@
+RN11915@mgmadvocacia@32AC42C9-F109-4544-A24E-1A5E78D03236@linus em 4.05.CRETA.1.82
+12/11/2024 20:57:53: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+12/11/2024 20:58:14: Logou https://jefvirtual.jfpb.jus.br/cretapb/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 20:58:35: Não capturou o total de processos para o OAB RN11915
+html: salvo no mongo.
+12/11/2024 20:58:35: Rodou

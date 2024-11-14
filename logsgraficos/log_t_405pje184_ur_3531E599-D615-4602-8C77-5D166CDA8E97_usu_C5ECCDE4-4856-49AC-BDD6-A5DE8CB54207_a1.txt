@@ -1,0 +1,18 @@
+PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark em 4.05.pje.1.84
+12/11/2024 17:18:32: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 776933 mj7oflqzGNCVRh7F4OO6451ATanc2jUT "ENIO SILVA NASCIMENTO77693329587"
+12/11/2024 17:18:34: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 17:18:34: Perfil advogado e usuário ENIO SILVA NASCIMENTO
+OAB = PB11946 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark ; Cookies (
+Name = JSESSIONID ; Value = Q16yrv8XDuqOR6ReWiyWetZI.node03 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 17:18:36: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 17:18:43: Total: 0
+12/11/2024 17:18:43: Total: 0
+12/11/2024 17:18:50: Total: 0
+12/11/2024 17:18:50: Total: 0
+12/11/2024 17:18:56: Total: 0
+12/11/2024 17:18:56: Total: 0
+12/11/2024 17:18:57: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 17:18:57: Rodou

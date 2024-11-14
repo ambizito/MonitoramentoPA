@@ -1,0 +1,15 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.13.pje.2
+12/11/2024 19:29:41: Acessou https://pjerecursal.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 0.aou7j79xcdh "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 19:29:43: Logou https://pjerecursal.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:29:43: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pjerecursal.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.2 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = J8ncaB4EK1YEyfJ-F6ALjSaOGIa80ZiwSlXWvYNk.pjerecursal-poapp01.intra.tjmg.gov.br ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NzkzODMsImlhdCI6MTczMTQ1MDU4MywiYXV0aF90aW1lIjoxNzMxNDUwNTgzLCJqdGkiOiIyY2FjYTJmOC1iY2VkLTRlNTAtYjJlNi0xMTA2OTIzNGJlMTkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTJnIiwic3ViIjoiMTk5MmQwMDQtZGNkMi00ZjEzLTg4OGItYjhmOTY3MzFjMGYwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0yZyIsInNlc3Npb25fc3RhdGUiOiI2ZTc3ZWRjNi1kMzA1LTQwNTYtYTRmOC1hYjBiNmE2ZTlhYjAiLCJhdF9oYXNoIjoiU1RESHgxVF9nMWJkUnZqVEhpTm5DQSIsImFjciI6IjEiLCJzaWQiOiI2ZTc3ZWRjNi1kMzA1LTQwNTYtYTRmOC1hYjBiNmE2ZTlhYjAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkJSRU5EQSBKT1JEQU5BIExPQkFUTyBBUkFVSk8gVEVJWEVJUkEiLCJKVFIiOiI4MTMiLCJqdHIiOiI4MTMiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIxMDM0MDUwNjQ4MiIsImdpdmVuX25hbWUiOiJCUkVOREEgSk9SREFOQSBMT0JBVE8gQVJBVUpPIFRFSVhFSVJBIiwiZW1haWwiOiJicmVuZGFAdGF2YXJlc3F1ZWlyb3ouY29tLmJyIn0.krjYVBONwcptH54DGa8P2--KSn2jLiNxFpBM0dwTYHocY1pp3mfQaizpXSKxCJhX_EquhInKomcV45iV_zoe1jFIR7U7I4x9Fb1eQe9aYf_VNIP8EDf9vf3zVcHOMlAAJ_SM9tQAM4Ud_Yiy3yxtu2yno-WNyXzd06oPDAqNoeBbPgDZi8tsPDVcbhKjg7pE2bQVST1YbnP8fbCQHQzV1omx3nYiN6apX0x4RrRlOb0VJQuvFi7O7KmWJZDTMi03984AlXXvSI7ql7gInOezGBt7w4bFM822rN_uXLAQuWTNmAq37Fza3IqNp-aGGXeuMai7j6eEGSPRJEei76Gz3w ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-2G-StickySessionRule ; Value = pjerecursal-poapp01:pje-tjmg-2g ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pjerecursal.tjmg.jus.br ; Path = /
+)
+12/11/2024 19:29:44: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:29:45: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 19:29:45: Rodou

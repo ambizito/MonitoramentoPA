@@ -1,0 +1,11 @@
+31210BA@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 8.05.Projudi.1
+12/11/2024 22:42:52: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 22:42:52: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 22:42:53: Total: 56
+12/11/2024 22:43:37: Entrou na aba acervo e mapeou 56 processos
+12/11/2024 22:43:38: Total: 534
+12/11/2024 22:49:43: Entrou na aba acervo e mapeou 534 processos
+12/11/2024 22:49:43: Total: 3
+12/11/2024 22:49:45: Entrou na aba acervo e mapeou 3 processos
+12/11/2024 22:49:45: Rodou
+12/11/2024 22:49:45: Rodou

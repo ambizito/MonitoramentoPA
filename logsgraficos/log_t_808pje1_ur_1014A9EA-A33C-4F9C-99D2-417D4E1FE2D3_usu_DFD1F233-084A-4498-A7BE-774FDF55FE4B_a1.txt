@@ -1,0 +1,18 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.08.pje.1
+12/11/2024 20:07:54: Acessou https://pje.tjes.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 0.v35nn18iefl "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 20:07:57: Logou https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:07:57: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.1 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = 3Uz4Ac_wrXGTH-DWG-wSeKuUULHpACD2mrW5cuN8.pje1g-8659f8cdd8-p4ckh ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE2NzYsImlhdCI6MTczMTQ1Mjg3NiwiYXV0aF90aW1lIjoxNzMxNDUyODc2LCJqdGkiOiI2MWY4M2M1Mi01OTY5LTRjYzUtODM1ZC0zNjk0ZDg4ZTA5NDUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTFnLWNsb3VkIiwic3ViIjoiMTk5MmQwMDQtZGNkMi00ZjEzLTg4OGItYjhmOTY3MzFjMGYwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiJiMDM0YjQxMi1iYmQzLTRmZWUtYmM1MC01NjdhMGYxNTI1ODAiLCJhdF9oYXNoIjoieVNUUUF1OWVwU2F0SW9WZ1AtQjllUSIsImFjciI6IjEiLCJzaWQiOiJiMDM0YjQxMi1iYmQzLTRmZWUtYmM1MC01NjdhMGYxNTI1ODAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkJSRU5EQSBKT1JEQU5BIExPQkFUTyBBUkFVSk8gVEVJWEVJUkEiLCJqdHIiOiI4MDgiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIxMDM0MDUwNjQ4MiIsImdpdmVuX25hbWUiOiJCUkVOREEgSk9SREFOQSBMT0JBVE8gQVJBVUpPIFRFSVhFSVJBIiwiZW1haWwiOiJicmVuZGFAdGF2YXJlc3F1ZWlyb3ouY29tLmJyIn0.ONvP_lliWqYR9h4ipZOw_Sa9_bAkSEBXTEC_6MFLDm-hk7K2cWRmEzp68kKKNMOSDPfBiGGpAZoXEpqj_7R76c1vaIZ-n1l7wO665q31mFs1rs4GJei__8ddmu2ws6P_pOq5B5MfXO-2-vucVS03lE3NI3Hy5fo4ZcCTdAOGREoRmLCECqU0V117p1ARdSVdi9S0RXdW3tQ2Qa5ujUg1YgghauFxI5kKqbzCT_EccNHa0zhP2ceKRKTrECoPq_TfP6g_oorboRpJvgbk0LXEQDgxyCD0yova_Vx8d2kK58OtF54oPjCHX_rGueTmPyu-yQSKUVJN1Ls1mg2xVX1xGg ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = PJE-TJES-1G-StickySessionRule ; Value = "pje1g-8659f8cdd8-p4ckh:pje-tjes-1g" ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = AWSALB ; Value = RFHZ7WJf06ZhGTeHkLhSCiq2/qSa1kcJLv6bhPFAjvMcNAgT91m6eKTIJN0UqrvEKE02xt+rkeDDZ4HfOVpSfkSGpm1oon6ydlALxSJXWTWfxRO7qxTzATjxL+0j ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = RFHZ7WJf06ZhGTeHkLhSCiq2/qSa1kcJLv6bhPFAjvMcNAgT91m6eKTIJN0UqrvEKE02xt+rkeDDZ4HfOVpSfkSGpm1oon6ydlALxSJXWTWfxRO7qxTzATjxL+0j ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 1f0faf83-e0a8-4c19-801c-15af02cb347e ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+12/11/2024 20:07:57: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:07:58: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:07:58: Rodou

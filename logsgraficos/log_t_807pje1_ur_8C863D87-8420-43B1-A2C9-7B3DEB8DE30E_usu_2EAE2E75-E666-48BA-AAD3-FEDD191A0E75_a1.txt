@@ -1,0 +1,26 @@
+BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 8.07.pje.1
+12/11/2024 22:49:14: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 0.qe6y4asf81q "DENIS SANTOS DA COSTA:96628898504"
+12/11/2024 22:49:16: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:49:16: Perfil advogado e usuário DENIS SANTOS DA COSTA
+OAB = BA31210 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners ; Cookies (
+Name = JSESSIONID ; Value = 8f1uJTxpzoGYho0xkkPd17yznvANwqZLFQQERYcI.hc-zdu120:pje-internet-zdu120 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 22:49:17: Total: 2
+12/11/2024 22:49:20: advogado 0724138-55.2023.8.07.0020 >> Processo com 4 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:49:20: advogado 0724138-55.2023.8.07.0020 >> Processo já foi verificado recentemente
+12/11/2024 22:49:20: Total: 2
+12/11/2024 22:49:22: advogado 0724138-55.2023.8.07.0020 >> Processo com 4 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:49:22: advogado 0724138-55.2023.8.07.0020 >> Processo já foi verificado recentemente
+12/11/2024 22:49:22: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Sem prazo e detectou 9 e leu 2
+12/11/2024 22:49:23: Total: 2
+12/11/2024 22:49:23: Total: 2
+12/11/2024 22:49:23: advogado 0723084-93.2023.8.07.0007 >> Processo já foi verificado recentemente
+12/11/2024 22:49:23: advogado 0709564-37.2021.8.07.0007 >> Processo já foi verificado recentemente
+12/11/2024 22:49:23: Total: 1
+12/11/2024 22:49:23: Total: 1
+12/11/2024 22:49:23: advogado 0724138-55.2023.8.07.0020 >> Processo já foi verificado recentemente
+12/11/2024 22:49:24: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 22:49:24: Rodou

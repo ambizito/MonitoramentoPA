@@ -1,0 +1,22 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 6.00.pje.3
+12/11/2024 19:23:11: Acessou https://pje.tse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 0.h9lyya8txp1 "GERSON SANTINI:01529424160"
+12/11/2024 19:23:13: Logou https://pje.tse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:23:13: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.tse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 6.00.pje.3 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = FzSFm_oQVGV9-zHNTu3DqR37hi86UBaz8ppDADDR.pje-tse-02 ; Domain = pje.tse.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tse.jus.br ; Path = /pje
+Name = TS01320bff ; Value = 0103a0ceae7492d205d84d5ad29a94ce8fdfa4d885f07988b4a17b9cb9488f3a9288782148ccc9c231f8f111c6f8c3ebfda8b7ff32f0cccc417a5eca4457ff9ed0795852002d5b0682fe9651cd493153ac238ea5d42fc4a5451170df7c1db7ceeb8be779d0392bbc29d4a2ae61a94b9f6cad091ad4 ; Domain = pje.tse.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Nzg5OTIsImlhdCI6MTczMTQ1MDE5MywiYXV0aF90aW1lIjoxNzMxNDUwMTkyLCJqdGkiOiI1Mjg5NDRmMS1kNTAzLTRiNGYtOTg3Zi02YjE0ZmFjMDlhZTkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10c2UtM2ciLCJzdWIiOiJmNzQ5ODllMy0zNmMyLTQ2MzQtYmFiYi01MTQ0ODExM2JkNDYiLCJ0eXAiOiJJRCIsImF6cCI6InBqZS10c2UtM2ciLCJzZXNzaW9uX3N0YXRlIjoiZjhkNzFhYjQtZDM0MC00NmZmLWE1ODEtZWE1YTRlNmMyMzU0IiwiYXRfaGFzaCI6IlpKTV9sVGthMV9SRlhiR202Q3Aya2ciLCJhY3IiOiIxIiwic2lkIjoiZjhkNzFhYjQtZDM0MC00NmZmLWE1ODEtZWE1YTRlNmMyMzU0IiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImxvZ2luQ29tQ2VydGlmaWNhZG8iOnRydWUsIm5hbWUiOiJHRVJTT04gU0FOVElOSSIsIkpUUiI6IjYwMCIsImp0ciI6IjYwMCIsInByZWZlcnJlZF91c2VybmFtZSI6IjAxNTI5NDI0MTYwIiwiZ2l2ZW5fbmFtZSI6IkdFUlNPTiBTQU5USU5JIiwiZW1haWwiOiJnZXJzb25zYW50aW5pQGhvdG1haWwuY29tIn0.dq-e3gtw4R7SDF1KouDzR1yfnjXF3aacC95x7k9Q-eThFlbmIW8t42lLFmKkZZr6Bu4iw5sGSymIquGU6CuQBENrKvt3qGelQwgeEa9BBcL93V5zclFD8rnDloI0ZjXebWuwn_lLmt0wvlvJ6Aj326mV-apDHr0fCAhVUEkjCnBq0AR1a4hrfwYzNR3POZBzAIwZsyptxwCA_6ilJhElcwDEC2CxdyOwQ-dTdYiRdXpKV3RqAj78TIdSKBVPR9M0HmDhh4xosWFQRn2VANujO6Mjbcm-cK5MJdHlBcVeckXOTDAB9M_G0eLyQWzzVEjXJGJ6NUfVNtl0Pw4r10K4Jw ; Domain = pje.tse.jus.br ; Path = /pje
+Name = PJE-TSE-3G-StickySessionRule ; Value = "pje-tse-02:pje-tse-3g" ; Domain = pje.tse.jus.br ; Path = /pje
+Name = _ed0c7 ; Value = f8a5e74908576472 ; Domain = pje.tse.jus.br ; Path = /
+Name = TS017c25e3 ; Value = 0103a0ceaed250a8be8c52dd0aa0c8ee77ae6756e9f07988b4a17b9cb9488f3a9288782148ede08821a439843f984bf341ae1a6f7ea8b44d36fa019715c855f9b90edf1db13b4f774dfc58aaec5cc1306817d9679ef1210aaba487a25137b6d8bf2cde7b9f9d625b278792e95c169b8bc978f779ae ; Domain = pje.tse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tse.jus.br ; Path = /
+)
+12/11/2024 19:23:14: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:23:15: Total: 2
+12/11/2024 19:23:15: Total: 2
+12/11/2024 19:23:16: advogado 0600151-06.2024.6.20.0067 >> Processo com 4 parte(s), 59 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:23:26: advogado 0600013-25.2024.6.20.0007 >> Processo com 5 parte(s), 52 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:23:27: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 19:23:27: Rodou

@@ -1,0 +1,17 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.11.pje.1
+12/11/2024 18:10:01: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.66swv8qnemu "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 18:10:05: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:10:05: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = fuCrGUol1yKoKX6Q1Ln0_o4-4yxQml0qPgL4lfO9.pjev2-vra-0017 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_3_sn_4459EC6D3788E29F886CE42F9B7778BF_perc_81143_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_3_sn_4459EC6D3788E29F886CE42F9B7778BF_perc_81143_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+12/11/2024 18:10:05: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:10:06: Total: 1
+12/11/2024 18:10:07: Total: 1
+12/11/2024 18:10:12: advogado 1013018-67.2020.8.11.0041 >> Processo com 2 parte(s), 62 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 18:10:13: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 18:10:13: Rodou

@@ -1,0 +1,4 @@
+RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 4.05.CRETA.1.84
+12/11/2024 16:11:39: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+12/11/2024 16:12:11: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

@@ -1,0 +1,40 @@
+RN14321@diegoluis@1AB30A01-3CF5-44AB-A7FD-57F91E41C42F@linus em 4.05.pje2.1
+13/11/2024 13:47:20: Acessou https://pje1g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123258456Dluis 0.k3hu43ijud1 "DIEGO LUIS DANTAS GUIMARAES:09068096494"
+13/11/2024 13:47:40: Logou https://pje1g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:47:40: Perfil advogado e usuário DIEGO LUIS DANTAS GUIMARAES
+OAB = RN14321 ; URL = https://pje1g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.1 ; usuarioId = RN14321@diegoluis@1AB30A01-3CF5-44AB-A7FD-57F91E41C42F@linus ; Cookies (
+Name = JSESSIONID ; Value = jw6-JroUPHmpEgEqb0v2u48bwRtQLPn2aNKnkfyc.pg-202-2h97c ; Domain = pje1g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDUyNTksImlhdCI6MTczMTUxNjQ1OSwiYXV0aF90aW1lIjoxNzMxNTE2NDU5LCJqdGkiOiIxM2Y1YWMzMS0yODUxLTQzZDQtOTNkNC0xNGY4ODFjOTQ5NzYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTFnIiwic3ViIjoiY2QyYmZjZWMtMWM4Yi00MGRiLWIxNmUtOWNjNTRjNzg0YzkxIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0xZyIsInNlc3Npb25fc3RhdGUiOiJmNzg4YzM3OS02OTRjLTRjMzQtODBjNS1hODgxNTU5YWI3OGYiLCJhdF9oYXNoIjoiUHgzU3F6eGpXM09RTHlFUmVJeEJoQSIsImFjciI6IjEiLCJzaWQiOiJmNzg4YzM3OS02OTRjLTRjMzQtODBjNS1hODgxNTU5YWI3OGYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRJRUdPIExVSVMgREFOVEFTIEdVSU1BUkFFUyIsImp0ciI6IjQwNSIsIkpUUiI6IjQwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA5MDY4MDk2NDk0IiwiZ2l2ZW5fbmFtZSI6IkRJRUdPIExVSVMgREFOVEFTIEdVSU1BUkFFUyIsImVtYWlsIjoiZGllZ29sdWlzMUBnbWFpbC5jb20ifQ.0F1yAj_LVWgxXR0VSEtB8Tbo1gCoVw3clYjuNFSvAOHu5BwtZf6FdbD3dcdkYmNCC3bGX1f65nyymkJCxOZ3uCrPnVGSc1l-7l7ibREPHZcr1d4AGaDHGc0nkm8Y6p6YpJiLLfMMwMXz16O037AW4IxOB-O8_wZaTDes8PZB77NcETcmIeaay1knSgrSC5DrL2TF_M-8QmH1Bc-T7FFjiJIJ02t68ilnd0d-Gt8F8qFdPNwTxSFOPmSdV2_3cTawoDH58J8LmNDgBa66gB1KuO0FwCj2WyMgry29UkuGHdpjI0RMljykmNHU-iaMQu-E8vJKYtmzOuOJ5RRndnihPw ; Domain = pje1g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 681dd8689d23ea7e06c34ec135c591f1 ; Domain = pje1g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_4_sn_49BFFF7070F28F85647741885DDDCCB8_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje1g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_4_sn_49BFFF7070F28F85647741885DDDCCB8_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+13/11/2024 13:47:46: Total: 1
+13/11/2024 13:48:00: advogado 0022924-09.2024.4.05.8400 >> Processo com 5 parte(s), 32 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 13:48:01: Total: 1
+13/11/2024 13:49:18: advogado 0022924-09.2024.4.05.8400 >> Processo com 5 parte(s), 32 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 13:49:20: Total: 1
+13/11/2024 13:51:28: advogado 0022924-09.2024.4.05.8400 >> Processo com 5 parte(s), 32 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 13:51:28: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta, Sem prazo e detectou 3 e leu 3
+13/11/2024 13:51:33: Total: 1
+13/11/2024 13:51:33: Total: 1
+13/11/2024 13:51:43: advogado 0019408-93.2024.4.05.8201 >> Processo com 3 parte(s), 18 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 13:51:45: Total: 12
+13/11/2024 13:51:45: Total: 12
+13/11/2024 13:51:45: advogado 0022924-09.2024.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 13:52:12: advogado 0019847-89.2024.4.05.8400 >> Processo com 3 parte(s), 49 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 13:52:19: advogado 0016041-46.2024.4.05.8400 >> Processo com 5 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 13:52:25: advogado 0006557-07.2024.4.05.8400 >> Processo com 3 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:52:33: advogado 0002503-66.2022.4.05.8400 >> Processo com 4 parte(s), 61 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 13:52:44: advogado 0018541-22.2023.4.05.8400 >> Processo com 2 parte(s), 68 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 13:54:00: advogado 0009923-54.2024.4.05.8400 >> Processo com 9 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 13:54:45: advogado 0005068-32.2024.4.05.8400 >> Processo com 2 parte(s), 29 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 13:56:40: advogado 0026892-81.2023.4.05.8400 >> Processo com 8 parte(s), 41 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 13:56:49: advogado 0028643-06.2023.4.05.8400 >> Processo com 2 parte(s), 48 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 13:56:56: advogado 0001035-04.2021.4.05.8400 >> Processo com 4 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:57:12: advogado 0004560-57.2022.4.05.8400 >> Processo com 2 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 13:59:33: Entrou na aba acervo do perfil e mapeou 13 processos e teve erro em 0 processos
+13/11/2024 13:59:33: Rodou

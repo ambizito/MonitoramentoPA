@@ -1,0 +1,4 @@
+RN2742@sergioflorencio@22FEE3E2-8A3B-4F80-A403-DDDD75E2BC6C@jobs em 4.05.CRETA.1.84
+13/11/2024 19:32:47: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 19:33:22: Erro no acesso: Senha invalida
+html: salvo no mongo.

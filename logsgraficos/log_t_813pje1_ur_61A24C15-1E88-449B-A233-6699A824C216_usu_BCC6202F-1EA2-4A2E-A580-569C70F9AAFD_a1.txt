@@ -1,0 +1,16 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 8.13.pje.1
+12/11/2024 16:19:55: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.syje12ofgq9 "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+12/11/2024 16:20:03: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:20:03: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM
+OAB = RN1695 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners ; Cookies (
+Name = JSESSIONID ; Value = p-z7XdTQEGsM6vnd7SxKZGoxyXoubc-YjfJesB8x.pje1g-poapp06.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NjgwMDIsImlhdCI6MTczMTQzOTIwMiwiYXV0aF90aW1lIjoxNzMxNDM5MjAyLCJqdGkiOiIzMGUzNTQzYS0yZjI0LTQ3NzQtYjFiNy1hOWM3ZGM5YjUyM2MiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiZGRmZDA5MmUtYjM3OC00OGVhLWE2YjEtZWYwMzFlZjM3ODhlIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiI4MWNlNTE5Zi0wY2QxLTQzMDAtYTQ2OC1mNDBmNDI4NjM3ZDEiLCJhdF9oYXNoIjoid3ozM2FZUENpcUZKY0VpVlNQaWRFQSIsImFjciI6IjEiLCJzaWQiOiI4MWNlNTE5Zi0wY2QxLTQzMDAtYTQ2OC1mNDBmNDI4NjM3ZDEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkNMQVVESU8gVklOSUNJVVMgU0FOVEEgUk9TQSBDQVNUSU0iLCJKVFIiOiI4MTMiLCJqdHIiOiI4MTMiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIyMDI2MjI0ODQ2OCIsImdpdmVuX25hbWUiOiJDTEFVRElPIFZJTklDSVVTIFNBTlRBIFJPU0EgQ0FTVElNIiwiZW1haWwiOiJjb250YXRvQGNjZWwuYWR2LmJyIn0.AaKz6pPqa3sdi3kYGYJNfksjPFi3reC9EcAIVCLkQQZr0a1OS19iSGlUWFrcIPXgb2UStN8B9no27JN81dTYppPnxi0eHWVl2fFmrKk-GesAAQ2xDJItDTPeoqZp0sDVekJ6cYwRXlAMP1xQvsRU4RocdMpk_IgN9AOg77AOCQLiieGf28r8R05-3DV9Xrr-LP-6w1b3WrRluxbkXszJB3r6TBaF0aKtEG9EAzGw7gw3KCR9r_Fg5k8dhHAlXuKq8GjTwEcTk9bqhG6lutpnuI_v7qRynHNOvy1IXwOwxibE5Tv3cbRBGhd8HpzL1d_BxfcQA8BBUORCVkNQIrB1ig ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp06:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+12/11/2024 16:20:03: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:20:05: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:20:05: Procuracao: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM filtrado, não roda.
+12/11/2024 16:20:05: Rodou

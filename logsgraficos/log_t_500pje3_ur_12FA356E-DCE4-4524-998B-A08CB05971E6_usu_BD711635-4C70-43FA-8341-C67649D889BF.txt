@@ -1,0 +1,34 @@
+04429349479@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 5.00.pje.3
+14/11/2024 10:29:27: Acessou https://pje.tst.jus.br/tst/login.seam
+14/11/2024 10:29:30: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 10:29:31: Perfil advogado e usuário JOSENILDO SOUSA DE OLIVEIRA
+OAB = 04429349479 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = 04429349479@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus ; Cookies (
+Name = JSESSIONID ; Value = 8c59c7dc224b52a2~g7+FEnnYM+-jq2CtYAgHESMm ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 5b6f24bd-a6ef-4c0a-ade7-5326709ea14b ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3MzI3Yjk2ZS1mODljLTRkODctOWQ1ZS0zMzlkMjY2OTBjYjYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTkwOTY4LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTk0NTY4LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjczMTQyLCJsb2dpbiI6IjA0NDI5MzQ5NDc5Iiwibm9tZSI6IkpPU0VOSUxETyBTT1VTQSBERSBPTElWRUlSQSIsInBlcmZpbCI6NTkyMjMsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6NTEyMjEsImRlc2NyaWNhbyI6IkpPU0VOSUxETyBTT1VTQSBERSBPTElWRUlSQSAoMDQ0LjI5My40OTQtNzkpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFNUIiwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = mAkcj7fArYMTSVmzCWP7WNWZfYYbnj5fsGGwEbLopr8 ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5ZjgxYjYzZC1lZDY2LTQ0ZWEtYWQxMy0xZTMyMTNhYTdlNDUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTkwOTY4LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNjM0MTY4LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNDQyOTM0OTQ3OSIsInBlcmZpbCI6NTkyMjMsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFNUIn0.kca5sYhW--HWQ5p8eTH_WOZ8dfrYexu2KtWQTBcTpRs ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = FF5D540C5EF3819D325180F8815601DBCB1BAD56304AB1AB20417022D37F9B5A458945EB53FF534BC1262AF9AF4622BC8211 ; Domain = pje.tst.jus.br ; Path = /
+)
+14/11/2024 10:29:33: Total: 1
+14/11/2024 10:29:35: advogado 0000053-98.2024.5.21.0011 >> Processo com 3 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 10:29:36: Total: 1
+14/11/2024 10:29:38: advogado 0000443-05.2023.5.21.0011 >> Processo com 4 parte(s), 22 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 10:29:38: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 3 e leu 2
+14/11/2024 10:29:39: Total: 3
+14/11/2024 10:29:39: Total: 3
+14/11/2024 10:29:39: advogado 0000053-98.2024.5.21.0011 >> Processo já foi verificado recentemente
+14/11/2024 10:29:39: advogado 0000298-40.2023.5.21.0013 >> Processo já foi verificado recentemente
+14/11/2024 10:29:39: advogado 0000443-05.2023.5.21.0011 >> Processo já foi verificado recentemente
+14/11/2024 10:29:39: Total: 2
+14/11/2024 10:29:39: Total: 2
+14/11/2024 10:29:39: advogado 0000053-98.2024.5.21.0011 >> Processo já foi verificado recentemente
+14/11/2024 10:29:39: advogado 0000298-40.2023.5.21.0013 >> Processo já foi verificado recentemente
+14/11/2024 10:29:39: Total: 1
+14/11/2024 10:29:39: Total: 1
+14/11/2024 10:29:39: advogado 0000443-05.2023.5.21.0011 >> Processo já foi verificado recentemente
+14/11/2024 10:29:40: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+14/11/2024 10:29:40: Rodou

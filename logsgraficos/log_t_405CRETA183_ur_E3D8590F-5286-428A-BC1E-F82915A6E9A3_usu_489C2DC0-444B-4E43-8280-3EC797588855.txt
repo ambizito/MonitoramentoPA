@@ -1,0 +1,4 @@
+119609@allanjob46@E3D8590F-5286-428A-BC1E-F82915A6E9A3@mark em 4.05.CRETA.1.83
+13/11/2024 20:45:05: Acessou https://creta.jfpe.jus.br/cretape/login.wsp
+13/11/2024 20:46:13: Erro no acesso: Senha invalida
+html: salvo no mongo.

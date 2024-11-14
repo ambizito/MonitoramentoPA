@@ -1,7 +1,0 @@
-RN15606A@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 4.05.pje.1.81
-08/10/2024 10:28:52: Acessou https://pje.jfce.jus.br/pje/login.seam
-Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 82i2D3M00VmzUXX2kI54gGyu13BDXTuj "JOSENILDO SOUSA DE OLIVEIRA:04429349479"
-08/10/2024 10:28:52: Exceção: O sistema não pode encontrar o arquivo especificado
-Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
-   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
-   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 337

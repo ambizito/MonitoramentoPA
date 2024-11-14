@@ -1,0 +1,19 @@
+PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 4.01.pje.1
+12/11/2024 20:39:54: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 0.ukxtwskfpho "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 3NRoY1vHW4kZMSBrZCUULvvM4bfSoOqJ "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+12/11/2024 20:40:00: Logou https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:40:00: Perfil advogado e usuário JOSE HARAN DE BRITO VEIGA PESSOA
+OAB = PB13028 ; URL = https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.1 ; usuarioId = PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = _MpIEMmpAdKCIeb-mv24QPp6VCwmT4mX8naYkcrL.srvpje1goutjb25 ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODM1OTYsImlhdCI6MTczMTQ1NDc5NiwiYXV0aF90aW1lIjoxNzMxNDU0Nzk2LCJqdGkiOiIzNjU0YThjMi0wYzcxLTQ1MTItOGUyNS1jMzU5MGMwOWI1MjYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTFnIiwic3ViIjoiOGMyZmFlOWQtYjU2MS00NjkyLWE3Y2UtNTZiNWFiZDMyN2Y3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0xZyIsInNlc3Npb25fc3RhdGUiOiJkN2UwOWFjYy03NzAzLTRhZTctOWMxMy03MmI4YzFiNDk3MTAiLCJhdF9oYXNoIjoicVFTVjdKWmZfY1QydU1aRXNhZnRkZyIsImFjciI6IjEiLCJzaWQiOiJkN2UwOWFjYy03NzAzLTRhZTctOWMxMy03MmI4YzFiNDk3MTAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkpPU0UgSEFSQU4gREUgQlJJVE8gVkVJR0EgUEVTU09BIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ0NDYxNDE0MTQiLCJnaXZlbl9uYW1lIjoiSk9TRSBIQVJBTiBERSBCUklUTyBWRUlHQSBQRVNTT0EiLCJlbWFpbCI6Impvc2VoYXJhbmJAeWFob28uY29tLmJyIn0.CAKM5edO5jUd8PrQkhImu-g1GhDQBZLlQ5z0f4NaKU8G1MeVx0V8L_-ZQIRtikInpqgeoNi9KOxoIL8FTRKd3CmYLkcGHu96REezwOWHql7TKaBMsc3HZqgL8VpqfD4qHWshqLGv0ZyytC_hmVa93wdfmv6s4CLqJx8OpLd1krSw-EKmhGHhrOvAM9JttGK94B2S3tD7ekFyisxwVDXSTvaKENM3kRW1c_ddjQKPkKclyA-UB4cPIu6jun6WiYMzAj1vodpbX9Img8Y53vMX1jVWY2csklxXJwmTa-55BaO77xerX33PbFN0xGpP7jBP9NRlcCc7CxMTovH3z9Xs-A ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-1G-StickySessionRule ; Value = srvpje1goutjb25:pje-trf1-1g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /
+)
+12/11/2024 20:40:00: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:40:02: Total: 1
+12/11/2024 20:40:02: Total: 1
+12/11/2024 20:40:04: advogado 0019083-65.2013.4.01.3400 >> Processo com 4 parte(s), 53 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:40:06: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:40:06: Rodou

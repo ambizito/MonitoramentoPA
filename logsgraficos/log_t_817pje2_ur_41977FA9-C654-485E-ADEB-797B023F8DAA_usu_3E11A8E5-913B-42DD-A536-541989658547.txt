@@ -1,0 +1,11 @@
+07173659485@charlesmarques@41977FA9-C654-485E-ADEB-797B023F8DAA@linus em 8.17.pje.2
+12/11/2024 16:11:51: Acessou https://pje.tjpe.jus.br/2g/login.seam
+12/11/2024 16:11:58: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 16:11:58: Perfil advogado e usuário LUIZ CHARLES RODRIGUES MARQUES
+OAB = 07173659485 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = 07173659485@charlesmarques@41977FA9-C654-485E-ADEB-797B023F8DAA@linus ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = YBC8purfhhjjyzSV9j3vXxHl0dUTX-BmUJw2dGlj.keycloak-3 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+12/11/2024 16:11:58: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:12:07: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:12:07: Rodou

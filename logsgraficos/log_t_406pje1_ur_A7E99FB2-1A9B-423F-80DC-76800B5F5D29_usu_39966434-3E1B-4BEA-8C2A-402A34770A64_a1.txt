@@ -1,0 +1,13 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 4.06.pje.1
+13/11/2024 13:29:15: Acessou https://pje1g.trf6.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 mJKN9RXIcyzwk4zJqv3R5J9K63Inokr2 "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+13/11/2024 13:30:38: Logou https://pje1g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:30:39: Perfil advogado e usuário JusPostulandi - RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://pje1g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 4.06.pje.1 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = --4iByR17jODyqAcQonbgo04T-IzhVWVTxPuda_Y.trf6pje1goutjb03 ; Domain = pje1g.trf6.jus.br ; Path = /pje
+Name = PJE-TRF6-1G-StickySessionRule ; Value = trf6-pje1goutjb03:pje-trf6-1g ; Domain = pje1g.trf6.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf6.jus.br ; Path = /
+)
+13/11/2024 13:30:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 13:38:28: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 13:39:29: Rodou

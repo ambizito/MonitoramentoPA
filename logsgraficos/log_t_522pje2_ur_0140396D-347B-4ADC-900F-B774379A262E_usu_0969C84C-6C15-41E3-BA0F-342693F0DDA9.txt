@@ -1,0 +1,17 @@
+43692036353@avelinocoelhoadv@0140396D-347B-4ADC-900F-B774379A262E@linus em 5.22.pje.2
+12/11/2024 21:30:02: Acessou https://pje.trt22.jus.br/segundograu/login.seam
+12/11/2024 21:30:04: Logou https://pje.trt22.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 21:30:04: Perfil advogado e usuário JOSE NILO AVELINO FILHO
+OAB = 43692036353 ; URL = https://pje.trt22.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.22.pje.2 ; usuarioId = 43692036353@avelinocoelhoadv@0140396D-347B-4ADC-900F-B774379A262E@linus ; Cookies (
+Name = JSESSIONID ; Value = 89d0b22e6a16f753~EkotC23Wz5dXYpPWoomLbiGB ; Domain = pje.trt22.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt22.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = 21c3c614-4e2c-46f6-ac3e-b5af31ed314a ; Domain = pje.trt22.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt22.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2MTQ2ZDBlYy02OWM4LTQ2MzMtOTkyOS03MDQ0YjMwZDU3MzIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU3ODAzLCJzdWIiOiJiMTcxN2NmMy04NjcxLTQzODMtOGUyMC1lMWY4ZDhhNzRhNTYucGplIiwiZXhwIjoxNzMxNDYxNDAzLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjY5MjA0LCJsb2dpbiI6IjQzNjkyMDM2MzUzIiwibm9tZSI6IkpPU0UgTklMTyBBVkVMSU5PIEZJTEhPIiwicGVyZmlsIjoxODYyMiwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxNzA4OSwiZGVzY3JpY2FvIjoiSk9TRSBOSUxPIEFWRUxJTk8gRklMSE8gKDQzNi45MjAuMzYzLTUzKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDIyIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt22.jus.br ; Path = /
+Name = access_token_footer ; Value = fiDPcyQc5dqCpEXxc1ma_pw-v3Vjr5wt5NczJSsr7Vk ; Domain = pje.trt22.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJiYjcxZjhiOS1jYzViLTQ5MmUtOTIwNS04OWU4ZDg5NDNiZDAiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU3ODAzLCJzdWIiOiJiMTcxN2NmMy04NjcxLTQzODMtOGUyMC1lMWY4ZDhhNzRhNTYucGplIiwiZXhwIjoxNzMxNTAxMDAzLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI0MzY5MjAzNjM1MyIsInBlcmZpbCI6MTg2MjIsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMjIifQ.UgIO4ikphjOJnj6gew1XYlnIsRGM8MtGGAmOKpP7rtQ ; Domain = pje.trt22.jus.br ; Path = /
+Name = Xsrf-Token ; Value = FA0F6C655CE45912336F461E4493A593E7CE2AD820A57A9C1CC41B7967CBC70F3EDDA6BAAAC50423EF40091B9D3ED7750748 ; Domain = pje.trt22.jus.br ; Path = /
+)
+12/11/2024 21:30:05: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 21:30:08: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 21:30:08: Rodou

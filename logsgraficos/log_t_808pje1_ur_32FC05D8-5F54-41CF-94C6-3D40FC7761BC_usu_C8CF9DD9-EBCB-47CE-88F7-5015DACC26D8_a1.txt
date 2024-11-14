@@ -1,0 +1,29 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.08.pje.1
+12/11/2024 16:34:20: Acessou https://pje.tjes.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.2q7em1j8rga "HERMANO GADELHA DE SA46843574491"
+12/11/2024 16:34:22: Logou https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:34:22: Perfil advogado e usuário HERMANO GADELHA DE SA
+OAB = PB8463 ; URL = https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.1 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = ME_MLwXO2X6pSn0Z7bbbOhv7d6vVy_PAckvK3KKU.pje1g-8659f8cdd8-bpgd2 ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njg4NjEsImlhdCI6MTczMTQ0MDA2MiwiYXV0aF90aW1lIjoxNzMxNDQwMDYxLCJqdGkiOiI4ZjVlNzFhMi1iZDdkLTRkNDktYmIxNC1iZmNkMGU0ZWFmYTUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTFnLWNsb3VkIiwic3ViIjoiM2VlYzMwNmItMDIyMS00OTg5LTgyNGEtM2ZhNDI3NDBlZTE4IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiJmMjM5NjZjZi03MTg4LTQ3YjUtODk0My1lNTA4YTYzZGM5NjgiLCJhdF9oYXNoIjoibWNpQ3RVNnVDQmNYWDdDTGlZTlJKZyIsImFjciI6IjEiLCJzaWQiOiJmMjM5NjZjZi03MTg4LTQ3YjUtODk0My1lNTA4YTYzZGM5NjgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFUk1BTk8gR0FERUxIQSBERSBTQSIsImp0ciI6IjgwOCIsInByZWZlcnJlZF91c2VybmFtZSI6IjQ2ODQzNTc0NDkxIiwiZ2l2ZW5fbmFtZSI6IkhFUk1BTk8gR0FERUxIQSBERSBTQSIsImVtYWlsIjoiY29udHJvbGFkb3JpYUBjb3Jpb2xhbm8uYWR2LmJyIn0.oxviLd6ahyk3t3lFy4PVO5wt7bGytjV7Kbfq0gdOTpNF_aSyze4Wa9COFJ3s9UY6EkAnkinHZ_hy5F7D6ClD6ye1TOPVgdQs7iYrQBiVb7TRRoyhiV4L-B0aQUkKYj4bSGbFSbZZlOnUjWrPYWm7DzuMZheINsiWeDJGzCaFpkvslhpfpvjXK3eXo9Fe8JV6TQxajiTRu6yrBAr7WaT-5AT1DyPdDmbN_v6bcDUfp9kXy3w64uuVZK1QOsABl6Ucogu0jwLjWVuZGJmPMgo_vmLDAApS23tCV5Iv-S98qySusNcVaJpDBwdLtpJ0YXuNlTmIcQnszRLHBwKEoisMDw ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = PJE-TJES-1G-StickySessionRule ; Value = "pje1g-8659f8cdd8-bpgd2:pje-tjes-1g" ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = AWSALB ; Value = gA6m8qFD4XvThxwBhBDTD8pwmgH2xHEt/FjOf+Ckfbb0LQUe4gkhAY3hix+Uu6b99DKG0mulTEawfCrL1jWWg7t1w+va9On5ztmbW/po0IPxB/aQTuHarzdhb5Ug ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = gA6m8qFD4XvThxwBhBDTD8pwmgH2xHEt/FjOf+Ckfbb0LQUe4gkhAY3hix+Uu6b99DKG0mulTEawfCrL1jWWg7t1w+va9On5ztmbW/po0IPxB/aQTuHarzdhb5Ug ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 57a3ac83-efd2-4d5c-b811-b83f76a6183c ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+12/11/2024 16:34:23: Total: 1
+12/11/2024 16:34:25: advogado 0028194-47.2016.8.08.0035 >> Processo com 4 parte(s), 39 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 16:34:26: Total: 1
+12/11/2024 16:34:28: advogado 0028194-47.2016.8.08.0035 >> Processo com 4 parte(s), 39 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 16:34:28: Total: 1
+12/11/2024 16:34:31: Exceção: Value cannot be null.
+Parameter name: input
+Stack Trace:    at System.Text.RegularExpressions.Regex.Match(String input)
+   at ProcessoAgil.TribunalToken.CapturarLeiturasAcervo(Processo processo, String parteNome, ExpedienteLido[] expedienteLidos, ControleExpedienteLido controle, List`1 listaExpedientesLido) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 4090
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2475
+   at ProcessoAgil.TribunalToken.NavegarSubPastaExpediente(String post, String categoria, CookieContainer cookie, String ViewState, String oab, String tribunal, String usuarioId, Boolean& erro, Int32& totalGeral, Int32& capturadosGeral, List`1 processosMapeados, List`1 numeroDosProcessos, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String html, Boolean temArquivo, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1693
+   at ProcessoAgil.TribunalToken.NavegarExpedientes(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, Boolean temArquivo, URExpediente configExpediente, String parteNome, String perfil, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1807
+   at ProcessoAgil.TribunalToken.Navegar(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, String html, String parteNome, String perfil, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 963
+   at ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 547

@@ -1,0 +1,25 @@
+04429349479@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 8.06.pje.1
+14/11/2024 10:20:53: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+14/11/2024 10:20:55: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+14/11/2024 10:20:55: Perfil advogado e usuário JOSENILDO SOUSA DE OLIVEIRA
+OAB = 04429349479 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = 04429349479@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus ; Cookies (
+Name = JSESSIONID ; Value = z6qxQ6mJFu5mNCkv3mD6KEwdWJmBeFBm0hgpLefh.tjpjp36 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTkyNTQsImlhdCI6MTczMTU5MDQ1NCwiYXV0aF90aW1lIjoxNzMxNTkwNDU0LCJqdGkiOiI2ZDZjYjhkZC1hNTI0LTQ1YzktYmVmMy0zOTZkOTc5NzlkYTkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiMzNlNzQ4MmItYWVjMy00NWQxLTk3ZjktMTQ5MzAyYjQzMmM4IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiI5NWUwNGE2Yi1kZThkLTQ2MzEtOGI0NC1lMTdiYjQyMGU5M2IiLCJhdF9oYXNoIjoiZjF1RTNxdEUyZG1aZHBCT2o0T1N1dyIsImFjciI6IjEiLCJzaWQiOiI5NWUwNGE2Yi1kZThkLTQ2MzEtOGI0NC1lMTdiYjQyMGU5M2IiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJKT1NFTklMRE8gU09VU0EgREUgT0xJVkVJUkEiLCJqdHIiOiI4MDYiLCJKVFIiOiI4MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNDQyOTM0OTQ3OSIsImdpdmVuX25hbWUiOiJKT1NFTklMRE8gU09VU0EgREUgT0xJVkVJUkEiLCJlbWFpbCI6Impvc2VuaWxkb3NvdXNhYWR2QGdtYWlsLmNvbSJ9.fNphflkBEXeGriZdhoSUjT81KMmGQiIqcKPV7toTZ7nW7YBiFB4vnj2cyKs7zQA1tgBxH5XxUnjNowc_AUCz3IZGB03VkWUzRVEXo_I0kSVjt-hvwYaElV8Bq6ePzHo1lw9xVcLmbClml4aSgt1xAxp6F0fhQ4zeRGWe56Ow-uzXGzxp-3QirYylGBSyabIPz2r3tKVQAeocJX7j14eR_b1XsW8p3U3Nqo4XRYHMUTBfE6HovxDUGRVRy4tHUHjdtbpi6yqqWbJ1SWcNaJwH51OEvqO6FyvDFlSwPSpTpqnqM-A0OOSLbTy0DjvU--7VTGsdtVMFfL9rdeyQHuj78w ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp36:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+14/11/2024 10:20:55: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 10:20:56: Total: 1
+14/11/2024 10:20:56: Total: 1
+14/11/2024 10:20:56: advogado 0050008-31.2021.8.06.0089 >> Processo já foi verificado recentemente
+14/11/2024 10:20:57: Total: 2
+14/11/2024 10:20:57: Total: 2
+14/11/2024 10:20:57: advogado 0284568-17.2023.8.06.0001 >> Processo já foi verificado recentemente
+14/11/2024 10:20:57: advogado 0277995-31.2021.8.06.0001 >> Processo já foi verificado recentemente
+14/11/2024 10:20:57: Total: 2
+14/11/2024 10:20:57: Total: 2
+14/11/2024 10:20:57: advogado 3000869-67.2024.8.06.0020 >> Processo já foi verificado recentemente
+14/11/2024 10:20:57: advogado 3001227-32.2024.8.06.0020 >> Processo já foi verificado recentemente
+14/11/2024 10:20:58: Entrou na aba acervo do perfil e mapeou 5 processos e teve erro em 0 processos
+14/11/2024 10:20:58: Rodou

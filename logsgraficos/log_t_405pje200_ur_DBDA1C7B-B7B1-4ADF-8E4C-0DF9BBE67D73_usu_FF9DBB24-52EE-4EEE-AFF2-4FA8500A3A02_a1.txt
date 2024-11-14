@@ -1,0 +1,21 @@
+PB16228@mphadvocacia@DBDA1C7B-B7B1-4ADF-8E4C-0DF9BBE67D73@bezos em 4.05.pje.2.00
+12/11/2024 21:38:34: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 070188070188 iXqCqhu13mALLFnLG3uZUQRKNV5cMc4e "LUCAS HENRIQUES DE QUEIROZ MELO:06651876457"
+12/11/2024 21:38:37: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:38:37: Perfil advogado e usuário LUCAS HENRIQUES DE QUEIROZ MELO
+OAB = PB16228 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = PB16228@mphadvocacia@DBDA1C7B-B7B1-4ADF-8E4C-0DF9BBE67D73@bezos ; Cookies (
+Name = JSESSIONID ; Value = Fy6adQrGoHD+OpoMQqjUnemD.node04 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000bafc23cd9e6e69e3e087b8bebcdb9f5abbafbfcf67223e83aca3f0ab4faf95ca088090db81113000f46a662d09b2b3af1d809f2c0a2216098801f327d6955632cdd391c0c11565e74e0029db7868650dd144b9063b44ee22 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 21:40:12: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 21:40:27: Total: 1
+12/11/2024 21:40:27: Total: 1
+12/11/2024 21:40:41:  0815122-14.2018.4.05.0000 >> Processo com 5 parte(s), 14 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 21:41:01: Total: 1
+12/11/2024 21:41:01: Total: 1
+12/11/2024 21:41:13:  0802457-28.2023.4.05.8200 >> Processo com 4 parte(s), 14 andamento(s) e 30 expediente(s) atualizado
+12/11/2024 21:41:27: Total: 0
+12/11/2024 21:41:27: Total: 0
+12/11/2024 21:41:28: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 21:41:28: Rodou

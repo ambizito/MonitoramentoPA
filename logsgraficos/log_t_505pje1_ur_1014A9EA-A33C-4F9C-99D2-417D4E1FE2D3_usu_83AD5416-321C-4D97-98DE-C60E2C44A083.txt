@@ -1,0 +1,18 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.05.pje.1
+13/11/2024 15:38:28: Acessou https://pje.trt5.jus.br/primeirograu/login.seam
+13/11/2024 15:38:40: Logou https://pje.trt5.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 15:38:44: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+13/11/2024 15:38:50: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 15:39:03: Total: 5
+13/11/2024 15:39:03: Total: 5
+13/11/2024 15:39:14: advogado 0000022-68.2023.5.05.0008 >> Processo com 2 parte(s), 120 andamento(s) e 21 expediente(s) atualizado
+13/11/2024 15:39:29: advogado 0000059-63.2022.5.05.0030 >> Processo com 2 parte(s), 61 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 15:39:37: advogado 0000084-39.2022.5.05.0010 >> Processo com 2 parte(s), 87 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 15:39:41: advogado 0000131-03.2023.5.05.0002 >> Processo com 2 parte(s), 42 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 15:39:49: advogado 0000132-38.2022.5.05.0029 >> Processo com 2 parte(s), 59 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 15:39:49: Total: 2
+13/11/2024 15:39:49: Total: 2
+13/11/2024 15:40:02: advogado 0000141-72.2022.5.05.0102 >> Processo com 4 parte(s), 147 andamento(s) e 27 expediente(s) atualizado
+13/11/2024 15:40:47: advogado 0000144-30.2022.5.05.0101 >> Processo com 4 parte(s), 169 andamento(s) e 26 expediente(s) atualizado
+13/11/2024 15:43:05: Entrou na aba acervo do perfil e mapeou 7 processos e teve erro em 0 processos
+13/11/2024 15:43:05: Rodou

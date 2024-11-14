@@ -1,0 +1,15 @@
+PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.13.pje.2
+12/11/2024 23:29:53: Acessou https://pjerecursal.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.918q37ua7p5 "DIEGO DOMICIANO VIEIRA COSTA CABRAL:05479437410"
+12/11/2024 23:29:55: Logou https://pjerecursal.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:29:55: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = PB15574 ; URL = https://pjerecursal.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.2 ; usuarioId = PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = XOi_IFTbO9PihfRl41hv1-3AJAIpbL6XTVsjAOn6.pjerecursal-poapp04.intra.tjmg.gov.br ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTM3OTUsImlhdCI6MTczMTQ2NDk5NSwiYXV0aF90aW1lIjoxNzMxNDY0OTk1LCJqdGkiOiIxY2YxOGUxZC0xYmRhLTQ5YjItYTRjMS1kNmY2MDUxMzJjZTUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTJnIiwic3ViIjoiMGNmYWIzN2UtYjdkNy00OWY3LTlkNzYtNDAwNjczZWMzYTY3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0yZyIsInNlc3Npb25fc3RhdGUiOiI1YzVmNWVmNC1jODk1LTRkNGQtYTk1ZS01Yjg0YTc3ZGM4MjMiLCJhdF9oYXNoIjoienVOT25ZMHh5MkJZdmhFamplTmMzUSIsImFjciI6IjEiLCJzaWQiOiI1YzVmNWVmNC1jODk1LTRkNGQtYTk1ZS01Yjg0YTc3ZGM4MjMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRJRUdPIERPTUlDSUFOTyBWSUVJUkEgQ09TVEEgQ0FCUkFMIiwiSlRSIjoiODEzIiwianRyIjoiODEzIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDU0Nzk0Mzc0MTAiLCJnaXZlbl9uYW1lIjoiRElFR08gRE9NSUNJQU5PIFZJRUlSQSBDT1NUQSBDQUJSQUwiLCJlbWFpbCI6ImNhYnJhbEBnY3BhZHZvZ2Fkb3MuY29tLmJyIn0.VIqEZOjNlJOznIP5Xho4f3WHJzLTPjqIZ4o8wdt6x5P686h0-uIwiQqKxu11xQtsVlhnSaBHOGpuijTuP86hlx6jiMacsFKhz069-bte2zl6gD19bU2xey2M5JPi6l6H0c1F_5EVlHUypTYOkR4aPyttf9ad95zjfyt8LC8hkPabZrAW9VZjiiXBOFiOeJhH0t2TmwPKpVfj4C1d3m2XBuITYv7El4W0CIgQxU8OZDz98vxuhwthN66qkNLCFphvF36KF_nQTNl6TbxyWrs4YB_eEDl2kJYH-45gUdd-u2I95jbPMJ1N57T3mln0Q5TZQNtYLCjoWHpFEr9k9mB6oA ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-2G-StickySessionRule ; Value = pjerecursal-poapp04:pje-tjmg-2g ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pjerecursal.tjmg.jus.br ; Path = /
+)
+12/11/2024 23:29:56: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:30:06: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:30:06: Rodou

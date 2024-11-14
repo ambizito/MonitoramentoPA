@@ -1,0 +1,18 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 5.18.pje.1
+12/11/2024 21:35:32: Acessou https://pje.trt18.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# TYWwwaRLUrEaWtuc0VLMbboq1G3nHFUk "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+12/11/2024 21:35:41: Logou https://pje.trt18.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 21:35:41: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje.trt18.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.18.pje.1 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = e451fe68ba90fb1a~zYzrlwx1RsRv2pWlWtNis6g7 ; Domain = pje.trt18.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt18.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 63861608-9ded-4074-8628-2f1aa3ccacf6 ; Domain = pje.trt18.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt18.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxNGI5YjI0OS01Y2QyLTQ4MTktOWFhYS0xYTgzOTM1MGQ5NjgiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU4MTQwLCJzdWIiOiJiNmJlOTQzZS1jZTRjLTQwZjYtYTg1MS0xODFiYTQ5MzM1MjAucGplIiwiZXhwIjoxNzMxNDYxNzQwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjk5MjQ1NiwibG9naW4iOiIwNTgzMDUxMjQzMiIsIm5vbWUiOiJNQVggVE9SUVVBVE8gRk9OVEVTIFZBUkVMQSIsInBlcmZpbCI6MTI4Mzg0LCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjEwMjUyNSwiZGVzY3JpY2FvIjoiTUFYIFRPUlFVQVRPIEZPTlRFUyBWQVJFTEEgKDA1OC4zMDUuMTI0LTMyKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDE4Iiwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt18.jus.br ; Path = /
+Name = access_token_footer ; Value = RxdCwM2lbom9k_2CdfUFPIzt_WoKL3hOXJi85CpyCgg ; Domain = pje.trt18.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJjM2JhNTgyMi00MWUyLTRkZmEtYTQwMC00NDE4ZGNjNzgyZGYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU4MTQwLCJzdWIiOiJiNmJlOTQzZS1jZTRjLTQwZjYtYTg1MS0xODFiYTQ5MzM1MjAucGplIiwiZXhwIjoxNzMxNTAxMzQwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTgzMDUxMjQzMiIsInBlcmZpbCI6MTI4Mzg0LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDE4In0.HL9IU31aoBScWiGXUMbogyhsLxyeo0D8BI505Qp970I ; Domain = pje.trt18.jus.br ; Path = /
+Name = Xsrf-Token ; Value = F6C7A2B916970D04C76DB28859CC7DC66A76A98A95B8D0F43F3074645708175A570D5E0250D82A12253C52DC053608A755EE ; Domain = pje.trt18.jus.br ; Path = /
+)
+12/11/2024 21:35:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 21:35:44: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 21:35:44: Rodou

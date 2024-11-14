@@ -1,0 +1,19 @@
+RN9969@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus em 8.05.pje.1
+13/11/2024 00:03:34: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 78951456 0.rfsu3kj11gp "DANYEL FREIRE FURTADO DE MENDONCA:08166957418"
+13/11/2024 00:03:37: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:03:37: Perfil advogado e usuário DANYEL FREIRE FURTADO DE MENDONCA
+OAB = RN9969 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = RN9969@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus ; Cookies (
+Name = JSESSIONID ; Value = mV0kjwvtkGzujIR1kbQqrzBRmabHbhviH6ejJjyv.pje1gapp018 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTU4MTYsImlhdCI6MTczMTQ2NzAxNiwiYXV0aF90aW1lIjoxNzMxNDY3MDE2LCJqdGkiOiIxNTUwNDgwOC03OTNhLTQ0ZDItOTg4My0zNDg0MDQ3NmQwMmYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiYzEyMGIxYzUtNjI3NC00OTQ2LTkxNTItYzNlMTA2YjQ1YTJiIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiIxZDY0OGZkNC1mZWRiLTRkZjEtOGRmNS01MDlkNmZjZTVlMWIiLCJhdF9oYXNoIjoiWGN3M2ZvMXJraGZvNXY5bGs4NHlnZyIsImFjciI6IjEiLCJzaWQiOiIxZDY0OGZkNC1mZWRiLTRkZjEtOGRmNS01MDlkNmZjZTVlMWIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRBTllFTCBGUkVJUkUgRlVSVEFETyBERSBNRU5ET05DQSIsIkpUUiI6IjgwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA4MTY2OTU3NDE4IiwiZ2l2ZW5fbmFtZSI6IkRBTllFTCBGUkVJUkUgRlVSVEFETyBERSBNRU5ET05DQSIsImVtYWlsIjoiZGFueWVsQGVpZGVyZnVydGFkby5jb20uYnIifQ.XWXl8_jgJXsAf38_Semegbf-4zzFzTv9bu71WQDTs67VYm_pD8ev-IDGz7usM1VNQ1T7QFrwg_X8he3touSmHS5sqjq-y5sBwhoWf7dIBCPNRzZMFroIond_D4rL5DKiGgaWN3KKWK-6xIQ4FQ2DNToz95me0TlgFZRzQHE_08EPk2o_6onN5nojlaPBxXKHReni29dDLVGxh3dXxnbuJthErrXiWZgqPwQkg3wfvQ1sOor1rmzQKRPk_xzO4sF6ApLDA7HfDhy-UPcGQ7pIMVayFN1Ae8PAra0zdF-E5SLzTP5N2eVtdEHcyTA0u9mWDJ3283D6UzQvfR0DCZIw9A ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp018:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+13/11/2024 00:03:38: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:03:41: Total: 2
+13/11/2024 00:03:41: Total: 2
+13/11/2024 00:03:41: advogado 0534591-20.2017.8.05.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:03:41: advogado 8107174-79.2021.8.05.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:03:46: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+13/11/2024 00:03:46: Rodou

@@ -1,0 +1,18 @@
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 5.23.pje.2
+12/11/2024 17:54:24: Acessou https://pje.trt23.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 2ZXqMNvg3zcU91lQEoaSCugYya4ffkMZ "MARCELLO ROCHA LOPES:83850333434"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.c99ki446xwi "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 17:54:33: Erro no acesso: Desconhecido
+html: salvo no mongo.
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 5.23.pje.2
+12/11/2024 17:55:34: Acessou https://pje.trt23.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 gP1OcTz7yK02sA18bdbJmEq4ESTn33hX "MARCELLO ROCHA LOPES:83850333434"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.syje12ofgq9 "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 17:55:42: Erro no acesso: Desconhecido
+html: salvo no mongo.
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 5.23.pje.2
+12/11/2024 17:56:43: Acessou https://pje.trt23.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 mHyLEhUGujeaiygwN5F2IyErWPsYA1Ne "MARCELLO ROCHA LOPES:83850333434"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.syje12ofgq9 "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 17:56:51: Erro no acesso: Desconhecido
+html: salvo no mongo.

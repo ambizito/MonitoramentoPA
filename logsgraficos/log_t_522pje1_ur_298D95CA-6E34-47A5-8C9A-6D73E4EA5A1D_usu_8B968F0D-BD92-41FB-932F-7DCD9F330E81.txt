@@ -1,0 +1,17 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 5.22.pje.1
+13/11/2024 00:51:01: Acessou https://pje.trt22.jus.br/primeirograu/login.seam
+13/11/2024 00:51:02: Logou https://pje.trt22.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 00:51:02: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.trt22.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.22.pje.1 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 9f3dc08316d7f08b~FJFgAEvDb-tQ96h5uRPvfyly ; Domain = pje.trt22.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt22.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 0f5ab0c8-3087-419c-ab2d-71f59479fb6a ; Domain = pje.trt22.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt22.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhYjgxMDA1My04YmI2LTRmMDgtYTJmMS1iYjZiMTdjMmVjNGQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY5ODYxLCJzdWIiOiJiMTcxN2NmMy04NjcxLTQzODMtOGUyMC1lMWY4ZDhhNzRhNTYucGplIiwiZXhwIjoxNzMxNDczNDYxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjI4MjY1MiwibG9naW4iOiIwNDk0NDQ3MTQxNiIsIm5vbWUiOiJKT1NFIFBJUkVTIFJPRFJJR1VFUyBGSUxITyIsInBlcmZpbCI6NTQzODAsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6NTAyMTUsImRlc2NyaWNhbyI6IkpPU0UgUElSRVMgUk9EUklHVUVTIEZJTEhPICgwNDkuNDQ0LjcxNC0xNikifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUUlQyMiIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt22.jus.br ; Path = /
+Name = access_token_footer ; Value = FLyNrwjf20Cw9xphVKoiVaAmQdl5LU9sYH0usOunsBM ; Domain = pje.trt22.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1ZmM1ZjlhOC01MzJiLTQ3NDQtOGRiNS0zM2NjOWZmZTIyNmIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY5ODYxLCJzdWIiOiJiMTcxN2NmMy04NjcxLTQzODMtOGUyMC1lMWY4ZDhhNzRhNTYucGplIiwiZXhwIjoxNzMxNTEzMDYxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNDk0NDQ3MTQxNiIsInBlcmZpbCI6NTQzODAsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMjIifQ.OXMgkIFy11uM7rSXdK3rrT4-RIa9P-a9WY7VUiYhDR8 ; Domain = pje.trt22.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 876E27C14F7E643EF0780165EB40E2B242C31042BA6F763DCA34E3D532A27469BD4D829A43A29132E36F021CA60D8D7E3E05 ; Domain = pje.trt22.jus.br ; Path = /
+)
+13/11/2024 00:51:03: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 00:51:04: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:51:04: Rodou

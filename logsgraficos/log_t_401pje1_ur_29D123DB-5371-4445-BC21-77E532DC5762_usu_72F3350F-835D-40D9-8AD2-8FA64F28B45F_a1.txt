@@ -1,0 +1,32 @@
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 4.01.pje.1
+13/11/2024 00:41:27: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 0.slvl10rvlkn "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 vVOLiatLt9hxI7amSGdVd1BAxwWeruF2 "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+13/11/2024 00:41:32: Logou https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:41:32: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.1 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = S8SFcthdKxXFyZXkQgoejJefairFlLFzXzMkCxG1.srvpje1goutjb13 ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTgwODksImlhdCI6MTczMTQ2OTI4OSwiYXV0aF90aW1lIjoxNzMxNDY5Mjg5LCJqdGkiOiJkYTg0ZWJhZS1lOWE1LTQxY2EtOWE2OS0wNDJmNzMxZjIwZDMiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTFnIiwic3ViIjoiOGZjMWE4NmMtMmM1NC00MGFmLThkNzAtZWVmYjZlOTRkM2Y1IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0xZyIsInNlc3Npb25fc3RhdGUiOiIzYTdmY2M1My00OGIwLTRhMmItOTc3Ny01M2IyMjU0OGU2OTQiLCJhdF9oYXNoIjoiV3NCYWUycXlXS1NId0R3aDM0YkYtUSIsImFjciI6IjEiLCJzaWQiOiIzYTdmY2M1My00OGIwLTRhMmItOTc3Ny01M2IyMjU0OGU2OTQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFEUklBTkEgTUFSSUEgREEgTFVaIE5PR1VFSVJBIERJTklaIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMTA0OTE0OTk0NzciLCJnaXZlbl9uYW1lIjoiQURSSUFOQSBNQVJJQSBEQSBMVVogTk9HVUVJUkEgRElOSVoiLCJlbWFpbCI6ImFkcmlhbmFub2d1ZWlyYS5hZHZvY2FjaWFAZ21haWwuY29tIn0.yZ2Dm00h2RyVhkNdw644N3sFPWaK40Nq92DRSF6CCQgb81DkP__4NDklp5bDnlnTtUpMmIQsndfEoHNJI4YPKoxBFpITEKF9piIk5zJzHviuH4dNyImFtnYgteTIpP1fwg9LukSvibZmwVCLh7fY5T_uC2ahcCTBHgRxgmJ_7uVH_DM7tL9ukaUqdKxoC3vs0zUb28_G7Ui7cj0kwsAIwRFJ59m9cRNd5iQgAaze43-6o8d9Jvg1bFNJ6UWmzTv0kqvoZXj68AFpri1c1wNpRSiN3gA1st8j-EUU1bnqyxzd6IBfpxEOYQYht3i8Geh6slxR4glVYR46q_xFZPB8YQ ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-1G-StickySessionRule ; Value = srvpje1goutjb13:pje-trf1-1g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /
+)
+13/11/2024 00:41:34: Total: 1
+13/11/2024 00:41:36: advogado 1031169-11.2024.4.01.4000 >> Processo com 7 parte(s), 37 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:41:36: Entrou na aba expediente do perfil para as categorias Respondidos nos últimos 10 dias e detectou 1 e leu 1
+13/11/2024 00:41:38: Total: 3
+13/11/2024 00:41:38: Total: 3
+13/11/2024 00:41:40: advogado 1010079-49.2021.4.01.4000 >> Processo com 3 parte(s), 57 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 00:41:42: advogado 1037414-43.2021.4.01.4000 >> Processo com 5 parte(s), 48 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 00:41:42: advogado 1031169-11.2024.4.01.4000 >> Processo já foi verificado recentemente
+13/11/2024 00:41:42: Total: 1
+13/11/2024 00:41:42: Total: 1
+13/11/2024 00:41:44: advogado 1013454-47.2024.4.01.4002 >> Processo com 5 parte(s), 17 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 00:41:44: Total: 4
+13/11/2024 00:41:44: Total: 4
+13/11/2024 00:41:46: advogado 1000401-07.2021.4.01.4001 >> Processo com 3 parte(s), 68 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 00:41:48: advogado 1001206-57.2021.4.01.4001 >> Processo com 4 parte(s), 59 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 00:41:50: advogado 1001663-89.2021.4.01.4001 >> Processo com 3 parte(s), 28 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 00:41:51: advogado 1005451-09.2024.4.01.4001 >> Processo com 6 parte(s), 65 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 00:41:52: Entrou na aba acervo do perfil e mapeou 8 processos e teve erro em 0 processos
+13/11/2024 00:41:52: Rodou

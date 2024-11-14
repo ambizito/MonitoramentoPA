@@ -1,0 +1,23 @@
+18762063812@sergiosilva@B9E949D7-F1B3-45E5-9D5C-E7378F6BD428@bezos em 5.01.pje.1
+13/11/2024 12:43:38: Acessou https://pje.trt1.jus.br/primeirograu/login.seam
+13/11/2024 12:44:20: Logou https://pje.trt1.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 12:44:21: Perfil advogado e usuário SERGIO ALEXANDRE DA SILVA
+OAB = 18762063812 ; URL = https://pje.trt1.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.01.pje.1 ; usuarioId = 18762063812@sergiosilva@B9E949D7-F1B3-45E5-9D5C-E7378F6BD428@bezos ; Cookies (
+Name = JSESSIONID ; Value = 22c17b17c26c130e~0fEY+1w2JdCajn1X9UvA6gho ; Domain = pje.trt1.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt1.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 0ba68cc1-ab92-4128-9fee-f6a139fc0c20 ; Domain = pje.trt1.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt1.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhMzMzZTc5Yy0xZjZkLTQwZmMtYWM2MS1hYTgwZTFmZTdmMTgiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTEyNjQyLCJzdWIiOiI5OGM5ZTQ4Ni1mYjBmLTQwNzEtODY5ZS1mOTY3M2ZiOWYyYzUucGplIiwiZXhwIjoxNzMxNTE2MjQyLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQyNDYwMiwibG9naW4iOiIxODc2MjA2MzgxMiIsIm5vbWUiOiJTRVJHSU8gQUxFWEFORFJFIERBIFNJTFZBIiwicGVyZmlsIjozODE3OSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjozMDY1MCwiZGVzY3JpY2FvIjoiU0VSR0lPIEFMRVhBTkRSRSBEQSBTSUxWQSAoMTg3LjYyMC42MzgtMTIpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFJUMSIsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt1.jus.br ; Path = /
+Name = access_token_footer ; Value = Jo3nULvN-G85uVLH4W8ouYNulGG-Hd8lRkAm8i9J854 ; Domain = pje.trt1.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkNGEzNTgyMC0xOTc1LTQwOGQtOGU3NS1kNDMzNDVmNmRhYTEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTEyNjQyLCJzdWIiOiI5OGM5ZTQ4Ni1mYjBmLTQwNzEtODY5ZS1mOTY3M2ZiOWYyYzUucGplIiwiZXhwIjoxNzMxNTU1ODQyLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIxODc2MjA2MzgxMiIsInBlcmZpbCI6MzgxNzksIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFJUMSJ9.phCTIFpVcix5gwFynKcdY0zOJFIbWshoZ3wlsoVoOGY ; Domain = pje.trt1.jus.br ; Path = /
+Name = Xsrf-Token ; Value = BABB6AF48B9A36B4E2D9C56F3A697B10CC10EFC6FC19F7567C89ED4842327F2FA4D997351B3EA3612F371BF59891D16C3728 ; Domain = pje.trt1.jus.br ; Path = /
+)
+13/11/2024 12:46:57: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:49:36: Total: 4
+13/11/2024 12:49:36: Total: 4
+13/11/2024 12:50:57: advogado 0010301-34.2014.5.01.0043 >> Processo com 3 parte(s), 32 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 12:51:02: advogado 0010538-91.2014.5.01.0003 >> Processo com 2 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 12:51:08: advogado 0011129-28.2014.5.01.0076 >> Processo com 3 parte(s), 18 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 12:52:50: advogado 0011420-48.2014.5.01.0037 >> Processo com 6 parte(s), 54 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 12:55:18: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+13/11/2024 12:55:18: Rodou

@@ -1,0 +1,24 @@
+RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 5.05.pje.2
+12/11/2024 16:26:02: Acessou https://pje.trt5.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar coque123 iZpmO76wSQU82tOWo3YDT4LqFeIEXQmG "LUCAS RODRIGUES DE MEDEIROS COQUE:09935787486"
+12/11/2024 16:26:05: Logou https://pje.trt5.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 16:26:05: Perfil advogado e usuário LUCAS RODRIGUES DE MEDEIROS COQUE
+OAB = RN14395 ; URL = https://pje.trt5.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.05.pje.2 ; usuarioId = RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = 1b65cce8c1990da1~nHUBKh51zLNx3uDr+HmFtt+U ; Domain = pje.trt5.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt5.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = 4f9f9b34-d6cc-47b8-9e42-c9c6270935f2 ; Domain = pje.trt5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5NGQ2ODA5OC0yZWE5LTQxMmYtYTg1ZS02NDUyZWUyYjUyYmMiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDM5NTY0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDQzMTY0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ4NjQzOSwibG9naW4iOiIwOTkzNTc4NzQ4NiIsIm5vbWUiOiJMVUNBUyBST0RSSUdVRVMgREUgTUVERUlST1MgQ09RVUUiLCJwZXJmaWwiOjk1NDcxLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjc1OTg4LCJkZXNjcmljYW8iOiJMVUNBUyBST0RSSUdVRVMgREUgTUVERUlST1MgQ09RVUUgKDA5OS4zNTcuODc0LTg2KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDUiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token_footer ; Value = NHghtMPkp2NdUa1mBpe6nDc31QktcOpnSVkkUxjZh_k ; Domain = pje.trt5.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1ZWFmNTAzZi0xNTMwLTRiNWYtOWYxYS0xYzY5MDUyYWZkMTgiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDM5NTY0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDgyNzY0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwOTkzNTc4NzQ4NiIsInBlcmZpbCI6OTU0NzEsIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNSJ9.vRgfeMa2J6t2nq0RTl88zUutLNOw8pNEiQyzPTWuDbc ; Domain = pje.trt5.jus.br ; Path = /
+Name = Xsrf-Token ; Value = BD4C849AB3279AB77F6DE2E7CD442F62B1623653A920AE2DC756F48F029D1ACB860BBD8EF99A0D7AF841023CD79EE3AA8223 ; Domain = pje.trt5.jus.br ; Path = /
+)
+12/11/2024 16:26:07: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 16:26:09: Total: 1
+12/11/2024 16:26:09: Total: 1
+12/11/2024 16:26:09: advogado 0000410-86.2023.5.05.0196 >> Processo já foi verificado recentemente
+12/11/2024 16:26:09: Total: 1
+12/11/2024 16:26:09: Total: 1
+12/11/2024 16:26:09: advogado 0000410-86.2023.5.05.0196 >> Processo já foi verificado recentemente
+12/11/2024 16:26:10: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 16:26:10: Rodou

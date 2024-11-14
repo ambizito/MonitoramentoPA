@@ -1,0 +1,31 @@
+RN14821@santosdesaenobre@5CA0355F-3367-4B44-AD31-499F361F3F7E@jobs em 4.05.pje.2.00
+12/11/2024 17:06:59: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 090805 rzwJhuuli62fsJPSdxz7TOMLXjkLdQTi "SILVANA NOBRE SILVA:05229681470"
+12/11/2024 17:07:04: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 17:07:04: Perfil advogado e usuário SILVANA NOBRE SILVA
+OAB = RN14821 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN14821@santosdesaenobre@5CA0355F-3367-4B44-AD31-499F361F3F7E@jobs ; Cookies (
+Name = JSESSIONID ; Value = zXRpLoqSnd8d0JMb2vWV-uYS.node02 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000cefbfeae36af0af44fff3d1b3f8f2e009f0e57ecc887902fb0adb25a3ea298ad089eee51bf113000bfa7adef82a5006f12574b802aea4c3c79a09eac1ff71d612851810cb99a1767e0f673cec63a8d5439b277a5d255ecd3 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 17:08:39: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 17:08:55: Total: 1
+12/11/2024 17:08:55: Total: 1
+12/11/2024 17:09:07:  0808316-75.2021.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 17:09:28: Total: 11
+12/11/2024 17:09:28: Total: 11
+12/11/2024 17:09:38:  0812721-42.2018.4.05.0000 >> Processo com 4 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 17:09:54:  0802796-76.2017.4.05.8400 >> Processo com 5 parte(s), 15 andamento(s) e 37 expediente(s) atualizado
+12/11/2024 17:10:12:  0811116-18.2017.4.05.8400 >> Processo com 4 parte(s), 12 andamento(s) e 53 expediente(s) atualizado
+12/11/2024 17:10:25:  0800927-19.2021.4.05.0000 >> Processo com 6 parte(s), 12 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 17:10:37:  0800306-70.2020.4.05.8402 >> Processo com 3 parte(s), 15 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 17:10:48:  0806278-36.2022.4.05.0000 >> Processo com 4 parte(s), 15 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 17:11:01:  0809745-77.2021.4.05.8400 >> Processo com 3 parte(s), 13 andamento(s) e 29 expediente(s) atualizado
+12/11/2024 17:11:12:  0805321-21.2023.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 17:11:22:  0803772-19.2024.4.05.0000 >> Processo com 4 parte(s), 14 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 17:11:33:  0805325-58.2023.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 17:11:43:  0805330-80.2023.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 17:11:59: Total: 0
+12/11/2024 17:11:59: Total: 0
+12/11/2024 17:12:02: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+12/11/2024 17:12:02: Rodou

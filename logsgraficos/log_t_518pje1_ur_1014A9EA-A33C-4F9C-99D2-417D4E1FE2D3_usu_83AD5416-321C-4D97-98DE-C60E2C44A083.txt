@@ -1,0 +1,35 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.18.pje.1
+12/11/2024 21:45:58: Acessou https://pje.trt18.jus.br/primeirograu/login.seam
+12/11/2024 21:46:00: Logou https://pje.trt18.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 21:46:00: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+12/11/2024 21:46:01: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 21:46:03: Total: 22
+12/11/2024 21:46:03: Total: 22
+12/11/2024 21:46:08: advogado 0010212-67.2021.5.18.0083 >> Processo com 2 parte(s), 67 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:46:14: advogado 0010243-56.2022.5.18.0082 >> Processo com 2 parte(s), 77 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 21:46:18: advogado 0010246-42.2021.5.18.0083 >> Processo com 6 parte(s), 61 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 21:46:26: advogado 0010283-75.2021.5.18.0081 >> Processo com 2 parte(s), 114 andamento(s) e 23 expediente(s) atualizado
+12/11/2024 21:46:31: advogado 0010443-03.2021.5.18.0081 >> Processo com 2 parte(s), 113 andamento(s) e 18 expediente(s) atualizado
+12/11/2024 21:46:35: advogado 0010444-82.2021.5.18.0082 >> Processo com 2 parte(s), 69 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 21:46:38: advogado 0010609-98.2022.5.18.0081 >> Processo com 2 parte(s), 21 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:46:41: advogado 0010668-86.2022.5.18.0081 >> Processo com 2 parte(s), 23 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:46:48: advogado 0010674-24.2021.5.18.0083 >> Processo com 2 parte(s), 204 andamento(s) e 39 expediente(s) atualizado
+12/11/2024 21:46:54: advogado 0010857-35.2020.5.18.0081 >> Processo com 2 parte(s), 95 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:47:00: advogado 0010858-17.2020.5.18.0082 >> Processo com 5 parte(s), 111 andamento(s) e 21 expediente(s) atualizado
+12/11/2024 21:47:07: advogado 0010858-82.2018.5.18.0083 >> Processo com 5 parte(s), 132 andamento(s) e 32 expediente(s) atualizado
+12/11/2024 21:47:09: advogado 0011083-03.2021.5.18.0082 >> Processo com 2 parte(s), 21 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:47:14: advogado 0011133-89.2022.5.18.0083 >> Processo com 2 parte(s), 31 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 21:47:17: advogado 0011136-50.2022.5.18.0081 >> Processo com 2 parte(s), 22 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:47:33: advogado 0011136-55.2019.5.18.0081 >> Processo com 5 parte(s), 421 andamento(s) e 96 expediente(s) atualizado
+12/11/2024 21:47:37: advogado 0011179-21.2021.5.18.0081 >> Processo com 5 parte(s), 87 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 21:47:47: advogado 0011193-67.2019.5.18.0083 >> Processo com 5 parte(s), 347 andamento(s) e 61 expediente(s) atualizado
+12/11/2024 21:47:51: advogado 0011252-90.2021.5.18.0081 >> Processo com 6 parte(s), 80 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:47:58: advogado 0011395-21.2017.5.18.0081 >> Processo com 4 parte(s), 74 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 21:48:03: advogado 0011536-37.2017.5.18.0082 >> Processo com 2 parte(s), 107 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 21:48:16: advogado 0011775-75.2016.5.18.0082 >> Processo com 4 parte(s), 233 andamento(s) e 60 expediente(s) atualizado
+12/11/2024 21:48:16: Total: 2
+12/11/2024 21:48:16: Total: 2
+12/11/2024 21:48:19: advogado 0010702-02.2021.5.18.0015 >> Processo com 2 parte(s), 90 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 21:48:27: advogado 0011184-24.2019.5.18.0013 >> Processo com 4 parte(s), 158 andamento(s) e 37 expediente(s) atualizado
+12/11/2024 21:48:29: Entrou na aba acervo do perfil e mapeou 24 processos e teve erro em 0 processos
+12/11/2024 21:48:29: Rodou

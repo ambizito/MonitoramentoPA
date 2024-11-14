@@ -1,0 +1,8 @@
+39255956434@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.19.pje.2
+13/11/2024 01:17:37: Acessou https://tjrj.pje.jus.br/2g/login.seam
+13/11/2024 01:17:38: Erro no acesso: Desconhecido
+html: salvo no mongo.
+39255956434@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.19.pje.2
+13/11/2024 01:18:38: Acessou https://tjrj.pje.jus.br/2g/login.seam
+13/11/2024 01:18:38: Erro no acesso: Desconhecido
+html: salvo no mongo.

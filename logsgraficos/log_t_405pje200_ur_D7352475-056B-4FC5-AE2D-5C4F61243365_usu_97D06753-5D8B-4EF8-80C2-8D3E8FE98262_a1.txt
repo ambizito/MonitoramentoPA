@@ -1,0 +1,31 @@
+RN1727@magnaadvogadosassociados@D7352475-056B-4FC5-AE2D-5C4F61243365@mark em 4.05.pje.2.00
+13/11/2024 01:36:23: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 26121964 0npVkogdDckCQE4NFoxs9Nab36N0ub8t "MAGNA LETICIA DE AZEVEDO LOPES CAMARA:37883380400"
+13/11/2024 01:36:26: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:36:26: Perfil advogado e usuário Magnas Letícia de Azevedo Lopes Câmara
+OAB = RN1727 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN1727@magnaadvogadosassociados@D7352475-056B-4FC5-AE2D-5C4F61243365@mark ; Cookies (
+Name = JSESSIONID ; Value = Uj08m28kOQ+HUSjVfOIo+oEI.node11 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab200042815a2fdc5b5273a185157ea69d082c947f9378d85fb270de3be000a1512a3208d119ebbb1130003c22791791f34939598ad0523844130db098b9571cec7d6f9d696d2872be8edb48802095a17084e4ce6d6948ea21968c ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+13/11/2024 01:38:04: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 01:38:19: Total: 1
+13/11/2024 01:38:19: Total: 1
+13/11/2024 01:38:40:  0803252-31.2014.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 63 expediente(s) atualizado
+13/11/2024 01:39:02: Total: 11
+13/11/2024 01:39:02: Total: 11
+13/11/2024 01:39:11:  0801806-70.2014.4.05.0000 >> Processo com 4 parte(s), 13 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:39:24:  0801646-65.2014.4.05.8400 >> Processo com 4 parte(s), 15 andamento(s) e 26 expediente(s) atualizado
+13/11/2024 01:39:34:  0803094-39.2015.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:39:46:  0808166-07.2015.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:40:01:  0802994-79.2018.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 23 expediente(s) atualizado
+13/11/2024 01:40:23:  0009535-26.2002.4.05.8400 >> Processo com 6 parte(s), 11 andamento(s) e 30 expediente(s) atualizado
+13/11/2024 01:40:45:  0001367-20.2011.4.05.8400 >> Processo com 7 parte(s), 14 andamento(s) e 23 expediente(s) atualizado
+13/11/2024 01:41:20:  0811193-27.2017.4.05.8400 >> Processo com 5 parte(s), 10 andamento(s) e 181 expediente(s) atualizado
+13/11/2024 01:41:31:  0808924-82.2023.4.05.0000 >> Processo com 5 parte(s), 15 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:41:39:  0800514-98.2024.4.05.0000 >> Processo com 4 parte(s), 15 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 01:41:39:  0805894-59.2023.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:41:55: Total: 0
+13/11/2024 01:41:55: Total: 0
+13/11/2024 01:41:56: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+13/11/2024 01:41:56: Rodou

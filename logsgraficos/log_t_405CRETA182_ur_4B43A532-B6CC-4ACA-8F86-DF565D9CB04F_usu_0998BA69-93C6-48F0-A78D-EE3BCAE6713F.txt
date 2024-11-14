@@ -1,0 +1,4 @@
+RN6393@bragadias@4B43A532-B6CC-4ACA-8F86-DF565D9CB04F@berners em 4.05.CRETA.1.82
+13/11/2024 19:30:14: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+13/11/2024 19:31:01: Erro no acesso: Senha invalida
+html: salvo no mongo.

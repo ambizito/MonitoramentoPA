@@ -1,0 +1,22 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.07.pje.1
+12/11/2024 18:30:04: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 0.s73i435lhq2 "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 18:30:07: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:30:07: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = JSESSIONID ; Value = YMn3omgDfxHk9GDcK_qremsln77pwQwfLexZAq2U.hc-zdu138:pje-internet-zdu138 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 18:30:08: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:30:10: Total: 1
+12/11/2024 18:30:10: Total: 1
+12/11/2024 18:30:12: advogado 0704403-17.2024.8.07.0015 >> Processo com 6 parte(s), 19 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 18:30:13: Total: 1
+12/11/2024 18:30:13: Total: 1
+12/11/2024 18:30:15: advogado 0723871-08.2021.8.07.0003 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 18:30:16: Total: 1
+12/11/2024 18:30:16: Total: 1
+12/11/2024 18:30:18: advogado 0702989-27.2023.8.07.0012 >> Processo com 8 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 18:30:20: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 18:30:20: Rodou

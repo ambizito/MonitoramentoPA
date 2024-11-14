@@ -1,0 +1,28 @@
+RO3279@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark em 5.23.pje.1
+12/11/2024 19:38:18: Acessou https://pje.trt23.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 327906 4qPe5GDnfixCD7IA3esuO7Xnn29jWsgF "handerson simoes da silva:62927558272"
+12/11/2024 19:38:22: Logou https://pje.trt23.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 19:38:23: Perfil advogado e usuário HANDERSON SIMOES DA SILVA
+OAB = RO3279 ; URL = https://pje.trt23.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.23.pje.1 ; usuarioId = RO3279@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark ; Cookies (
+Name = JSESSIONID ; Value = 800b85f1ff110acb~WJqyaZ72f69YCrVPIIPgQcXb ; Domain = pje.trt23.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt23.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = c568c7e5-8973-4fe1-bef5-9ab82bd57e93 ; Domain = pje.trt23.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt23.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3NWJkMGUwYy04YjE4LTQwNWMtOTg2YS05MDlkNDRjNzgwOWIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUxMTAwLCJzdWIiOiJjOTY3NjFlMC01ZmVkLTQ0ZjMtYmY0NC1jZjFmOGRhMWM3ZGUucGplIiwiZXhwIjoxNzMxNDU0NzAwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjI0MDAyOSwibG9naW4iOiI2MjkyNzU1ODI3MiIsIm5vbWUiOiJIQU5ERVJTT04gU0lNT0VTIERBIFNJTFZBIiwicGVyZmlsIjoyNzczNywicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxOTY0NCwiZGVzY3JpY2FvIjoiSEFOREVSU09OIFNJTU9FUyBEQSBTSUxWQSAoNjI5LjI3NS41ODItNzIpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwib3JpZ2VtIjoiVFJUMjMiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt23.jus.br ; Path = /
+Name = access_token_footer ; Value = vloi63dJfVlHzNKvEKJ8_qRKIK9pI4ZcNVhergw9K8M ; Domain = pje.trt23.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMmEzZGY1ZC03Mzk0LTRhNDQtOWJmYi03MWNkYzc1NWM0MTkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUxMTAwLCJzdWIiOiJjOTY3NjFlMC01ZmVkLTQ0ZjMtYmY0NC1jZjFmOGRhMWM3ZGUucGplIiwiZXhwIjoxNzMxNDk0MzAwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI2MjkyNzU1ODI3MiIsInBlcmZpbCI6Mjc3MzcsIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMjMifQ.Do_UMhsKEppDVhoJZU0pEkYivP1Qk8khNKt8SYQdvUM ; Domain = pje.trt23.jus.br ; Path = /
+Name = Xsrf-Token ; Value = A9A93CFFC93E3210A8DDE5F6DBB335B6A3427D5D62B958A10C934EBC5EEB9328AD181470D9AA6488A1C559A1CC511D8D10F2 ; Domain = pje.trt23.jus.br ; Path = /
+)
+12/11/2024 19:38:24: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 19:38:26: Total: 1
+12/11/2024 19:38:26: Total: 1
+12/11/2024 19:38:26: advogado 0000207-24.2022.5.23.0111 >> Processo já foi verificado recentemente
+12/11/2024 19:38:26: Total: 1
+12/11/2024 19:38:26: Total: 1
+12/11/2024 19:38:26: advogado 0000359-33.2021.5.23.0006 >> Processo já foi verificado recentemente
+12/11/2024 19:38:26: Total: 2
+12/11/2024 19:38:26: Total: 2
+12/11/2024 19:38:26: advogado 0000199-15.2017.5.23.0146 >> Processo já foi verificado recentemente
+12/11/2024 19:38:26: advogado 0000200-97.2017.5.23.0146 >> Processo já foi verificado recentemente
+12/11/2024 19:38:27: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 19:38:27: Rodou

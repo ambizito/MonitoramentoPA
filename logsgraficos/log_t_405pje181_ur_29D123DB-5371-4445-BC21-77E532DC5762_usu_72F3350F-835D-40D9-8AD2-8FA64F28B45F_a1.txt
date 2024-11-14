@@ -1,0 +1,18 @@
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 4.05.pje.1.81
+13/11/2024 00:37:08: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 vozPJQ0cnD8qAdiUGpYkRJNiQrnQV9sJ "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+13/11/2024 00:37:11: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:37:11: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = A8cRVmaxDr5ZKOERJHH9dTZk.node04 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+13/11/2024 00:37:18: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 00:37:33: Total: 0
+13/11/2024 00:37:33: Total: 0
+13/11/2024 00:37:50: Total: 0
+13/11/2024 00:37:50: Total: 0
+13/11/2024 00:38:02: Total: 0
+13/11/2024 00:38:02: Total: 0
+13/11/2024 00:38:03: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:38:03: Rodou

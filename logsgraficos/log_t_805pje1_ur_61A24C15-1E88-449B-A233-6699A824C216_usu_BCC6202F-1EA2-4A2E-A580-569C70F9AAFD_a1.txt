@@ -1,0 +1,12 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 8.05.pje.1
+12/11/2024 20:16:06: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.eg3g0ewx4kw "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+12/11/2024 20:16:09: Erro no acesso: Desconhecido
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 8.05.pje.1
+12/11/2024 20:17:10: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.r4ru00bjt9i "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+12/11/2024 20:17:13: Erro no acesso: Desconhecido
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 8.05.pje.1
+12/11/2024 20:18:14: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.5q7okty3hlv "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+12/11/2024 20:34:56: Erro no acesso: Desconhecido

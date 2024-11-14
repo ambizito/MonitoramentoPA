@@ -1,0 +1,4 @@
+RN4480@ufvadvogados@0E021186-1A86-4372-8EF2-6F7AA508D476@linus em 4.05.CRETA.1.81
+12/11/2024 19:03:38: Acessou https://wwws.jfce.jus.br/cretace/login.wsp
+12/11/2024 19:04:09: Erro no acesso: Senha invalida
+html: salvo no mongo.

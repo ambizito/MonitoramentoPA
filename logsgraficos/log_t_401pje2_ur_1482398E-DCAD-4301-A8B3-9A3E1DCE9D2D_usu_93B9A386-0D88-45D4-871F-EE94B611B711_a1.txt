@@ -1,0 +1,20 @@
+RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark em 4.01.pje.2
+12/11/2024 22:13:13: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm 0.94grnfcx4m2 "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm 1N3L9Rzn7AJNrDDg46GlwxWBJ45949ZQ "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+12/11/2024 22:13:19: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:13:19: Perfil advogado e usuário GERSON BRENDO MESQUITA FERREIRA
+OAB = RN24861 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark ; Cookies (
+Name = JSESSIONID ; Value = q4xM4BOWf9bJ3-MNUmznigmZGPy_8olJRBxF2Z9P.srvpje2goutjb05 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODkxOTUsImlhdCI6MTczMTQ2MDM5NSwiYXV0aF90aW1lIjoxNzMxNDYwMzk1LCJqdGkiOiIyYjk3MTU5Yy0zMGU0LTRmMTEtOWViYi1mNjNiZWEyZjUxMTQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOGI3OTgzMDEtYjE5YS00Y2M5LWEyYjctYzEyNmRiOGQ2MGNiIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI1NGI3NTQ5NS01NGYzLTQzMzItYWQxMC1lODYwYzVhOTQzMWEiLCJhdF9oYXNoIjoiLXczbFFKeTY5Q1hFc2dkNlNxdXJVUSIsImFjciI6IjEiLCJzaWQiOiI1NGI3NTQ5NS01NGYzLTQzMzItYWQxMC1lODYwYzVhOTQzMWEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkdFUlNPTiBCUkVORE8gTUVTUVVJVEEgRkVSUkVJUkEiLCJKVFIiOiI0MDEiLCJqdHIiOiI0MDEiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwMTY3NTAyNTQ5NSIsImdpdmVuX25hbWUiOiJHRVJTT04gQlJFTkRPIE1FU1FVSVRBIEZFUlJFSVJBIiwiZW1haWwiOiJicmVuZG9tZXNxdWl0YTA2QGdtYWlsLmNvbSJ9.MFjA-vgsbBsKf2ZO_tL9JrDckh-CuKkzaerbbUC5Z35uiWlLl7LjStqAlUqqDYq52jV1cz9LPeE-L-nqnw3rALBquTh6RI7rMgvrqdjytvk3EzPoPae7gP_SumO6laAF38KkLhlXGOkoH77Sjo_kSC4VvGjeoMZEPu6o9akEFwgvk1OPpwkFhMaAW9CqLf-qwDliayOyzCCNQyS_6ioETmwOmWu3_q_-Df6X2L6K0wYgOcnxk4TIwT03csTzIIf6JpEc4RZOG-IPOt77X2KHz--L7ym7iTtrRL7lL1F8aBEBksqN2kmtm1I9BwCZmtOBZfIq2i1_HL9L5m8yQJ1OEw ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb05:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+12/11/2024 22:13:20: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:13:24: Total: 2
+12/11/2024 22:13:24: Total: 2
+12/11/2024 22:13:24: advogado 1023956-57.2023.4.01.0000 >> Processo já foi verificado recentemente
+12/11/2024 22:13:24: advogado 1013166-77.2024.4.01.0000 >> Processo já foi verificado recentemente
+12/11/2024 22:13:29: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 22:13:29: Rodou

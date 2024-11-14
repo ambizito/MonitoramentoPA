@@ -1,0 +1,25 @@
+00620423196@gfadvocacia@C7463F49-0AE6-42FA-A844-193F14C62695@berners em 5.24.pje.1
+12/11/2024 21:55:54: Acessou https://pje.trt24.jus.br/primeirograu/login.seam
+12/11/2024 21:55:56: Logou https://pje.trt24.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 21:55:57: Perfil advogado e usuário GUSTAVO DA FONSECA LIMA
+OAB = 00620423196 ; URL = https://pje.trt24.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.24.pje.1 ; usuarioId = 00620423196@gfadvocacia@C7463F49-0AE6-42FA-A844-193F14C62695@berners ; Cookies (
+Name = JSESSIONID ; Value = 7155dc2995d6c8c5~Vm3zmyBuD02gsfK5GwsQpYSx ; Domain = pje.trt24.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt24.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 1ba9e3fa-558b-4856-bdcd-799a1adc8851 ; Domain = pje.trt24.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt24.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlNjVkNTk2Yi03M2NhLTQ0N2MtYTU4Zi0yNzI5NGMxYjFiZmYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU5MzU1LCJzdWIiOiIxMzhlODYxMi05NTk1LTRkMjAtOTJmZC02MjNhZDgwNDE4MjIucGplIiwiZXhwIjoxNzMxNDYyOTU1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ2ODk5OSwibG9naW4iOiIwMDYyMDQyMzE5NiIsIm5vbWUiOiJHVVNUQVZPIERBIEZPTlNFQ0EgTElNQSIsInBlcmZpbCI6ODcxNjEsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6NzY0NzEsImRlc2NyaWNhbyI6IkdVU1RBVk8gREEgRk9OU0VDQSBMSU1BICgwMDYuMjA0LjIzMS05NikifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUUlQyNCIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt24.jus.br ; Path = /
+Name = access_token_footer ; Value = rIuA2IgxhF0PqrpQgeMtNJ7YG7L1uxrDc-x5WAIjFiw ; Domain = pje.trt24.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwMDZiMWQxNy05YjU3LTQ4MDAtOGU2Zi1iYjFlZGMwNmYyMDAiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU5MzU1LCJzdWIiOiIxMzhlODYxMi05NTk1LTRkMjAtOTJmZC02MjNhZDgwNDE4MjIucGplIiwiZXhwIjoxNzMxNTAyNTU1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwMDYyMDQyMzE5NiIsInBlcmZpbCI6ODcxNjEsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMjQifQ.T5eplWCZenIFCzNe-AP0Q_PjKgSar9-G_BKM10L3Z8k ; Domain = pje.trt24.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 3680FD4A68FF74C8414728535CDB341BE6307C8D0C052204598350E9ED5F3597213B4299FD396C0C15C53BDD659B13C867D3 ; Domain = pje.trt24.jus.br ; Path = /
+)
+12/11/2024 21:55:58: Total: 1
+12/11/2024 21:56:00: advogado 0025425-77.2024.5.24.0007 >> Processo com 2 parte(s), 14 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:56:00: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 2 e leu 1
+12/11/2024 21:56:01: Total: 4
+12/11/2024 21:56:01: Total: 4
+12/11/2024 21:56:02: advogado 0024250-63.2024.5.24.0002 >> Processo com 3 parte(s), 44 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:56:05: advogado 0024253-79.2019.5.24.0006 >> Processo com 2 parte(s), 132 andamento(s) e 24 expediente(s) atualizado
+12/11/2024 21:56:09: advogado 0024837-18.2020.5.24.0005 >> Processo com 5 parte(s), 167 andamento(s) e 30 expediente(s) atualizado
+12/11/2024 21:56:09: advogado 0025425-77.2024.5.24.0007 >> Processo já foi verificado recentemente
+12/11/2024 21:56:09: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 21:56:09: Rodou

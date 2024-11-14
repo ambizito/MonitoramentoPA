@@ -1,0 +1,13 @@
+RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.07.pje.2
+12/11/2024 16:30:57: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.mi8y16vcr5t "LEANDRO CESAR CRUZ DE SA LORENZETTI:06519418498"
+12/11/2024 16:31:00: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:31:00: Perfil advogado e usuário LEANDRO CESAR CRUZ DE SA LORENZETTI
+OAB = RN12552 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = xCydhtQn4gmMdcDhyyxmVhKqHi3FPdm3m2K3v7hh.hc-zdu128:pje2i-internet-zdu128 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 16:31:00: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:31:02: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:31:02: Rodou

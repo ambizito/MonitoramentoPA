@@ -1,0 +1,4 @@
+08295861484@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 8.13.pje.2
+13/11/2024 19:30:41: Acessou https://pjerecursal.tjmg.jus.br/pje/login.seam
+13/11/2024 19:30:44: Erro no acesso: Senha invalida
+html: salvo no mongo.

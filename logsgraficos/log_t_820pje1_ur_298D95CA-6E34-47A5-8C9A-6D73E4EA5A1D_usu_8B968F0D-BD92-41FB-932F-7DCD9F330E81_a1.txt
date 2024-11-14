@@ -1,0 +1,96 @@
+PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.20.pje.1
+13/11/2024 01:19:40: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.6hv0cylis1b "JOSE PIRES RODRIGUES FILHO:04944471416"
+13/11/2024 01:19:44: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:19:44: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = PB16549 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = MejMioqYmmkFXW8WydXo1fsHkwzEqwaOdRsXcINJ.pje1g-104-fkv4h ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1MDAzODIsImlhdCI6MTczMTQ3MTU4MywiYXV0aF90aW1lIjoxNzMxNDcxNTgyLCJqdGkiOiJiYjljMTYwZi1lZTJkLTQxNTktOTFiNS04ODFkZGU0NGZiZGQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiZDVkZGRiZTgtMTEzOS00OWE5LTg3OTAtZmFhYzg4MjI0YzI5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiI0YWMzYzQ1OS1lODM2LTQwMDEtYmEzNC1lNDViNjc2YWFlNjMiLCJhdF9oYXNoIjoicEVVZXdVOVBSV19UWkE0N0JWc3FsdyIsImFjciI6IjEiLCJzaWQiOiI0YWMzYzQ1OS1lODM2LTQwMDEtYmEzNC1lNDViNjc2YWFlNjMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkpPU0UgUElSRVMgUk9EUklHVUVTIEZJTEhPIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ5NDQ0NzE0MTYiLCJnaXZlbl9uYW1lIjoiSk9TRSBQSVJFUyBST0RSSUdVRVMgRklMSE8iLCJlbWFpbCI6ImNvbnRyb2xhZG9yaWFAZ2NwYWR2b2dhZG9zLmNvbS5iciJ9.cJh3SpDcBjNXSw8DOuS4jJeFIjm1CtjB8HTznkEFGHRdxcazL_n8SF_g3piAnr8GK4yfWP67ON_U6Tm-l-ZZvKl20_78z42ACmzNkRwzuTtcMKxAiyVpfze_gDFW3dadGNS1sdhaVwUf4JqlKf59YAb22iNVH4ycEwXvMLekONJ4LGFgt9AYAHiWyT1pRX-_FU7GWe4-BDpZeLOn5blhWLfgtr2Or5KDglESVolMMbmjeiSKEELmNMQYRRboE3uFhXl9LAYLCtuOyhx4sG2nq2gFXJQXDzQCOy3utvkFs06KfUIN0Eb4DBt5DjGgMhzMvP6eMMkjWFA5_Fa5Z7KjOA ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-fkv4h:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 0173694ab5ee8ef8476d804253536d51 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:19:45: Total: 1
+13/11/2024 01:19:52: advogado 0876003-26.2024.8.20.5001 >> Processo com 2 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:19:52: Total: 1
+13/11/2024 01:19:56: advogado 0807026-79.2024.8.20.5001 >> Processo com 3 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:19:56: Total: 3
+13/11/2024 01:20:04: advogado 0807771-93.2023.8.20.5001 >> Processo com 3 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:20:04: advogado 0807771-93.2023.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:20:10: advogado 0801620-57.2023.8.20.5116 >> Processo com 2 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:20:10: Total: 1
+13/11/2024 01:20:17: advogado 0876003-26.2024.8.20.5001 >> Processo com 2 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:20:18: Total: 1
+13/11/2024 01:20:25: advogado 0807026-79.2024.8.20.5001 >> Processo com 3 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:20:25: Total: 2
+13/11/2024 01:20:33: advogado 0807771-93.2023.8.20.5001 >> Processo com 3 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:20:33: advogado 0807771-93.2023.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:20:34: Total: 1
+13/11/2024 01:20:37: advogado 0000341-59.2008.8.20.0116 >> Processo com 2 parte(s), 59 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:20:37: Total: 1
+13/11/2024 01:20:42: advogado 0801620-57.2023.8.20.5116 >> Processo com 2 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:20:43: Total: 1
+13/11/2024 01:20:45: advogado 0801110-44.2023.8.20.5116 >> Processo com 2 parte(s), 80 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 01:20:45: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo Judiciário - pendente de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta, Sem prazo, Respondidos nos últimos 10 dias e detectou 15 e leu 7
+13/11/2024 01:20:47: Total: 13
+13/11/2024 01:20:47: Total: 13
+13/11/2024 01:20:47: advogado 0000341-59.2008.8.20.0116 >> Processo já foi verificado recentemente
+13/11/2024 01:20:49: advogado 0801514-95.2023.8.20.5116 >> Processo com 3 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:20:49: advogado 0801110-44.2023.8.20.5116 >> Processo já foi verificado recentemente
+13/11/2024 01:20:52: advogado 0801929-44.2024.8.20.5116 >> Processo com 2 parte(s), 32 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:20:53: advogado 0800716-08.2021.8.20.5116 >> Processo com 2 parte(s), 68 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:20:56: advogado 0800955-07.2024.8.20.5116 >> Processo com 3 parte(s), 48 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:20:59: advogado 0801865-34.2024.8.20.5116 >> Processo com 3 parte(s), 20 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 01:21:02: advogado 0800931-76.2024.8.20.5116 >> Processo com 4 parte(s), 55 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:21:04: advogado 0800424-52.2023.8.20.5116 >> Processo com 3 parte(s), 73 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:21:06: advogado 0800433-77.2024.8.20.5116 >> Processo com 3 parte(s), 26 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:08: advogado 0801084-80.2022.8.20.5116 >> Processo com 3 parte(s), 36 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:21:10: advogado 0800422-19.2022.8.20.5116 >> Processo com 3 parte(s), 68 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 01:21:12: advogado 0010128-97.2017.8.20.0116 >> Processo com 2 parte(s), 59 andamento(s) e 11 expediente(s) atualizado
+13/11/2024 01:21:12: Total: 3
+13/11/2024 01:21:12: Total: 3
+13/11/2024 01:21:14: advogado 0812334-87.2015.8.20.5106 >> Processo com 2 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:21:16: advogado 0815125-53.2020.8.20.5106 >> Processo com 4 parte(s), 74 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:21:18: advogado 0812550-09.2019.8.20.5106 >> Processo com 3 parte(s), 61 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:21:19: Total: 6
+13/11/2024 01:21:19: Total: 6
+13/11/2024 01:21:20: advogado 0803966-63.2023.8.20.5121 >> Processo com 2 parte(s), 35 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:21: advogado 0803963-11.2023.8.20.5121 >> Processo com 2 parte(s), 39 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:23: advogado 0803889-54.2023.8.20.5121 >> Processo com 2 parte(s), 33 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:24: advogado 0803891-24.2023.8.20.5121 >> Processo com 2 parte(s), 33 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:25: advogado 0803883-47.2023.8.20.5121 >> Processo com 2 parte(s), 28 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:27: advogado 0803887-84.2023.8.20.5121 >> Processo com 2 parte(s), 30 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:21:27: Total: 4
+13/11/2024 01:21:27: Total: 4
+13/11/2024 01:21:29: advogado 0812648-33.2024.8.20.5004 >> Processo com 3 parte(s), 67 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 01:21:31: advogado 0811172-62.2021.8.20.5004 >> Processo com 4 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:21:34: advogado 0804439-46.2022.8.20.5004 >> Processo com 3 parte(s), 24 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:21:36: advogado 0814760-48.2019.8.20.5004 >> Processo com 3 parte(s), 25 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:21:37: Total: 6
+13/11/2024 01:21:37: Total: 6
+13/11/2024 01:21:37: advogado 0876003-26.2024.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:21:41: advogado 0827478-13.2024.8.20.5001 >> Processo com 3 parte(s), 67 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 01:21:46: advogado 0859521-03.2024.8.20.5001 >> Processo com 2 parte(s), 19 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:21:50: advogado 0808668-87.2024.8.20.5001 >> Processo com 5 parte(s), 63 andamento(s) e 14 expediente(s) atualizado
+13/11/2024 01:21:53: advogado 0862437-78.2022.8.20.5001 >> Processo com 2 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:21:55: advogado 0804842-87.2023.8.20.5001 >> Processo com 4 parte(s), 64 andamento(s) e 14 expediente(s) atualizado
+13/11/2024 01:21:56: Total: 1
+13/11/2024 01:21:56: Total: 1
+13/11/2024 01:21:56: advogado 0807026-79.2024.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:21:56: Total: 2
+13/11/2024 01:21:56: Total: 2
+13/11/2024 01:21:59: advogado 0863803-55.2022.8.20.5001 >> Processo com 2 parte(s), 68 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:22:01: advogado 0876133-55.2020.8.20.5001 >> Processo com 6 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:22:02: Total: 8
+13/11/2024 01:22:02: Total: 8
+13/11/2024 01:22:02: advogado 0807771-93.2023.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:22:02: advogado 0801620-57.2023.8.20.5116 >> Processo já foi verificado recentemente
+13/11/2024 01:22:06: advogado 0808681-86.2024.8.20.5001 >> Processo com 3 parte(s), 45 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:22:08: advogado 0859719-11.2022.8.20.5001 >> Processo com 6 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:22:10: advogado 0816689-52.2024.8.20.5001 >> Processo com 3 parte(s), 67 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 01:22:18: advogado 0827646-49.2023.8.20.5001 >> Processo com 3 parte(s), 57 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:22:21: advogado 0831705-80.2023.8.20.5001 >> Processo com 2 parte(s), 68 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:22:23: advogado 0874523-81.2022.8.20.5001 >> Processo com 2 parte(s), 69 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 01:22:23: Entrou na aba acervo do perfil e mapeou 43 processos e teve erro em 0 processos
+13/11/2024 01:22:23: Rodou

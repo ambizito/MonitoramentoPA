@@ -1,0 +1,15 @@
+PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.11.pje.2
+13/11/2024 12:05:36: Acessou https://pje2.tjmt.jus.br/pje2/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.yb65l20ggo5 "DIEGO DOMICIANO VIEIRA COSTA CABRAL:05479437410"
+13/11/2024 12:08:19: Logou https://pje2.tjmt.jus.br/pje2/Painel/painel_usuario/advogado.seam
+13/11/2024 12:08:19: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = PB15574 ; URL = https://pje2.tjmt.jus.br/pje2/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.2 ; usuarioId = PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = O038zial9c-E3vGSmaYkkLOoelA5S-qRrfJQwcXN.pje2v2-vra-0004 ; Domain = pje2.tjmt.jus.br ; Path = /pje2
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_E92DC355349C4C5AE536B8E632FF2DA7_perc_100000_ol_0_mul_1_app-3Acf33841919087664_0_rcs-3Acss_0 ; Domain = pje2.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_E92DC355349C4C5AE536B8E632FF2DA7_perc_100000_ol_0_mul_1_app-3Acf33841919087664_0_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+13/11/2024 12:08:25: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:15:40: TokenContador não rodou com sucesso: An exception occurred while receiving a message from the server.
+13/11/2024 12:15:42: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 12:15:44: Rodou

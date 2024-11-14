@@ -1,0 +1,6 @@
+PB25593@velloso@1BFC3BFA-D454-4123-84DD-B6DD9F2C0F08@berners em 4.05.CRETA.1.82
+12/11/2024 19:22:10: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+12/11/2024 19:23:02: Logou https://jefvirtual.jfpb.jus.br/cretapb/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 19:23:22: Não capturou o total de processos para o OAB PB25593
+html: salvo no mongo.
+12/11/2024 19:23:22: Rodou

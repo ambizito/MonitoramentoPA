@@ -1,0 +1,21 @@
+RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 8.15.pje.1
+13/11/2024 00:02:17: Acessou https://pje.tjpb.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1857 0.y9vhhhyivwj "JESSICA XAVIER DA SILVA SANTOS:08295861484"
+13/11/2024 00:02:21: Logou https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:02:21: Perfil advogado e usuário JESSICA XAVIER DA SILVA SANTOS
+OAB = RN11345 ; URL = https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.15.pje.1 ; usuarioId = RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = ulOsC9L1E0lvIv76qgFZKAINwDt9M1op4rfELUmI.pje36-v21 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = TS019bf079 ; Value = 01766fbb1721b111de2463dce9717661adf41bb2dca45094245e3ddd0fa639da0f73ce155fad4ad7a2726cc6e0d463d184544b9b3d ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTU3NDAsImlhdCI6MTczMTQ2Njk0MCwiYXV0aF90aW1lIjoxNzMxNDY2OTQwLCJqdGkiOiJlZDViZTE1Ni00YTcyLTQ1NDktODMzMy1jMWM3NGJkMDRmNTAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBiLTFnIiwic3ViIjoiNzc5MmU1NTQtMTk0My00OWE0LWFmN2UtZWJhOThlNzllYmNmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYi0xZyIsInNlc3Npb25fc3RhdGUiOiJkMGIyYjQxMS1iMTk3LTQ0M2YtYjlhMy02OTYxYWRhNjQwNTAiLCJhdF9oYXNoIjoieEdhOXVQX2NIU0lWZVY5em1tZTBodyIsImFjciI6IjEiLCJzaWQiOiJkMGIyYjQxMS1iMTk3LTQ0M2YtYjlhMy02OTYxYWRhNjQwNTAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkpFU1NJQ0EgWEFWSUVSIERBIFNJTFZBIFNBTlRPUyIsIkpUUiI6IjgxNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA4Mjk1ODYxNDg0IiwiZ2l2ZW5fbmFtZSI6IkpFU1NJQ0EgWEFWSUVSIERBIFNJTFZBIFNBTlRPUyIsImVtYWlsIjoiamVzc2ljYXhzc0Bob3RtYWlsLmNvbSJ9.rkFPTIxECvcUVKLn-9zniE468C1dkLy-ANGgJxDqx1_YoiZYDDPgkOFTRWdBMA8Foe0R5x61iAD9HE8JPMSf6KvVhXr2W6xhHQCwIL747IVHeufjfGYsPMhdNIkjaKVP_ON7PO8cL66i5s77UzLUrB9FIJkgFqktFEdBgRmvDZEbYiw7vw1qnqE-_ZHIr612WCRQZ7N3eDE1ku77L6WgURtQSOGacj4knglL7SpiVH3cdvQNGCgNcSHD-eF1GeJU20msHsLhooV-puX6p0ouvD-zMKlrbBT_XRYGYdk18E2Yin1gMY0oopc9X7w_hYk_uWBdlptu_5llV6ZUW87U7Q ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = PJE-TJPB-1G-StickySessionRule ; Value = pje36-v21:pje-tjpb-1g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = BIGipServerpool_pje1g_prod ; Value = 1275396106.36895.0000 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = TS01d5de65 ; Value = 01766fbb1721b111de2463dce9717661adf41bb2dca45094245e3ddd0fa639da0f73ce155fad4ad7a2726cc6e0d463d184544b9b3d ; Domain = pje.tjpb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /
+)
+13/11/2024 00:02:21: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:02:24: Total: 1
+13/11/2024 00:02:24: Total: 1
+13/11/2024 00:02:24: advogado 0856527-53.2023.8.15.2001 >> Processo já foi verificado recentemente
+13/11/2024 00:02:28: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:02:28: Rodou

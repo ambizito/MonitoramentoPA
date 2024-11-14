@@ -1,0 +1,20 @@
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 4.05.pje.2.00
+12/11/2024 20:49:12: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 Rov40PB4fuXU0FFawKt54rK2KsPWRrD7 "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+12/11/2024 20:49:15: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:49:15: Perfil advogado e usuário ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO
+OAB = RN9565 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark ; Cookies (
+Name = JSESSIONID ; Value = 1bu0H0CYc1IQB4+7dLpD9Gle.node12 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab200054f5a21ee842a2f772bd71df4208f456277f60664f8e8910551ae776e76b6b5c08c62b4f90113000f969004722d0bd6a56087ad002d044732a434a8bfc22204ad022a7ba23b3793032477941479e35d996c4a5852451f8df ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 20:50:46: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 20:51:00: Total: 0
+12/11/2024 20:51:00: Total: 0
+12/11/2024 20:51:17: Total: 1
+12/11/2024 20:51:17: Total: 1
+12/11/2024 20:51:32:  0804217-91.2023.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 20:51:46: Total: 0
+12/11/2024 20:51:46: Total: 0
+12/11/2024 20:51:49: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:51:49: Rodou

@@ -1,0 +1,4 @@
+14980@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 4.05.CRETA.1.85
+12/11/2024 17:48:33: Acessou https://creta.jfse.jus.br/cretase/login.wsp
+12/11/2024 17:49:04: Erro no acesso: Senha invalida
+html: salvo no mongo.

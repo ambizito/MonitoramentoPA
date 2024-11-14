@@ -1,0 +1,44 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 5.00.pje.3
+12/11/2024 19:27:29: Acessou https://pje.tst.jus.br/tst/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 7dmvcnM3m1nDWmrqllDuuWqSYglKmpFt "GERSON SANTINI:01529424160"
+12/11/2024 19:27:32: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 19:27:33: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = 7d86770b90876aeb~5qu5HgcpDFeF3Psxz3ZTacoe ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = dbb20c47-10dc-4f38-8c0d-0f17efa07d2c ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMDJlMmI5NC0yNzQ0LTRmM2UtYTZjMy1jMDZjNThlY2ZiN2QiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUwNDUxLCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNDU0MDUxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjE0NzYxNSwibG9naW4iOiIwMTUyOTQyNDE2MCIsIm5vbWUiOiJHRVJTT04gU0FOVElOSSIsInBlcmZpbCI6MTIzMDYyLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjExMjM1OSwiZGVzY3JpY2FvIjoiR0VSU09OIFNBTlRJTkkgKDAxNS4yOTQuMjQxLTYwKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRTVCIsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = 4swNUWrh2q3rgcJVS_W6Xamx1HzWImVUBOKf1K0V_3A ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2MTdjOTIzYy0yMDQwLTQ1MTYtYWE2ZS0wNmY5MTEyYTI2MzEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUwNDUxLCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNDkzNjUxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwMTUyOTQyNDE2MCIsInBlcmZpbCI6MTIzMDYyLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRTVCJ9.wU6riTjJgsVP-iKaywm9YqRpwmPyWKkKvYUZXBTAbaU ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 36B91A634A06CBEDE19679A068A895B450C4971E9C9A2D23A7400B1271B20FCCE67A273E8CFEE2905ADED8F6FE37FD52656A ; Domain = pje.tst.jus.br ; Path = /
+)
+12/11/2024 19:27:34: Total: 2
+12/11/2024 19:27:37: advogado 0000118-60.2023.5.21.0001 >> Processo com 6 parte(s), 21 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:27:39: advogado 0000815-69.2023.5.21.0005 >> Processo com 6 parte(s), 46 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:27:39: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 3 e leu 2
+12/11/2024 19:27:41: Total: 5
+12/11/2024 19:27:41: Total: 5
+12/11/2024 19:27:42: advogado 0000003-93.2022.5.09.0749 >> Processo com 4 parte(s), 11 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 19:27:45: advogado 0000111-59.2023.5.21.0004 >> Processo com 7 parte(s), 39 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:27:45: advogado 0000118-60.2023.5.21.0001 >> Processo já foi verificado recentemente
+12/11/2024 19:27:47: advogado 0000607-78.2020.5.21.0009 >> Processo com 10 parte(s), 41 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:27:47: advogado 0000815-69.2023.5.21.0005 >> Processo já foi verificado recentemente
+12/11/2024 19:27:47: Total: 1
+12/11/2024 19:27:47: Total: 1
+12/11/2024 19:27:47: advogado 0000111-59.2023.5.21.0004 >> Processo já foi verificado recentemente
+12/11/2024 19:27:47: Total: 1
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: advogado 0000003-93.2022.5.09.0749 >> Processo já foi verificado recentemente
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: advogado 0000607-78.2020.5.21.0009 >> Processo já foi verificado recentemente
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: advogado 0000118-60.2023.5.21.0001 >> Processo já foi verificado recentemente
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: Total: 1
+12/11/2024 19:27:48: advogado 0000815-69.2023.5.21.0005 >> Processo já foi verificado recentemente
+12/11/2024 19:27:49: Entrou na aba acervo do perfil e mapeou 10 processos e teve erro em 0 processos
+12/11/2024 19:27:49: Rodou

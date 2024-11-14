@@ -1,0 +1,41 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.07.pje.2
+12/11/2024 16:33:49: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.kfvxgdvjuod "HERMANO GADELHA DE SA46843574491"
+12/11/2024 16:33:52: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:33:52: Perfil advogado e usuário HERMANO GADELHA DE SA
+OAB = PB8463 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = wi4qQCh_4hWXHJL8XrD3inSSdiao2nj7BI4SnMIy.hc-zdu156:pje2i-internet-zdu156 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 16:33:53: Total: 1
+12/11/2024 16:33:56: advogado 0700959-12.2024.8.07.0003 >> Processo com 4 parte(s), 56 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:33:56: Total: 2
+12/11/2024 16:33:59: advogado 0733528-75.2024.8.07.0000 >> Processo com 6 parte(s), 61 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 16:33:59: advogado 0733528-75.2024.8.07.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:33:59: Total: 1
+12/11/2024 16:34:01: advogado 0700959-12.2024.8.07.0003 >> Processo com 4 parte(s), 56 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:34:02: Total: 2
+12/11/2024 16:34:05: advogado 0733528-75.2024.8.07.0000 >> Processo com 6 parte(s), 61 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 16:34:05: advogado 0733528-75.2024.8.07.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:34:05: Total: 1
+12/11/2024 16:34:07: advogado 0742323-70.2024.8.07.0000 >> Processo com 5 parte(s), 29 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:34:07: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 7 e leu 4
+12/11/2024 16:34:08: Total: 1
+12/11/2024 16:34:08: Total: 1
+12/11/2024 16:34:08: advogado 0700959-12.2024.8.07.0003 >> Processo já foi verificado recentemente
+12/11/2024 16:34:09: Total: 11
+12/11/2024 16:34:09: Total: 11
+12/11/2024 16:34:09: advogado 0733528-75.2024.8.07.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:34:09: advogado 0742323-70.2024.8.07.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:34:11: advogado 0701413-75.2023.8.07.0019 >> Processo com 6 parte(s), 51 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 16:34:14: advogado 0715005-23.2022.8.07.0020 >> Processo com 6 parte(s), 54 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 16:34:16: advogado 0718817-65.2024.8.07.0000 >> Processo com 3 parte(s), 58 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:34:18: advogado 0739107-40.2020.8.07.0001 >> Processo com 3 parte(s), 55 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 16:34:21: advogado 0722580-82.2022.8.07.0020 >> Processo com 6 parte(s), 57 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:34:23: advogado 0719648-84.2022.8.07.0000 >> Processo com 3 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 16:34:26: advogado 0718698-17.2018.8.07.0000 >> Processo com 3 parte(s), 65 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 16:34:28: advogado 0038172-80.2016.8.07.0001 >> Processo com 3 parte(s), 58 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 16:34:31: advogado 0701989-38.2017.8.07.0000 >> Processo com 3 parte(s), 58 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:34:32: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+12/11/2024 16:34:32: Rodou

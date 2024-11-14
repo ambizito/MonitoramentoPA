@@ -1,0 +1,25 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 4.01.pje.1
+12/11/2024 21:33:57: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# 0.lggh5xikc97 "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# zYLuqStSqjqaTKkQdf64SGaEwOwOtgZK "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+12/11/2024 21:34:03: Logou https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:34:03: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.1 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = p66aJEtjSEmyGVcNxZ2vNS_K7639R5wpyaMuyIj-.srvpje1goutjb50 ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODY4MzksImlhdCI6MTczMTQ1ODA0MCwiYXV0aF90aW1lIjoxNzMxNDU4MDM5LCJqdGkiOiI2N2ExNjUzNC02YTkyLTQyNzgtOTA5OC03OWI4MjExZmM5ZTgiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTFnIiwic3ViIjoiYTkwMjIxMzMtZWNlNC00YWU3LThjOGItNDg0ZWI0MzE3ZjQ4IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0xZyIsInNlc3Npb25fc3RhdGUiOiJkMTlhYmZjYi01OTU0LTQwOTUtYTBhZS00Y2MzMDM2N2Q4ZDYiLCJhdF9oYXNoIjoiNVMyWnJ3azg1Nk0temcwbmtieVAxUSIsImFjciI6IjEiLCJzaWQiOiJkMTlhYmZjYi01OTU0LTQwOTUtYTBhZS00Y2MzMDM2N2Q4ZDYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BWCBUT1JRVUFUTyBGT05URVMgVkFSRUxBIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDU4MzA1MTI0MzIiLCJnaXZlbl9uYW1lIjoiTUFYIFRPUlFVQVRPIEZPTlRFUyBWQVJFTEEiLCJlbWFpbCI6Im1heEBmb250ZXN2YXJlbGEuY29tLmJyIn0.NTmus2VZlqDo2X03lhLtnsy9DwmuhquIIunFDOn6q1-b14MOQZ_UenfY17kknUmoEtoocxrWQy-3MYOzb9i72vQvQHj7WGG417w3_l2HiH757dZOqxZ8zMyesHlprbfqLy7KIN3T3kALeN6HZziGE62lZqKT2UmVb7XJ8_MD5dIkLImiUrDThimPqF7FAndJ9hlDcz1Xei22JNpDdr-Ne9setDEjgLbAPLFHAnZx84dCtbqSgVktBWtE1bLXfVQ9KDUgZKMt7l2uPtxGHkz9vjpoW0Tw5nJ4kppEYTAmuiT6kuqrV438lvGdvlLcyTuQ93QU5FqOqEvz_NNolaCP_g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-1G-StickySessionRule ; Value = srvpje1goutjb50:pje-trf1-1g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /
+)
+12/11/2024 21:34:03: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 21:34:06: Total: 1
+12/11/2024 21:34:06: Total: 1
+12/11/2024 21:34:08: advogado 1033906-50.2024.4.01.3300 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:34:09: Total: 1
+12/11/2024 21:34:09: Total: 1
+12/11/2024 21:34:09: advogado 0006958-90.2013.4.01.4200 >> Processo já foi verificado recentemente
+12/11/2024 21:34:09: Total: 1
+12/11/2024 21:34:09: Total: 1
+12/11/2024 21:34:09: advogado 1003979-40.2018.4.01.3400 >> Processo já foi verificado recentemente
+12/11/2024 21:34:10: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 21:34:10: Rodou

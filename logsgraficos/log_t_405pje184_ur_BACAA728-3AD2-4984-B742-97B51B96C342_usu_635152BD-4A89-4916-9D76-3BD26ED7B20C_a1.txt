@@ -1,0 +1,46 @@
+RN14724@fffpadvogados@BACAA728-3AD2-4984-B742-97B51B96C342@gates em 4.05.pje.1.84
+12/11/2024 23:32:09: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Socram1988 Xz2jYqIuIJZGInpUSpCAsyDHduo4rVU4 "MARCOS VINICIUS DE FREITAS VERAS:07793221427"
+12/11/2024 23:32:12: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:32:12: Perfil advogado e usuário MARCOS VINICIUS DE FREITAS VERAS
+OAB = RN14724 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN14724@fffpadvogados@BACAA728-3AD2-4984-B742-97B51B96C342@gates ; Cookies (
+Name = JSESSIONID ; Value = d+Jf5UxE7jmcuVpfo6Jhby6n.node04 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 23:32:15: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 23:32:23: Total: 3
+12/11/2024 23:32:23: Total: 3
+12/11/2024 23:32:23:  0800533-97.2019.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 23:32:31:  0800156-87.2023.4.05.8401 >> Processo com 2 parte(s), 15 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 23:32:39:  0800287-28.2024.4.05.8401 >> Processo com 2 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 23:32:46: Total: 25
+12/11/2024 23:32:46: Total: 25
+12/11/2024 23:33:18:  0800463-56.2014.4.05.8401 >> Processo com 5 parte(s), 14 andamento(s) e 112 expediente(s) atualizado
+12/11/2024 23:33:30:  0801071-49.2017.4.05.8401 >> Processo com 4 parte(s), 15 andamento(s) e 26 expediente(s) atualizado
+12/11/2024 23:33:42:  0801284-55.2017.4.05.8401 >> Processo com 3 parte(s), 15 andamento(s) e 37 expediente(s) atualizado
+12/11/2024 23:34:01:  0801712-37.2017.4.05.8401 >> Processo com 3 parte(s), 12 andamento(s) e 64 expediente(s) atualizado
+12/11/2024 23:34:09:  0802118-58.2017.4.05.8401 >> Processo com 2 parte(s), 15 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 23:34:19:  0800108-07.2018.4.05.8401 >> Processo com 2 parte(s), 13 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 23:34:30:  0800170-47.2018.4.05.8401 >> Processo com 3 parte(s), 14 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 23:34:39:  0800269-17.2018.4.05.8401 >> Processo com 2 parte(s), 15 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 23:34:48:  0003841-05.2004.4.05.8401 >> Processo com 4 parte(s), 11 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 23:34:58:  0806043-28.2018.4.05.8401 >> Processo com 4 parte(s), 13 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 23:35:09:  0807942-64.2018.4.05.8400 >> Processo com 5 parte(s), 14 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 23:35:17:  0808680-52.2018.4.05.8400 >> Processo com 4 parte(s), 15 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 23:35:25:  0814230-28.2018.4.05.8400 >> Processo com 6 parte(s), 15 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 23:35:35:  0800423-98.2019.4.05.8401 >> Processo com 3 parte(s), 14 andamento(s) e 27 expediente(s) atualizado
+12/11/2024 23:35:44:  0802247-95.2019.4.05.8400 >> Processo com 5 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 23:35:55:  0809879-75.2019.4.05.8400 >> Processo com 7 parte(s), 10 andamento(s) e 30 expediente(s) atualizado
+12/11/2024 23:36:02:  0801967-24.2019.4.05.8401 >> Processo com 3 parte(s), 14 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 23:36:13:  0802097-14.2019.4.05.8401 >> Processo com 4 parte(s), 14 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 23:36:23:  0800432-26.2020.4.05.8401 >> Processo com 6 parte(s), 15 andamento(s) e 19 expediente(s) atualizado
+12/11/2024 23:36:34:  0800883-51.2020.4.05.8401 >> Processo com 4 parte(s), 13 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 23:36:43:  0800889-58.2020.4.05.8401 >> Processo com 3 parte(s), 15 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 23:36:54:  0801060-15.2020.4.05.8401 >> Processo com 5 parte(s), 14 andamento(s) e 28 expediente(s) atualizado
+12/11/2024 23:37:01:  0801838-48.2021.4.05.8401 >> Processo com 4 parte(s), 13 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 23:37:10:  0801889-25.2022.4.05.8401 >> Processo com 4 parte(s), 15 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:37:18:  0804850-68.2024.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 23:37:30: Total: 0
+12/11/2024 23:37:30: Total: 0
+12/11/2024 23:37:36: Entrou na aba acervo do perfil e mapeou 28 processos e teve erro em 0 processos
+12/11/2024 23:37:36: Rodou

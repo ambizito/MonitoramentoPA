@@ -1,0 +1,36 @@
+01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark em 4.05.pje.1.83
+12/11/2024 21:30:12: Acessou https://pje.jfpe.jus.br/pje/login.seam
+12/11/2024 21:30:12: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:30:12: Perfil advogado e usuário 
+OAB = 01368830285 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState =  ; tribunal = 4.05.pje.1.83 ; usuarioId = 01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark ; Cookies (
+Name = JSESSIONID ; Value = +IbhUBcgF-AUz1QxrkhZSG-h.node05 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357cffc2688442c8d69a20e1e94b412b986f63de37bff8d3af66a5f9b047e5e5f6caf29b1320eca367c666d0cd77e12711993c400ac942752db49c15353acf7a856b ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000297e6fca4841e97e8cb07e08e7b330b8d994aef4826414eadaff61595698277208d0144d051130005c0afd9c172d35dfa6fd3b45485b263a1c17e6dbb8bfd3caf07bf38051bf717445c95f721f3b7a2403c8878c983c9d5f ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c29931cabec73f859a596b2144f3fd91d63de37bff8d3af66a5f9b047e5e5f6ca80c14ea4609dc39a03f2bd4456e350a6d504216b48a2d15a3eaed4a725d1ac7e ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_4F8F0388967AFB741EAB2DF70A6D1124_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c29931cabec73f859a596b2144f3fd91d63de37bff8d3af66a5f9b047e5e5f6ca80c14ea4609dc39a03f2bd4456e350a6d504216b48a2d15a3eaed4a725d1ac7e ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_4F8F0388967AFB741EAB2DF70A6D1124_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 21:30:13: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+12/11/2024 21:30:14: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+12/11/2024 21:30:14: Rodou com falha
+01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark em 4.05.pje.1.83
+12/11/2024 21:31:14: Acessou https://pje.jfpe.jus.br/pje/login.seam
+12/11/2024 21:31:14: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:31:14: Perfil advogado e usuário 
+OAB = 01368830285 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState =  ; tribunal = 4.05.pje.1.83 ; usuarioId = 01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark ; Cookies (
+Name = JSESSIONID ; Value = Gcr9avjYra2wxwBu2oJda0ua.node03 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357cce3ad72d9d919f38d7278a95909f652c726ad527b64b7b9519d20a711df6d8812e64602be03e6b92e221b46ca4ca24cc491b22eba44a33bbb41dd830bbbdfe12 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000797c148f3b0cb7e234be9cfd63418e3fd501d4163e1a99a2d136c0ab78cd13c7088e41ff2911300099aa6bd8acbad5fb9920eb392724ef54b1bcd4c21635b87a0c76fae5db39bff0adbcbb13a78b2397e48a4070b4336957 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c86428b2e18ccf83c447b28f131ff275f726ad527b64b7b9519d20a711df6d8814ca6a691492a8cc3903b8d17d9492f4e ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c86428b2e18ccf83c447b28f131ff275f726ad527b64b7b9519d20a711df6d8814ca6a691492a8cc3903b8d17d9492f4e ; Domain = .pje.jfpe.jus.br ; Path = /
+)
+12/11/2024 21:31:15: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+12/11/2024 21:31:16: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+12/11/2024 21:31:16: Rodou com falha

@@ -1,0 +1,22 @@
+PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 4.05.pje.1.85
+12/11/2024 22:41:39: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Wms@2546 JmfCk0pULQYbuAzNnZfliRTEonfo1JMy "WILSON RIBEIRO DE MORAES NETO:05651954414"
+12/11/2024 22:41:42: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:41:42: Perfil advogado e usuário wilson ribeiro de moraes neto
+OAB = PB15660 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos ; Cookies (
+Name = JSESSIONID ; Value = TVoOTscRgDPM9gN9Y1OGpkbM.node04 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c38fb01cf6ad8807031f65a63d668c7de11a2486e64e7b1d8a24a4e3b8fa07fb9577ce21a23072b776a88d4774346aa37189676c1f5e256dd832eadd5a0d4e3937 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3e0020c283638fbc3a5431837858543951a2486e64e7b1d8a24a4e3b8fa07fb952a6908362dc87676f1d6d894774e0e517a06701fa291c35adb976b39706e140b ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3e0020c283638fbc3a5431837858543951a2486e64e7b1d8a24a4e3b8fa07fb952a6908362dc87676f1d6d894774e0e517a06701fa291c35adb976b39706e140b ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:41:44: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:41:49: Total: 0
+12/11/2024 22:41:49: Total: 0
+12/11/2024 22:41:54: Total: 0
+12/11/2024 22:41:54: Total: 0
+12/11/2024 22:41:57: Total: 0
+12/11/2024 22:41:57: Total: 0
+12/11/2024 22:41:58: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:41:58: Rodou

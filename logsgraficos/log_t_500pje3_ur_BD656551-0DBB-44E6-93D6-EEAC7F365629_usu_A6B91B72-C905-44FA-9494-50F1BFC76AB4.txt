@@ -1,0 +1,18 @@
+01062490452@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 5.00.pje.3
+14/11/2024 10:12:52: Acessou https://pje.tst.jus.br/tst/login.seam
+14/11/2024 10:12:54: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 10:12:54: Perfil advogado e usuário MARIO MATOS JUNIOR
+OAB = 01062490452 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = 01062490452@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = 8c59c7dc224b52a2~RXjtrQunXI6EgJg8rAkZAUnY ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 078047c6-a068-47a2-97e0-bd57ce78e789 ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwN2UzMWRhZS04ZThjLTQ3ZjctOWJkZS0xM2I5ODc3Nzg5MmYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTg5OTcyLCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTkzNTcyLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjE2MTM0NSwibG9naW4iOiIwMTA2MjQ5MDQ1MiIsIm5vbWUiOiJNQVJJTyBNQVRPUyBKVU5JT1IiLCJwZXJmaWwiOjEzNTU0NSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxMjQzNTEsImRlc2NyaWNhbyI6Ik1BUklPIE1BVE9TIEpVTklPUiAoMDEwLjYyNC45MDQtNTIpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFNUIiwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = jbIXSPLPBqwVqO-J_uBKYs2fBvEy7JYzfylA9CHnXro ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmNGNmMmQzMS0wM2E5LTQ3ZGQtYjRjMy0xZDM0YTE0Y2FhMzYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTg5OTcyLCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNjMzMTcyLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwMTA2MjQ5MDQ1MiIsInBlcmZpbCI6MTM1NTQ1LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRTVCJ9.6OOnrTGCiYOkCAGEghUpXsB9gh2kCOiKzZJCIpnmQIQ ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = D17581D0178F8EF5AD67198726E2FC43CE25A917FA5B18D68F9A3CA88945534C810EA915CAB2915FB6EA1B2FE1B4F25B1168 ; Domain = pje.tst.jus.br ; Path = /
+)
+14/11/2024 10:12:56: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 10:12:58: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+14/11/2024 10:12:58: Rodou

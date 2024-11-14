@@ -1,0 +1,13 @@
+RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark em 8.10.pje.1
+13/11/2024 00:29:00: Acessou https://pje.tjma.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Eu151929 0.1ojye48r6g1 "ANA LUIZA BARRETO VERAS:05291758430"
+13/11/2024 00:29:03: Logou https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:29:03: Perfil advogado e usuário ANA LUIZA BARRETO VERAS
+OAB = RN19356 ; URL = https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.1 ; usuarioId = RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark ; Cookies (
+Name = JSESSIONID ; Value = FT828A6sPyCqhiducj_CjGQ-reULBtJNBgN7vP3A.pje-web-ss-19 ; Domain = pje.tjma.jus.br ; Path = /pje
+Name = f114a8f9c4f449e1102a9ca02ac30508 ; Value = 95baa1a4032eea2b075b79a0aeb9dbfc ; Domain = pje.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjma.jus.br ; Path = /
+)
+13/11/2024 00:29:04: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:29:06: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:29:06: Rodou

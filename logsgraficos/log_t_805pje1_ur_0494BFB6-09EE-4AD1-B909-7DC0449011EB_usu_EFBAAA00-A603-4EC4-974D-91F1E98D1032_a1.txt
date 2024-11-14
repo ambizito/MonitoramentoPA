@@ -1,0 +1,15 @@
+ES30696@luanazordan@0494BFB6-09EE-4AD1-B909-7DC0449011EB@mark em 8.05.pje.1
+13/11/2024 00:04:10: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.94grnfcx4m2 "LUANA ZORDAN PALOMBO:09292635700"
+13/11/2024 00:04:14: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:04:14: Perfil advogado e usuário LUANA ZORDAN PALOMBO
+OAB = ES30696 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = ES30696@luanazordan@0494BFB6-09EE-4AD1-B909-7DC0449011EB@mark ; Cookies (
+Name = JSESSIONID ; Value = lt0jErMroBRr0TLuH7tp3EVQpfwgjInOqkK6JvvL.pje1gapp034 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTU4NTIsImlhdCI6MTczMTQ2NzA1MywiYXV0aF90aW1lIjoxNzMxNDY3MDUyLCJqdGkiOiI1OTU0ODJhZi04OGUzLTRiMGUtODVjNi0zYWM3YjBkNzE2NTYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiYzI1NGIwZWMtZmQ2Ni00YjA4LWI2YzMtOTc5NmFmM2JhN2U0IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiJkM2E3OWE1OC01YTZkLTQ4ZTktYjE5Yi05NjQ1ZjdiODlmNTYiLCJhdF9oYXNoIjoiRzRRc0lpWEMzWlotVmlZTU00ZlhTZyIsImFjciI6IjEiLCJzaWQiOiJkM2E3OWE1OC01YTZkLTQ4ZTktYjE5Yi05NjQ1ZjdiODlmNTYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxVQU5BIFpPUkRBTiBQQUxPTUJPIiwiSlRSIjoiODA1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDkyOTI2MzU3MDAiLCJnaXZlbl9uYW1lIjoiTFVBTkEgWk9SREFOIFBBTE9NQk8iLCJlbWFpbCI6Imx1YW5hemRuQGhvdG1haWwuY29tIn0.HvOi4zBZykrY89tPk_-JQwp68mVBk5uFNDWSDPxWIZXezyPvxwHZULP_D5M-RW24gxKA6WV4FxCTMfT_paO461JfDYN-nQyOPGaJDIZz0F_JstHWxIlaFkVofGiBqtP9wXzsbUtdfBjWKFHGitH2e63_OMYSRqntd0XoU-59s0hB0GtYnGJ38xbkerWlLlAf6355miEoS9cvYPNhgGM1dLelzvSDxviRxZTZ2ngLTFhaSWOzp8CuCGA7jIfPbecy4E9YIzzmg_FnDqq45KJRg4VtczeO8t3frMLNjw7g-XfeKePeqGuiOCbdXQV1gCz7_5cjttgiBZ-BMJ0RJAxxlg ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp034:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+13/11/2024 00:04:15: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:04:29: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:04:29: Rodou

@@ -1,0 +1,21 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.11.pje.1
+13/11/2024 13:23:08: Acessou https://pje.tjmt.jus.br/pje/login.seam
+13/11/2024 13:24:02: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:24:02: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = YcBCKYjuImtazlyhS9NCsw2FBQnf-q8ToJaJf59c.pjev2-vra-0008 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_6AEF819DA42DCC5164429755E4696F74_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_6AEF819DA42DCC5164429755E4696F74_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+13/11/2024 13:24:08: Total: 1
+13/11/2024 13:24:28: advogado 1063935-11.2023.8.11.0001 >> Processo com 5 parte(s), 62 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 13:24:28: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 4 e leu 1
+13/11/2024 13:24:45: Total: 1
+13/11/2024 13:24:45: Total: 1
+13/11/2024 13:24:45: advogado 1063935-11.2023.8.11.0001 >> Processo já foi verificado recentemente
+13/11/2024 13:24:45: Total: 1
+13/11/2024 13:24:45: Total: 1
+13/11/2024 13:24:45: advogado 1003254-67.2022.8.11.0015 >> Processo já foi verificado recentemente
+13/11/2024 13:27:13: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+13/11/2024 13:27:13: Rodou

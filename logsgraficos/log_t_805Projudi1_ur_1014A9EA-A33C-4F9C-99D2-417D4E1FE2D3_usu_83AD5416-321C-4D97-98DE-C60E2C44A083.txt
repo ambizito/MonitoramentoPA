@@ -1,0 +1,12 @@
+7226RN@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.05.Projudi.1
+12/11/2024 21:58:31: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 21:58:31: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 21:58:31: Não capturou o total de processos para o OAB 7226RN
+html: salvo no mongo.
+12/11/2024 21:58:31: Rodou com falha
+7226RN@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.05.Projudi.1
+12/11/2024 21:59:31: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 21:59:32: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 21:59:32: Não capturou o total de processos para o OAB 7226RN
+html: salvo no mongo.
+12/11/2024 21:59:32: Rodou com falha

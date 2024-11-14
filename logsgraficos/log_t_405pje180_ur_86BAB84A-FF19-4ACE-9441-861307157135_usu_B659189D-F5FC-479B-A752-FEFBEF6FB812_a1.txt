@@ -1,0 +1,18 @@
+RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus em 4.05.pje.1.80
+12/11/2024 18:46:45: Acessou https://pje.jfal.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar djneto89 9DuusODAmY4TTqPNJ2sNI7PDIQIdQ5Bm "djanirito de souza moura neto:06855029450 2023-11-26 12:44:24"
+12/11/2024 18:46:48: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:46:48: Perfil advogado e usuário Djanirito de Souza Moura Neto
+OAB = RN11793 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.80 ; usuarioId = RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus ; Cookies (
+Name = JSESSIONID ; Value = YGAO2nANDnMfiGvgAiKxiE3S.node04 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+12/11/2024 18:46:52: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:47:01: Total: 0
+12/11/2024 18:47:01: Total: 0
+12/11/2024 18:47:10: Total: 0
+12/11/2024 18:47:10: Total: 0
+12/11/2024 18:47:17: Total: 0
+12/11/2024 18:47:17: Total: 0
+12/11/2024 18:47:19: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:47:19: Rodou

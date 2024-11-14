@@ -1,0 +1,11 @@
+32804BA@silveiraeabreu@FB90B512-8D8F-4E43-8B58-FEDCDDCA3075@linus em 8.05.Projudi.1
+12/11/2024 22:16:57: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 22:16:57: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 22:16:58: Total: 32
+12/11/2024 22:17:26: Entrou na aba acervo e mapeou 32 processos
+12/11/2024 22:17:27: Total: 401
+12/11/2024 22:21:53: Entrou na aba acervo e mapeou 401 processos
+12/11/2024 22:21:53: Total: 1
+12/11/2024 22:21:54: Entrou na aba acervo e mapeou 1 processos
+12/11/2024 22:21:54: Rodou
+12/11/2024 22:21:54: Rodou

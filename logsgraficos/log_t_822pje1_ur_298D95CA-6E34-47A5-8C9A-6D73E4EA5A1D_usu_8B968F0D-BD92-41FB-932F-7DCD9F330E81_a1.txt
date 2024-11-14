@@ -1,0 +1,17 @@
+PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.22.pje.1
+13/11/2024 00:06:13: Acessou https://pjepg.tjro.jus.br/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.thp9r9ai6o5 "JOSE PIRES RODRIGUES FILHO:04944471416"
+13/11/2024 00:06:16: Logou https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam
+13/11/2024 00:06:16: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = PB16549 ; URL = https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.22.pje.1 ; usuarioId = PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = f5avraaaaaaaaaaaaaaaa_session_ ; Value = CAHOOGAKLNOKBPJNAFCMGCFOELOEGOBECMGKNKJNBDDCFLDILNPFHMPHLIHIEIGHEGODGLEBMHPOBMCDODGADBGIFBPFJPLJANOOHILILOKAJNAMMHEDEELPMCHBLNHE ; Domain = pjepg.tjro.jus.br ; Path = /Painel/painel_usuario/advogado.seam
+Name = JSESSIONID ; Value = f3fafec531fa2f6190c30e2b5194c99c~VPcRxwEcFXB86hv4Ff2Ql5Z7Z1moqGkZcDLjSwsb.pjepg-77d54846dc-2f6vd ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = TS01051b55 ; Value = 015c8d21730a8c2e23c06c2a9921fe3a8f32aa2842e219cbeb9c39a364557451f831dffb66c05db4dd490dae923bf2152edf09ceabdb3d29ca5f87d339550ef846a31ca6ced105a98244e4c089c33fc2d16006878b44d4e3d8848964173bfa0e638814937df5dd9c413d562fb1fbab9b4da63895ca ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pjepg.tjro.jus.br ; Path = /
+)
+13/11/2024 00:06:16: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:06:19: Total: 1
+13/11/2024 00:06:19: Total: 1
+13/11/2024 00:06:24: advogado 7001971-27.2019.8.22.0007 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:06:30: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:06:30: Rodou

@@ -1,0 +1,4 @@
+03035346569@almeidaadvogados@A2E26F81-CA29-43E3-ABD1-2DD662018A86@linus em 8.05.pje.2
+13/11/2024 01:26:34: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+13/11/2024 01:26:35: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

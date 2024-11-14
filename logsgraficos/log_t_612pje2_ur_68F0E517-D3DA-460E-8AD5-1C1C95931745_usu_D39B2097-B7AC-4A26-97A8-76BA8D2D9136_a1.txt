@@ -1,0 +1,18 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 6.12.pje.2
+12/11/2024 19:22:20: Acessou https://pje.tre-ms.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 0.eg3g0ewx4kw "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 19:22:24: Logou https://pje.tre-ms.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:22:24: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje.tre-ms.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 6.12.pje.2 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = x0IG-y88FxC8lgfx7YAHG1eQbC9gIhUhphj64ga1.pje-ms-02 ; Domain = pje.tre-ms.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tre-ms.jus.br ; Path = /pje
+Name = TS01251549 ; Value = 0103a0ceae8c73175b6c8ff8c50cbee1da0e81da7e3b700f109e7ecfa3593ccc40508a75b2ae6bb09daec967a6b13151c4e709a3ff03e1d5ed1371d1f4538cc7cee1258cbeac7e3ef140dd03945899da2b76795a31a6c1f88bbcda58846b2f04ac57deb4d4b16c043bcdade9066dd4a8364ec84cc5 ; Domain = pje.tre-ms.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Nzg5NDIsImlhdCI6MTczMTQ1MDE0MywiYXV0aF90aW1lIjoxNzMxNDUwMTQyLCJqdGkiOiIxN2UzYTNkYy1lZjZlLTRiZWYtOTgxOS0wZTJhMjExYmFlZTciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmVtcy0yZyIsInN1YiI6Ijg0MTk2N2MzLTAwMmEtNGQzYi1hY2M4LTU2Yjg5OGY2NzQ0NCIsInR5cCI6IklEIiwiYXpwIjoicGplLXRyZW1zLTJnIiwic2Vzc2lvbl9zdGF0ZSI6IjE5NGFmZGNjLTBmYmMtNDUzMi1iM2YwLTEyNGI5MzM0MThlMiIsImF0X2hhc2giOiJKckFuOEVGMGJUVlIyb0d5dkhRa0xBIiwiYWNyIjoiMSIsInNpZCI6IjE5NGFmZGNjLTBmYmMtNDUzMi1iM2YwLTEyNGI5MzM0MThlMiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiTUFOT0xZUyBNQVJDRUxJTk8gUEFTU0VSQVQgREUgU0lMQU5TIiwianRyIjoiNjEyIiwiSlRSIjoiNjEyIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDA4MTAwNjQ0NjQiLCJnaXZlbl9uYW1lIjoiTUFOT0xZUyBNQVJDRUxJTk8gUEFTU0VSQVQgREUgU0lMQU5TIiwiZW1haWwiOiJwc2lsYW5zYWR2QG91dGxvb2suY29tIn0.FC3HB9u2lDdAK3iAn3SbhuIpYT6nbaUrTLmeXrTb-Pkp_JvjRcco_MQ5eMD4Ase3OMgK2d2t-6ou96n-3v7vK_lG9rNEPUPlqwBPhpBtKGK6yAlAYz_8lqcKKpSu-LPlLyGgVvVU38OGZUuq3kdCVskugaIMYBEwGBek7hxRpeLbuUOUTeRQHOw1uMmk2YuHrfHKVXFCa-vVLmzzWt3CUji_MWPvWNgemXxt6KubhkVqh9tcVGgi22dz2Ma0dJvGEibXE-EzJS3Qa8tWunI1anpiR58KLMYSyZAyGeu6MZLVk6va-ebPGOvJYrGLXxnpTGNh3w_ywgrGCobcli2eFQ ; Domain = pje.tre-ms.jus.br ; Path = /pje
+Name = PJE-TREMS-2G-StickySessionRule ; Value = "pje-ms-02:pje-trems-2g" ; Domain = pje.tre-ms.jus.br ; Path = /pje
+Name = _c7457 ; Value = b9b63466ffeca9f8 ; Domain = pje.tre-ms.jus.br ; Path = /
+Name = TS016b3b55 ; Value = 0103a0ceaeab10ea77b6e1c89a9f7387f00b3493893b700f109e7ecfa3593ccc40508a75b27097422205d12b38a08a345f78192756346c7990a83cd98410f203a3b27f11788e12f3ba36a45d49998a15a7570fd3fdecc1fafefe5450bcf48e6be5f6a2b65bf7178750cec5f0a212d8be7aaf6a9260 ; Domain = pje.tre-ms.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tre-ms.jus.br ; Path = /
+)
+12/11/2024 19:22:25: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:22:26: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 19:22:26: Rodou

@@ -1,0 +1,18 @@
+RN9969@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus em 8.08.pje.1
+12/11/2024 20:08:40: Acessou https://pje.tjes.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 78951456 0.aou7j79xcdh "DANYEL FREIRE FURTADO DE MENDONCA:08166957418"
+12/11/2024 20:08:42: Logou https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:08:42: Perfil advogado e usuário DANYEL FREIRE FURTADO DE MENDONCA
+OAB = RN9969 ; URL = https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.1 ; usuarioId = RN9969@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus ; Cookies (
+Name = JSESSIONID ; Value = iykXslpU1VkQ7NsIapzd-SPG0NoIWaKj_GxrscO7.pje1g-8659f8cdd8-wlqsl ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE3MjIsImlhdCI6MTczMTQ1MjkyMiwiYXV0aF90aW1lIjoxNzMxNDUyOTIyLCJqdGkiOiI0YWEwYWM3Zi04MjE1LTRjNzItYjY5Yi02MDQyNmRkNzE3YjgiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTFnLWNsb3VkIiwic3ViIjoiYzEyMGIxYzUtNjI3NC00OTQ2LTkxNTItYzNlMTA2YjQ1YTJiIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiIwMTBmMjc1OS0zNDQ3LTQxNDEtOTMzMS0zNjdlNWMxOGY1MzciLCJhdF9oYXNoIjoiVVRjQVNBME5oLXd4VGplUmlhRGYtZyIsImFjciI6IjEiLCJzaWQiOiIwMTBmMjc1OS0zNDQ3LTQxNDEtOTMzMS0zNjdlNWMxOGY1MzciLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRBTllFTCBGUkVJUkUgRlVSVEFETyBERSBNRU5ET05DQSIsImp0ciI6IjgwOCIsInByZWZlcnJlZF91c2VybmFtZSI6IjA4MTY2OTU3NDE4IiwiZ2l2ZW5fbmFtZSI6IkRBTllFTCBGUkVJUkUgRlVSVEFETyBERSBNRU5ET05DQSIsImVtYWlsIjoiZGFueWVsQGVpZGVyZnVydGFkby5jb20uYnIifQ.PZE6jM-gdq-8mwAqn3XJ-v_nxwWD9cr7995r1-g7pvatIJbfALkrWIm0_Upxr5BmShrQ-sShg1y0FtZsZ7EHRl6mDr9WOIaxH9-wFbuOzB3Y8IUkCXHQTKBcc07tc4kgJrXb3ewOhP5Gp3K0Eb6e0UhgjCYCK7hV90xoKVPkN10lIZO-qNoeUZDXoqm-k9vYGReOo1NiCtk6gI-nANVWynm6sig2udvGufbfZIMUGJDXVzkXkHnIEHulnqGOi6l-JIPFIDpOaMvsC6vKENNi_V6UJoCpmnkhbm0fTWVVX3UC7Z6q2QAzsfy6HjtCO2ogRqjAYE65uDSrtbu7mheS9Q ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = PJE-TJES-1G-StickySessionRule ; Value = "pje1g-8659f8cdd8-wlqsl:pje-tjes-1g" ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = AWSALB ; Value = QtuNpWh3yB5rtT9Bl9uX48xDVAip2LCKy/N7cV5op3Rcs/q2kVlAdCnfD2BYRxBxq8ciJpRMt2j1n1zl5pXcsqXxh+tkbW/VSjXcpY7gfELXato2zF6dqmM59YcI ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = QtuNpWh3yB5rtT9Bl9uX48xDVAip2LCKy/N7cV5op3Rcs/q2kVlAdCnfD2BYRxBxq8ciJpRMt2j1n1zl5pXcsqXxh+tkbW/VSjXcpY7gfELXato2zF6dqmM59YcI ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 0972aa94-da01-4249-a45b-63c89d35c3b6 ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+12/11/2024 20:08:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:08:44: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:08:44: Rodou

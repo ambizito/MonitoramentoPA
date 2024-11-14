@@ -1,0 +1,23 @@
+PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 4.05.pje.1.81
+12/11/2024 19:19:47: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 2314lando TgqhASlv4zjZNUhXNrb3NMXYJWC8p3Qu "landoaldo falcao de sousa neto:05505553400 2024-09-02 12:06:18"
+12/11/2024 19:19:50: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:19:50: Perfil advogado e usuário Landoaldo Falcão de Sousa Neto
+OAB = PB13544 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = 9l8Dj2He3LBLDM05daeTJwUq.node04 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+12/11/2024 19:19:57: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 19:20:16: Total: 2
+12/11/2024 19:20:16: Total: 2
+12/11/2024 19:20:17:  0801556-68.2020.4.05.8102 >> Processo já foi verificado recentemente
+12/11/2024 19:20:17:  0801581-81.2020.4.05.8102 >> Processo já foi verificado recentemente
+12/11/2024 19:20:35: Total: 2
+12/11/2024 19:20:35: Total: 2
+12/11/2024 19:20:36:  0800499-97.2020.4.05.8107 >> Processo já foi verificado recentemente
+12/11/2024 19:20:36:  0801555-83.2020.4.05.8102 >> Processo já foi verificado recentemente
+12/11/2024 19:20:49: Total: 0
+12/11/2024 19:20:49: Total: 0
+12/11/2024 19:20:50: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 19:20:55: Procuracao: Perfil advogado e usuário Landoaldo Falcão de Sousa Neto filtrado, não roda.
+12/11/2024 19:20:55: Rodou

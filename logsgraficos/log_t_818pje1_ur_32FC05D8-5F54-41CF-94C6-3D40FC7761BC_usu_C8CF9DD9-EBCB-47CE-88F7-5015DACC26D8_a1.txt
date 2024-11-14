@@ -1,0 +1,27 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.18.pje.1
+12/11/2024 16:28:23: Acessou https://pje.tjpi.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.ju3388mk5ho "HERMANO GADELHA DE SA46843574491"
+12/11/2024 16:28:37: Logou https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 16:28:37: Perfil advogado e usuário HERMANO GADELHA DE SA
+OAB = PB8463 ; URL = https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.18.pje.1 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = Eo5-EHQdplwpQDodqGZIFC-bUDeiSs73r3LG7H4p.pje-legacy-7b74846fb9-r7lnp ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = X-Oracle-BMC-LBS-Route ; Value = 61b9e84409b90154f1e6a7faa036c404491b61cf27da03a11a2ff120e313e9b656c62fd8a7c42ae8abe99edb4464c4f215153fdb9b274a856af76dac ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njg1MTYsImlhdCI6MTczMTQzOTcxNiwiYXV0aF90aW1lIjoxNzMxNDM5NzE2LCJqdGkiOiJjMmJjMTI1My03ODhhLTQwN2EtOTA3Zi01ZTZmODZhYjA1NzUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBpLTFnLW5ldyIsInN1YiI6IjNlZWMzMDZiLTAyMjEtNDk4OS04MjRhLTNmYTQyNzQwZWUxOCIsInR5cCI6IklEIiwiYXpwIjoicGplLXRqcGktMWctbmV3Iiwic2Vzc2lvbl9zdGF0ZSI6IjQ1Mzg2Zjg2LTMyM2EtNDM5My04OWY1LTE1ZTBkN2UyOGJiYyIsImF0X2hhc2giOiJvbEptVWR0azVseWVCRW04YWhPX3VRIiwiYWNyIjoiMSIsInNpZCI6IjQ1Mzg2Zjg2LTMyM2EtNDM5My04OWY1LTE1ZTBkN2UyOGJiYyIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiSEVSTUFOTyBHQURFTEhBIERFIFNBIiwiSlRSIjoiODE4IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiNDY4NDM1NzQ0OTEiLCJnaXZlbl9uYW1lIjoiSEVSTUFOTyBHQURFTEhBIERFIFNBIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGNvcmlvbGFuby5hZHYuYnIifQ.idF--x2kSonFvPzLe0V0FvNGaw3NoXNB75b5xDcxDsmAkqc9CWXbjjIpB0yBzWy4aRxiKH4uED5oaEYP5ZrRcg4vOHP8Vup8fUfAF-4LuFJY0JTRk0voIU7-yw65mP5ADon_dhp-Z_J6B2XGck0qA6P8ZtvFmKld8zCxPH9j0RRZpw_I05w2P_3746PqtX7IFYtwzMb_mZWHZCGgFS3twwVX1OfQP4rXcrQazTMIQw2vgAeeA5wwtDc4WInr4pIeNmgZ9hSfHAM4VQn65FZWBYK_BiskwEs1jcu2GrvneG1-wKd6Sfv1FH3OJQcd6zjE35KERKOwPb_UtUbxgB6PeA ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = PJE-TJPI-1G-StickySessionRule ; Value = "pje-legacy-7b74846fb9-r7lnp:pje-tjpi-1g" ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /
+)
+12/11/2024 16:28:39: Total: 1
+12/11/2024 16:28:40: advogado 0020859-42.2014.8.18.0140 >> Processo com 3 parte(s), 38 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:28:40: Total: 1
+12/11/2024 16:28:41: advogado 0020859-42.2014.8.18.0140 >> Processo com 3 parte(s), 38 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:28:41: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Sem prazo e detectou 2 e leu 1
+12/11/2024 16:28:43: Total: 1
+12/11/2024 16:28:43: Total: 1
+12/11/2024 16:28:43: advogado 0800012-15.2017.8.18.0064 >> Processo já foi verificado recentemente
+12/11/2024 16:28:43: Total: 2
+12/11/2024 16:28:43: Total: 2
+12/11/2024 16:28:43: advogado 0814100-77.2024.8.18.0140 >> Processo já foi verificado recentemente
+12/11/2024 16:28:43: advogado 0020859-42.2014.8.18.0140 >> Processo já foi verificado recentemente
+12/11/2024 16:28:45: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 16:28:45: Rodou

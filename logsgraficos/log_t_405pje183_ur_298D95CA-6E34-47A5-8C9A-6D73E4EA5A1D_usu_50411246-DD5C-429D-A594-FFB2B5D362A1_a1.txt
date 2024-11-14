@@ -1,0 +1,25 @@
+PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 4.05.pje.1.83
+12/11/2024 22:38:32: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 6xSrA7n2MdFWRtZXqKiQ1V0XD7gc8jDP "DIEGO DOMICIANO VIEIRA COSTA CABRAL:05479437410"
+12/11/2024 22:38:35: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:38:35: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = PB15574 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = jnP2MPQjU5gUNQ9vR78tLAzC.node08 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357cf7c5ef3ed87c35b7bf71ee3023b7cc1320bb19ccdd7f62ad94a0966fbd2a6ceafa9e4c10222f87099f92a93c0f529069bcdc53b4a854fd7e07e49c221441be4e ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab20004c082c5b6ccd3c51e66bdcef720420510bf6a8b3f670f1e3e5d728fde930e157084d6f16a811300039770d229dbb9552a7d7cab24bfaa058d452bb2cfbc6cb81bed3f9c455f285ccee0422058ac0077c265bb130bb561c20 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c679dff97615e527a854f4d92a71dc8d820bb19ccdd7f62ad94a0966fbd2a6cea9016f92cedd733ed957dc81c03efe8c021d2077feb361288a94c8a939fac69aa ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_6211652C37C5EBADBE8D58CBD5846A01_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c679dff97615e527a854f4d92a71dc8d820bb19ccdd7f62ad94a0966fbd2a6cea9016f92cedd733ed957dc81c03efe8c021d2077feb361288a94c8a939fac69aa ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_6211652C37C5EBADBE8D58CBD5846A01_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 22:38:43: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:39:03: Total: 0
+12/11/2024 22:39:03: Total: 0
+12/11/2024 22:39:23: Total: 1
+12/11/2024 22:39:23: Total: 1
+12/11/2024 22:39:35:  0813236-04.2021.4.05.8300 >> Processo com 3 parte(s), 15 andamento(s) e 32 expediente(s) atualizado
+12/11/2024 22:39:49: Total: 0
+12/11/2024 22:39:49: Total: 0
+12/11/2024 22:39:50: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 22:39:50: Rodou

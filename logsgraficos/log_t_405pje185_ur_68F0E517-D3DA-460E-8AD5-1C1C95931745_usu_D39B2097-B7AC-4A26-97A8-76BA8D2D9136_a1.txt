@@ -1,0 +1,22 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 4.05.pje.1.85
+12/11/2024 18:50:22: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 BlpMOR0ZEkNYIfRmZ1XrgV9MWfJTEfqs "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 18:50:25: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:50:25: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = MNjRCyWNBobcxsGqFlf7YIu1.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3768ff827e70ab5e4a9c5a65855b6c5cbca2861a71b5ffe96d5c17d883f64b27c3fe20ccdb69740233097b3a9079131d4d48f07be901625aa941a0c35e95ce5d4 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c30f722edd6f963ad95586631b1d2a58eeca2861a71b5ffe96d5c17d883f64b27c1c2de1e042222e24b983e432b092d77bdabd1bcae1aa21e5d6fb74ea18a1acab ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c30f722edd6f963ad95586631b1d2a58eeca2861a71b5ffe96d5c17d883f64b27c1c2de1e042222e24b983e432b092d77bdabd1bcae1aa21e5d6fb74ea18a1acab ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 18:50:27: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:50:32: Total: 0
+12/11/2024 18:50:32: Total: 0
+12/11/2024 18:50:37: Total: 0
+12/11/2024 18:50:37: Total: 0
+12/11/2024 18:50:40: Total: 0
+12/11/2024 18:50:40: Total: 0
+12/11/2024 18:50:42: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:50:42: Rodou

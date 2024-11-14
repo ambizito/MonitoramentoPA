@@ -1,0 +1,27 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.07.pje.1
+12/11/2024 18:47:16: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0.10ywk5rvtk1 "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+12/11/2024 18:47:19: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:47:19: Perfil advogado e usuário RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = 00QTREFkM3J9NwfGV7UXMy7DEERwirvphrsHgj4T.hc-zdu138:pje-internet-zdu138 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 18:47:20: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:47:25: Total: 2
+12/11/2024 18:47:25: Total: 2
+12/11/2024 18:47:25: advogado 0767885-67.2023.8.07.0016 >> Processo já foi verificado recentemente
+12/11/2024 18:47:25: advogado 0768154-09.2023.8.07.0016 >> Processo já foi verificado recentemente
+12/11/2024 18:47:26: Total: 1
+12/11/2024 18:47:26: Total: 1
+12/11/2024 18:47:29: advogado 0706809-87.2023.8.07.0001 >> Processo com 4 parte(s), 56 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 18:47:29: Total: 1
+12/11/2024 18:47:29: Total: 1
+12/11/2024 18:47:29: advogado 0730776-82.2024.8.07.0016 >> Processo já foi verificado recentemente
+12/11/2024 18:47:30: Total: 2
+12/11/2024 18:47:30: Total: 2
+12/11/2024 18:47:30: advogado 0727285-20.2021.8.07.0001 >> Processo já foi verificado recentemente
+12/11/2024 18:47:30: advogado 0705310-79.2021.8.07.0020 >> Processo já foi verificado recentemente
+12/11/2024 18:47:32: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 18:47:32: Rodou

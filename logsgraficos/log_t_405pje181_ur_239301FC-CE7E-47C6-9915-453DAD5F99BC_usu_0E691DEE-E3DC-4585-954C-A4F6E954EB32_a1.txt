@@ -1,0 +1,18 @@
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 4.05.pje.1.81
+13/11/2024 00:34:27: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 fAnqQfy88oievCAp7uuwesmqTvTQb2pl "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+13/11/2024 00:34:29: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:34:29: Perfil advogado e usuário ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO
+OAB = RN9565 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark ; Cookies (
+Name = JSESSIONID ; Value = aj6LoiSBBxx7qbHjcRIVf7Jz.node03 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+13/11/2024 00:34:36: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 00:34:51: Total: 0
+13/11/2024 00:34:51: Total: 0
+13/11/2024 00:35:08: Total: 0
+13/11/2024 00:35:08: Total: 0
+13/11/2024 00:35:19: Total: 0
+13/11/2024 00:35:19: Total: 0
+13/11/2024 00:35:21: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:35:21: Rodou

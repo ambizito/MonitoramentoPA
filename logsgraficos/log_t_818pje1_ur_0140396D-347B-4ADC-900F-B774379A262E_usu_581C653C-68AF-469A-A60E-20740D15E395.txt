@@ -1,0 +1,18 @@
+67623476300@avelinocoelhoadv@0140396D-347B-4ADC-900F-B774379A262E@linus em 8.18.pje.1
+12/11/2024 17:56:34: Acessou https://pje.tjpi.jus.br/1g/login.seam
+12/11/2024 17:56:35: Logou https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 17:56:35: Perfil advogado e usuário GILMAR COELHO DE SALLES JUNIOR
+OAB = 67623476300 ; URL = https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.18.pje.1 ; usuarioId = 67623476300@avelinocoelhoadv@0140396D-347B-4ADC-900F-B774379A262E@linus ; Cookies (
+Name = JSESSIONID ; Value = eha3C7HYnTVe-HmYxaQCY1DoMqqKgs5cezwjHjIO.pje-legacy-7b74846fb9-574p2 ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = X-Oracle-BMC-LBS-Route ; Value = 4822fad9c9bb8c830577f47c88b362e58ffcba2927da03a11a2ff120e313e9b656c62fd8a7c42ae8ebe09f8ef6a1ecce11e30e2d8fd6b1a959b79f3c ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NzM3OTQsImlhdCI6MTczMTQ0NDk5NCwiYXV0aF90aW1lIjoxNzMxNDQ0OTk0LCJqdGkiOiJiZjM2ZTRmYS04NjdmLTQzZGYtOGJkMS1iMWYwM2M5ZmViYzIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBpLTFnLW5ldyIsInN1YiI6ImU0ZmY1ZjFlLWU1NjgtNGRkNi04MWNlLTA3YjU4NDM1M2YyYSIsInR5cCI6IklEIiwiYXpwIjoicGplLXRqcGktMWctbmV3Iiwic2Vzc2lvbl9zdGF0ZSI6ImIxMjBkMTU1LWY3MTMtNDU3Yi05YmIxLWJhZjQzYjJkMzIyMCIsImF0X2hhc2giOiJ4MF9JUWppaU5sY1RlRzdzVFlHUFRBIiwiYWNyIjoiMSIsInNpZCI6ImIxMjBkMTU1LWY3MTMtNDU3Yi05YmIxLWJhZjQzYjJkMzIyMCIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjpmYWxzZSwibmFtZSI6IkdJTE1BUiBDT0VMSE8gREUgU0FMTEVTIEpVTklPUiIsIkpUUiI6IjgxOCIsInByZWZlcnJlZF91c2VybmFtZSI6IjY3NjIzNDc2MzAwIiwiZ2l2ZW5fbmFtZSI6IkdJTE1BUiBDT0VMSE8gREUgU0FMTEVTIEpVTklPUiIsImVtYWlsIjoiZ2lsbWFyY29lbGhvLmFkdkBnbWFpbC5jb20ifQ.LN3FN8nSCNztN8L6G1xm0WKIMiBTCDhWv_gL0xHkCvInW5k7JvbUMOZm0MAUwmxCYYh__y45Y3UMcjcYGG9Dep8Kiy1UHnBJ8ZtF-Bys-wM-PgjlUwEnIM05xsy0BJ4qT9c7Lw9QJs1ysJLZwZ68qLQqnyF55cN9DBwXE8MgiqYQwZgOrC8WPVhzHxqjdxqKQI9BvYi0gkh1779pKgXmXirFqXvnxUmkoMT1aQsiiq-AVDoaXM8dio6t2rQI7xVu0g_zxFJPwQegANJ9sA0ughc7mt3Aov7KcIEKzFqAxm8C_8qEFqfLD-M9PtfQILuJNoKUm7AuakI8XXrfqWXlTA ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = PJE-TJPI-1G-StickySessionRule ; Value = "pje-legacy-7b74846fb9-574p2:pje-tjpi-1g" ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /
+)
+12/11/2024 17:56:35: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 17:56:36: Total: 1
+12/11/2024 17:56:36: Total: 1
+12/11/2024 17:56:38: advogado 0024137-07.2019.8.18.0001 >> Processo com 2 parte(s), 65 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 17:56:38: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 17:56:38: Rodou

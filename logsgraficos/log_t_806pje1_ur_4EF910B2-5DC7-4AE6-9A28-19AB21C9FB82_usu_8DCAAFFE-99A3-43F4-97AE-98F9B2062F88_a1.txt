@@ -1,0 +1,87 @@
+CE31341@rocadvocacia@4EF910B2-5DC7-4AE6-9A28-19AB21C9FB82@mark em 8.06.pje.1
+12/11/2024 20:32:06: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.syje12ofgq9 "HENDENSON DE OLIVEIRA RABELO:05030286306"
+12/11/2024 20:32:09: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+12/11/2024 20:32:09: Perfil advogado e usuário HENDENSON DE OLIVEIRA RABELO
+OAB = CE31341 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = CE31341@rocadvocacia@4EF910B2-5DC7-4AE6-9A28-19AB21C9FB82@mark ; Cookies (
+Name = JSESSIONID ; Value = H8V8CDclqEjBDJyEfSdDA6ni8vUI4EuTAlEx43Wk.tjpjp36 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODMxMjgsImlhdCI6MTczMTQ1NDMyOCwiYXV0aF90aW1lIjoxNzMxNDU0MzI4LCJqdGkiOiIwNTFlN2E5ZS0zOGY5LTQ2ODMtODg4MC1kOTg4ZTFjYTMzZGUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiYjA2MWZlZDUtYzA2NC00MDRiLTljNDQtYWExMDZhYTg3NDkyIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiI1NWZlYzZmNy0xOTQ4LTRkZmUtYTk0Zi00NGI1Y2E4OTRlNDgiLCJhdF9oYXNoIjoiUEhrNkNZd2VFRFEwaGJsMWlUY0JDQSIsImFjciI6IjEiLCJzaWQiOiI1NWZlYzZmNy0xOTQ4LTRkZmUtYTk0Zi00NGI1Y2E4OTRlNDgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFTkRFTlNPTiBERSBPTElWRUlSQSBSQUJFTE8iLCJqdHIiOiI4MDYiLCJKVFIiOiI4MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTAzMDI4NjMwNiIsImdpdmVuX25hbWUiOiJIRU5ERU5TT04gREUgT0xJVkVJUkEgUkFCRUxPIiwiZW1haWwiOiJhZHZoZW5kZXJzb24xQGdtYWlsLmNvbSJ9.x1yL1u5aMUJMIACXePzPtSVBHHGuNFXQkz6EWGcINijGS_3e2JvhIFb1vYNiHkcb05BWT30bS8V_ZkqGCZupjw0PL5zX_tyW0FRh9fT1Rb-eAVUTTEoxBo4Gwzk-qL7qVwDssQFwSGbk6cV7tkb231MaIMCi4p7OxEhIOPrCNdcAWPHJHMm8MI2_io5itL-MZykw3pfIzBghWzcjyuV4a8w22u0ghpNdicXPcxPvAgdjETTtSCfdVchZ9Gtb2gbptAJbA8jWdNUQmIgeSulIygQAxLgqQR3P4mVO4Y6qMA5Lx0SgB_fYnm5-915nurmDi-HcU6HJKcxNsbW774Ub9w ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp36:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 20:32:09: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:32:11: Total: 1
+12/11/2024 20:32:11: Total: 1
+12/11/2024 20:32:14: advogado 3000663-24.2020.8.06.0075 >> Processo com 2 parte(s), 62 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:32:17: Total: 21
+12/11/2024 20:32:17: Total: 21
+12/11/2024 20:32:18: advogado 0245537-53.2024.8.06.0001 >> Processo com 3 parte(s), 67 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:20: advogado 0262196-45.2021.8.06.0001 >> Processo com 2 parte(s), 65 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:21: advogado 0278557-35.2024.8.06.0001 >> Processo com 3 parte(s), 28 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:22: advogado 0243542-39.2023.8.06.0001 >> Processo com 4 parte(s), 66 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:24: advogado 0258769-35.2024.8.06.0001 >> Processo com 2 parte(s), 65 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:26: advogado 0247134-57.2024.8.06.0001 >> Processo com 8 parte(s), 82 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:28: advogado 0183731-95.2016.8.06.0001 >> Processo com 8 parte(s), 68 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:29: advogado 0100452-80.2017.8.06.0001 >> Processo com 5 parte(s), 74 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:31: advogado 0235361-20.2021.8.06.0001 >> Processo com 3 parte(s), 76 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:33: advogado 0283754-05.2023.8.06.0001 >> Processo com 2 parte(s), 60 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:34: advogado 0216145-68.2024.8.06.0001 >> Processo com 8 parte(s), 78 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:34: advogado 0273639-85.2024.8.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:32:36: advogado 0114034-50.2017.8.06.0001 >> Processo com 10 parte(s), 71 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:32:36: advogado 0201045-73.2024.8.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:32:38: advogado 3005877-82.2024.8.06.0001 >> Processo com 3 parte(s), 35 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:32:39: advogado 0215520-05.2022.8.06.0001 >> Processo com 2 parte(s), 63 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:32:41: advogado 0212118-76.2023.8.06.0001 >> Processo com 3 parte(s), 66 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:32:41: advogado 0221508-36.2024.8.06.0001 >> Falha ao abrir o processo
+html: salvo no mongo.
+12/11/2024 20:32:51: advogado 0221508-36.2024.8.06.0001 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+12/11/2024 20:33:01: advogado 0221508-36.2024.8.06.0001 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3193
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+12/11/2024 20:33:03: advogado 0224718-03.2021.8.06.0001 >> Processo com 6 parte(s), 68 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:33:05: advogado 0271262-83.2020.8.06.0001 >> Processo com 4 parte(s), 61 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:33:05: advogado 3003247-92.2020.8.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:33:05: Total: 1
+12/11/2024 20:33:05: Total: 1
+12/11/2024 20:33:07: advogado 0046227-64.2014.8.06.0018 >> Processo com 3 parte(s), 67 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 20:33:08: Total: 8
+12/11/2024 20:33:08: Total: 8
+12/11/2024 20:33:10: advogado 3000581-22.2024.8.06.0020 >> Processo com 3 parte(s), 64 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 20:33:11: advogado 3000019-81.2022.8.06.0020 >> Processo com 4 parte(s), 68 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:33:13: advogado 3000033-70.2019.8.06.0020 >> Processo com 4 parte(s), 67 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 20:33:15: advogado 3000482-62.2018.8.06.0020 >> Processo com 2 parte(s), 64 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:33:16: advogado 3000419-03.2019.8.06.0020 >> Processo com 4 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:33:17: advogado 3000424-25.2019.8.06.0020 >> Processo com 3 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:33:18: advogado 3000423-40.2019.8.06.0020 >> Processo com 2 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:33:19: advogado 3001487-22.2018.8.06.0020 >> Processo com 4 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:33:19: Total: 1
+12/11/2024 20:33:19: Total: 1
+12/11/2024 20:33:19: advogado 3000366-08.2021.8.06.0002 >> Processo já foi verificado recentemente
+12/11/2024 20:33:19: Total: 1
+12/11/2024 20:33:19: Total: 1
+12/11/2024 20:33:19: advogado 3000088-14.2020.8.06.0011 >> Processo já foi verificado recentemente
+12/11/2024 20:33:20: Total: 1
+12/11/2024 20:33:20: Total: 1
+12/11/2024 20:33:20: advogado 3000600-28.2019.8.06.0012 >> Processo já foi verificado recentemente
+12/11/2024 20:33:20: Total: 2
+12/11/2024 20:33:20: Total: 2
+12/11/2024 20:33:21: advogado 3000296-78.2019.8.06.0222 >> Processo com 2 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:33:23: advogado 0046494-69.2015.8.06.0222 >> Processo com 2 parte(s), 58 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:33:23: Total: 1
+12/11/2024 20:33:23: Total: 1
+12/11/2024 20:33:24: advogado 3000194-61.2016.8.06.0222 >> Processo com 3 parte(s), 16 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:33:25: Total: 5
+12/11/2024 20:33:25: Total: 5
+12/11/2024 20:33:26: advogado 0046926-15.2015.8.06.0020 >> Processo com 2 parte(s), 48 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:33:28: advogado 3938694-06.2013.8.06.0020 >> Processo com 3 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:33:29: advogado 0046347-04.2014.8.06.0020 >> Processo com 4 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:33:31: advogado 3000079-64.2016.8.06.0020 >> Processo com 2 parte(s), 30 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:33:32: advogado 0046473-20.2015.8.06.0020 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:33:32: Total: 2
+12/11/2024 20:33:32: Total: 2
+12/11/2024 20:33:32: advogado 3000425-12.2016.8.06.0021 >> Processo já foi verificado recentemente
+12/11/2024 20:33:34: advogado 0046415-14.2015.8.06.0021 >> Processo com 4 parte(s), 50 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:33:35: Entrou na aba acervo do perfil e mapeou 43 processos e teve erro em 1 processos
+12/11/2024 20:33:35: Rodou

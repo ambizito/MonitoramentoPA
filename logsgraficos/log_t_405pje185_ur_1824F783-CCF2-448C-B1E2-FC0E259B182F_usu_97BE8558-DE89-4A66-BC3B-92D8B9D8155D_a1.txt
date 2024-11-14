@@ -1,0 +1,22 @@
+SP416989@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 4.05.pje.1.85
+12/11/2024 18:44:18: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 mgBgNX4ZmoqVfF0LEfEpMa5VQ2Uaq7V6 "RODRIGO ANTONIO DE ARAUJO LUZ:01797569406"
+12/11/2024 18:44:20: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:44:20: Perfil advogado e usuário RODRIGO ANTONIO DE ARAUJO LUZ
+OAB = SP416989 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = SP416989@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = FnUkTlG9ZN9ASHyhdPEahGDB.node01 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3490869045d9bd13ec8c9eba59765d8b4869fd578e07012188fde7819a4cb4d08b9a9c8eeadfac48b46d6915fa18048d3e152605c91675872705faa3902fed4b3 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3e6dc9ff08c8bb11083034fa5bc24c4af869fd578e07012188fde7819a4cb4d085036002a24334460db012e33531e4326314cbb3a11907f1a503d357a694c0e52 ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3e6dc9ff08c8bb11083034fa5bc24c4af869fd578e07012188fde7819a4cb4d085036002a24334460db012e33531e4326314cbb3a11907f1a503d357a694c0e52 ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 18:44:23: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:44:28: Total: 0
+12/11/2024 18:44:28: Total: 0
+12/11/2024 18:44:32: Total: 0
+12/11/2024 18:44:32: Total: 0
+12/11/2024 18:44:36: Total: 0
+12/11/2024 18:44:36: Total: 0
+12/11/2024 18:44:38: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:44:38: Rodou

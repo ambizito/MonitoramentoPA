@@ -1,0 +1,54 @@
+05146428409@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 5.07.pje.1
+14/11/2024 09:07:55: Acessou https://pje.trt7.jus.br/primeirograu/login.seam
+14/11/2024 09:07:56: Logou https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 09:07:57: Perfil advogado e usuário GABRIEL GALVAO DANTAS TENORIO
+OAB = 05146428409 ; URL = https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.07.pje.1 ; usuarioId = 05146428409@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 6d1b275bd4da7fef~pVmirtAgRc9ZLR+lksyqLFvS ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 6638506a-45ab-4754-a62b-f991fce9875c ; Domain = pje.trt7.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwMjYwYWI5Yi0yNWVmLTRjZmEtOGFmZC02NWMxNDAzN2NlNjAiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTg2MDc1LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTg5Njc1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjY5MzMyOCwibG9naW4iOiIwNTE0NjQyODQwOSIsIm5vbWUiOiJHQUJSSUVMIEdBTFZBTyBEQU5UQVMgVEVOT1JJTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLCJwZXJmaWwiOjY3MzQzLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjU5ODU1LCJkZXNjcmljYW8iOiJHQUJSSUVMIEdBTFZBTyBEQU5UQVMgVEVOT1JJTyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDA1MS40NjQuMjg0LTA5KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDciLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token_footer ; Value = 4LA2aqp3nTBlWaG9vOKLzVbO2Qeujeaxy6pv4jxgJRw ; Domain = pje.trt7.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyOGM2NDU0MC1hMTZmLTQwMmQtODAwMC1mODJkYWE4Y2QyM2YiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTg2MDc1LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNjI5Mjc1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTE0NjQyODQwOSIsInBlcmZpbCI6NjczNDMsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNyJ9.ApsNXqN6UKwjEUuME7QcH_xiMWnTVSi835bRHqMGTEU ; Domain = pje.trt7.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 4CFB2EC6C1B4756A2513F3D8DB5F80DB376027F4CFB8B9ED6C8F1CDFB58CADBA69F9CCF55E64A6FED58B8EC228EE35D0563D ; Domain = pje.trt7.jus.br ; Path = /
+)
+14/11/2024 09:07:58: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 09:07:59: Total: 1
+14/11/2024 09:07:59: Total: 1
+14/11/2024 09:07:59: advogado 0000911-65.2023.5.07.0008 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: Total: 32
+14/11/2024 09:07:59: Total: 32
+14/11/2024 09:07:59: advogado 0000245-08.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000248-60.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000250-72.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000251-15.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000252-97.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000253-27.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000256-37.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000257-22.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000279-25.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000286-72.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000288-84.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000290-54.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000293-09.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000296-61.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000297-46.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000307-90.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000309-18.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000325-14.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000333-88.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000349-97.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000350-82.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000354-22.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000355-07.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000357-74.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000395-86.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000416-62.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000441-75.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000458-56.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000695-48.2022.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000749-56.2022.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000873-31.2021.5.07.0038 >> Processo já foi verificado recentemente
+14/11/2024 09:07:59: advogado 0000956-89.2021.5.07.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:08:00: Entrou na aba acervo do perfil e mapeou 33 processos e teve erro em 0 processos
+14/11/2024 09:08:00: Rodou

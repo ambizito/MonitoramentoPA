@@ -1,0 +1,13 @@
+RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 8.07.pje.2
+12/11/2024 16:31:58: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1857 0.v6c0sjhfx87 "JESSICA XAVIER DA SILVA SANTOS:08295861484"
+12/11/2024 16:32:01: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:32:01: Perfil advogado e usuário JESSICA XAVIER DA SILVA SANTOS CARVALHO
+OAB = RN11345 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = Fp9Y2dXpcMRdGFtesOSbrMKPCKtxwaBMRFGT3HtQ.hc-zdu115:pje2i-internet-zdu115 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 16:32:01: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:32:04: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:32:04: Rodou

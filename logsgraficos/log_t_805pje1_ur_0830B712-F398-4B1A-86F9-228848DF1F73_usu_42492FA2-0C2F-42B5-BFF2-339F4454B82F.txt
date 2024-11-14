@@ -1,0 +1,26 @@
+06586731496@dcdd@0830B712-F398-4B1A-86F9-228848DF1F73@berners em 8.05.pje.1
+12/11/2024 21:38:49: Acessou https://pje.tjba.jus.br/pje/login.seam
+12/11/2024 21:38:51: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:38:51: Perfil advogado e usuário MURIEL LEITAO MARQUES DINIZ
+OAB = 06586731496 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = 06586731496@dcdd@0830B712-F398-4B1A-86F9-228848DF1F73@berners ; Cookies (
+Name = JSESSIONID ; Value = aVzxfald8r2iJnP0Fdm0XinP7BLECsKUUBeP5w2c.pje1gapp043 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODcxMzAsImlhdCI6MTczMTQ1ODMzMCwiYXV0aF90aW1lIjoxNzMxNDU4MzMwLCJqdGkiOiJlZWMwYTRhZi1kYWE5LTQ3YTgtYTg0ZS0zZmVlZTNkNTZmZWUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiODZiNmE2YTgtOTJkOC00MmRmLWJhMWMtMzllYmVhZGZhOTBmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiI1YzdiNTc0Yy1mMWE1LTQ3MDgtYjZjNy0yYmY0YWVlOTNmZWIiLCJhdF9oYXNoIjoiczlILVA0UHJzT1NuMGtUckcwQlB5USIsImFjciI6IjEiLCJzaWQiOiI1YzdiNTc0Yy1mMWE1LTQ3MDgtYjZjNy0yYmY0YWVlOTNmZWIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJNVVJJRUwgTEVJVEFPIE1BUlFVRVMgRElOSVoiLCJKVFIiOiI4MDUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNjU4NjczMTQ5NiIsImdpdmVuX25hbWUiOiJNVVJJRUwgTEVJVEFPIE1BUlFVRVMgRElOSVoiLCJlbWFpbCI6Im11cmllbC5kaW5pei5hZHZAZ21haWwuY29tIn0.KDaTX0yZDPIZlabzvjwng77yCmczZWzyRibR8t3UxRAY5rz4DZN0lMwergGjKQp_DfKLyXRynezv9vrOanRl26T2xVrRbongIGulG6NBnz2l27CJpfbmsA-93wnGS8bZbOV_WvGXaobx6VHN4mZJE70JYmcsM6X8msM4911UQl6ogEpLMsgh6H8OrMeyC3BReOqzSg6IBuu-aWeC3iSGxFSNKA0zdb6fmpRQiJIXbnKLF_wXWIajhpK8c61ANc29Yi_VR9T5Hu6cls4qoD1gdiwZ3tc21hggPO65aVOpYssMihYXPtzZ-l4GvsQ-nA1xUv--tX8Ee_CymT3aGybSPg ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp043:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+12/11/2024 21:38:51: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 21:38:52: Total: 1
+12/11/2024 21:38:52: Total: 1
+12/11/2024 21:38:55: advogado 8001349-52.2023.8.05.0042 >> Processo com 2 parte(s), 66 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 21:38:55: Total: 3
+12/11/2024 21:38:55: Total: 3
+12/11/2024 21:38:57: advogado 8002437-18.2023.8.05.0110 >> Processo com 2 parte(s), 60 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 21:38:59: advogado 8001257-98.2022.8.05.0110 >> Processo com 7 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:39:01: advogado 8000465-52.2019.8.05.0110 >> Processo com 2 parte(s), 66 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 21:39:02: Total: 2
+12/11/2024 21:39:02: Total: 2
+12/11/2024 21:39:04: advogado 8050974-18.2022.8.05.0001 >> Processo com 6 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:39:05: advogado 8080480-68.2024.8.05.0001 >> Processo com 4 parte(s), 28 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 21:39:06: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 21:39:06: Rodou

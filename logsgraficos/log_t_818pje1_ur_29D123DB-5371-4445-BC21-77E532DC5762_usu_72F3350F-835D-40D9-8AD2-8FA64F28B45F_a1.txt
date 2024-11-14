@@ -1,0 +1,31 @@
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 8.18.pje.1
+12/11/2024 16:29:36: Acessou https://pje.tjpi.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 0.lggh5xikc97 "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+12/11/2024 16:29:38: Logou https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 16:29:38: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.18.pje.1 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = mbl0DxcJ2BkGw3MbsgpL-YvsZD7d_5H0JiJrX2dg.pje-legacy-7b74846fb9-d4hjh ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = X-Oracle-BMC-LBS-Route ; Value = 84eb1219f25c7f0846913922b75a6937098eb18827da03a11a2ff120e313e9b656c62fd8a7c42ae8d1b89efc903ea3d681dd11eec3e2a0b6ce8934eb ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njg1NzgsImlhdCI6MTczMTQzOTc3OCwiYXV0aF90aW1lIjoxNzMxNDM5Nzc4LCJqdGkiOiIwMTQ0ODVkNC1kNWQxLTQ4YjEtODY2Mi01M2M1NThlY2Y5M2UiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBpLTFnLW5ldyIsInN1YiI6IjhmYzFhODZjLTJjNTQtNDBhZi04ZDcwLWVlZmI2ZTk0ZDNmNSIsInR5cCI6IklEIiwiYXpwIjoicGplLXRqcGktMWctbmV3Iiwic2Vzc2lvbl9zdGF0ZSI6IjlkOGEyY2IwLWMwOTItNDQxNC1iNjc5LTNkMjA4ODFmNDJiNyIsImF0X2hhc2giOiJhVlFNTDU2SkgzMGxyRkd4MnZrVGlnIiwiYWNyIjoiMSIsInNpZCI6IjlkOGEyY2IwLWMwOTItNDQxNC1iNjc5LTNkMjA4ODFmNDJiNyIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiQURSSUFOQSBNQVJJQSBEQSBMVVogTk9HVUVJUkEgRElOSVoiLCJKVFIiOiI4MTgiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIxMDQ5MTQ5OTQ3NyIsImdpdmVuX25hbWUiOiJBRFJJQU5BIE1BUklBIERBIExVWiBOT0dVRUlSQSBESU5JWiIsImVtYWlsIjoiYWRyaWFuYW5vZ3VlaXJhLmFkdm9jYWNpYUBnbWFpbC5jb20ifQ.XcMbqoqUPt5eUY1PLCKI-vEG7UvQlFdAhcIeNHg4k6iMyMLb28lvqpRMjBvaCNxDhkhzNtS13sX00XNjtBvYfUpkmWZ_zfcXKymAdpVNnRTJr8Bh_WvD0Ur8WEn7EtcMae4jT67angNIECQ9ZaiVRAGMYQxjOcocSBUKaH5pc3zpKszqd0LsO9chilJL93x8UxaNK7M8nEF3JbOhiuXxXRMtDrH9EkWdfTKmqu2eGBQOUKKl54uIVVoYOFjXdESi4X_9tPifqhpDJXt0gT-nRFd4SA5Q0jZdwiC6aFc0-zxVyIEHzjRuqVUL0tDQj8YdZGEPnZs5_j88FKYdgJg9fg ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = PJE-TJPI-1G-StickySessionRule ; Value = "pje-legacy-7b74846fb9-d4hjh:pje-tjpi-1g" ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /
+)
+12/11/2024 16:29:39: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:29:41: Total: 3
+12/11/2024 16:29:41: Total: 3
+12/11/2024 16:29:41: advogado 0800012-44.2023.8.18.0051 >> Processo já foi verificado recentemente
+12/11/2024 16:29:43: advogado 0800023-39.2024.8.18.0051 >> Processo com 5 parte(s), 67 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 16:29:43: advogado 0800399-93.2022.8.18.0051 >> Processo já foi verificado recentemente
+12/11/2024 16:29:43: Total: 2
+12/11/2024 16:29:43: Total: 2
+12/11/2024 16:29:43: advogado 0800591-27.2021.8.18.0062 >> Processo já foi verificado recentemente
+12/11/2024 16:29:43: advogado 0800253-53.2021.8.18.0062 >> Processo já foi verificado recentemente
+12/11/2024 16:29:43: Total: 1
+12/11/2024 16:29:43: Total: 1
+12/11/2024 16:29:43: advogado 0802386-90.2023.8.18.0032 >> Processo já foi verificado recentemente
+12/11/2024 16:29:44: Total: 1
+12/11/2024 16:29:44: Total: 1
+12/11/2024 16:29:44: advogado 0801962-78.2024.8.18.0140 >> Processo já foi verificado recentemente
+12/11/2024 16:29:47: Entrou na aba acervo do perfil e mapeou 7 processos e teve erro em 0 processos
+12/11/2024 16:29:47: Rodou

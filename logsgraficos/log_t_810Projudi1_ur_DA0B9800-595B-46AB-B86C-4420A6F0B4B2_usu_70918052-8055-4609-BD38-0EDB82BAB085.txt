@@ -1,0 +1,12 @@
+08893572427@kaioalves@DA0B9800-595B-46AB-B86C-4420A6F0B4B2@bezos em 8.10.Projudi.1
+12/11/2024 17:30:46: Acessou https://projudi.tjma.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 17:30:46: Logou https://projudi.tjma.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 17:30:47: Não capturou o total de processos para o OAB 08893572427
+html: salvo no mongo.
+12/11/2024 17:30:47: Rodou com falha
+08893572427@kaioalves@DA0B9800-595B-46AB-B86C-4420A6F0B4B2@bezos em 8.10.Projudi.1
+12/11/2024 17:31:47: Acessou https://projudi.tjma.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 17:31:47: Logou https://projudi.tjma.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 17:31:47: Não capturou o total de processos para o OAB 08893572427
+html: salvo no mongo.
+12/11/2024 17:31:47: Rodou com falha

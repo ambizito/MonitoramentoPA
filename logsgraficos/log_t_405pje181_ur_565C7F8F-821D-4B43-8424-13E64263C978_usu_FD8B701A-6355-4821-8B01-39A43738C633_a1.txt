@@ -1,0 +1,18 @@
+RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 4.05.pje.1.81
+12/11/2024 17:52:58: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1857 nJxqlQkAW3ZUc8dAB2ySddrqXwix5dmv "JESSICA XAVIER DA SILVA SANTOS:08295861484"
+12/11/2024 17:53:01: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 17:53:01: Perfil advogado e usuário Jéssica Xavier da Silva Santos Carvalho
+OAB = RN11345 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = WjvkwG1VM53UJxaf0+lOgJc3.node07 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+12/11/2024 17:53:08: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 17:53:26: Total: 0
+12/11/2024 17:53:26: Total: 0
+12/11/2024 17:53:44: Total: 0
+12/11/2024 17:53:44: Total: 0
+12/11/2024 17:53:56: Total: 0
+12/11/2024 17:53:56: Total: 0
+12/11/2024 17:53:58: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 17:53:58: Rodou

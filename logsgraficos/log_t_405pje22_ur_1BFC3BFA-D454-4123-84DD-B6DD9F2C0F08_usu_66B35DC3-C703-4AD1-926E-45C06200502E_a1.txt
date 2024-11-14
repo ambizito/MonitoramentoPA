@@ -1,0 +1,418 @@
+RN25593@velloso@1BFC3BFA-D454-4123-84DD-B6DD9F2C0F08@berners em 4.05.pje2.2
+12/11/2024 20:15:51: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.ukxtwskfpho "ANA FLAVIA VELLOSO BORGES PEREIRA MACEDO76897257400"
+12/11/2024 20:15:54: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:15:54: Perfil advogado e usuário ANA FLAVIA VELLOSO BORGES PEREIRA MACEDO
+OAB = RN25593 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = RN25593@velloso@1BFC3BFA-D454-4123-84DD-B6DD9F2C0F08@berners ; Cookies (
+Name = JSESSIONID ; Value = vgRAJOtBng51oQ1SKZgcA_vtqtGJicqBgMelWyrx.sg-119-vbq78 ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODIxNTMsImlhdCI6MTczMTQ1MzM1NCwiYXV0aF90aW1lIjoxNzMxNDUzMzUzLCJqdGkiOiI4MjlhNmQ5Ni1lMDM4LTRlMzctOWJiOS0yM2I4N2Y2NjNiYWEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiOTE4MzNmODUtYWZiOC00OGI4LTg2NzYtNzc1ZWQzNmYzZTMyIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiJiNjA0NTkxMC1mNGE0LTRiY2QtYmFmMi02YjAzMDg3MjdkZjEiLCJhdF9oYXNoIjoiZjFCTEtSd0JGdFFLd3BfbXlOS0N3dyIsImFjciI6IjEiLCJzaWQiOiJiNjA0NTkxMC1mNGE0LTRiY2QtYmFmMi02YjAzMDg3MjdkZjEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFOQSBGTEFWSUEgVkVMTE9TTyBCT1JHRVMgUEVSRUlSQSBNQUNFRE8iLCJKVFIiOiI0MDUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiI3Njg5NzI1NzQwMCIsImdpdmVuX25hbWUiOiJBTkEgRkxBVklBIFZFTExPU08gQk9SR0VTIFBFUkVJUkEgTUFDRURPIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQHZlbGxvc29hZHZvY2FjaWEuY29tLmJyIn0.I_T5vLzSspmkXdYtRYh5A3EZqFi5GqUYAX8bumWCzTa_Jk3-jYj_x33mvEyvP9hsimHtVVCN4CgmVGE8ol5AqmzC89rW80lHYSGMmz3G75EnZOs0xoJaXFfGITQG1wNcGKtm9QYYaggxdO7FSQAu8pE4Cdz5RzfUAYX_cv63WKlU91ChQ3cVwECtIRj4fOcBJh9e34U2Vgtcn6r-7BvwpHgdtd2n_i4BdnT76Yk3eHwrkl7tdZRfdlXCTVfIC4l4PEtxAKDQZuSWi-gohfVzfO68R9Ebd1TT0wvZTZHikFDp-OQ-OQlhmhsnz1liIlrsamERZt8zAzpp2jPTyrONCA ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 39e08340bbcc4d2e6e9bb2122e630c2f ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_2D77BEF04482D719562B1E438F1F1DC8_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_2D77BEF04482D719562B1E438F1F1DC8_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+12/11/2024 20:15:56: Total: 47
+12/11/2024 20:15:59: advogado 0813203-91.2019.4.05.8200 >> Processo com 7 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:15:59: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:15:59: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:15:59: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:15:59: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:16:01: advogado 0006853-18.2022.4.05.8200 >> Processo com 4 parte(s), 55 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:16:02: advogado 0000225-95.2022.4.05.8205 >> Processo com 4 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:04: advogado 0017045-10.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:06: advogado 0009241-54.2023.4.05.8200 >> Processo com 4 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:07: advogado 0013558-32.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:09: advogado 0002540-62.2023.4.05.8205 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:11: advogado 0014100-50.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:13: advogado 0013026-58.2022.4.05.8200 >> Processo com 4 parte(s), 54 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:15: advogado 0013023-06.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:16: advogado 0009894-56.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:18: advogado 0021027-95.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:20: advogado 0027005-53.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:22: advogado 0032319-77.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:24: advogado 0016603-10.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:26: advogado 0014562-07.2022.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:27: advogado 0001078-85.2023.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:29: advogado 0015092-74.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:31: advogado 0009231-44.2022.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:16:33: advogado 0009904-37.2022.4.05.8200 >> Processo com 4 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:35: advogado 0005444-07.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:37: advogado 0013293-30.2022.4.05.8200 >> Processo com 4 parte(s), 46 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:38: advogado 0001252-94.2023.4.05.8200 >> Processo com 4 parte(s), 54 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:16:40: advogado 0002678-44.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:42: advogado 0802930-48.2022.4.05.8200 >> Processo com 3 parte(s), 32 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:16:43: advogado 0004958-22.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:45: advogado 0008071-81.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:47: advogado 0017382-96.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:49: advogado 0017325-78.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:16:51: advogado 0005110-70.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:53: advogado 0008077-54.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:55: advogado 0005738-25.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:57: advogado 0004645-27.2023.4.05.8200 >> Processo com 4 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:59: advogado 0015832-32.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:01: advogado 0000970-56.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:03: advogado 0005959-36.2022.4.05.8202 >> Processo com 4 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:05: advogado 0001522-21.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:07: advogado 0005544-25.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:10: advogado 0006865-95.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:12: advogado 0006136-69.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:13: advogado 0026933-66.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:15: advogado 0020571-48.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:17: advogado 0025344-39.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:19: Total: 1
+12/11/2024 20:17:20: advogado 0000577-98.2023.4.05.8405 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:21: Total: 11
+12/11/2024 20:17:23: advogado 0006853-18.2022.4.05.8200 >> Processo com 4 parte(s), 55 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:17:25: advogado 0000225-95.2022.4.05.8205 >> Processo com 4 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:26: advogado 0017045-10.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:29: advogado 0009241-54.2023.4.05.8200 >> Processo com 4 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:30: advogado 0013558-32.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:32: advogado 0002540-62.2023.4.05.8205 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:34: advogado 0014100-50.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:35: advogado 0013026-58.2022.4.05.8200 >> Processo com 4 parte(s), 54 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:37: advogado 0013023-06.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:39: advogado 0027005-53.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:41: advogado 0032319-77.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:17:42: Total: 12
+12/11/2024 20:17:44: advogado 0813203-91.2019.4.05.8200 >> Processo com 7 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:17:44: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:17:44: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:17:44: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:17:44: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:17:46: advogado 0009894-56.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:48: advogado 0021027-95.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:49: advogado 0016603-10.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:51: advogado 0014562-07.2022.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:53: advogado 0001078-85.2023.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:56: advogado 0015092-74.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:57: advogado 0009231-44.2022.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:17:59: Total: 25
+12/11/2024 20:18:01: advogado 0815593-34.2019.4.05.8200 >> Processo com 8 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:18:01: advogado 0815593-34.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:01: advogado 0815593-34.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:01: advogado 0815593-34.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:01: advogado 0815593-34.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:04: advogado 0813203-91.2019.4.05.8200 >> Processo com 7 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:18:04: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:04: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:04: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:04: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:06: advogado 0820724-87.2019.4.05.8200 >> Processo com 3 parte(s), 58 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:18:08: advogado 0007531-33.2022.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:18:10: advogado 0820638-19.2019.4.05.8200 >> Processo com 6 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:18:10: advogado 0820638-19.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:10: advogado 0820638-19.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:10: advogado 0820638-19.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:18:13: advogado 0000140-51.2021.4.05.9820 >> Processo com 7 parte(s), 47 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:18:13: advogado 0000140-51.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:13: advogado 0000140-51.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:13: advogado 0000140-51.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:16: advogado 0000156-05.2021.4.05.9820 >> Processo com 8 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:18:16: advogado 0000156-05.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:16: advogado 0000156-05.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:16: advogado 0000156-05.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:16: advogado 0000156-05.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:18:18: Total: 24
+12/11/2024 20:18:20: advogado 0009904-37.2022.4.05.8200 >> Processo com 4 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:21: advogado 0005444-07.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:23: advogado 0013293-30.2022.4.05.8200 >> Processo com 4 parte(s), 46 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:26: advogado 0001252-94.2023.4.05.8200 >> Processo com 4 parte(s), 54 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:18:28: advogado 0002678-44.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:30: advogado 0802930-48.2022.4.05.8200 >> Processo com 3 parte(s), 32 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:18:32: advogado 0004958-22.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:34: advogado 0008071-81.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:35: advogado 0017382-96.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:37: advogado 0017325-78.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:18:39: advogado 0005110-70.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:40: advogado 0008077-54.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:42: advogado 0005738-25.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:44: advogado 0004645-27.2023.4.05.8200 >> Processo com 4 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:46: advogado 0015832-32.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:48: advogado 0000970-56.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:49: advogado 0005959-36.2022.4.05.8202 >> Processo com 4 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:51: advogado 0001522-21.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:52: advogado 0005544-25.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:54: advogado 0006865-95.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:56: advogado 0006136-69.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:18:58: advogado 0026933-66.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:19:00: advogado 0020571-48.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:19:02: advogado 0025344-39.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:19:03: Total: 1
+12/11/2024 20:19:04: advogado 0000577-98.2023.4.05.8405 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:19:04: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta, Sem prazo e detectou 126 e leu 63
+12/11/2024 20:20:42: Total: 220
+12/11/2024 20:20:42: Total: 220
+12/11/2024 20:20:44: advogado 0014789-94.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:20:44: advogado 0009901-14.2024.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0027005-53.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0006853-18.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0032319-77.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0019623-09.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0006724-76.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0000169-04.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0013558-32.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0014100-50.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0000225-95.2022.4.05.8205 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0017045-10.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0009241-54.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0013023-06.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0002540-62.2023.4.05.8205 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0013026-58.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0000156-05.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0820638-19.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0000140-51.2021.4.05.9820 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0813203-91.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0016158-89.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:44: advogado 0025804-26.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:46: advogado 0006857-55.2022.4.05.8200 >> Processo com 4 parte(s), 53 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:20:47: advogado 0008503-66.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:20:49: advogado 0004563-93.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:20:51: advogado 0014618-40.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:20:55: advogado 0009383-92.2022.4.05.8200 >> Processo com 4 parte(s), 54 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:20:55: advogado 0015092-74.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0009231-44.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0001156-45.2024.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0014952-74.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0002212-16.2024.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0820724-87.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0815593-34.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0008627-83.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0007536-55.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0006940-71.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0007531-33.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0001078-85.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:55: advogado 0014562-07.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0015832-32.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0001522-21.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0020571-48.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0011879-60.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0028412-94.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0026933-66.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0025344-39.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0001252-94.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0017219-48.2024.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0009894-56.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0016603-10.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0021027-95.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0002222-60.2024.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0007343-40.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0025030-93.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0006136-69.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0008071-81.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0000970-56.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0003033-54.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0012717-37.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0013878-82.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:57: advogado 0001108-23.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0000425-83.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:20:59: advogado 0004958-22.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0002678-44.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0005110-70.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0009904-37.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0005959-36.2022.4.05.8202 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0004645-27.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0008077-54.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0005738-25.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0005544-25.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0802930-48.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0006865-95.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0017382-96.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0005444-07.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0017325-78.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:20:59: advogado 0013293-30.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 20:21:02: advogado 0037031-13.2023.4.05.8200 >> Processo com 4 parte(s), 36 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:05: advogado 0023926-66.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:11: advogado 0013236-12.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:21:13: advogado 0002809-53.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:15: advogado 0015245-10.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:17: advogado 0003305-48.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:19: advogado 0003141-49.2024.4.05.8200 >> Processo com 6 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:21: advogado 0015353-73.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:24: advogado 0001087-47.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:27: advogado 0013039-57.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:29: advogado 0011409-63.2022.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:30: advogado 0020335-96.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:32: advogado 0009856-10.2024.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:34: advogado 0012756-97.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:37: advogado 0002604-53.2024.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:40: advogado 0013522-19.2024.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:42: advogado 0000344-37.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:44: advogado 0001930-12.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:46: advogado 0803512-48.2022.4.05.8200 >> Processo com 3 parte(s), 7 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:21:48: advogado 0005501-25.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:50: advogado 0009388-17.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:53: advogado 0003769-09.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:55: advogado 0003751-85.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:57: advogado 0002187-71.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:21:59: advogado 0004673-92.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:22:02: advogado 0017147-95.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:04: advogado 0024923-49.2023.4.05.8200 >> Processo com 6 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:06: advogado 0028261-31.2023.4.05.8200 >> Processo com 4 parte(s), 42 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:07: advogado 0019791-11.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:10: advogado 0000351-29.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:22:13: advogado 0005464-95.2022.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 20:22:15: advogado 0001072-78.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:22:17: advogado 0008001-64.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:22:19: advogado 0009356-12.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:22:21: advogado 0005333-86.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:23: advogado 0015344-77.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:25: advogado 0031266-61.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:27: advogado 0814147-93.2019.4.05.8200 >> Processo com 8 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:22:29: advogado 0000639-93.2022.4.05.8205 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:22:32: advogado 0002233-89.2024.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:34: advogado 0029929-37.2023.4.05.8200 >> Processo com 6 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:35: advogado 0013510-73.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:22:38: advogado 0004675-62.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:22:41: advogado 0013214-51.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:22:43: advogado 0002567-94.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:22:45: advogado 0005495-18.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:22:48: advogado 0013513-28.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:22:51: advogado 0803513-33.2022.4.05.8200 >> Processo com 3 parte(s), 25 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:22:53: advogado 0008726-19.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:22:56: advogado 0000168-19.2021.4.05.9820 >> Processo com 8 parte(s), 49 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:22:58: advogado 0015807-53.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:01: advogado 0003998-32.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:23:03: advogado 0013530-64.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:23:06: advogado 0005983-70.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:23:08: advogado 0008321-17.2022.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:23:11: advogado 0012249-39.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:13: advogado 0034048-41.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:16: advogado 0005866-79.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:23:18: advogado 0003554-62.2024.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:20: advogado 0015623-97.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:23: advogado 0002567-60.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:23:27: advogado 0026124-76.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:31: advogado 0016253-56.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:34: advogado 0006908-66.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:23:37: advogado 0003108-30.2022.4.05.8200 >> Processo com 4 parte(s), 57 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:23:40: advogado 0027408-22.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:43: advogado 0003857-13.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:47: advogado 0000027-27.2023.4.05.8204 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:50: advogado 0021807-35.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:53: advogado 0001560-33.2023.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:23:57: advogado 0014542-79.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:00: advogado 0029457-36.2023.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:03: advogado 0035600-41.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:06: advogado 0016883-78.2023.4.05.8200 >> Processo com 4 parte(s), 41 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:09: advogado 0012220-86.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:12: advogado 0010449-73.2023.4.05.8200 >> Processo com 4 parte(s), 44 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:16: advogado 0019223-92.2023.4.05.8200 >> Processo com 4 parte(s), 45 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:19: advogado 0002612-64.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:22: advogado 0013100-78.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:25: advogado 0009602-08.2022.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:29: advogado 0014783-87.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:32: advogado 0000815-72.2022.4.05.8205 >> Processo com 3 parte(s), 51 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:24:35: advogado 0010007-44.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:38: advogado 0004002-06.2022.4.05.8200 >> Processo com 3 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:41: advogado 0001099-61.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:44: advogado 0032179-43.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:46: advogado 0008206-59.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:48: advogado 0010216-76.2023.4.05.8200 >> Processo com 4 parte(s), 41 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:51: advogado 0009101-54.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:24:54: advogado 0000057-64.2023.4.05.9820 >> Processo com 3 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:24:56: advogado 0000189-92.2021.4.05.9820 >> Processo com 7 parte(s), 48 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:24:59: advogado 0034262-32.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:01: advogado 0035945-07.2023.4.05.8200 >> Processo com 4 parte(s), 41 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:03: advogado 0012781-13.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:06: advogado 0007559-64.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:08: advogado 0002656-20.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:25:10: advogado 0028532-40.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:12: advogado 0029346-52.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:14: advogado 0002586-66.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:16: advogado 0007575-18.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:18: advogado 0028425-93.2023.4.05.8200 >> Processo com 4 parte(s), 42 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:20: advogado 0002566-12.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:25:23: advogado 0012921-47.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:26: advogado 0001434-80.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:29: advogado 0023668-56.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:31: advogado 0010104-44.2022.4.05.8200 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:25:34: advogado 0014318-78.2022.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:25:37: advogado 0005848-58.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:25:39: advogado 0010952-31.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:41: advogado 0007936-69.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:25:44: advogado 0013553-10.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:46: advogado 0006543-12.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:49: advogado 0012101-28.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:51: advogado 0006168-74.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:53: advogado 0014284-06.2022.4.05.8200 >> Processo com 4 parte(s), 52 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:56: advogado 0014630-54.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:58: advogado 0022031-70.2023.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:01: advogado 0006215-82.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:05: advogado 0010333-04.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:26:07: advogado 0006773-20.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:09: advogado 0001013-90.2023.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:26:12: advogado 0007027-27.2022.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:15: advogado 0000003-11.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:26:17: advogado 0023576-78.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:19: advogado 0008733-11.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:21: advogado 0031647-69.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:23: advogado 0016312-44.2022.4.05.8200 >> Processo com 4 parte(s), 47 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:26: advogado 0009382-73.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:28: advogado 0016104-26.2023.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:31: advogado 0006140-09.2023.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:34: advogado 0006722-09.2023.4.05.8200 >> Processo com 4 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:37: advogado 0001584-46.2023.4.05.8205 >> Processo com 6 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:39: advogado 0014311-86.2022.4.05.8200 >> Processo com 4 parte(s), 53 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:41: advogado 0002524-60.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:43: advogado 0010017-88.2022.4.05.8200 >> Processo com 4 parte(s), 43 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:46: advogado 0013483-90.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:26:48: advogado 0013561-84.2022.4.05.8200 >> Processo com 4 parte(s), 41 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:50: advogado 0002601-69.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:26:52: advogado 0008023-25.2022.4.05.8200 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:26:54: advogado 0007057-62.2022.4.05.8200 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:26:57: advogado 0000481-43.2022.4.05.9820 >> Processo com 6 parte(s), 58 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:26:58: advogado 0000231-10.2022.4.05.9820 >> Processo com 3 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:27:00: Total: 49
+12/11/2024 20:27:00: Total: 49
+12/11/2024 20:27:02: advogado 0002397-36.2024.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:27:02: advogado 0000577-98.2023.4.05.8405 >> Processo já foi verificado recentemente
+12/11/2024 20:27:05: advogado 0011023-15.2022.4.05.8400 >> Processo com 4 parte(s), 48 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:27:07: advogado 0017496-17.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:27:11: advogado 0018312-96.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:27:13: advogado 0017184-41.2022.4.05.8400 >> Processo com 4 parte(s), 48 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:27:16: advogado 0000440-97.2024.4.05.8400 >> Processo com 4 parte(s), 48 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:18: advogado 0027007-05.2023.4.05.8400 >> Processo com 4 parte(s), 48 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:20: advogado 0000957-39.2023.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:22: advogado 0018478-94.2023.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:27:24: advogado 0012541-40.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:26: advogado 0031936-81.2023.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:29: advogado 0014936-05.2022.4.05.8400 >> Processo com 4 parte(s), 53 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:31: advogado 0022020-23.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:33: advogado 0022899-30.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:36: advogado 0013721-91.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:38: advogado 0030731-17.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:41: advogado 0000314-66.2023.4.05.8405 >> Processo com 6 parte(s), 49 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:27:43: advogado 0025947-94.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:46: advogado 0017146-29.2022.4.05.8400 >> Processo com 6 parte(s), 51 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:27:48: advogado 0001875-62.2022.4.05.8405 >> Processo com 4 parte(s), 48 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:50: advogado 0009776-96.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:53: advogado 0003986-52.2022.4.05.8200 >> Processo com 6 parte(s), 52 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:27:55: advogado 0012445-25.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:27:59: advogado 0015881-89.2022.4.05.8400 >> Processo com 4 parte(s), 48 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 20:28:01: advogado 0008005-83.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:04: advogado 0000995-70.2022.4.05.8405 >> Processo com 4 parte(s), 53 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:28:07: advogado 0014929-13.2022.4.05.8400 >> Processo com 4 parte(s), 51 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:09: advogado 0015178-61.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:12: advogado 0015281-68.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:14: advogado 0015966-75.2022.4.05.8400 >> Processo com 4 parte(s), 52 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:17: advogado 0001910-03.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:19: advogado 0018294-75.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:22: advogado 0005314-62.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:25: advogado 0010380-57.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:27: advogado 0006882-50.2022.4.05.8400 >> Processo com 3 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:28:30: advogado 0006706-37.2023.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:32: advogado 0016144-24.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:34: advogado 0001538-54.2023.4.05.8400 >> Processo com 3 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:28:37: advogado 0012062-47.2022.4.05.8400 >> Processo com 3 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:28:40: advogado 0015005-37.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:44: advogado 0006426-03.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:28:47: advogado 0007560-65.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:49: advogado 0014976-84.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:28:52: advogado 0007627-30.2022.4.05.8400 >> Processo com 4 parte(s), 49 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:28:54: advogado 0006946-60.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:28:56: advogado 0011256-12.2022.4.05.8400 >> Processo com 4 parte(s), 51 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:28:59: advogado 0008556-63.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:29:01: advogado 0000181-21.2022.4.05.9840 >> Processo com 3 parte(s), 29 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 20:29:03: Entrou na aba acervo do perfil e mapeou 269 processos e teve erro em 0 processos
+12/11/2024 20:29:40: Rodou

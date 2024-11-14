@@ -1,0 +1,6 @@
+RN14768@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs em 4.05.CRETA.1.84
+12/11/2024 17:20:26: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+12/11/2024 17:20:57: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 17:21:08: Não acessou a url de pesquisa para o OAB RN14768
+html: salvo no mongo.
+12/11/2024 17:21:08: Rodou

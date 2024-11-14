@@ -1,0 +1,30 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 5.05.pje.2
+12/11/2024 21:15:42: Acessou https://pje.trt5.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 lpn3G2j8N5sK06OR0ohEnKcLqirGEnHv "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 21:15:45: Logou https://pje.trt5.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 21:15:46: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.trt5.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.05.pje.2 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = 64b6fc18abebcc4b~nLi+5kx1aeGXfkW1OY4xCbck ; Domain = pje.trt5.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt5.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = bcef76b7-ef3d-477c-9d85-621bc1f80f5f ; Domain = pje.trt5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJiYjgwZGJkNy00ZjQ4LTRjOTItODM0Ni1iZmM4ZTZiYzYwZGMiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU2OTQ0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDYwNTQ0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ3OTgxOSwibG9naW4iOiIwNTU3Nzk4ODQxMSIsIm5vbWUiOiJQUklTQ0lMTEEgTElDSUEgRkVJVE9TQSBERSBBUkFVSk8gQ0FCUkFMIiwicGVyZmlsIjo5NDMxOSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjo3NTA0NCwiZGVzY3JpY2FvIjoiUFJJU0NJTExBIExJQ0lBIEZFSVRPU0EgREUgQVJBVUpPIENBQlJBTCAoMDU1Ljc3OS44ODQtMTEpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwib3JpZ2VtIjoiVFJUNSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token_footer ; Value = tKxAL3hS_X46RLf09PPUHA98fhH4CDMgqXQ9-Dhh9y4 ; Domain = pje.trt5.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIzZDQ1MGVkMS0yOGE3LTQzMDktODIwZS1kZDYzMjBjYzJjMDQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU2OTQ0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNTAwMTQ0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTU3Nzk4ODQxMSIsInBlcmZpbCI6OTQzMTksIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNSJ9.Rwb3eh9XtSXvUMJxKEdZtDnXArKOHK_jds-UFb8LvSc ; Domain = pje.trt5.jus.br ; Path = /
+Name = Xsrf-Token ; Value = C0DE29198B5EE8194A03E3BF0264B7AF45EF7C8397C06C71155129F5FA794CA87ACC1E23761509D6023DCA1E62F9196BCF04 ; Domain = pje.trt5.jus.br ; Path = /
+)
+12/11/2024 21:15:47: Total: 1
+12/11/2024 21:15:50: advogado 0000671-65.2021.5.05.0311 >> Processo com 3 parte(s), 55 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 21:15:50: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 2 e leu 1
+12/11/2024 21:15:51: Total: 2
+12/11/2024 21:15:51: Total: 2
+12/11/2024 21:15:53: advogado 0000428-62.2020.5.05.0342 >> Processo com 3 parte(s), 32 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:15:53: advogado 0000671-65.2021.5.05.0311 >> Processo já foi verificado recentemente
+12/11/2024 21:15:53: Total: 1
+12/11/2024 21:15:53: Total: 1
+12/11/2024 21:15:53: advogado 0000671-65.2021.5.05.0311 >> Processo já foi verificado recentemente
+12/11/2024 21:15:53: Total: 1
+12/11/2024 21:15:53: Total: 1
+12/11/2024 21:15:53: advogado 0000428-62.2020.5.05.0342 >> Processo já foi verificado recentemente
+12/11/2024 21:15:53: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 21:15:53: Rodou

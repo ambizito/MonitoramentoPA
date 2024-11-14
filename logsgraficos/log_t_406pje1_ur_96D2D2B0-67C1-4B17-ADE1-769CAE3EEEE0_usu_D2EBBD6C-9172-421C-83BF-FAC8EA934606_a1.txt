@@ -1,0 +1,16 @@
+SP438903@katiabargierirocha@96D2D2B0-67C1-4B17-ADE1-769CAE3EEEE0@mark em 4.06.pje.1
+12/11/2024 19:28:20: Acessou https://pje1g.trf6.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 092021 nndOCE0tHlJfnxaW2GTH0x9ix9Yn21F6 "KATIA BARGIERI DE CARVALHO ROCHA:29587752830"
+12/11/2024 19:28:22: Logou https://pje1g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:28:22: Perfil advogado e usuário KATIA BARGIERI DE CARVALHO ROCHA
+OAB = SP438903 ; URL = https://pje1g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 4.06.pje.1 ; usuarioId = SP438903@katiabargierirocha@96D2D2B0-67C1-4B17-ADE1-769CAE3EEEE0@mark ; Cookies (
+Name = JSESSIONID ; Value = OAdJI10lPzCDRHSaMC4SZ2-VjG73deB-QOFAdxk1.trf6pje1goutjb02 ; Domain = pje1g.trf6.jus.br ; Path = /pje
+Name = PJE-TRF6-1G-StickySessionRule ; Value = trf6-pje1goutjb02:pje-trf6-1g ; Domain = pje1g.trf6.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf6.jus.br ; Path = /
+)
+12/11/2024 19:28:23: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:28:24: Total: 1
+12/11/2024 19:28:24: Total: 1
+12/11/2024 19:28:24: advogado 1004743-43.2023.4.06.3810 >> Processo já foi verificado recentemente
+12/11/2024 19:28:25: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 19:28:25: Rodou

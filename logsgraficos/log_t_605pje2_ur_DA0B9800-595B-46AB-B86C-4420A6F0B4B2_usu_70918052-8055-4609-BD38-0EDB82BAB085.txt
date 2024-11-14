@@ -1,0 +1,8 @@
+PB22530@kaioalves@DA0B9800-595B-46AB-B86C-4420A6F0B4B2@bezos em 6.05.pje.2
+14/11/2024 09:46:55: Acessou https://pje.tre-ba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar kmjp323436 0.syje12ofgq9 login 0
+14/11/2024 09:46:55: Token não encontrado
+14/11/2024 09:46:55: Exceção de suporte: Specified method is not supported.
+Stack Trace:    at ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2691
+   at ProcessoAgil.TribunalToken.LogarTokenSSO(TokenInfo token, String senha, Int32 slot, String tribunal, String viewState, String html, String url, CookieContainer& cookie, Boolean& ignoreTimeOut) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 672
+   at ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 317

@@ -1,0 +1,26 @@
+03523218497@jofreadvogados@D5DB196D-7CFD-4693-A641-FD2E69A94E37@linus em 8.13.pje.1
+13/11/2024 12:15:59: Acessou https://pje.tjmg.jus.br/pje/login.seam
+13/11/2024 12:16:13: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 12:16:13: Perfil advogado e usuário THIAGO JOFRE DANTAS DE FARIA
+OAB = 03523218497 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = 03523218497@jofreadvogados@D5DB196D-7CFD-4693-A641-FD2E69A94E37@linus ; Cookies (
+Name = JSESSIONID ; Value = HkV-u7XIb1hmsSTOzojOJFbDG7VnH1rz-aL2ol2z.pje1g-poapp39.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1Mzk3NjEsImlhdCI6MTczMTUxMDk2MSwiYXV0aF90aW1lIjoxNzMxNTEwOTYxLCJqdGkiOiIyYjU5MGQ1Ny00NGJlLTQ0OWEtOGM3OC1lN2U1ZjRkMTUxYTAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiNmQxYWVkZTktOWRjOC00NDZmLTg0NjMtMjFiZTliYWUyZGY5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiIzYzQxNzAxMS04NWJkLTQzZDEtYjFlMC1jZjdmZjRjMzZmY2MiLCJhdF9oYXNoIjoiVVRQbHRnRl9tSF9aOHQybnN1MXVCUSIsImFjciI6IjEiLCJzaWQiOiIzYzQxNzAxMS04NWJkLTQzZDEtYjFlMC1jZjdmZjRjMzZmY2MiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJUSElBR08gSk9GUkUgREFOVEFTIERFIEZBUklBIiwiSlRSIjoiODEzIiwianRyIjoiODEzIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDM1MjMyMTg0OTciLCJnaXZlbl9uYW1lIjoiVEhJQUdPIEpPRlJFIERBTlRBUyBERSBGQVJJQSIsImVtYWlsIjoidGhpYWdvQGpvZnJlYWR2b2dhZG9zLmNvbS5iciJ9.Fo89egy76VJXDLjTYOLpl_R61HEeRN03ToxNq3ORiGOZRbgf8Yjjb8rcPLsEjZCQSPUuJz3Gv68X9EfYXxNz89QfM82uiuLxHxj8kDQhPihzHy_MdO7kmrOsyvBpyTCHIzXj9fpcODCdsf0TNY4u-qTIfgX9KDiSwWDt7Y_2c9Xi1L2FjuYrYFU8IW5oVKEr_3l0BHKtZwwFskw64iyb-UAwKCo60q7RWKn3mQz1Y1gKPQUs0aeWSpbyz9qMaxnAThOX0nJqLIJsFkTFyVmCvZNZjMYEHAT6Te9b7Ab8bmQL6WmDMSlnvWXXfZs8lBwtPGwPr30QNHykL9rXDF-gYA ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp39:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+13/11/2024 12:16:15: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:21:12: Total: 1
+13/11/2024 12:21:33: advogado 5002018-04.2017.8.13.0024 >> Processo com 4 parte(s), 76 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 12:21:34: Total: 1
+13/11/2024 12:21:34: advogado 5002018-04.2017.8.13.0024 >> Processo já foi verificado recentemente
+13/11/2024 12:21:34: Total: 1
+13/11/2024 12:21:36: advogado 5009000-74.2022.8.13.0342 >> Processo com 2 parte(s), 85 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 12:21:37: Total: 1
+13/11/2024 12:21:37: advogado 5002018-04.2017.8.13.0024 >> Processo já foi verificado recentemente
+13/11/2024 12:21:37: Total: 1
+13/11/2024 12:21:37: advogado 5009000-74.2022.8.13.0342 >> Processo já foi verificado recentemente
+13/11/2024 12:21:38: Total: 1
+13/11/2024 12:22:26: advogado 5014988-62.2024.8.13.0518 >> Processo com 6 parte(s), 52 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 12:24:32: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+13/11/2024 12:26:04: Rodou

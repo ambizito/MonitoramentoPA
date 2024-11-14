@@ -1,0 +1,15 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.05.pje.2
+12/11/2024 23:35:52: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 irQ2QwOKuAmp6dbJtVyEiVISWF1v3BaW "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 23:35:54: Logou https://pje2g.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:35:54: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje2g.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 8.05.pje.2 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = BBRDbXGClXr29dnHwiBuaFk5xLg6K0pMOHKy1jW-.pje2gapp015 ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-2G-StickySessionRule ; Value = pje2gapp015:pje-tjba-2g ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = ADC_REQ_2E94AF76E7 ; Value = BBB11D260C0CDA2F413BC54DB984FAC900667A5F4C05F6DE6BD231C38E227DD435707A7F54F9DF60 ; Domain = pje2g.tjba.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjba.jus.br ; Path = /
+)
+12/11/2024 23:35:55: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:36:03: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:36:03: Rodou

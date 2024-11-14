@@ -1,0 +1,78 @@
+PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 4.05.pje.2.00
+12/11/2024 16:12:53: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 aAyWMNvjaigucp83HtqkvkEkBxX7MP78 "DIEGO DOMICIANO VIEIRA COSTA CABRAL:05479437410"
+12/11/2024 16:12:57: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:12:57: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = PB15574 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = BeBEJF09uQHO2xNq4SPDDtTz.node08 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab20001535554817d7813063ea8ac12c5cbdf6bc82f21214953d1c79ec90953e6d430b08cc6ff9e4113000920c4ae6d1d88b0fb60d47c2ac88c8b429173db6499a8c6a9fbd369445e7c19adff0bca5379772fdc6861284cbeed969 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 16:14:44: Total: 1
+12/11/2024 16:14:54: advogado 0810603-29.2021.4.05.8200 >> Processo com 3 parte(s), 15 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:15:00: Total: 1
+12/11/2024 16:15:14: advogado 0809025-76.2022.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 27 expediente(s) atualizado
+12/11/2024 16:15:14: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 12 e leu 2
+12/11/2024 16:15:29: Total: 21
+12/11/2024 16:15:29: Total: 21
+12/11/2024 16:15:48:  0801676-79.2018.4.05.8200 >> Processo com 3 parte(s), 14 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 16:16:10:  0000886-89.2013.4.05.8205 >> Processo com 9 parte(s), 10 andamento(s) e 83 expediente(s) atualizado
+12/11/2024 16:16:24:  0809087-19.2022.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 36 expediente(s) atualizado
+12/11/2024 16:16:34:  0810431-35.2022.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 16:16:47:  0809977-55.2022.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 28 expediente(s) atualizado
+12/11/2024 16:17:04:  0809088-04.2022.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 56 expediente(s) atualizado
+12/11/2024 16:17:18:  0810909-43.2022.4.05.8400 >> Processo com 4 parte(s), 11 andamento(s) e 46 expediente(s) atualizado
+12/11/2024 16:17:31:  0808596-12.2022.4.05.8400 >> Processo com 4 parte(s), 12 andamento(s) e 37 expediente(s) atualizado
+12/11/2024 16:17:44:  0809975-85.2022.4.05.8400 >> Processo com 4 parte(s), 12 andamento(s) e 31 expediente(s) atualizado
+12/11/2024 16:17:58:  0802510-88.2023.4.05.8400 >> Processo com 4 parte(s), 11 andamento(s) e 41 expediente(s) atualizado
+12/11/2024 16:17:58:  0809051-74.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0809025-76.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0810377-69.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0809333-33.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0809331-63.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0802511-73.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0809504-87.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0811987-38.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0810264-41.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0805069-36.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:17:58:  0810603-29.2021.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:18:29: Total: 34
+12/11/2024 16:18:29: Total: 34
+12/11/2024 16:19:16:  0801272-33.2015.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0805892-79.2017.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0801915-54.2016.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0804190-73.2016.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0801947-50.2018.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0805116-45.2018.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0800585-51.2018.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0815905-06.2018.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0803068-88.2017.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809046-46.2017.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0816099-69.2019.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0803485-07.2018.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0017889-34.2011.4.05.8300 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0810305-96.2021.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0812097-85.2021.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0000372-39.2013.4.05.8205 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0813236-04.2021.4.05.8300 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0000305-74.2013.4.05.8205 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809076-42.2021.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0803943-53.2020.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0808606-56.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809297-70.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809065-58.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0802520-35.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0802757-69.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809118-39.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0806026-19.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0802755-02.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0814601-93.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809500-50.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0802301-65.2024.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809502-20.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809503-05.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:16:  0809506-57.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 16:19:51: Total: 0
+12/11/2024 16:19:51: Total: 0
+12/11/2024 16:19:53: Entrou na aba acervo do perfil e mapeou 55 processos e teve erro em 0 processos
+12/11/2024 16:19:53: Rodou

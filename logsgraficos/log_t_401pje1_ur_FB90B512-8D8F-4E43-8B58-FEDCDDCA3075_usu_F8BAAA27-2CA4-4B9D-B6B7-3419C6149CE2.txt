@@ -1,0 +1,68 @@
+78019206515@silveiraeabreu@FB90B512-8D8F-4E43-8B58-FEDCDDCA3075@linus em 4.01.pje.1
+13/11/2024 01:47:43: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+13/11/2024 01:47:45: Logou https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:47:45: Perfil advogado e usuário CARLOS HENRIQUE DE ABREU SILVEIRA
+OAB = 78019206515 ; URL = https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.1 ; usuarioId = 78019206515@silveiraeabreu@FB90B512-8D8F-4E43-8B58-FEDCDDCA3075@linus ; Cookies (
+Name = JSESSIONID ; Value = LWtFae2REWxJZ1WdDn-yQJh_ns-wXnTpr9umB6XZ.srvpje1goutjb50 ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1MDIwNjQsImlhdCI6MTczMTQ3MzI2NCwiYXV0aF90aW1lIjoxNzMxNDczMjY0LCJqdGkiOiJmNjBlMWZkNS0zZjE0LTRkNzYtOWE1Yy0wNjcwN2RkM2VhZjIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTFnIiwic3ViIjoiYzNhNzEwZWQtMmUxMC00MTNjLWExNmMtZGY4ZTA0ZGZkNzU3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0xZyIsInNlc3Npb25fc3RhdGUiOiI5MDU4NDhlNy1hMmY3LTQ2MWUtOTE5ZS0xYzY4NGZiZjQ1ZTciLCJhdF9oYXNoIjoiTVEwYmt0RnhHSnNfVWJvSjQ5NE5MZyIsImFjciI6IjEiLCJzaWQiOiI5MDU4NDhlNy1hMmY3LTQ2MWUtOTE5ZS0xYzY4NGZiZjQ1ZTciLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJDQVJMT1MgSEVOUklRVUUgREUgQUJSRVUgU0lMVkVJUkEiLCJKVFIiOiI0MDEiLCJqdHIiOiI0MDEiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiI3ODAxOTIwNjUxNSIsImdpdmVuX25hbWUiOiJDQVJMT1MgSEVOUklRVUUgREUgQUJSRVUgU0lMVkVJUkEiLCJlbWFpbCI6ImhlbnJpcXVlYWJyZXVAc2lsdmVpcmFlYWJyZXUuYWR2LmJyIn0.GDl5Xoza67ICdH0sdxOFflUFwkokwjH4EnyJxKa0PWJptlZsoIOW2iYlzsdAm-hmj-__9TeU4w-KR-sLYA3dL8YqeV2l3U0JF4fmDJPrIjPgPxTFGNhBSi8NCOkirVp00tiedc-xcWH73cpbn1SH5jddmWrZbv9SYoiT3VGPGP7T5nUYmlDQr7XPwvjha0vDkdz-Mt9lOMYOJKsqJm5xkXAzdZK2y4cgfvAhLuOzAUfTF6savORnPJxSBSBOlpFBYwmqA9Q3sHJyTDOvAYj2gD3aCSJujBsLMRv254eSwgCik4PXyn8yMQ-jvV7wTrKh9lHRHZL5LqjzG9K5jAHsNw ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-1G-StickySessionRule ; Value = srvpje1goutjb50:pje-trf1-1g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /
+)
+13/11/2024 01:47:47: Total: 1
+13/11/2024 01:47:49: advogado 1003495-02.2021.4.01.3309 >> Processo com 4 parte(s), 55 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:47:50: Total: 1
+13/11/2024 01:47:52: advogado 1003495-02.2021.4.01.3309 >> Processo com 4 parte(s), 55 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:47:53: Total: 0
+13/11/2024 01:47:53: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo Judiciário - pendente de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 4 e leu 1
+13/11/2024 01:47:55: Total: 3
+13/11/2024 01:47:55: Total: 3
+13/11/2024 01:47:57: advogado 1006146-68.2020.4.01.3300 >> Processo com 3 parte(s), 66 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 01:47:59: advogado 0014868-50.2016.4.01.3300 >> Processo com 3 parte(s), 36 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:48:01: advogado 1073698-79.2022.4.01.3300 >> Processo com 5 parte(s), 34 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:01: Total: 13
+13/11/2024 01:48:05: advogado 1006765-32.2019.4.01.3300 >> Processo com 5 parte(s), 48 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:08: advogado 1019394-04.2020.4.01.3300 >> Processo com 4 parte(s), 69 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:48:11: advogado 0025407-75.2016.4.01.3300 >> Processo com 3 parte(s), 1 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 01:48:15: advogado 0014869-35.2016.4.01.3300 >> Processo com 3 parte(s), 1 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 01:48:20: advogado 1039717-30.2020.4.01.3300 >> Processo com 3 parte(s), 49 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:48:24: advogado 1003246-78.2021.4.01.3300 >> Processo com 3 parte(s), 59 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:48:30: advogado 1003269-24.2021.4.01.3300 >> Processo com 3 parte(s), 58 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:48:33: advogado 1044202-39.2021.4.01.3300 >> Processo com 4 parte(s), 34 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:48:37: advogado 1046273-14.2021.4.01.3300 >> Processo com 3 parte(s), 56 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:48:43: advogado 1086054-43.2021.4.01.3300 >> Processo com 4 parte(s), 48 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:49:23: advogado 1036285-32.2022.4.01.3300 >> Processo com 4 parte(s), 72 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 01:49:29: advogado 0021839-90.2012.4.01.3300 >> Processo com 3 parte(s), 56 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:49:35: advogado 1006486-17.2017.4.01.3300 >> Processo com 4 parte(s), 75 andamento(s) e 11 expediente(s) atualizado
+13/11/2024 01:49:36: Total: 1
+13/11/2024 01:49:36: Total: 1
+13/11/2024 01:49:43: advogado 0017879-58.2015.4.01.4000 >> Processo com 4 parte(s), 53 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:49:44: Total: 1
+13/11/2024 01:49:44: Total: 1
+13/11/2024 01:49:51: advogado 1000449-31.2018.4.01.3302 >> Processo com 11 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:49:51: Total: 6
+13/11/2024 01:49:52: Total: 6
+13/11/2024 01:51:07: advogado 1009622-68.2021.4.01.3304 >> Processo com 4 parte(s), 26 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:51:53: advogado 1009629-60.2021.4.01.3304 >> Processo com 4 parte(s), 33 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:51:59: advogado 1015445-23.2021.4.01.3304 >> Processo com 4 parte(s), 50 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:52:06: advogado 1015450-45.2021.4.01.3304 >> Processo com 4 parte(s), 46 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:52:12: advogado 1015459-07.2021.4.01.3304 >> Processo com 4 parte(s), 38 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:52:19: advogado 0008523-95.2012.4.01.3304 >> Processo com 3 parte(s), 17 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:52:20: Total: 2
+13/11/2024 01:52:20: Total: 2
+13/11/2024 01:52:20: advogado 1003495-02.2021.4.01.3309 >> Processo já foi verificado recentemente
+13/11/2024 01:52:45: advogado 1005947-82.2021.4.01.3309 >> Processo com 4 parte(s), 55 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:52:45: Total: 1
+13/11/2024 01:52:46: Total: 1
+13/11/2024 01:52:51: advogado 1003828-75.2021.4.01.3301 >> Processo com 4 parte(s), 29 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:52:51: Total: 4
+13/11/2024 01:52:51: Total: 4
+13/11/2024 01:53:03: advogado 0004080-77.2012.4.01.3312 >> Processo com 3 parte(s), 61 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:53:17: advogado 1003458-63.2021.4.01.3312 >> Processo com 3 parte(s), 17 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:53:24: advogado 1005565-80.2021.4.01.3312 >> Processo com 4 parte(s), 37 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:55:02: advogado 0005458-68.2012.4.01.3312 >> Processo com 3 parte(s), 62 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:55:02: Total: 1
+13/11/2024 01:55:02: Total: 1
+13/11/2024 01:55:13: advogado 1002252-35.2021.4.01.3305 >> Processo com 4 parte(s), 44 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:58:18: Entrou na aba acervo do perfil e mapeou 32 processos e teve erro em 0 processos
+13/11/2024 01:58:18: Rodou

@@ -1,0 +1,21 @@
+RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 5.15.pje.1
+12/11/2024 22:50:19: Acessou https://pje.trt15.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 zL2Kwzqmy4uqtNhURxKZd0KXXUNSGnOE "LEANDRO CESAR CRUZ DE SA LORENZETTI:06519418498"
+12/11/2024 22:50:26: Logou https://pje.trt15.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 22:50:30: Perfil advogado e usuário LEANDRO CESAR CRUZ DE SA LORENZETTI
+OAB = RN12552 ; URL = https://pje.trt15.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.15.pje.1 ; usuarioId = RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = e50a2350503f63cc~HbLNDwzVpzTN2MFMSws9CdKr ; Domain = pje.trt15.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt15.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = e6f9e3f6-113d-4da4-9e9e-d0f425103ffe ; Domain = pje.trt15.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt15.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1NjUxOTE0Yy0wZDQxLTRiYzItODdkZi02YmZhZWQxOWQ5YzciLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYyNjIxLCJzdWIiOiI2OWY0N2M1Ny0zMmNjLTQzNmYtODA1NS1lMDU0ZmViYzU2MjEucGplIiwiZXhwIjoxNzMxNDY2MjIxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjIyNzU3MjQsImxvZ2luIjoiMDY1MTk0MTg0OTgiLCJub21lIjoiTEVBTkRSTyBDRVNBUiBDUlVaIERFIFNBIExPUkVOWkVUVEkiLCJwZXJmaWwiOjE4Mzc3NywicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxNTI2OTQsImRlc2NyaWNhbyI6IkxFQU5EUk8gQ0VTQVIgQ1JVWiBERSBTQSBMT1JFTlpFVFRJICgwNjUuMTk0LjE4NC05OCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiQ0VSVElGSUNBRE8iLCJvcmlnZW0iOiJUUlQxNSIsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt15.jus.br ; Path = /
+Name = access_token_footer ; Value = LmKRI25hyOtXG2tS6fp7cMH4lc1xxYig6lzy8DpASRA ; Domain = pje.trt15.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwOGIyZWQ0Yy1lNGZiLTRiNDgtYmE1OS1hNmU3Mzc5ZmNkOTQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYyNjIxLCJzdWIiOiI2OWY0N2M1Ny0zMmNjLTQzNmYtODA1NS1lMDU0ZmViYzU2MjEucGplIiwiZXhwIjoxNzMxNTA1ODIxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNjUxOTQxODQ5OCIsInBlcmZpbCI6MTgzNzc3LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDE1In0.rKGEDgRkRGSBCLFpsY7TPK7oXy-ggWUNSweHx7F0_kQ ; Domain = pje.trt15.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 8A4A2CF70627587BBCCF84320D51CB1056027EC0EE956263259C56791E997E1050FC0384BA23217CA90683BA8700481BB473 ; Domain = pje.trt15.jus.br ; Path = /
+)
+12/11/2024 22:50:35: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 22:50:36: Total: 1
+12/11/2024 22:50:36: Total: 1
+12/11/2024 22:50:47: advogado 0010023-32.2017.5.15.0142 >> Processo com 8 parte(s), 305 andamento(s) e 65 expediente(s) atualizado
+12/11/2024 22:50:48: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 22:50:48: Rodou

@@ -1,0 +1,8 @@
+01399099400@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 6.06.pje.2
+12/11/2024 17:48:24: Acessou https://pje.tre-ce.jus.br/pje/login.seam
+12/11/2024 17:48:26: Erro no acesso: Desconhecido
+html: salvo no mongo.
+01399099400@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 6.06.pje.2
+12/11/2024 17:49:26: Acessou https://pje.tre-ce.jus.br/pje/login.seam
+12/11/2024 17:49:28: Erro no acesso: Desconhecido
+html: salvo no mongo.

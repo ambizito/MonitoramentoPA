@@ -1,0 +1,16 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 4.01.pje.2
+12/11/2024 16:30:28: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 0.u24743dv8wa "GERSON SANTINI:01529424160"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 ETHfSUNyhH3tA2P9Mxf8OosOufJ5pZ6c "GERSON SANTINI:01529424160"
+12/11/2024 16:30:35: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:30:35: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = NQvr_9dFSElCjkfvkLq9uFGm5c86k790dKNuzik4.srvpje2goutjb12 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njg2MzAsImlhdCI6MTczMTQzOTgzMCwiYXV0aF90aW1lIjoxNzMxNDM5ODMwLCJqdGkiOiI1MTIwNjA0OS0wM2Y1LTQ0ZWYtYTI4OS1mNDJhMmIzODU2ZTQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiZjc0OTg5ZTMtMzZjMi00NjM0LWJhYmItNTE0NDgxMTNiZDQ2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiIxN2U3ZmE3Yy1mZWM0LTQ3YWMtODA1Mi1jMTZiN2I4YjcwY2MiLCJhdF9oYXNoIjoiMkVCRHhOX2g1bWhfRW9XRV9vUUdJUSIsImFjciI6IjEiLCJzaWQiOiIxN2U3ZmE3Yy1mZWM0LTQ3YWMtODA1Mi1jMTZiN2I4YjcwY2MiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkdFUlNPTiBTQU5USU5JIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDE1Mjk0MjQxNjAiLCJnaXZlbl9uYW1lIjoiR0VSU09OIFNBTlRJTkkiLCJlbWFpbCI6ImdlcnNvbnNhbnRpbmlAaG90bWFpbC5jb20ifQ.BZcOS_xGgGMndIko_JLI6dN6UzhnOAVp9ZP5FPSkrvgHAh6SNARa4j3irclP2aKZ1QGiuNH6dkwTCYb2mX0uWrLTwkdhbeID1SwyZU-uw2aL-6cjvsFs0OyiYUKOfPS05S07VUnVzYn2VOs6nnV2vcBGX-NCKvJPgrSMRb-O0DtKVHEjGs76gF3GMZUx8mNVYbZBOIs3lvOJB-gUU6tQlIdcgjnl_YLu5_-7VNWUCXtKqpqlX87UFHIVJbTv42UhaP9Ifxm9bKaSlef1brj4j79oJZcC-0dUDscVLrKW12Egnr7y_utUmd5wKQqZkqK2sQPuFKLPBXRT44niuj1k8w ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb12:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+12/11/2024 16:30:36: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:30:40: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:30:40: Rodou

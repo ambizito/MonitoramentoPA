@@ -1,0 +1,14 @@
+MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos em 8.11.pje.1
+13/11/2024 01:34:53: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 190803 0.5sh08c7309o "LAERCIO SERRA DA SILVA:94463654300"
+13/11/2024 01:34:56: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:34:56: Perfil advogado e usuário LAERCIO SERRA DA SILVA
+OAB = MA9447 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos ; Cookies (
+Name = JSESSIONID ; Value = -FxsDI_p0AeqiVt7OBopRxeM2poFHgM1Ej9_1eTS.pjev2-vra-0028 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_2_sn_2AEFE0D07B4CFF3E1BA16AA5792DCF90_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_2_sn_2AEFE0D07B4CFF3E1BA16AA5792DCF90_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+13/11/2024 01:34:56: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:34:58: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 01:34:58: Rodou

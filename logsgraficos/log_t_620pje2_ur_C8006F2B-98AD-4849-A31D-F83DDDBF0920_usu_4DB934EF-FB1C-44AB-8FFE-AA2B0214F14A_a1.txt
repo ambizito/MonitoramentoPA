@@ -1,0 +1,18 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 6.20.pje.2
+12/11/2024 23:21:29: Acessou https://pje.tre-rn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# 0.ooxfeeygwxw "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+12/11/2024 23:21:31: Logou https://pje.tre-rn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:21:31: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje.tre-rn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 6.20.pje.2 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = QG3pOnkR92mK4GIQDvmQBUCQB52in02HsWcojPtu.pje-rn-01 ; Domain = pje.tre-rn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tre-rn.jus.br ; Path = /pje
+Name = TS01251549 ; Value = 0103a0ceae0aed31be336e7bbbd49499dc352a7b11413db295901451c3f68da88380435110142cb5ec2e96c1a11183b1232f944f0a5b1571d3b8d867b19f3f34a272e62b2f41c9eeab85d20a137695c1072efb77018f025c1c41c0e8fe9636217c6d804aa25fbdeb05556c948ce4a0899ae09df96b ; Domain = pje.tre-rn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTMyOTEsImlhdCI6MTczMTQ2NDQ5MSwiYXV0aF90aW1lIjoxNzMxNDY0NDkxLCJqdGkiOiI2YThiMjNiNi1mMTAxLTQ4ODYtYjg4Ny05OWJmYzE5ZjY0ODkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmVybi0yZyIsInN1YiI6ImE5MDIyMTMzLWVjZTQtNGFlNy04YzhiLTQ4NGViNDMxN2Y0OCIsInR5cCI6IklEIiwiYXpwIjoicGplLXRyZXJuLTJnIiwic2Vzc2lvbl9zdGF0ZSI6ImJkYzBkYjFiLTUyODAtNGViZC04N2NkLTkwNTFiNWVlNGJmYSIsImF0X2hhc2giOiJmeHdjSHJEcHRHa2l0R1J6SjAzc0p3IiwiYWNyIjoiMSIsInNpZCI6ImJkYzBkYjFiLTUyODAtNGViZC04N2NkLTkwNTFiNWVlNGJmYSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiTUFYIFRPUlFVQVRPIEZPTlRFUyBWQVJFTEEiLCJqdHIiOiI2MjAiLCJKVFIiOiI2MjAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTgzMDUxMjQzMiIsImdpdmVuX25hbWUiOiJNQVggVE9SUVVBVE8gRk9OVEVTIFZBUkVMQSIsImVtYWlsIjoibWF4QGZvbnRlc3ZhcmVsYS5jb20uYnIifQ.0EVYwapd5-y68BPVkcTgOXhAO72Uzzm-DUjcy78xBS8O6S5i-u9s4VTej3p1T56kitAOwKT9VTo5hRJFYuTZ0BdacxlTsDYLDrJ-pO23dI8poofxy55DJuthVJHdmOYlIonbmiGsVR0kSH0m5aJ-MJQoLmeu5QGpfv8DCfj3ybpgRMAJ9JDb4xExKt61CJgCkVTN0jExeRogBGgu9FFp3D03jWYA5g_t3Ft5ZbXnAHhac6gWZZjAIOqvgZcTSuXVdRkXPx8JiiANpwlElnI3YSIdtMY1tIYxkG92TwXYz-l-PaypKiFCnB_ZZvkKHd1V-TbZxXx530JV6pevhS22kQ ; Domain = pje.tre-rn.jus.br ; Path = /pje
+Name = PJE-TRERN-2G-StickySessionRule ; Value = "pje-rn-01:pje-trern-2g" ; Domain = pje.tre-rn.jus.br ; Path = /pje
+Name = _00d52 ; Value = 82682a7f2b4ba42d ; Domain = pje.tre-rn.jus.br ; Path = /
+Name = TS016b3b55 ; Value = 0103a0ceae22e9db76d6f3a6fa23df76b05913fd19413db295901451c3f68da88380435110b960600b0eed5e0c327f7ca0156497ea0b13adddd0eee9c2b110ba56f249321abe4e96515ebc5bde90901aa2ec6f7a6e1c664baeb21d0bc6fbb65f752ad893cc8eed94ed97845cbabaacf469436034e2 ; Domain = pje.tre-rn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tre-rn.jus.br ; Path = /
+)
+12/11/2024 23:21:32: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:21:38: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:21:38: Rodou

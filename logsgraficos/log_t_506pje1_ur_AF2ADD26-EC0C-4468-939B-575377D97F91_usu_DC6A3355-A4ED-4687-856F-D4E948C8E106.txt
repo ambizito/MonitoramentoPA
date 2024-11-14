@@ -1,0 +1,48 @@
+32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus em 5.06.pje.1
+13/11/2024 00:50:30: Acessou https://pje.trt6.jus.br/primeirograu/login.seam
+13/11/2024 00:50:33: Logou https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 00:50:34: Perfil advogado e usuário EIDER FURTADO DE MENDONCA E MENEZES FILHO
+OAB = 32262787468 ; URL = https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.1 ; usuarioId = 32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus ; Cookies (
+Name = JSESSIONID ; Value = 55ca99e8537b3ae0~TMfpYiIOTN-3ne8lGMYhunYW ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 95b6741d-5a14-4b05-b05b-1a886ddeb502 ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5YjY0ODM3YS1iNzE0LTRmNmEtYWQ0Mi00YmRlYTM0Mjg0MzEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY5ODMxLCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNDczNDMxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjM1NzYyNiwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsIm5vbWUiOiJFSURFUiBGVVJUQURPIERFIE1FTkRPTkNBIEUgTUVORVpFUyBGSUxITyIsInBlcmZpbCI6MzA5NzIsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6MjM2NDEsImRlc2NyaWNhbyI6IkVJREVSIEZVUlRBRE8gREUgTUVORE9OQ0EgRSBNRU5FWkVTIEZJTEhPICgzMjIuNjI3Ljg3NC02OCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUUlQ2IiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = K78CmIzN3xDvFbjS_QLWo51w3pHwFdlqDDI8GWXeEf4 ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJiMzU4NDA5Ni1iMTUyLTRkZWQtYTBkZi02Y2M4Y2YxNDEzMjAiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY5ODMxLCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTEzMDMxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsInBlcmZpbCI6MzA5NzIsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNiJ9.V0kFgclKJzpQUjAhDQQGx853Q_wA-XP_TNPISKeTa6M ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 75F7F1ACDB8D242A2E7D32426044545B203E833675088C703A0C480253098FBEBF735CBF70A2081226E9EA4C22F0FEEE9FCD ; Domain = pje.trt6.jus.br ; Path = /
+)
+13/11/2024 00:50:36: Total: 1
+13/11/2024 00:50:41: advogado 0000105-92.2016.5.06.0011 >> Processo com 5 parte(s), 367 andamento(s) e 74 expediente(s) atualizado
+13/11/2024 00:50:41: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 31 e leu 1
+13/11/2024 00:50:42: Total: 2
+13/11/2024 00:50:42: Total: 2
+13/11/2024 00:50:44: advogado 0000772-38.2017.5.06.0401 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:50:46: advogado 0001093-73.2017.5.06.0401 >> Processo com 2 parte(s), 58 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 00:50:46: Total: 1
+13/11/2024 00:50:46: Total: 1
+13/11/2024 00:50:48: advogado 0000334-55.2022.5.06.0233 >> Processo com 3 parte(s), 149 andamento(s) e 31 expediente(s) atualizado
+13/11/2024 00:50:48: Total: 1
+13/11/2024 00:50:48: Total: 1
+13/11/2024 00:50:51: advogado 0000546-55.2020.5.06.0101 >> Processo com 2 parte(s), 139 andamento(s) e 22 expediente(s) atualizado
+13/11/2024 00:50:51: Total: 13
+13/11/2024 00:50:51: Total: 13
+13/11/2024 00:50:56: advogado 0000053-64.2014.5.06.0012 >> Processo com 11 parte(s), 305 andamento(s) e 94 expediente(s) atualizado
+13/11/2024 00:50:57: advogado 0000068-55.2017.5.06.0003 >> Processo com 2 parte(s), 23 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 00:50:59: advogado 0000088-37.2022.5.06.0014 >> Processo com 2 parte(s), 108 andamento(s) e 19 expediente(s) atualizado
+13/11/2024 00:51:01: advogado 0000100-29.2023.5.06.0010 >> Processo com 2 parte(s), 97 andamento(s) e 17 expediente(s) atualizado
+13/11/2024 00:51:01: advogado 0000105-92.2016.5.06.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:51:03: advogado 0000195-09.2021.5.06.0017 >> Processo com 2 parte(s), 101 andamento(s) e 15 expediente(s) atualizado
+13/11/2024 00:51:05: advogado 0000491-97.2017.5.06.0008 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+13/11/2024 00:51:05: advogado 0000491-97.2017.5.06.0008 >> Processo com 5 parte(s), 140 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 00:51:07: advogado 0000768-13.2022.5.06.0017 >> Processo com 2 parte(s), 98 andamento(s) e 17 expediente(s) atualizado
+13/11/2024 00:51:09: advogado 0000937-48.2023.5.06.0022 >> Processo com 2 parte(s), 72 andamento(s) e 11 expediente(s) atualizado
+13/11/2024 00:51:11: advogado 0001401-42.2017.5.06.0003 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+13/11/2024 00:51:11: advogado 0001401-42.2017.5.06.0003 >> Processo com 5 parte(s), 152 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 00:51:14: advogado 0001494-36.2016.5.06.0004 >> Processo com 11 parte(s), 97 andamento(s) e 24 expediente(s) atualizado
+13/11/2024 00:51:16: advogado 0001752-68.2015.5.06.0008 >> Processo com 3 parte(s), 70 andamento(s) e 19 expediente(s) atualizado
+13/11/2024 00:51:19: advogado 0172800-57.2008.5.06.0003 >> Processo com 11 parte(s), 110 andamento(s) e 21 expediente(s) atualizado
+13/11/2024 00:51:19: Entrou na aba acervo do perfil e mapeou 17 processos e teve erro em 0 processos
+13/11/2024 00:51:19: Rodou

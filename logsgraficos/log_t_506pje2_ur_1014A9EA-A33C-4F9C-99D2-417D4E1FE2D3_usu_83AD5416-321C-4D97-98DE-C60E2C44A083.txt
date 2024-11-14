@@ -1,0 +1,59 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.06.pje.2
+13/11/2024 00:24:40: Acessou https://pje.trt6.jus.br/segundograu/login.seam
+13/11/2024 00:24:41: Logou https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 00:24:41: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+13/11/2024 00:24:42: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 00:24:46: Total: 21
+13/11/2024 00:24:46: Total: 21
+13/11/2024 00:24:48: advogado 0000035-88.2015.5.06.0018 >> Processo com 6 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:24:50: advogado 0000056-73.2020.5.06.0023 >> Processo com 5 parte(s), 29 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 00:24:53: advogado 0000093-37.2019.5.06.0023 >> Processo com 3 parte(s), 57 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 00:24:55: advogado 0000135-92.2019.5.06.0021 >> Processo com 3 parte(s), 18 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:24:57: advogado 0000157-37.2020.5.06.0015 >> Processo com 4 parte(s), 20 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 00:24:59: advogado 0000177-21.2021.5.06.0006 >> Processo com 4 parte(s), 38 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 00:25:02: advogado 0000194-76.2020.5.06.0011 >> Processo com 4 parte(s), 65 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 00:25:04: advogado 0000199-62.2020.5.06.0023 >> Processo com 4 parte(s), 45 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 00:25:06: advogado 0000228-73.2019.5.06.0015 >> Processo com 3 parte(s), 107 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 00:25:08: advogado 0000339-56.2022.5.06.0143 >> Processo com 3 parte(s), 18 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:25:11: advogado 0000512-43.2021.5.06.0005 >> Processo com 3 parte(s), 73 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 00:25:13: advogado 0000526-76.2021.5.06.0021 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:25:15: advogado 0000542-12.2020.5.06.0006 >> Processo com 4 parte(s), 64 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 00:25:16: advogado 0000611-40.2022.5.06.0017 >> Processo com 3 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:25:18: advogado 0000648-34.2021.5.06.0201 >> Processo com 5 parte(s), 48 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 00:25:20: advogado 0000821-38.2021.5.06.0143 >> Processo com 3 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:25:22: advogado 0000838-43.2022.5.06.0142 >> Processo com 3 parte(s), 49 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 00:25:25: advogado 0000885-94.2014.5.06.0013 >> Processo com 4 parte(s), 84 andamento(s) e 15 expediente(s) atualizado
+13/11/2024 00:25:27: advogado 0000909-63.2021.5.06.0018 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 00:25:30: advogado 0001117-23.2016.5.06.0018 >> Processo com 7 parte(s), 73 andamento(s) e 17 expediente(s) atualizado
+13/11/2024 00:25:34: advogado 0001215-40.2018.5.06.0017 >> Processo com 3 parte(s), 87 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 00:25:34: Total: 6
+13/11/2024 00:25:34: Total: 6
+13/11/2024 00:25:34: advogado 0000093-37.2019.5.06.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000177-21.2021.5.06.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000194-76.2020.5.06.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000228-73.2019.5.06.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000526-76.2021.5.06.0021 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000838-43.2022.5.06.0142 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: Total: 3
+13/11/2024 00:25:34: Total: 3
+13/11/2024 00:25:34: advogado 0000339-56.2022.5.06.0143 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000611-40.2022.5.06.0017 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000648-34.2021.5.06.0201 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: Total: 4
+13/11/2024 00:25:34: Total: 4
+13/11/2024 00:25:34: advogado 0000056-73.2020.5.06.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000821-38.2021.5.06.0143 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0001117-23.2016.5.06.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0001215-40.2018.5.06.0017 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: Total: 8
+13/11/2024 00:25:34: Total: 8
+13/11/2024 00:25:34: advogado 0000035-88.2015.5.06.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000135-92.2019.5.06.0021 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000157-37.2020.5.06.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000199-62.2020.5.06.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000512-43.2021.5.06.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000542-12.2020.5.06.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000885-94.2014.5.06.0013 >> Processo já foi verificado recentemente
+13/11/2024 00:25:34: advogado 0000909-63.2021.5.06.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:25:38: Entrou na aba acervo do perfil e mapeou 42 processos e teve erro em 0 processos
+13/11/2024 00:25:38: Rodou

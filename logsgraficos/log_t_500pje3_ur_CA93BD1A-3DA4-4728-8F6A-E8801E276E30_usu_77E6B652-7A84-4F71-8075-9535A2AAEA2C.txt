@@ -1,0 +1,50 @@
+42251567453@torquato@CA93BD1A-3DA4-4728-8F6A-E8801E276E30@jobs em 5.00.pje.3
+13/11/2024 23:05:42: Acessou https://pje.tst.jus.br/tst/login.seam
+13/11/2024 23:05:57: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 23:05:59: Perfil advogado e usuário TAMMY TORQUATO FONTES SOARES DE SOUSA
+OAB = 42251567453 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = 42251567453@torquato@CA93BD1A-3DA4-4728-8F6A-E8801E276E30@jobs ; Cookies (
+Name = JSESSIONID ; Value = 9a657309d97e2ab0~tvGEh8qQxQLoHLg-o7v0DSGi ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 88fedd73-e648-44b7-98ba-2efb92d8331a ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4Y2NmNjM1My1mZjc0LTRkMjItYWVmZi0wYTU0ZjQ1YTJjZmEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTQ5OTQzLCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTUzNTQzLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjE1MzcyOSwibG9naW4iOiI0MjI1MTU2NzQ1MyIsIm5vbWUiOiJUQU1NWSBUT1JRVUFUTyBGT05URVMgU09BUkVTIERFIFNPVVNBIiwicGVyZmlsIjoxMjg2MjYsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6MTE3NzIyLCJkZXNjcmljYW8iOiJUQU1NWSBUT1JRVUFUTyBGT05URVMgU09BUkVTIERFIFNPVVNBICg0MjIuNTE1LjY3NC01MykifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUU1QiLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = yMgC7kt5ORuhj2ug7ZtCTmjtPbqy66MaDfNxeMV-kIY ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJjZTBkMTgzNS04ODc2LTRkN2EtOWViMC0xMTQxOWZjYTE4ZjQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTQ5OTQzLCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTkzMTQzLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI0MjI1MTU2NzQ1MyIsInBlcmZpbCI6MTI4NjI2LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRTVCJ9.bbHsLJbvU9C6YoblhUNJK2GHy88qRmVOfuxaTQqHAnc ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 883EE93F5E728316337A4FAA658E6E864A1BA2319CD27E9B35CC52F90980F773D30FE7ADF5162E1EEE320FEB451AD91CE9AF ; Domain = pje.tst.jus.br ; Path = /
+)
+13/11/2024 23:06:37: Exceção: A timeout occured after 30000ms selecting a server using CompositeServerSelector{ Selectors = MongoDB.Driver.MongoClient+AreSessionsSupportedServerSelector, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 } }. Client view of cluster state is { ClusterId : "1", ConnectionMode : "Automatic", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/token.softurbano.com:30050" }", EndPoint: "Unspecified/token.softurbano.com:30050", State: "Disconnected", Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server. ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 192.168.40.108:30050
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.<ConnectAsync>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MongoDB.Driver.Core.Connections.TcpStreamFactory.<CreateStreamAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.<OpenHelperAsync>d__48.MoveNext()
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.<OpenHelperAsync>d__48.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at MongoDB.Driver.Core.Servers.ServerMonitor.<HeartbeatAsync>d__28.MoveNext()" }] }.
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupportedAfterServerSelection(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoClient.AreSessionsSupported(CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.StartImplicitSession(CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.AsyncCursorSourceEnumerableAdapter`1.GetEnumerator()
+   at ProcessoAgil.Dados.Mongo.GetClientesExpedientes(String oab) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 1576
+   at ProcessoAgil.TribunalToken.Navegar(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, String html, String parteNome, String perfil, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 872
+   at ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 547

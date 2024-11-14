@@ -1,0 +1,12 @@
+PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 8.05.pje.1
+12/11/2024 19:15:09: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.ukxtwskfpho "DANIEL JOSE DE BRITO VEIGA PESSOA:05251776470"
+12/11/2024 19:15:13: Erro no acesso: Desconhecido
+PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 8.05.pje.1
+12/11/2024 19:16:14: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.ncjiisgs7dd "DANIEL JOSE DE BRITO VEIGA PESSOA:05251776470"
+12/11/2024 19:16:17: Erro no acesso: Desconhecido
+PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 8.05.pje.1
+12/11/2024 19:17:18: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.pvfmnijb2h4 "DANIEL JOSE DE BRITO VEIGA PESSOA:05251776470"
+12/11/2024 19:34:00: Erro no acesso: Desconhecido

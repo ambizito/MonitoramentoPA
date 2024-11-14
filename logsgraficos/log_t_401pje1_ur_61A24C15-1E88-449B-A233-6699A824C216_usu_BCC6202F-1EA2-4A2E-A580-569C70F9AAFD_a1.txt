@@ -1,0 +1,20 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 4.01.pje.1
+13/11/2024 00:39:20: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.7nqs92ugfm1 "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 jSiAaeU3M3AhcSBp7ZtSYVS70cvdHK2o "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+13/11/2024 00:39:26: Logou https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:39:26: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM
+OAB = RN1695 ; URL = https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.1 ; usuarioId = RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners ; Cookies (
+Name = JSESSIONID ; Value = YGxj8qvMhCEqID82iaEsdBfXacmDgRgW6nZTQTBp.srvpje1goutjb39 ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTc5NjIsImlhdCI6MTczMTQ2OTE2MywiYXV0aF90aW1lIjoxNzMxNDY5MTYyLCJqdGkiOiJhNzFlNGVjNC02NTQ0LTRjNzYtYTU5OC1mNTE5MmI1NGU2NDUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTFnIiwic3ViIjoiZGRmZDA5MmUtYjM3OC00OGVhLWE2YjEtZWYwMzFlZjM3ODhlIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0xZyIsInNlc3Npb25fc3RhdGUiOiJiNTVjMGZhMi04MjZhLTQ3NmMtOWJhYS1jMTQ5YzVlODZhMDYiLCJhdF9oYXNoIjoiS2VBV0hMTXZQWWNpMS16Y29vdXpodyIsImFjciI6IjEiLCJzaWQiOiJiNTVjMGZhMi04MjZhLTQ3NmMtOWJhYS1jMTQ5YzVlODZhMDYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkNMQVVESU8gVklOSUNJVVMgU0FOVEEgUk9TQSBDQVNUSU0iLCJKVFIiOiI0MDEiLCJqdHIiOiI0MDEiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIyMDI2MjI0ODQ2OCIsImdpdmVuX25hbWUiOiJDTEFVRElPIFZJTklDSVVTIFNBTlRBIFJPU0EgQ0FTVElNIiwiZW1haWwiOiJjb250YXRvQGNjZWwuYWR2LmJyIn0.TkU2zUFFwXYLihAOqJc4-_LsJWgT9M6s_Hxv0dvlWH4Lf06c13dqA10Gteb3wRAFcHiynPe0QyRTheinGHLSrcFp8yppkQNm2JXWbpgRfQy9A4hIbSxGM179f28QEyuna0aJGROhiBpzuPgyGWhYI7GkHA3r7thwIHksMkwZtQQPa2QqRaw1SlNuhGrCwIY2U9xlSMgDnLU4HKr_AF9I7Cc6DS7emL8oNj3ykKanKp8CLa-m1qL7d9XrivioCQXvw5QT_RxgVkb8LccZxxGyi7Kn6Sx4ciCSOZxRcQh55zXCpciX4Li-uCThiwh-1wX7QGDLeVJpR_pvqdQXs1sSaQ ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-1G-StickySessionRule ; Value = srvpje1goutjb39:pje-trf1-1g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /
+)
+13/11/2024 00:39:26: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:39:28: Total: 1
+13/11/2024 00:39:28: Total: 1
+13/11/2024 00:39:31: advogado 0003155-92.2013.4.01.3200 >> Processo com 4 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:39:32: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:39:32: Procuracao: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM filtrado, não roda.
+13/11/2024 00:39:32: Rodou

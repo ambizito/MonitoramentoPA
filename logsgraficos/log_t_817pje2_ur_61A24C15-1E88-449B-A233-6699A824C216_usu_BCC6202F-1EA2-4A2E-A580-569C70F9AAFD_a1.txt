@@ -1,0 +1,13 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 8.17.pje.2
+13/11/2024 00:02:38: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.nv8fjc22197 "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+13/11/2024 00:02:41: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+13/11/2024 00:02:41: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM
+OAB = RN1695 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = RqRcxR8tHyNo4Btwaksr69d1CvFh6yCQvIa42pLp.keycloak-2 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+13/11/2024 00:02:41: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:02:49: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:02:49: Procuracao: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM filtrado, não roda.
+13/11/2024 00:02:49: Rodou

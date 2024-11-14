@@ -1,0 +1,18 @@
+PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 6.00.pje.3
+12/11/2024 23:19:57: Acessou https://pje.tse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.adkvhupmxrd "GABRIEL GALVAO DANTAS TENORIO:05146428409"
+12/11/2024 23:19:59: Logou https://pje.tse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:19:59: Perfil advogado e usuário GABRIEL GALVAO DANTAS TENORIO
+OAB = PB15800 ; URL = https://pje.tse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 6.00.pje.3 ; usuarioId = PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = RP9sEcjMW3QQmcBZnckga9s_BiU7xULSkRZ-7bm8.pje-tse-03 ; Domain = pje.tse.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tse.jus.br ; Path = /pje
+Name = TS01320bff ; Value = 0103a0ceaee104107df9ae8904c07101260c9fdfd987055b7ac8b58cd0401bad01523ed367125e3d170dfeffc9763506d78e3e3200bc4e2e22cf8f6e345e82f8521ba6aeb1514976322fc12628b9a95df193e7791c2deda4be0ea18f483f9ec76439a889ff379e4c5076c068475cd0c7328b7797e8 ; Domain = pje.tse.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTMxOTksImlhdCI6MTczMTQ2NDM5OSwiYXV0aF90aW1lIjoxNzMxNDY0Mzk5LCJqdGkiOiIwYzY3MmY2Zi00NjQxLTQ1MGQtYjEyOS1hNjg4M2UwOTBiMTgiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10c2UtM2ciLCJzdWIiOiJkMDA2YjE3OC04OThlLTRmMTEtYWNkNy1lMTI0NGY0OGYwZjUiLCJ0eXAiOiJJRCIsImF6cCI6InBqZS10c2UtM2ciLCJzZXNzaW9uX3N0YXRlIjoiMTM5MzhhOTMtYTdkZS00NjM0LWI5NGQtNjUwNzA5ODQ0YjNjIiwiYXRfaGFzaCI6IkZXMnBHSVFLdUM1SlMta0l0TmpCNWciLCJhY3IiOiIxIiwic2lkIjoiMTM5MzhhOTMtYTdkZS00NjM0LWI5NGQtNjUwNzA5ODQ0YjNjIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImxvZ2luQ29tQ2VydGlmaWNhZG8iOnRydWUsIm5hbWUiOiJHQUJSSUVMIEdBTFZBTyBEQU5UQVMgVEVOT1JJTyIsIkpUUiI6IjYwMCIsImp0ciI6IjYwMCIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1MTQ2NDI4NDA5IiwiZ2l2ZW5fbmFtZSI6IkdBQlJJRUwgR0FMVkFPIERBTlRBUyBURU5PUklPIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGdjcGFkdm9nYWRvcy5jb20uYnIifQ.wLNSfqXNZ3piPTyfrxeCk3RnOALgzeRYpLEN0NggEIBJ2qzRusQrvgiGncTnNuleQ1AO2i5XgnrWC3nfCb_i5JA6cKhjjkun6H3fSMURZxrq3MWk3n9XuvAayJsx6POJ1TGEp5uLivfmPMHEXcND7mS5yM6yyCZyg_og30pat9evsdyYjyeGSFZlNjEaOfWNw7lGGvBIxQxuaTpP_HFLteVWFBP2Av8WrGimWf_KN3TWkj0YnyoN541C-13vS0jrWo12J8VFH8ybfDbtyhb3m2eNjP54FswWL_ROcn-k5oSEp-fsuS8ZtjgGY3HWaK5bOCIccQ-z0QbYy1IsYnGtqw ; Domain = pje.tse.jus.br ; Path = /pje
+Name = PJE-TSE-3G-StickySessionRule ; Value = "pje-tse-03:pje-tse-3g" ; Domain = pje.tse.jus.br ; Path = /pje
+Name = _ed0c7 ; Value = ba81bd65f2906c73 ; Domain = pje.tse.jus.br ; Path = /
+Name = TS017c25e3 ; Value = 0103a0ceae54ffa97557ac1f4bec162c261bbe0aff87055b7ac8b58cd0401bad01523ed36795ff141168af0c276571fbdb3496109c82ef7e48a1e3b849595b765c8c29a7af30d6c7bdac7fd3a04a0d57f98753dae539bc809ca7adb94d43bd936f6f1eadc5b1cfc2d85adeafbb51b36cca5a8bac6f ; Domain = pje.tse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tse.jus.br ; Path = /
+)
+12/11/2024 23:20:00: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:20:07: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:20:07: Rodou

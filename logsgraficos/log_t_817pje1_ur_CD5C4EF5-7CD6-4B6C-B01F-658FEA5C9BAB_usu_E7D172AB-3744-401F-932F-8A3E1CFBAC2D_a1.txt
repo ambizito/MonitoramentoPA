@@ -1,0 +1,21 @@
+PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 8.17.pje.1
+12/11/2024 20:17:57: Acessou https://pje.cloud.tjpe.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.d9l307yobks "DANIEL JOSE DE BRITO VEIGA PESSOA:05251776470"
+12/11/2024 20:18:00: Logou https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:18:00: Perfil advogado e usuário DANIEL JOSE DE BRITO VEIGA PESSOA
+OAB = PB14960 ; URL = https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.1 ; usuarioId = PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = LiZYNgKZD0Hl97PwohT68Q_CqTi4P5xCb7snLB6a.pje-1g-36 ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODIyNzksImlhdCI6MTczMTQ1MzQ3OSwiYXV0aF90aW1lIjoxNzMxNDUzNDc5LCJqdGkiOiI3MGQ5OTQyMS1hNzUxLTQ1ODQtOWI3Ny1mNWJlM2IyMmM3NjEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBlLTFnLWNsb3VkIiwic3ViIjoiMzFmZDczMmItOWVhMC00NjlkLWJmNmUtYTljODU1MjI2NmEwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwZS0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiI4NTQ2OGZhMy1iYWI5LTRlYzYtODU2MS05MjhjMmVjZGExNzAiLCJhdF9oYXNoIjoiYmNOU0lmalZpbjAwZE94V1lya0RNQSIsImFjciI6IjEiLCJzaWQiOiI4NTQ2OGZhMy1iYWI5LTRlYzYtODU2MS05MjhjMmVjZGExNzAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRBTklFTCBKT1NFIERFIEJSSVRPIFZFSUdBIFBFU1NPQSIsImp0ciI6IjgxNyIsIkpUUiI6IjgxNyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1MjUxNzc2NDcwIiwiZ2l2ZW5fbmFtZSI6IkRBTklFTCBKT1NFIERFIEJSSVRPIFZFSUdBIFBFU1NPQSIsImVtYWlsIjoiZGFuaWVsQHZlaWdhcGVzc29hLmNvbS5iciJ9.JLj27PqiRF01hlWfybRiJRe3Jhl43nUNrc18dn2GsS6KUX-BnOoIA6hjSCRydgvPkhtwVZY4WBuIS-Iog-UOwvg7VEk2-o025bQwaj4KbmThOcMK_JttDIpWF2lYmrQzSX9P2x9ekwwumac46gzlC9A_SHOLghBgHq51GWlhkvLUg1lH8pxdBHZX3sLlxFAs15QcFbAjNa3bLcDHudTZuiIjg9mXjq3-S9xPRcEXKQBqP0i202o6vhJhH5B1OxGze3eMAwecM8n73PbStcfxoBGp_ec3Lv4CgPjbFVgYjllL7Un-O89elFA9ddyegtZI1gngq6mXUX7tj5PStnDZbg ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = PJE-TJPE-1G-StickySessionRule ; Value = "pje-1g-36:pje-tjpe-1g" ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAACWs7HknfpZuwhueuRbdKP8g7LSK0Tb8YO+nj75CHsWsdyin32qpBDs6/UV+3SnLiMh89ZvugMpi/IZMtKuLhCkSL6GmRw1O7eX1gFaAmf4ov+rOrbT/CAcJpLt3zSVzPBnCIE= ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+)
+12/11/2024 20:18:00: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:18:01: Total: 1
+12/11/2024 20:18:01: Total: 1
+12/11/2024 20:18:01: advogado 0016381-90.2016.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:18:02: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:18:02: Rodou

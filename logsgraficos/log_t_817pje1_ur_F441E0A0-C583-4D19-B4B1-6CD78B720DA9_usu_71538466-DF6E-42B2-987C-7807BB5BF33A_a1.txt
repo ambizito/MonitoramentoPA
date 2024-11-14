@@ -1,0 +1,30 @@
+PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark em 8.17.pje.1
+12/11/2024 16:38:39: Acessou https://pje.cloud.tjpe.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 88509332 0.xnsmw27yxjh "DOUGLAS BRANDAO DO NASCIMENTO:06698038474"
+12/11/2024 16:38:42: Logou https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 16:38:42: Perfil advogado e usuário DOUGLAS BRANDAO DO NASCIMENTO
+OAB = PB17064 ; URL = https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.1 ; usuarioId = PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark ; Cookies (
+Name = JSESSIONID ; Value = I4tAI8P9HomN2Y8BwGJpxnrPAk0HqplnFrRm5FPf.pje-1g-13 ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NjkxMjEsImlhdCI6MTczMTQ0MDMyMSwiYXV0aF90aW1lIjoxNzMxNDQwMzIxLCJqdGkiOiJlMDAxNGJmZS0wMGMzLTRhNTUtYmJlNi01Zjg4MmYxNTMyZGIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBlLTFnLWNsb3VkIiwic3ViIjoiYTM3YjU3YWItNmU5Ni00YzJiLWExMzYtMzM5ODAxYmQwZjZhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwZS0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiJjNjRmZDk2My02M2FkLTRlZGEtOTBiNy0yOTQxY2RmOWY4MDEiLCJhdF9oYXNoIjoidlJpbFdncmhPSndUS1A4S1J6cFd4QSIsImFjciI6IjEiLCJzaWQiOiJjNjRmZDk2My02M2FkLTRlZGEtOTBiNy0yOTQxY2RmOWY4MDEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRPVUdMQVMgQlJBTkRBTyBETyBOQVNDSU1FTlRPIiwianRyIjoiODE3IiwiSlRSIjoiODE3IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDY2OTgwMzg0NzQiLCJnaXZlbl9uYW1lIjoiRE9VR0xBUyBCUkFOREFPIERPIE5BU0NJTUVOVE8iLCJlbWFpbCI6ImRvdWdsYXNicmFuZGFvLmFkdkBnbWFpbC5jb20ifQ.Pndrj6nQVDQVVkDRCeoSVALzWohSLZnzH9OFQ6KelIGo04k14X-mzc5VOTuoH8IZSe-vIYqmd4m7YTV4Y8eq9aiFRlxlzFgNgibI5j-jEQ1Sd4eOS8l22OTdfM2lFYJKu0WcJ9ehuFjdz76l3HSD3GbDQnCYfa0SPKCeRvpLhmIIZEhaadVdhgy2s1jeugpiQW_xckTe71hPG-Ddyo38fWB_DLrrZoQ1shbUV1WnV_0NtyatqWfqqqzusMugd_d_x1R20qGVvY4kz75SyKugRF1xs9Ufuy5o7r3jhNNENFySGsaTXXxtk0-8hutT46aJ-Kv44T0FMNPqDLIhX0Qy2w ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = PJE-TJPE-1G-StickySessionRule ; Value = "pje-1g-13:pje-tjpe-1g" ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAACnJSYdXDd1zhoGVvT2rvPssPJmLr8L+UfQq6kmzMdpQQpOOrNMGuiT1N/DfbhdoNW5Z9wnnejpJtI8iLVKYLKDp0/EydlMkdS+ZhgJQeEKU8FqSho/o8Ed32Y1NcaiA2/SFEY= ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+)
+12/11/2024 16:38:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:38:43: Total: 1
+12/11/2024 16:38:43: Total: 1
+12/11/2024 16:38:46: advogado 0000067-16.2020.8.17.2620 >> Processo com 3 parte(s), 33 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:38:46: Total: 1
+12/11/2024 16:38:46: Total: 1
+12/11/2024 16:38:49: advogado 0003557-51.2024.8.17.2670 >> Processo com 3 parte(s), 56 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 16:38:49: Total: 1
+12/11/2024 16:38:49: Total: 1
+12/11/2024 16:38:55: advogado 0007013-63.2017.8.17.2990 >> Processo com 2 parte(s), 63 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 16:38:55: Total: 1
+12/11/2024 16:38:55: Total: 1
+12/11/2024 16:38:56: advogado 0109565-22.2024.8.17.2001 >> Processo com 2 parte(s), 10 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 16:38:57: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 16:38:57: Rodou

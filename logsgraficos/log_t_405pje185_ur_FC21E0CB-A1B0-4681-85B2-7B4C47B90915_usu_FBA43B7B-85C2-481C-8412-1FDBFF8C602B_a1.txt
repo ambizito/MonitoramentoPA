@@ -1,0 +1,22 @@
+PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus em 4.05.pje.1.85
+12/11/2024 22:51:29: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 wKvlDLer1eyznKNbu9ggoXJpeJdZOAkG "tadeu leal reis de melo:03234429430 2023-12-19 09:50:24"
+12/11/2024 22:51:32: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:51:32: Perfil advogado e usuário Tadeu Leal Reis de Melo
+OAB = PE23111 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus ; Cookies (
+Name = JSESSIONID ; Value = 0FknM5Tc1dk9YyL0vyR0hzon.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3f3e8cec960a4e4a72586989433c802ac55eb6c5ed3ff8154b7376db4fbe4555fb8db837c1c1f27d9f03f8115f8b5372f67d137d2a578685de3cc3c5b937704d2 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3f639c3c650c9ab19ef53ef4b5a5924f155eb6c5ed3ff8154b7376db4fbe4555f7c7075042b93b01e70e4cd50379bd095fc13e39009c089afb3b70e016c39dde4 ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3f639c3c650c9ab19ef53ef4b5a5924f155eb6c5ed3ff8154b7376db4fbe4555f7c7075042b93b01e70e4cd50379bd095fc13e39009c089afb3b70e016c39dde4 ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:51:34: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:51:39: Total: 0
+12/11/2024 22:51:39: Total: 0
+12/11/2024 22:51:44: Total: 0
+12/11/2024 22:51:44: Total: 0
+12/11/2024 22:51:47: Total: 0
+12/11/2024 22:51:47: Total: 0
+12/11/2024 22:51:49: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:51:49: Rodou

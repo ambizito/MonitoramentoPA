@@ -1,0 +1,21 @@
+PB26120@adelisnildarocha@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark em 4.05.pje.2.00
+13/11/2024 00:50:49: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 190621 E3sshIAMdX6hW1ZiqLbVMrZVBwHaKJIJ "ADELISNILDA DE SOUSA ROCHA FORMIGA:03774404429"
+13/11/2024 00:50:53: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:50:53: Perfil advogado e usuário ADELISNILDA DE SOUSA ROCHA FORMIGA
+OAB = PB26120 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = PB26120@adelisnildarocha@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark ; Cookies (
+Name = JSESSIONID ; Value = NswGF9x82D9C3R5GtYQVMEl9.node08 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000ff691a348e030b3bf50c9fb23a6c2fcb93bf78a002f195ee3c9e3e6a5f0c049c088062dd8c1130009d19ae2c15177f5ac5e29e4047e810cfe83bdda3e82fd069a9921f4488ee93475ebb45f237190a3501e3f9ff06d5e4ee ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+13/11/2024 00:52:27: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 00:52:39: Total: 0
+13/11/2024 00:52:39: Total: 0
+13/11/2024 00:52:56: Total: 2
+13/11/2024 00:52:56: Total: 2
+13/11/2024 00:52:56:  0803947-39.2019.8.15.0141 >> Processo já foi verificado recentemente
+13/11/2024 00:52:56:  0800775-03.2021.4.05.8202 >> Processo já foi verificado recentemente
+13/11/2024 00:53:10: Total: 0
+13/11/2024 00:53:10: Total: 0
+13/11/2024 00:53:12: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+13/11/2024 00:53:12: Rodou

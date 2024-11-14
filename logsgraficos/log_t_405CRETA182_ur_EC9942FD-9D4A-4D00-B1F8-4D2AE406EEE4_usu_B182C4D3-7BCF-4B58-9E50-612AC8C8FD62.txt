@@ -1,0 +1,4 @@
+RO3279a@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark em 4.05.CRETA.1.82
+13/11/2024 01:00:12: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+13/11/2024 01:00:43: Erro no acesso: Senha invalida
+html: salvo no mongo.

@@ -1,0 +1,5 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 5.16.pje.2
+12/11/2024 20:07:34: Acessou https://pje.trt16.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 4fNOuBxe675K2AaMxDWObhcEStivOIbV "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 20:07:36: Logou https://pje.trt16.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 20:07:37: Rodou

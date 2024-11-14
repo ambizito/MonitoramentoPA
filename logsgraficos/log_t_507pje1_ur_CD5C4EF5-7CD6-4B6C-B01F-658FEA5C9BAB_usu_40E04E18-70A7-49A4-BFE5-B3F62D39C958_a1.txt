@@ -1,0 +1,26 @@
+PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 5.07.pje.1
+12/11/2024 19:35:20: Acessou https://pje.trt7.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 staWIhFXh0TUAUZfLheCym4jE6wNR46T "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+12/11/2024 19:35:23: Logou https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 19:35:24: Perfil advogado e usuário JOSE HARAN DE BRITO VEIGA PESSOA
+OAB = PB13028 ; URL = https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.07.pje.1 ; usuarioId = PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = 42eeea1a66ac203c~8Bedxj9leqECflZMGX8ANI5z ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = e57457bb-db77-491d-b1c8-82efa8cecabc ; Domain = pje.trt7.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyOTY4MWM3MS05NWI2LTQ1MDAtOTI2MC0wOGY1ZmZhMGFiOTQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUwOTIyLCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNDU0NTIyLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjkxMjQ3NCwibG9naW4iOiIwNDQ0NjE0MTQxNCIsIm5vbWUiOiJKT1NFIEhBUkFOIERFIEJSSVRPIFZFSUdBIFBFU1NPQSIsInBlcmZpbCI6MTAzNTU0LCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjkxOTgwLCJkZXNjcmljYW8iOiJKT1NFIEhBUkFOIERFIEJSSVRPIFZFSUdBIFBFU1NPQSAoMDQ0LjQ2MS40MTQtMTQpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwib3JpZ2VtIjoiVFJUNyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token_footer ; Value = B4gXs6EoBEbCnhKEOtYbdd3p8ImBmkuHNgbmJ-WMdsE ; Domain = pje.trt7.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyY2Y3Mzg3OS02N2MyLTQyMzYtOWJhNi0yMWZkMzFmM2IzNzkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUwOTIyLCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNDk0MTIyLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNDQ0NjE0MTQxNCIsInBlcmZpbCI6MTAzNTU0LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDcifQ.py-Du0n1iAWWT9Qp91Ke_6O_hdXPJDvFbIeJPsgijg8 ; Domain = pje.trt7.jus.br ; Path = /
+Name = Xsrf-Token ; Value = BB3EB4C19CAA4CF4CFBAF7511DABCE6943A69956CCDF5D59327175BA5CFD33F483AF3473AFA7DF1BA9A6FCA2B12255683DBE ; Domain = pje.trt7.jus.br ; Path = /
+)
+12/11/2024 19:35:25: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 19:35:27: Total: 6
+12/11/2024 19:35:27: Total: 6
+12/11/2024 19:35:29: advogado 0000195-60.2017.5.07.0004 >> Processo com 4 parte(s), 45 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:35:31: advogado 0000197-39.2017.5.07.0001 >> Processo com 4 parte(s), 92 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 19:35:32: advogado 0000509-69.2023.5.07.0012 >> Processo com 6 parte(s), 109 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 19:35:34: advogado 0000693-53.2017.5.07.0006 >> Processo com 2 parte(s), 36 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:35:35: advogado 0000743-33.2023.5.07.0018 >> Processo com 7 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:35:37: advogado 0000932-11.2023.5.07.0018 >> Processo com 7 parte(s), 186 andamento(s) e 57 expediente(s) atualizado
+12/11/2024 19:35:38: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 19:35:38: Rodou

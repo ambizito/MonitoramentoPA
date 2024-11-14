@@ -1,0 +1,4 @@
+07888580416@ccgd@4CD2577A-FFD5-4F4D-806C-86BCC6405F1A@berners em 5.16.pje.1
+13/11/2024 15:16:39: Acessou https://pje.trt16.jus.br/primeirograu/login.seam
+13/11/2024 15:16:56: Erro no acesso: Senha invalida
+html: salvo no mongo.

@@ -1,0 +1,4 @@
+PB22530@kaioalves@DA0B9800-595B-46AB-B86C-4420A6F0B4B2@bezos em 4.05.CRETA.1.80
+13/11/2024 19:43:08: Acessou https://jef.jfal.jus.br/cretaal/login.wsp
+13/11/2024 19:43:52: Erro no acesso: Senha invalida
+html: salvo no mongo.

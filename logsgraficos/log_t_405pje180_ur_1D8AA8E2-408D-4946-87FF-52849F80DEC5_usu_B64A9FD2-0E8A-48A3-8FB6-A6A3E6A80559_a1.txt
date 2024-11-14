@@ -1,0 +1,18 @@
+PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 4.05.pje.1.80
+12/11/2024 22:58:08: Acessou https://pje.jfal.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Wms@2546 kdPzCDI4M76Q1GoqXYKmjBq3BNsoQFEu "WILSON RIBEIRO DE MORAES NETO:05651954414"
+12/11/2024 22:58:11: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:58:11: Perfil advogado e usuário wilson ribeiro de moraes neto
+OAB = PB15660 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.80 ; usuarioId = PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos ; Cookies (
+Name = JSESSIONID ; Value = TnHTEPg8HYngJ-E3JmgwqJ33.node05 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+12/11/2024 22:58:16: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:58:24: Total: 0
+12/11/2024 22:58:24: Total: 0
+12/11/2024 22:58:33: Total: 0
+12/11/2024 22:58:33: Total: 0
+12/11/2024 22:58:39: Total: 0
+12/11/2024 22:58:39: Total: 0
+12/11/2024 22:58:40: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:58:40: Rodou

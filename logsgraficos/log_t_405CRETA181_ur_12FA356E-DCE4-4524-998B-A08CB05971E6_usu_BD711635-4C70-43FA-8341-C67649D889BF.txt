@@ -1,0 +1,4 @@
+RN15606a@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 4.05.CRETA.1.81
+13/11/2024 20:45:22: Acessou https://wwws.jfce.jus.br/cretace/login.wsp
+13/11/2024 20:45:57: Erro no acesso: Senha invalida
+html: salvo no mongo.

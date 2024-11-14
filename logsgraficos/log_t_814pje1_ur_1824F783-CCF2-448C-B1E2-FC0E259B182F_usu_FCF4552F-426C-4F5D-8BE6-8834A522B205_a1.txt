@@ -1,0 +1,18 @@
+RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.14.pje.1
+13/11/2024 00:39:07: Acessou https://pje.tjpa.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.bt0rwc9lthy "LEANDRO CESAR CRUZ DE SA LORENZETTI:06519418498"
+13/11/2024 00:39:11: Logou https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:39:11: Perfil advogado e usuário LEANDRO CESAR CRUZ DE SA LORENZETTI
+OAB = RN12552 ; URL = https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.14.pje.1 ; usuarioId = RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = kzCG0FGkqd201U1h6siB45rCd-37thVjW_BDndrD.pje2-1g-n46 ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTc5NTAsImlhdCI6MTczMTQ2OTE1MCwiYXV0aF90aW1lIjoxNzMxNDY5MTUwLCJqdGkiOiIwMjdkZjVkNi0wMGE2LTQ0OTgtYmNhOC00ZTgwMDJmYTQ4YzkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBhLTFnIiwic3ViIjoiYmY2MjQyMjEtMTE1Mi00MmVkLTkxYTItZjFmNmM4NTY3NjBkIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYS0xZyIsInNlc3Npb25fc3RhdGUiOiJmMGJmMTZjZC1kNmFjLTQ4N2MtOGQ3Zi00MWE4NmJhNmVkMGEiLCJhdF9oYXNoIjoiQzBWd3YtNTloRGFRVzRkY1RvVmk3ZyIsImFjciI6IjEiLCJzaWQiOiJmMGJmMTZjZC1kNmFjLTQ4N2MtOGQ3Zi00MWE4NmJhNmVkMGEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxFQU5EUk8gQ0VTQVIgQ1JVWiBERSBTQSBMT1JFTlpFVFRJIiwianRyIjoiODE0IiwiSlRSIjoiODE0IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDY1MTk0MTg0OTgiLCJnaXZlbl9uYW1lIjoiTEVBTkRSTyBDRVNBUiBDUlVaIERFIFNBIExPUkVOWkVUVEkiLCJlbWFpbCI6ImxlYW5kcm9AY3NkcmFkdm9nYWRvcy5jb20uYnIifQ.j4DL5FHO5bfLrJypDoOqpVYXxDvvuVXiOA-IgIcP-KfXMDZZX_EzETL6fCXBDKn3Dnl5CLO7fPJi6WfRIlZcncCnvXNvin9m5yiNkAu4FHnhVKYG1k7G2OEfPh6Jr-SFaIu6Fq7yWrryOEwQqam0jUMAg7A6F8pckJeDwD4c27FIexIjCgLUQaAYV6_l237TKLbaZY_83DXMzueIjnKi8pJZLrVHKXCjqnPua4_zcSX6xMJJlSnizpiFLlZ3o0zXcxSnS-Ht5gvQVX_FK8slWrqlowzojM8zQIty5okQUlSuNrHHCq1vzuM-ijO6RUpwcaxtrIGQLvBaskyAb0OIpA ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = PJE-TJPA-1G-StickySessionRule ; Value = "pje2-1g-n46:pje-tjpa-1g" ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /
+)
+13/11/2024 00:39:11: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:39:13: Total: 1
+13/11/2024 00:39:13: Total: 1
+13/11/2024 00:39:14: advogado 0900792-63.2022.8.14.0301 >> Processo com 3 parte(s), 28 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 00:39:15: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:39:15: Rodou

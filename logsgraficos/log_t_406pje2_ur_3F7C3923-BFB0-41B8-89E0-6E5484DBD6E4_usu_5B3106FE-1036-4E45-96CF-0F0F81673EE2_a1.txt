@@ -1,0 +1,16 @@
+PB18750@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 4.06.pje.2
+12/11/2024 23:28:39: Acessou https://pje2g.trf6.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 141403 ITR6YulEyhe4L3OOvkp5nTFIRYjTFwpI "larissa de arruda sousa pinto:07184181409 2024-09-02 10:38:21"
+12/11/2024 23:28:41: Logou https://pje2g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:28:41: Perfil advogado e usuário LARISSA DE ARRUDA SOUSA PINTO
+OAB = PB18750 ; URL = https://pje2g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 4.06.pje.2 ; usuarioId = PB18750@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = 0mMNM2jQMIcrw5SRcs4EaXm14FyLW8KkG7CjeZp2.trf6pje2goutjb02 ; Domain = pje2g.trf6.jus.br ; Path = /pje
+Name = PJE-TRF6-2G-StickySessionRule ; Value = trf6-pje2goutjb02:pje-trf6-2g ; Domain = pje2g.trf6.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf6.jus.br ; Path = /
+)
+12/11/2024 23:28:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:28:45: Total: 1
+12/11/2024 23:28:45: Total: 1
+12/11/2024 23:28:46: advogado 1002026-28.2021.4.01.3823 >> Processo já foi verificado recentemente
+12/11/2024 23:28:51: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 23:28:51: Rodou

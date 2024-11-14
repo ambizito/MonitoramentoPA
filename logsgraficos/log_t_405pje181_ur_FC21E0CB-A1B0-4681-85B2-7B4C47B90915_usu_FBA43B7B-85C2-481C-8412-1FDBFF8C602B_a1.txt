@@ -1,0 +1,20 @@
+PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus em 4.05.pje.1.81
+12/11/2024 16:29:20: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 pDRqwt8pEeSwYI99KHoERRDGVi13HRDD "tadeu leal reis de melo:03234429430 2023-12-19 09:50:24"
+12/11/2024 16:29:23: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:29:23: Perfil advogado e usuário Tadeu Leal Reis de Melo
+OAB = PE23111 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus ; Cookies (
+Name = JSESSIONID ; Value = -pX2hHgTyZMoA5Vz1GpbEB98.node04 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+12/11/2024 16:29:31: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 16:29:49: Total: 0
+12/11/2024 16:29:49: Total: 0
+12/11/2024 16:30:01: Exceção: Stream was not writable.
+Stack Trace:    at System.IO.StreamWriter..ctor(Stream stream, Encoding encoding, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamWriter..ctor(Stream stream)
+   at ProcessoAgil.TribunalBase.MetodoPostLegal(CookieContainer& cookie, String url, String postData, String urlReferer, Boolean allowAutoRedirect, Dictionary`2 extraHeaders, Boolean ignoreTimeOut, Int32 timeOutValue, Boolean noContent) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalBase.cs:line 1556
+   at ProcessoAgil.TribunalToken.FazerPostSeguro(Boolean& erro, String url, String post, CookieContainer& cookie, String& viewState, String urlReferer, String mensagemDeErro, String html) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1458
+   at ProcessoAgil.TribunalToken.NavegarAcervo(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, String perfil, Nullable`1 tokenId, String parteNome, ControleExpedienteLido controleExpedienteLido) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2006
+   at ProcessoAgil.TribunalToken.Navegar(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, String html, String parteNome, String perfil, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1000
+   at ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 547

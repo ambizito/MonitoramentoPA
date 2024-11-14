@@ -1,0 +1,17 @@
+PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 4.05.pje2.2
+12/11/2024 16:12:29: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 0.b9eei5ojtty "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+12/11/2024 16:12:37: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:12:37: Perfil advogado e usuário JOSE HARAN DE BRITO VEIGA PESSOA
+OAB = PB13028 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = fLwRAYj6ifIGqWWPuy2EsTHE8ncqTAWkRB8aeltG.sg-119-nj4dv ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njc1NTYsImlhdCI6MTczMTQzODc1NywiYXV0aF90aW1lIjoxNzMxNDM4NzU2LCJqdGkiOiJmZWZiZmY4Ny0zMGZkLTQ2OGItYTIzMS1lMWJmYmJhZTM1YWEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiOGMyZmFlOWQtYjU2MS00NjkyLWE3Y2UtNTZiNWFiZDMyN2Y3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiI2OTE0YjIxOS0xZDA1LTRkMmItYjExMi1iZWM5MTc2Y2Y3YmUiLCJhdF9oYXNoIjoiQVBfcjRPUEZkVHkxXzFldEpmbFBDUSIsImFjciI6IjEiLCJzaWQiOiI2OTE0YjIxOS0xZDA1LTRkMmItYjExMi1iZWM5MTc2Y2Y3YmUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkpPU0UgSEFSQU4gREUgQlJJVE8gVkVJR0EgUEVTU09BIiwiSlRSIjoiNDA1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ0NDYxNDE0MTQiLCJnaXZlbl9uYW1lIjoiSk9TRSBIQVJBTiBERSBCUklUTyBWRUlHQSBQRVNTT0EiLCJlbWFpbCI6Impvc2VoYXJhbmJAeWFob28uY29tLmJyIn0.w17m2qEUZwaOFDrwwPNuC1FrW-eCtXqVuuy3ezzI6wn66CwGJJBCZ6id8tnsYw0kvrw06JRXmtw3s5XgrH6Oc4HQzenktYkCCNh7-bk1qkQjVdQ87p0zo_izFnRcR3YmDpYhGC_JX1FwIl44t1zZTriCt5wluzEII_5oIBtLQRtPvlRUI4Y-MbgtqiSUlLPkwjAkrAckHsy3WiyHGfeWdBXofPRGNS1equLnyeap2ycVn_3LL4-utFopCyVSlI-kye0zY1BoitHFGODTOEfsbekb0FZRCJ7kgHG1OhdvZDmQ_kt5Rd3VrHLS0h6CXc5JTZzqbcrtAZS-7roJe-BW1A ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 98cd00aa48a73a8145360589f6d5fc28 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_A67EA3A3284C2104EB1B9217567364D7_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_A67EA3A3284C2104EB1B9217567364D7_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+12/11/2024 16:12:38: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:12:45: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:12:45: Rodou

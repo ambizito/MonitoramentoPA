@@ -1,0 +1,16 @@
+RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus em 8.07.pje.2
+12/11/2024 16:35:31: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar djneto89 0.v6c0sjhfx87 "djanirito de souza moura neto:06855029450 2023-11-26 12:44:24"
+12/11/2024 16:35:34: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:35:34: Perfil advogado e usuário DJANIRITO DE SOUZA MOURA NETO
+OAB = RN11793 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus ; Cookies (
+Name = JSESSIONID ; Value = vMRpkzw697xiWdOp3Tzy-DNgHFD-vRacTdHOW55Z.hc-zdu155:pje2i-internet-zdu155 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 16:35:34: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:35:36: Total: 1
+12/11/2024 16:35:36: Total: 1
+12/11/2024 16:35:39: advogado 0737577-64.2021.8.07.0001 >> Processo com 5 parte(s), 48 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 16:35:39: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 16:35:39: Rodou

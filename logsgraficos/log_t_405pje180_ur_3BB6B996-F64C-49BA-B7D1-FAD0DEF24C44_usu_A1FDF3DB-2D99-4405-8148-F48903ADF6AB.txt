@@ -1,0 +1,26 @@
+01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark em 4.05.pje.1.80
+13/11/2024 19:52:21: Acessou https://pje.jfal.jus.br/pje/login.seam
+13/11/2024 19:53:05: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 19:53:06: Perfil advogado e usuário 
+OAB = 01368830285 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState =  ; tribunal = 4.05.pje.1.80 ; usuarioId = 01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark ; Cookies (
+Name = JSESSIONID ; Value = wHtvqVHaFJCW-5C1lN0qESmW.node02 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+13/11/2024 19:53:11: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+13/11/2024 19:53:14: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+13/11/2024 19:53:17: Rodou com falha
+01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark em 4.05.pje.1.80
+13/11/2024 19:54:17: Acessou https://pje.jfal.jus.br/pje/login.seam
+13/11/2024 19:54:34: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 19:54:35: Perfil advogado e usuário 
+OAB = 01368830285 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState =  ; tribunal = 4.05.pje.1.80 ; usuarioId = 01368830285@thaisesalomaoadv@3BB6B996-F64C-49BA-B7D1-FAD0DEF24C44@mark ; Cookies (
+Name = JSESSIONID ; Value = o4X7TfGkgpJKYxMwj7RvudM7.node04 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+13/11/2024 19:54:37: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+13/11/2024 19:56:35: Não acessou a url de pesquisa de expedientes para o OAB 01368830285
+html: salvo no mongo.
+13/11/2024 19:56:36: Rodou com falha

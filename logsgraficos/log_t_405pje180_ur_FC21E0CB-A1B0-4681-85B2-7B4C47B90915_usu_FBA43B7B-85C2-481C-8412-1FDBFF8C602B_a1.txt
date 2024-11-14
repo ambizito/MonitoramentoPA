@@ -1,0 +1,20 @@
+PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus em 4.05.pje.1.80
+12/11/2024 23:14:24: Acessou https://pje.jfal.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 ZNsYm10ej4gBUMm2rdGztmVfZt0Send7 "tadeu leal reis de melo:03234429430 2023-12-19 09:50:24"
+12/11/2024 23:14:27: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:14:27: Perfil advogado e usuário Tadeu Leal Reis de Melo
+OAB = PE23111 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.80 ; usuarioId = PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus ; Cookies (
+Name = JSESSIONID ; Value = GIKD3YuNPstdz8UsILBGlsqU.node01 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+12/11/2024 23:14:31: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 23:14:42: Total: 0
+12/11/2024 23:14:42: Total: 0
+12/11/2024 23:14:51: Total: 2
+12/11/2024 23:14:51: Total: 2
+12/11/2024 23:15:04:  0801096-43.2013.4.05.8000 >> Processo com 4 parte(s), 15 andamento(s) e 18 expediente(s) atualizado
+12/11/2024 23:15:27:  0800906-07.2018.4.05.8000 >> Processo com 6 parte(s), 15 andamento(s) e 71 expediente(s) atualizado
+12/11/2024 23:15:33: Total: 0
+12/11/2024 23:15:33: Total: 0
+12/11/2024 23:15:40: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 23:15:40: Rodou

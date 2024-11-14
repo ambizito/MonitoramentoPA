@@ -1,0 +1,12 @@
+RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners em 8.17.pje.2
+13/11/2024 00:05:52: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar lrasobrado2024 0.y242okvr0ud "MARIA LUIZA DE ARAUJO LIMA LEITE:04973354414"
+13/11/2024 00:05:55: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+13/11/2024 00:05:55: Perfil advogado e usuário MARIA LUIZA DE ARAUJO LIMA LEITE
+OAB = RN6623 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = O9Plsv8WCkBiyHB0uaUEBgJWyhss4aYVtLKIQodB.keycloak-4 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+13/11/2024 00:05:56: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:06:05: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:06:05: Rodou

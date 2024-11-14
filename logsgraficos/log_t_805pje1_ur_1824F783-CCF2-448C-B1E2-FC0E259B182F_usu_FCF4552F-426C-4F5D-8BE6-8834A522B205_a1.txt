@@ -1,0 +1,27 @@
+RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.05.pje.1
+13/11/2024 00:04:46: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.tiu81u19421 "LEANDRO CESAR CRUZ DE SA LORENZETTI:06519418498"
+13/11/2024 00:04:50: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:04:50: Perfil advogado e usuário LEANDRO CESAR CRUZ DE SA LORENZETTI
+OAB = RN12552 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = cnfL1nZqzd4M-d_yD4Zy9_1Owm9p-9PfHciWtIY6.pje1gapp035 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTU4ODgsImlhdCI6MTczMTQ2NzA4OSwiYXV0aF90aW1lIjoxNzMxNDY3MDg4LCJqdGkiOiJkYTQ4ZTVmOS1kZTIxLTQ1ZDQtODRhYS04YWU0NWE2YmFkYTkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiYmY2MjQyMjEtMTE1Mi00MmVkLTkxYTItZjFmNmM4NTY3NjBkIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiI0OWU3MmI4MS1lNjFlLTQ3MGUtYWUyNC0wMDEwZjBmNmE1NzkiLCJhdF9oYXNoIjoiT1c4S0syakJsNDV6VWxqc0NKcXNYdyIsImFjciI6IjEiLCJzaWQiOiI0OWU3MmI4MS1lNjFlLTQ3MGUtYWUyNC0wMDEwZjBmNmE1NzkiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxFQU5EUk8gQ0VTQVIgQ1JVWiBERSBTQSBMT1JFTlpFVFRJIiwiSlRSIjoiODA1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDY1MTk0MTg0OTgiLCJnaXZlbl9uYW1lIjoiTEVBTkRSTyBDRVNBUiBDUlVaIERFIFNBIExPUkVOWkVUVEkiLCJlbWFpbCI6ImxlYW5kcm9AY3NkcmFkdm9nYWRvcy5jb20uYnIifQ.QyZj6W4anghBpXv9JzlLbn5b9E471IWXL1rbStvMAL303nDxkOxWfUOf-u7xW3iIt_awVMYzgDkYr3MMis1_pBbfhdzcf1N6eh66lEME4rspJkTILDYZjkh1N8LOcMi4IpbToqaHVdkAg9ri8yYsQn6rp3zZcT0uSvDh7t2Xz06mfF2afYQ93lWA54G6Wd-9rbM5f8bq7b7sEM2Pxi-vnOuUEAHXWdHqWEYQonnfpYhuJdzQaYg5KBbGfWNXxI99kPgSDDAo3-8JjMKy2ORxb8GJNDzRPExbEv8JMc7kp8e9ivx2PUHV_Qu1y1ldFocznZOSuBwpsLgkamC_4-NQNQ ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp035:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+13/11/2024 00:04:51: Total: 1
+13/11/2024 00:04:53: advogado 8176008-03.2022.8.05.0001 >> Processo com 2 parte(s), 46 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 00:04:53: advogado 8176008-03.2022.8.05.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:04:54: Total: 1
+13/11/2024 00:04:56: advogado 8000288-41.2024.8.05.0263 >> Processo com 4 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:04:56: advogado 8000288-41.2024.8.05.0263 >> Processo já foi verificado recentemente
+13/11/2024 00:04:56: Entrou na aba expediente do perfil para as categorias Pendente de ciência pelo judiciário e detectou 5 e leu 2
+13/11/2024 00:05:00: Total: 1
+13/11/2024 00:05:00: Total: 1
+13/11/2024 00:05:00: advogado 8176008-03.2022.8.05.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:05:01: Total: 1
+13/11/2024 00:05:01: Total: 1
+13/11/2024 00:05:01: advogado 8000288-41.2024.8.05.0263 >> Processo já foi verificado recentemente
+13/11/2024 00:05:08: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+13/11/2024 00:05:08: Rodou

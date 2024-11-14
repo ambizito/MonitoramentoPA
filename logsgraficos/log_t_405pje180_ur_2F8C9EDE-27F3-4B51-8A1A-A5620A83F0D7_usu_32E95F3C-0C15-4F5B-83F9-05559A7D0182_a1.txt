@@ -1,0 +1,18 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 4.05.pje.1.80
+12/11/2024 23:09:19: Acessou https://pje.jfal.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 75CPt3N0zUn4O4XHUgwePWRZs3exjXqG "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 23:09:22: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:09:22: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.80 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = LhT9w5NrdYlFCgSystVInrVn.node05 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+12/11/2024 23:09:26: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 23:09:34: Total: 0
+12/11/2024 23:09:34: Total: 0
+12/11/2024 23:09:43: Total: 0
+12/11/2024 23:09:43: Total: 0
+12/11/2024 23:09:50: Total: 0
+12/11/2024 23:09:50: Total: 0
+12/11/2024 23:09:51: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:09:51: Rodou

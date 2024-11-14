@@ -1,0 +1,29 @@
+RN14321@diegoluis@1AB30A01-3CF5-44AB-A7FD-57F91E41C42F@linus em 4.03.pje.2
+12/11/2024 19:32:13: Acessou https://pje2g.trf3.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123258456Dluis 0.54cebaxg8vj "DIEGO LUIS DANTAS GUIMARAES:09068096494"
+12/11/2024 19:32:16: Logou https://pje2g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:32:16: Perfil advogado e usuário DIEGO LUIS DANTAS GUIMARAES
+OAB = RN14321 ; URL = https://pje2g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.03.pje.2 ; usuarioId = RN14321@diegoluis@1AB30A01-3CF5-44AB-A7FD-57F91E41C42F@linus ; Cookies (
+Name = JSESSIONID ; Value = H2qlfWFVGPuVc3Lgs5H57UefAuYAlsI6afRssGOP.svlpje2g03 ; Domain = pje2g.trf3.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf3.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Nzk1MzUsImlhdCI6MTczMTQ1MDczNSwiYXV0aF90aW1lIjoxNzMxNDUwNzM1LCJqdGkiOiI3YzRiMjk1Ny1jMjBkLTRmZjUtOWNjNS02ZDc0ZTZkODk3YTIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYzLTJnIiwic3ViIjoiY2QyYmZjZWMtMWM4Yi00MGRiLWIxNmUtOWNjNTRjNzg0YzkxIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMy0yZyIsInNlc3Npb25fc3RhdGUiOiIxZWJkZDI1MS02M2I0LTQxMGItODE5YS0zYjVmYWE1YTlkN2UiLCJhdF9oYXNoIjoiY3B1bUszRVN6cnp5aHlQZU90ZXZJZyIsImFjciI6IjEiLCJzaWQiOiIxZWJkZDI1MS02M2I0LTQxMGItODE5YS0zYjVmYWE1YTlkN2UiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRJRUdPIExVSVMgREFOVEFTIEdVSU1BUkFFUyIsImp0ciI6IjQwMyIsIkpUUiI6IjQwMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA5MDY4MDk2NDk0IiwiZ2l2ZW5fbmFtZSI6IkRJRUdPIExVSVMgREFOVEFTIEdVSU1BUkFFUyIsImVtYWlsIjoiZGllZ29sdWlzMUBnbWFpbC5jb20ifQ.baGRgzEkBx88HhsKrHm08qniawDNYgplGnsH68EBETXoKoWJaxaRBKPS4dfwujscZQG3CksBwCXrRj91Jg92c-rsSjlu-P_Nwhwqeo_G9VKJDggBX_gmPIGxAfWnI_ldFmRMAhAWkjw_Y57FYU2e7Shg0XFtNJYg7tPvge_ejlZ9ymvgmca5Wfs8Qe1I3JwQJhRlFcRuIIQdcg5QMpXd7fxmkqMDXVKZUBHSnHx16yolGfdJs-Y0cWryEMYX3fk9L1aFVhIdEaUQYvqw4jAD306rsqD66hy5qsSSPUwrFIueHtX55ViW6ufIBTsk3cjVTvvdc7z7JQBgM-SPq5jhIA ; Domain = pje2g.trf3.jus.br ; Path = /pje
+Name = PJESID ; Value = 3 ; Domain = pje2g.trf3.jus.br ; Path = /
+Name = ak_bmsc ; Value = D065D9B7C99F6D39DAA6F360065B6F5F~000000000000000000000000000000~YAAQevYpFzLrGRGTAQAA3YKBIhkLzCDP7xXoLHVoDWH4YYxV8eRE47SQhc0wPCmY0ErztGsEU3XACrJkLpiDzMUWjIgfDv9I3c6Q4igBlpnFDAGHxbfbDdpL0eeQIvunUfUWUh4+aqbxU3KbqTN+FRvOcQuijXDLoqJg/2jhHqPKboizUpSjDZUoPmLPlD2ziLWKIzF2usO4+qYfCTfZ4lk0gkO37da/FxBIGp3kHMqIvyWM9tZh4uk+bEmvJBPs3iRvskkB/eMFOohvpwPRyk723UUZ7sqwdbX3Vwa8i6Gk+erykCpAyffnQ6QUfkuKwLFLjlLuxAobTxZdEygaiht7yP8WenIwUeACqe4= ; Domain = pje2g.trf3.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf3.jus.br ; Path = /
+Name = ak_bmsc ; Value = D065D9B7C99F6D39DAA6F360065B6F5F~000000000000000000000000000000~YAAQevYpFzLrGRGTAQAA3YKBIhkLzCDP7xXoLHVoDWH4YYxV8eRE47SQhc0wPCmY0ErztGsEU3XACrJkLpiDzMUWjIgfDv9I3c6Q4igBlpnFDAGHxbfbDdpL0eeQIvunUfUWUh4+aqbxU3KbqTN+FRvOcQuijXDLoqJg/2jhHqPKboizUpSjDZUoPmLPlD2ziLWKIzF2usO4+qYfCTfZ4lk0gkO37da/FxBIGp3kHMqIvyWM9tZh4uk+bEmvJBPs3iRvskkB/eMFOohvpwPRyk723UUZ7sqwdbX3Vwa8i6Gk+erykCpAyffnQ6QUfkuKwLFLjlLuxAobTxZdEygaiht7yP8WenIwUeACqe4= ; Domain = .trf3.jus.br ; Path = /
+Name = bm_mi ; Value = BDC95E1DECA52EB789E09847974FAF94~YAAQevYpF1zrGRGTAQAADY2BIhmj4qP4lKCNoE/yN7Wi98YsviCnI+SVmngukQY0pnTgMPKfJ1FjvWZr1kRjZY3Y29KkIlYTeyDRHiVm19A3SOipCmUxHo9jwyJrR0GLGP41gKe/Y04PZzQeuADqIw9p30Tdb49VPFKGcnmsWJ0vtxQRX1MhCeBxKaQFYFgbIrzQRn8wMiwcoEoBaLlQk0C3DemwiTsLWRPsIy6Yoc2Ew0BS4EF/pbU5ZGI91+0rTzPgOLMt+zsGoIYHlLyKU96+Zz3s2djHsHydYE+bpmomnF6eX+O1BwZ5v2grpHubloZbLWBs1zXLTGPCekePBXL4TsefPp/j2tjmgNDBiHuugA==~1 ; Domain = .trf3.jus.br ; Path = /
+Name = bm_sv ; Value = 325963C842F1EC340A54D640EE30349E~YAAQevYpF17rGRGTAQAAuY2BIhmXrSoZgEXwcrh/gM4wO+60kwpHDrGHnDih/cELfrifP9FbYG8u52HbJIRaeN7cP1gBIhqmo+xfmVfRr2AoToaz+ZiKSo/PoB/vdzvmo22OpKH0IvKhze4v2afIoy/prZAC8pY8g25EVytD8/u+2qrI+36umiNSqqITg6ye/MaQigdJ8/NbiD8aX5lBsUQaq1jTot9keBnn7JSMMi5qxi1HAKeQKuFxznCiKDbKXA==~1 ; Domain = .trf3.jus.br ; Path = /
+)
+12/11/2024 19:32:16: Total: 1
+12/11/2024 19:32:20: advogado 5024394-91.2023.4.03.6100 >> Processo com 6 parte(s), 52 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:32:20: Total: 1
+12/11/2024 19:32:21: advogado 5024394-91.2023.4.03.6100 >> Processo com 6 parte(s), 52 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:32:21: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo Judiciário - pendente de resposta e detectou 2 e leu 1
+12/11/2024 19:32:22: Total: 4
+12/11/2024 19:32:22: Total: 4
+12/11/2024 19:32:22: advogado 5024394-91.2023.4.03.6100 >> Processo já foi verificado recentemente
+12/11/2024 19:32:24: advogado 5019734-54.2023.4.03.6100 >> Processo com 6 parte(s), 54 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:32:25: advogado 5028928-45.2023.4.03.0000 >> Processo com 6 parte(s), 52 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:32:26: advogado 5026583-09.2023.4.03.0000 >> Processo com 6 parte(s), 53 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 19:32:26: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 19:32:26: Rodou

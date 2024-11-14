@@ -1,0 +1,8 @@
+05736244454@advandredantas@DCDE46AE-2610-4C0D-A674-0BCADF8A0900@jobs em 8.19.pje.2
+13/11/2024 01:32:28: Acessou https://tjrj.pje.jus.br/2g/login.seam
+13/11/2024 01:32:29: Erro no acesso: Desconhecido
+html: salvo no mongo.
+05736244454@advandredantas@DCDE46AE-2610-4C0D-A674-0BCADF8A0900@jobs em 8.19.pje.2
+13/11/2024 01:33:29: Acessou https://tjrj.pje.jus.br/2g/login.seam
+13/11/2024 01:33:29: Erro no acesso: Desconhecido
+html: salvo no mongo.

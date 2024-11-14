@@ -1,0 +1,18 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.06.pje.2
+12/11/2024 19:39:29: Acessou https://pje.tjce.jus.br/pje2grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.syje12ofgq9 "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 19:39:31: Logou https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam
+12/11/2024 19:39:32: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id1 ; tribunal = 8.06.pje.2 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = aQuisqqlWBzeriaTMBwQmInZOZPrKBun_Rv9GhEz.tjpjp41 ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Nzk5NzEsImlhdCI6MTczMTQ1MTE3MSwiYXV0aF90aW1lIjoxNzMxNDUxMTcxLCJqdGkiOiJkNjBjNGU4NS1iOGFiLTRiNjUtOGNiNS1mYTU0MWYzOTIxYmQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTJnIiwic3ViIjoiMDdiMzFjNDMtYWI1Yy00NDMxLWE2MWUtM2M2M2RhNjhmMzg2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0yZyIsInNlc3Npb25fc3RhdGUiOiIyOWZlZDBiOS02OTU3LTQ3MmUtYWJiMS1kN2U1Y2M4NDBkMDgiLCJhdF9oYXNoIjoiVTRjVktWdXpPY1pmcXpnZDZaX2RJUSIsImFjciI6IjEiLCJzaWQiOiIyOWZlZDBiOS02OTU3LTQ3MmUtYWJiMS1kN2U1Y2M4NDBkMDgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlBSSVNDSUxMQSBMSUNJQSBGRUlUT1NBIERFIEFSQVVKTyBDQUJSQUwiLCJqdHIiOiI4MDYiLCJKVFIiOiI4MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTU3Nzk4ODQxMSIsImdpdmVuX25hbWUiOiJQUklTQ0lMTEEgTElDSUEgRkVJVE9TQSBERSBBUkFVSk8gQ0FCUkFMIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGZlaXRvc2FlYnJhbmRhby5jb20uYnIifQ.Zx9x56Pvehi9vhYi1W14QshElqwsgvOQMCafAmt1mlyNmTDJmUULqEYNFWX4aK9UxjK3KWQ0_MON5LDVq1i0N-axjZrfx5w8RJBe9WqReNs7T1YVS9VAgwL0Sr-4YUn7KckjImfJtNBmr0haCRVl0r5qfj-M40lNR_Ec6vnoOpRcfwYacFHBxcSzSuVrgxW-YQstMQXqQGyi0Puc7paDfG2KyuCBQQDgtfa-IXTPHRz0hq9XfdxDzopaB-uRfE7X1hT64VH0LvD8xjTsctIw8VCSk13ZGLIECcJ72q2cvXAJNRRHdRjwgasHrbguAmWh4FIEYV7fzkMtQlOvoChwWg ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = PJE-TJCE-2G-StickySessionRule ; Value = "tjpjp41:pje-tjce-2g" ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 19:39:32: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:39:33: Total: 1
+12/11/2024 19:39:33: Total: 1
+12/11/2024 19:39:33: advogado 3000669-14.2020.8.06.0113 >> Processo já foi verificado recentemente
+12/11/2024 19:39:33: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 19:39:33: Rodou

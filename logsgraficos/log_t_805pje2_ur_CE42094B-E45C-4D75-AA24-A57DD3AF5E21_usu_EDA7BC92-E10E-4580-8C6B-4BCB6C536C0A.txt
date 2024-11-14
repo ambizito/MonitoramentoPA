@@ -1,0 +1,4 @@
+08774562401@vwadvocacia@CE42094B-E45C-4D75-AA24-A57DD3AF5E21@linus em 8.05.pje.2
+14/11/2024 10:04:54: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+14/11/2024 10:04:55: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

@@ -1,0 +1,33 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 5.00.pje.3
+12/11/2024 23:20:54: Acessou https://pje.tst.jus.br/tst/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 VHfMcbpAQ9BN97FI04mW1sK7OnUEtbgH "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+12/11/2024 23:20:57: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 23:20:57: Perfil advogado e usuário RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = 9dbb6ab01558c0fc~klbGaraEOcU++lHfUPNrAWFY ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 49c5d28a-cbfe-4ad0-af92-098fd4bfa16c ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJjN2JiYjE4OC0xZTg0LTQ0MjUtOGVhMy1jMjY3NTI4OTViYjciLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY0NDU1LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNDY4MDU1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjMwNTk3NywibG9naW4iOiIwNzI1NzA2NzQwNiIsIm5vbWUiOiJST0RSSUdPIE1PUlFVRUNITyBERSBDQVJWQUxITyIsInBlcmZpbCI6MjA1MDYwLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjE4NzUyOSwiZGVzY3JpY2FvIjoiUk9EUklHTyBNT1JRVUVDSE8gREUgQ0FSVkFMSE8gKDA3Mi41NzAuNjc0LTA2KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRTVCIsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = T2qgdfyVU0YlRX-cg3ktUrNu6vZiy0NUHKxgVS7FBvk ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3NmU3NzE0MC05YmVkLTQxZWYtYWJlMC0wNmRiY2UyMWE4ODYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY0NDU1LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTA3NjU1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNzI1NzA2NzQwNiIsInBlcmZpbCI6MjA1MDYwLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRTVCJ9.rpeH__SuwQ9OrJaH4DfB8w9baoRFm04wSRtIFR3tgnk ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 7B9F861B90BFF240C45C9CE0BC6CAAE60BEF4383AB4D7447F858F5BC6EE5E0E3440A7E51A85D12ED584663CFF19A5AB8A339 ; Domain = pje.tst.jus.br ; Path = /
+)
+12/11/2024 23:21:01: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 23:21:09: Total: 3
+12/11/2024 23:21:09: Total: 3
+12/11/2024 23:21:09: advogado 0000115-59.2020.5.21.0018 >> Processo já foi verificado recentemente
+12/11/2024 23:21:12: advogado 0000419-92.2023.5.21.0005 >> Processo com 3 parte(s), 15 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 23:21:15: advogado 0000863-59.2022.5.21.0006 >> Processo com 3 parte(s), 15 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 23:21:15: Total: 1
+12/11/2024 23:21:15: Total: 1
+12/11/2024 23:21:15: advogado 0000115-59.2020.5.21.0018 >> Processo já foi verificado recentemente
+12/11/2024 23:21:15: Total: 1
+12/11/2024 23:21:15: Total: 1
+12/11/2024 23:21:15: advogado 0000863-59.2022.5.21.0006 >> Processo já foi verificado recentemente
+12/11/2024 23:21:15: Total: 1
+12/11/2024 23:21:15: Total: 1
+12/11/2024 23:21:15: advogado 0000419-92.2023.5.21.0005 >> Processo já foi verificado recentemente
+12/11/2024 23:21:20: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 23:21:22: Rodou

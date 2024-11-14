@@ -1,0 +1,23 @@
+04432734485@venanciomedeiros@89AB744F-21C0-47A1-BD4F-38138BA4E387@bezos em 8.20.pje.1
+13/11/2024 20:16:43: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+13/11/2024 20:18:24: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 20:18:24: Perfil advogado e usuário VENANCIO VIANA DE MEDEIROS NETO
+OAB = 04432734485 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = 04432734485@venanciomedeiros@89AB744F-21C0-47A1-BD4F-38138BA4E387@bezos ; Cookies (
+Name = JSESSIONID ; Value = u5_rCmMykE-cFODnCQryTTMDdOk_Xunri21NJFIL.pje1g-104-4ls5d ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1Njg3MDIsImlhdCI6MTczMTUzOTkwMiwiYXV0aF90aW1lIjoxNzMxNTM5OTAyLCJqdGkiOiI4ZGIwMTQzNS00NTM2LTRlYTMtODc2NC1lNTIxY2ZjZTVmNjYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiMzk2MDdlZjctZWM5Ni00ZDM5LTgxZGYtYTZhZmRhYjkxYWZjIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiI1MTUwMWFlNi0zNjc5LTQwOTgtODI4My0wY2E5ZmFkZDVhY2UiLCJhdF9oYXNoIjoiZGpjb3N6TGliOHp3cXRjWU84YW1fUSIsImFjciI6IjEiLCJzaWQiOiI1MTUwMWFlNi0zNjc5LTQwOTgtODI4My0wY2E5ZmFkZDVhY2UiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJWRU5BTkNJTyBWSUFOQSBERSBNRURFSVJPUyBORVRPIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ0MzI3MzQ0ODUiLCJnaXZlbl9uYW1lIjoiVkVOQU5DSU8gVklBTkEgREUgTUVERUlST1MgTkVUTyIsImVtYWlsIjoidmVuYW5jaW9fbWVkZWlyb3NAaG90bWFpbC5jb20ifQ.i55RUTCJwNbbW66vR2frp0o-LsR9siyrPGtrIKDJKP8XjslO4HKH7diTcoxBgtgxCPXQ_b1U0zML0ynFe0AuRL0bg-RZVhOHYP9yinwaccNPy7H8O6Ww7XoSJPu6CDLtqMGZoODV2gsC9CrRrM1GnaOX_3HRshqQ93_PPqm9aBwuW3J-6_nlNyZ-DJmcWzm7ei8csbcSrgKX5T14Dfcrbqn_LW8RVVKMsuoHmpIdWtcmEMOVtBqwcEsfIcsSvO5CHkYDSECQoeQyx030TpwZsSjk_wqY8hjlt2SbPIQRncizyuvOIOhNkPXoSpTUAw2FFbAc-Jp0WlM7BL2kv5C0Cg ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-4ls5d:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 5b2c75318319528df95b352266f213ff ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 20:18:29: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 20:18:33: Total: 6
+13/11/2024 20:18:33: Total: 6
+13/11/2024 20:18:41: advogado 0010758-02.2012.8.20.0126 >> Processo com 2 parte(s), 48 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 20:19:31: advogado 0010504-29.2012.8.20.0126 >> Processo com 3 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 20:19:44: advogado 0010531-75.2013.8.20.0126 >> Processo com 2 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 20:21:36: advogado 0010738-11.2012.8.20.0126 >> Processo com 3 parte(s), 49 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 20:21:45: advogado 0010725-12.2012.8.20.0126 >> Processo com 3 parte(s), 49 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 20:22:57: advogado 0010202-97.2012.8.20.0126 >> Processo com 2 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 20:25:56: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+13/11/2024 20:25:57: Rodou

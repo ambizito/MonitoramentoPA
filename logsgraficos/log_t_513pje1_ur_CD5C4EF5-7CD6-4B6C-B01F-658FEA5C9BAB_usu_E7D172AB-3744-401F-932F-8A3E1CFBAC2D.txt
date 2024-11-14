@@ -1,0 +1,5 @@
+05251776470@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 5.13.pje.1
+13/11/2024 00:21:34: Exceção: [http.DownloadPage] o status da resposta é diferente de 'OK'
+Stack Trace:    at ProcessoAgil.TribunalBase.MetodoGetLogin(CookieContainer& cookie, String& viewState, String url, String& newUrl, String urlReferer, Boolean ignoreTimeOut, Boolean backToReferer, Boolean insecureRequest, String encoding) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalBase.cs:line 1067
+   at ProcessoAgil.TribunalToken.Login(CookieContainer cookie, String& ViewState, String& newUrl) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 64
+   at ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 177

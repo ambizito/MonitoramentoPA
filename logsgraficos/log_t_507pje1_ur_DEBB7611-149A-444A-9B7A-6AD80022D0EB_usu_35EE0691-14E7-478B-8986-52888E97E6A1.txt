@@ -1,0 +1,1023 @@
+01937793311@liviabandeira@DEBB7611-149A-444A-9B7A-6AD80022D0EB@jobs em 5.07.pje.1
+14/11/2024 00:55:27: Acessou https://pje.trt7.jus.br/primeirograu/login.seam
+14/11/2024 00:55:29: Logou https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 00:55:30: Perfil advogado e usuário LIVIA BANDEIRA BRAGA
+OAB = 01937793311 ; URL = https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.07.pje.1 ; usuarioId = 01937793311@liviabandeira@DEBB7611-149A-444A-9B7A-6AD80022D0EB@jobs ; Cookies (
+Name = JSESSIONID ; Value = 42eeea1a66ac203c~1A62wsWTTsqvba7rF1+ndNCY ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 6c0d34e9-de5f-4024-8ee8-891da7c12e05 ; Domain = pje.trt7.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxZTViMmZmNS0yYTcyLTQ3NWUtYmQ5Yy1kZjE0ZWQ0MmFhOTIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NTI4LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTYwMTI4LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjE5MTMyOCwibG9naW4iOiIwMTkzNzc5MzMxMSIsIm5vbWUiOiJMSVZJQSBCQU5ERUlSQSBCUkFHQSIsInBlcmZpbCI6MTc1MTcsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6MTQxMTIsImRlc2NyaWNhbyI6IkxJVklBIEJBTkRFSVJBIEJSQUdBICgwMTkuMzc3LjkzMy0xMSkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUUlQ3IiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token_footer ; Value = t0_wpVpJt7cebbWGok7mW5hdNwTBUw8eJUqSd39V-i0 ; Domain = pje.trt7.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIzYWVmYTU0OC00ZDcyLTRkYmEtYTQ2ZS03MDNmMjhlOGM4OTIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NTI4LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTk5NzI4LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwMTkzNzc5MzMxMSIsInBlcmZpbCI6MTc1MTcsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNyJ9.12fLo_WdpHHE7dfcx1BffP-pvhYHPcCQEZl5O3KsL0w ; Domain = pje.trt7.jus.br ; Path = /
+Name = Xsrf-Token ; Value = A81C7488BB2EC15B948B4B3A700F67AF998661D2EE08FD64828F3EAC652608050317178F792D61B78F791E41A04DEBD8EEDF ; Domain = pje.trt7.jus.br ; Path = /
+)
+14/11/2024 00:55:31: Total: 2
+14/11/2024 00:55:33: advogado 0001042-28.2024.5.07.0033 >> Processo com 2 parte(s), 68 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:55:36: advogado 0000603-41.2015.5.07.0030 >> Processo com 5 parte(s), 139 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 00:56:19: Total: 1
+14/11/2024 00:56:20: advogado 0001068-16.2024.5.07.0004 >> Processo com 4 parte(s), 13 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:56:21: Total: 1
+14/11/2024 00:56:23: advogado 0000661-68.2024.5.07.0017 >> Processo com 4 parte(s), 71 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:56:23: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 26 e leu 4
+14/11/2024 00:56:24: Total: 1
+14/11/2024 00:56:24: Total: 1
+14/11/2024 00:56:26: advogado 0000154-97.2017.5.07.0035 >> Processo com 2 parte(s), 89 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 00:56:26: Total: 13
+14/11/2024 00:56:26: Total: 13
+14/11/2024 00:56:28: advogado 0000086-87.2020.5.07.0021 >> Processo com 3 parte(s), 149 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 00:56:30: advogado 0000131-91.2020.5.07.0021 >> Processo com 3 parte(s), 85 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 00:56:31: advogado 0000303-09.2015.5.07.0021 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:32: advogado 0000304-91.2015.5.07.0021 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:33: advogado 0000336-96.2015.5.07.0021 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:34: advogado 0000337-81.2015.5.07.0021 >> Processo com 2 parte(s), 11 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:34: advogado 0000338-66.2015.5.07.0021 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:35: advogado 0000339-51.2015.5.07.0021 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:36: advogado 0000340-36.2015.5.07.0021 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:37: advogado 0000341-21.2015.5.07.0021 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:38: advogado 0000342-06.2015.5.07.0021 >> Processo com 2 parte(s), 14 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 00:56:40: advogado 0000448-65.2015.5.07.0021 >> Processo com 2 parte(s), 53 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:56:41: advogado 0000449-50.2015.5.07.0021 >> Processo com 2 parte(s), 70 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:56:41: Total: 12
+14/11/2024 00:56:41: Total: 12
+14/11/2024 00:56:43: advogado 0000297-76.2018.5.07.0027 >> Processo com 2 parte(s), 29 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:56:45: advogado 0000321-07.2018.5.07.0027 >> Processo com 2 parte(s), 30 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:56:47: advogado 0000372-15.2018.5.07.0028 >> Processo com 2 parte(s), 67 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:56:48: advogado 0000739-02.2024.5.07.0037 >> Processo com 2 parte(s), 21 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 00:56:50: advogado 0001586-09.2021.5.07.0037 >> Processo com 3 parte(s), 54 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 00:56:51: advogado 0001806-73.2017.5.07.0028 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:56:51: advogado 0001806-73.2017.5.07.0028 >> Processo com 2 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:56:51: advogado 0001808-43.2017.5.07.0028 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:54: advogado 0001811-95.2017.5.07.0028 >> Processo com 2 parte(s), 126 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 00:56:55: advogado 0001823-12.2017.5.07.0028 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:56:55: advogado 0001823-12.2017.5.07.0028 >> Processo com 2 parte(s), 61 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:56:58: advogado 0001835-96.2017.5.07.0037 >> Processo com 3 parte(s), 140 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 00:56:59: advogado 0001838-51.2017.5.07.0037 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:56:59: advogado 0001864-76.2017.5.07.0028 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:57:00: advogado 0001864-76.2017.5.07.0028 >> Processo com 2 parte(s), 44 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:57:00: Total: 175
+14/11/2024 00:57:00: Total: 175
+14/11/2024 00:57:01: advogado 0000038-43.2016.5.07.0030 >> Processo com 2 parte(s), 20 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:57:03: advogado 0000042-62.2016.5.07.0036 >> Processo com 3 parte(s), 79 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 00:57:04: advogado 0000043-31.2017.5.07.0030 >> Processo com 2 parte(s), 14 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 00:57:05: advogado 0000103-04.2017.5.07.0030 >> Processo com 3 parte(s), 16 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:57:06: advogado 0000117-22.2016.5.07.0030 >> Processo com 3 parte(s), 16 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:57:07: advogado 0000123-11.2016.5.07.0036 >> Processo com 4 parte(s), 9 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 00:57:07: advogado 0000137-24.2018.5.07.0036 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:57:07: advogado 0000137-24.2018.5.07.0036 >> Processo com 2 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:57:10: advogado 0000155-34.2016.5.07.0030 >> Processo com 3 parte(s), 112 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 00:57:12: advogado 0000156-19.2016.5.07.0030 >> Processo com 3 parte(s), 113 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 00:57:14: advogado 0000159-71.2016.5.07.0030 >> Processo com 3 parte(s), 91 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 00:57:17: advogado 0000164-93.2016.5.07.0030 >> Processo com 3 parte(s), 137 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 00:57:19: advogado 0000165-78.2016.5.07.0030 >> Processo com 3 parte(s), 93 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 00:57:21: advogado 0000166-63.2016.5.07.0030 >> Processo com 3 parte(s), 104 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 00:57:23: advogado 0000187-84.2017.5.07.0036 >> Processo com 2 parte(s), 126 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 00:57:25: advogado 0000190-39.2017.5.07.0036 >> Processo com 2 parte(s), 36 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 00:57:27: advogado 0000204-23.2017.5.07.0036 >> Processo com 3 parte(s), 78 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 00:57:28: advogado 0000220-29.2016.5.07.0030 >> Processo com 3 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:57:29: advogado 0000225-51.2016.5.07.0030 >> Processo com 4 parte(s), 93 andamento(s) e 27 expediente(s) atualizado
+14/11/2024 00:57:31: advogado 0000240-83.2017.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:57:31: advogado 0000240-83.2017.5.07.0030 >> Processo com 2 parte(s), 158 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:57:32: advogado 0000255-34.2017.5.07.0036 >> Processo com 2 parte(s), 23 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 00:57:33: advogado 0000269-18.2017.5.07.0036 >> Processo com 2 parte(s), 35 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 00:57:35: advogado 0000282-85.2015.5.07.0036 >> Processo com 3 parte(s), 106 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 00:57:37: advogado 0000285-69.2017.5.07.0036 >> Processo com 3 parte(s), 91 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 00:57:39: advogado 0000288-24.2017.5.07.0036 >> Processo com 3 parte(s), 82 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 00:57:40: advogado 0000291-76.2017.5.07.0036 >> Processo com 2 parte(s), 27 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 00:57:42: advogado 0000319-44.2017.5.07.0036 >> Processo com 3 parte(s), 35 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 00:57:43: advogado 0000321-32.2017.5.07.0030 >> Processo com 3 parte(s), 49 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 00:57:45: advogado 0000334-13.2017.5.07.0036 >> Processo com 4 parte(s), 55 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:57:46: advogado 0000366-36.2017.5.07.0030 >> Processo com 3 parte(s), 32 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:57:49: advogado 0000424-89.2015.5.07.0036 >> Processo com 4 parte(s), 153 andamento(s) e 43 expediente(s) atualizado
+14/11/2024 00:57:50: advogado 0000562-40.2016.5.07.0030 >> Processo com 3 parte(s), 61 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 00:57:52: advogado 0000577-88.2016.5.07.0036 >> Processo com 2 parte(s), 27 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:57:53: advogado 0000585-02.2015.5.07.0036 >> Processo com 2 parte(s), 56 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:57:55: advogado 0000599-83.2015.5.07.0036 >> Processo com 7 parte(s), 55 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:57:56: advogado 0000602-56.2015.5.07.0030 >> Processo com 2 parte(s), 59 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:57:56: advogado 0000603-41.2015.5.07.0030 >> Processo já foi verificado recentemente
+14/11/2024 00:57:58: advogado 0000604-26.2015.5.07.0030 >> Processo com 2 parte(s), 38 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 00:58:00: advogado 0000614-36.2016.5.07.0030 >> Processo com 6 parte(s), 174 andamento(s) e 35 expediente(s) atualizado
+14/11/2024 00:58:02: advogado 0000616-22.2015.5.07.0036 >> Processo com 6 parte(s), 40 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:58:03: advogado 0000620-77.2015.5.07.0030 >> Processo com 2 parte(s), 55 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:05: advogado 0000625-81.2015.5.07.0036 >> Processo com 6 parte(s), 39 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:58:06: advogado 0000627-51.2015.5.07.0036 >> Processo com 6 parte(s), 38 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 00:58:07: advogado 0000637-95.2015.5.07.0036 >> Processo com 6 parte(s), 48 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:58:09: advogado 0000642-20.2015.5.07.0036 >> Processo com 3 parte(s), 61 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:58:10: advogado 0000643-05.2015.5.07.0036 >> Processo com 3 parte(s), 37 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 00:58:11: advogado 0000644-87.2015.5.07.0036 >> Processo com 3 parte(s), 41 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 00:58:13: advogado 0000645-90.2015.5.07.0030 >> Processo com 2 parte(s), 56 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:14: advogado 0000646-75.2015.5.07.0030 >> Processo com 2 parte(s), 53 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 00:58:16: advogado 0000666-48.2015.5.07.0036 >> Processo com 7 parte(s), 48 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:17: advogado 0000667-33.2015.5.07.0036 >> Processo com 7 parte(s), 54 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:18: advogado 0000668-18.2015.5.07.0036 >> Processo com 7 parte(s), 49 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:20: advogado 0000671-88.2015.5.07.0030 >> Processo com 2 parte(s), 44 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:58:21: advogado 0000672-73.2015.5.07.0030 >> Processo com 2 parte(s), 11 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 00:58:22: advogado 0000726-39.2015.5.07.0030 >> Processo com 2 parte(s), 46 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:58:23: advogado 0000728-09.2015.5.07.0030 >> Processo com 2 parte(s), 104 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 00:58:25: advogado 0000728-88.2015.5.07.0036 >> Processo com 2 parte(s), 58 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:58:26: advogado 0000729-91.2015.5.07.0030 >> Processo com 2 parte(s), 40 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:58:28: advogado 0000730-58.2015.5.07.0036 >> Processo com 2 parte(s), 48 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:29: advogado 0000730-76.2015.5.07.0030 >> Processo com 2 parte(s), 109 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 00:58:31: advogado 0000731-43.2015.5.07.0036 >> Processo com 2 parte(s), 47 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:58:32: advogado 0000731-61.2015.5.07.0030 >> Processo com 2 parte(s), 63 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:58:34: advogado 0000732-28.2015.5.07.0036 >> Processo com 2 parte(s), 66 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 00:58:35: advogado 0000732-46.2015.5.07.0030 >> Processo com 4 parte(s), 62 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:58:36: advogado 0000733-31.2015.5.07.0030 >> Processo com 2 parte(s), 44 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:58:38: advogado 0000734-95.2015.5.07.0036 >> Processo com 6 parte(s), 60 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:39: advogado 0000735-98.2015.5.07.0030 >> Processo com 2 parte(s), 44 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:58:41: advogado 0000736-83.2015.5.07.0030 >> Processo com 2 parte(s), 44 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:58:42: advogado 0000740-05.2015.5.07.0036 >> Processo com 2 parte(s), 56 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:43: advogado 0000741-87.2015.5.07.0036 >> Processo com 6 parte(s), 40 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:58:45: advogado 0000747-94.2015.5.07.0036 >> Processo com 2 parte(s), 48 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:46: advogado 0000748-79.2015.5.07.0036 >> Processo com 6 parte(s), 49 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 00:58:48: advogado 0000749-64.2015.5.07.0036 >> Processo com 2 parte(s), 61 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 00:58:49: advogado 0000756-74.2015.5.07.0030 >> Processo com 2 parte(s), 76 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:58:51: advogado 0000757-41.2015.5.07.0036 >> Processo com 2 parte(s), 48 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 00:58:52: advogado 0000757-59.2015.5.07.0030 >> Processo com 6 parte(s), 50 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:58:53: advogado 0000758-26.2015.5.07.0036 >> Processo com 2 parte(s), 52 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 00:58:55: advogado 0000758-44.2015.5.07.0030 >> Processo com 2 parte(s), 58 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:58:56: advogado 0000759-11.2015.5.07.0036 >> Processo com 2 parte(s), 62 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:58:57: advogado 0000759-29.2015.5.07.0030 >> Processo com 2 parte(s), 61 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:58:59: advogado 0000760-14.2015.5.07.0030 >> Processo com 2 parte(s), 107 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 00:59:01: advogado 0000761-28.2017.5.07.0030 >> Processo com 2 parte(s), 98 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 00:59:02: advogado 0000761-96.2015.5.07.0030 >> Processo com 2 parte(s), 16 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:59:03: advogado 0000762-81.2015.5.07.0030 >> Processo com 2 parte(s), 18 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:59:04: advogado 0000769-73.2015.5.07.0030 >> Processo com 2 parte(s), 51 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:59:06: advogado 0000770-58.2015.5.07.0030 >> Processo com 2 parte(s), 57 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:59:07: advogado 0000774-95.2015.5.07.0030 >> Processo com 4 parte(s), 88 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 00:59:09: advogado 0000777-32.2015.5.07.0036 >> Processo com 2 parte(s), 64 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 00:59:10: advogado 0000778-17.2015.5.07.0036 >> Processo com 2 parte(s), 46 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 00:59:11: advogado 0000779-02.2015.5.07.0036 >> Processo com 2 parte(s), 40 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 00:59:12: advogado 0000780-84.2015.5.07.0036 >> Processo com 2 parte(s), 39 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 00:59:14: advogado 0000781-69.2015.5.07.0036 >> Processo com 2 parte(s), 56 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:59:16: advogado 0000786-12.2015.5.07.0030 >> Processo com 2 parte(s), 68 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:59:17: advogado 0000787-94.2015.5.07.0030 >> Processo com 2 parte(s), 41 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:59:18: advogado 0000788-79.2015.5.07.0030 >> Processo com 2 parte(s), 60 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:59:19: advogado 0000789-64.2015.5.07.0030 >> Processo com 2 parte(s), 50 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:59:21: advogado 0000790-49.2015.5.07.0030 >> Processo com 2 parte(s), 48 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:59:22: advogado 0000825-88.2015.5.07.0036 >> Processo com 3 parte(s), 52 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:59:24: advogado 0000826-73.2015.5.07.0036 >> Processo com 3 parte(s), 51 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 00:59:25: advogado 0000827-58.2015.5.07.0036 >> Processo com 3 parte(s), 52 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 00:59:26: advogado 0000830-13.2015.5.07.0036 >> Processo com 2 parte(s), 50 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 00:59:28: advogado 0000831-95.2015.5.07.0036 >> Processo com 7 parte(s), 78 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 00:59:30: advogado 0000835-53.2015.5.07.0030 >> Processo com 2 parte(s), 49 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 00:59:32: advogado 0000864-85.2015.5.07.0036 >> Processo com 7 parte(s), 80 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 00:59:35: advogado 0000876-20.2015.5.07.0030 >> Processo com 9 parte(s), 216 andamento(s) e 48 expediente(s) atualizado
+14/11/2024 00:59:38: advogado 0000877-05.2015.5.07.0030 >> Processo com 9 parte(s), 129 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 00:59:39: advogado 0000907-69.2017.5.07.0030 >> Processo com 5 parte(s), 23 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:59:40: advogado 0000915-80.2016.5.07.0030 >> Processo com 2 parte(s), 34 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 00:59:42: advogado 0000933-20.2015.5.07.0036 >> Processo com 3 parte(s), 98 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 00:59:45: advogado 0000934-05.2015.5.07.0036 >> Processo com 3 parte(s), 135 andamento(s) e 34 expediente(s) atualizado
+14/11/2024 00:59:47: advogado 0000935-87.2015.5.07.0036 >> Processo com 3 parte(s), 130 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 00:59:50: advogado 0000936-04.2017.5.07.0036 >> Processo com 4 parte(s), 183 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 00:59:52: advogado 0000936-72.2015.5.07.0036 >> Processo com 3 parte(s), 128 andamento(s) e 30 expediente(s) atualizado
+14/11/2024 00:59:53: advogado 0000938-71.2017.5.07.0036 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:59:53: advogado 0000938-71.2017.5.07.0036 >> Processo com 2 parte(s), 26 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:59:55: advogado 0000940-30.2015.5.07.0030 >> Processo com 3 parte(s), 69 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 00:59:57: advogado 0000941-15.2015.5.07.0030 >> Processo com 3 parte(s), 75 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 00:59:58: advogado 0000942-97.2015.5.07.0030 >> Processo com 3 parte(s), 11 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 00:59:59: advogado 0000943-82.2015.5.07.0030 >> Processo com 3 parte(s), 11 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:00:01: advogado 0000944-49.2015.5.07.0036 >> Processo com 5 parte(s), 75 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:00:03: advogado 0000944-67.2015.5.07.0030 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:00:05: advogado 0000945-52.2015.5.07.0030 >> Processo com 3 parte(s), 52 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:00:08: advogado 0000946-37.2015.5.07.0030 >> Processo com 3 parte(s), 98 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:00:10: advogado 0000947-22.2015.5.07.0030 >> Processo com 3 parte(s), 83 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:00:11: advogado 0000950-85.2017.5.07.0036 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:00:13: advogado 0000958-33.2015.5.07.0036 >> Processo com 3 parte(s), 130 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 01:00:16: advogado 0000964-40.2015.5.07.0036 >> Processo com 3 parte(s), 124 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 01:00:19: advogado 0000965-25.2015.5.07.0036 >> Processo com 3 parte(s), 143 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 01:00:20: advogado 0000967-13.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:00:26: advogado 0000967-92.2015.5.07.0036 >> Processo com 3 parte(s), 123 andamento(s) e 33 expediente(s) atualizado
+14/11/2024 01:00:28: advogado 0000968-77.2015.5.07.0036 >> Processo com 3 parte(s), 118 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:00:31: advogado 0000969-62.2015.5.07.0036 >> Processo com 3 parte(s), 123 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 01:00:33: advogado 0000969-80.2015.5.07.0030 >> Processo com 3 parte(s), 73 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:00:35: advogado 0000970-47.2015.5.07.0036 >> Processo com 3 parte(s), 126 andamento(s) e 30 expediente(s) atualizado
+14/11/2024 01:00:37: advogado 0000970-65.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:00:39: advogado 0000973-20.2015.5.07.0030 >> Processo com 3 parte(s), 91 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:00:40: advogado 0000974-05.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:00:47: advogado 0000974-34.2017.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:00:47: advogado 0000974-34.2017.5.07.0030 >> Processo com 5 parte(s), 260 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:00:49: advogado 0000974-50.2016.5.07.0036 >> Processo com 2 parte(s), 58 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:00:50: advogado 0000975-19.2017.5.07.0030 >> Processo com 2 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:00:51: advogado 0000976-04.2017.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:00:51: advogado 0000976-04.2017.5.07.0030 >> Processo com 2 parte(s), 14 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:00:52: advogado 0000978-71.2017.5.07.0030 >> Processo com 2 parte(s), 21 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:00:55: advogado 0000993-11.2015.5.07.0030 >> Processo com 7 parte(s), 177 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:00:56: advogado 0001000-32.2017.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:00:56: advogado 0001000-32.2017.5.07.0030 >> Processo com 2 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:00:58: advogado 0001002-02.2017.5.07.0030 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:00: advogado 0001021-58.2015.5.07.0036 >> Processo com 3 parte(s), 114 andamento(s) e 27 expediente(s) atualizado
+14/11/2024 01:01:03: advogado 0001022-43.2015.5.07.0036 >> Processo com 3 parte(s), 137 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 01:01:05: advogado 0001023-28.2015.5.07.0036 >> Processo com 3 parte(s), 122 andamento(s) e 34 expediente(s) atualizado
+14/11/2024 01:01:06: advogado 0001029-53.2015.5.07.0030 >> Processo com 3 parte(s), 10 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:07: advogado 0001030-38.2015.5.07.0030 >> Processo com 3 parte(s), 10 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:08: advogado 0001031-23.2015.5.07.0030 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:09: advogado 0001032-08.2015.5.07.0030 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:11: advogado 0001067-13.2016.5.07.0036 >> Processo com 3 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:13: advogado 0001077-91.2015.5.07.0036 >> Processo com 3 parte(s), 104 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:01:15: advogado 0001080-46.2015.5.07.0036 >> Processo com 3 parte(s), 94 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:01:17: advogado 0001081-31.2015.5.07.0036 >> Processo com 3 parte(s), 104 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:01:19: advogado 0001104-92.2015.5.07.0030 >> Processo com 3 parte(s), 89 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:01:21: advogado 0001105-77.2015.5.07.0030 >> Processo com 3 parte(s), 113 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:01:23: advogado 0001107-29.2015.5.07.0036 >> Processo com 3 parte(s), 115 andamento(s) e 30 expediente(s) atualizado
+14/11/2024 01:01:25: advogado 0001107-47.2015.5.07.0030 >> Processo com 3 parte(s), 102 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:01:26: advogado 0001108-32.2015.5.07.0030 >> Processo com 3 parte(s), 16 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:01:28: advogado 0001109-17.2015.5.07.0030 >> Processo com 3 parte(s), 118 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:01:30: advogado 0001128-23.2015.5.07.0030 >> Processo com 5 parte(s), 89 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:01:33: advogado 0001129-08.2015.5.07.0030 >> Processo com 5 parte(s), 120 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:01:35: advogado 0001132-42.2015.5.07.0036 >> Processo com 3 parte(s), 121 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 01:01:36: advogado 0001143-89.2015.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:01:36: advogado 0001143-89.2015.5.07.0030 >> Processo com 3 parte(s), 28 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:01:40: advogado 0001179-50.2014.5.07.0036 >> Processo com 12 parte(s), 204 andamento(s) e 74 expediente(s) atualizado
+14/11/2024 01:01:41: advogado 0001194-82.2015.5.07.0036 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:42: advogado 0001213-09.2015.5.07.0030 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:43: advogado 0001223-53.2015.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:01:43: advogado 0001223-53.2015.5.07.0030 >> Processo com 3 parte(s), 154 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:01:44: advogado 0001253-88.2015.5.07.0030 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:01:44: advogado 0001253-88.2015.5.07.0030 >> Processo com 2 parte(s), 63 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:01:45: advogado 0001292-85.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:46: advogado 0001294-55.2015.5.07.0030 >> Processo com 3 parte(s), 16 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:01:47: advogado 0001295-40.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:48: advogado 0001296-25.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:49: advogado 0001297-10.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:50: advogado 0001299-77.2015.5.07.0030 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:50: Total: 61
+14/11/2024 01:01:50: Total: 61
+14/11/2024 01:01:51: advogado 0000088-23.2017.5.07.0034 >> Processo com 2 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:01:53: advogado 0000089-08.2017.5.07.0034 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:01:53: advogado 0000089-08.2017.5.07.0034 >> Processo com 2 parte(s), 74 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:01:54: advogado 0000102-07.2017.5.07.0034 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:55: advogado 0000106-44.2017.5.07.0034 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:01:55: advogado 0000106-44.2017.5.07.0034 >> Processo com 2 parte(s), 56 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:01:56: advogado 0000413-61.2018.5.07.0034 >> Processo com 2 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:01:57: advogado 0000433-86.2017.5.07.0034 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:01:58: advogado 0000434-08.2016.5.07.0034 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:02:00: advogado 0000486-33.2018.5.07.0034 >> Processo com 2 parte(s), 30 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:02:01: advogado 0000780-90.2015.5.07.0034 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:02:02: advogado 0000792-36.2017.5.07.0034 >> Processo com 3 parte(s), 38 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:02:03: advogado 0000894-24.2018.5.07.0034 >> Processo com 3 parte(s), 55 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:05: advogado 0000895-09.2018.5.07.0034 >> Processo com 3 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:02:06: advogado 0000968-15.2017.5.07.0034 >> Processo com 2 parte(s), 31 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:02:08: advogado 0000992-14.2015.5.07.0034 >> Processo com 2 parte(s), 59 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:02:10: advogado 0001040-02.2017.5.07.0034 >> Processo com 2 parte(s), 95 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:02:12: advogado 0001046-72.2018.5.07.0034 >> Processo com 3 parte(s), 52 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:13: advogado 0001053-69.2015.5.07.0034 >> Processo com 2 parte(s), 31 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:02:15: advogado 0001123-18.2017.5.07.0034 >> Processo com 2 parte(s), 77 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:02:16: advogado 0001133-62.2017.5.07.0034 >> Processo com 2 parte(s), 39 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:02:17: advogado 0001138-84.2017.5.07.0034 >> Processo com 2 parte(s), 27 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:02:18: advogado 0001157-56.2018.5.07.0034 >> Processo com 3 parte(s), 47 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:19: advogado 0001248-66.2019.5.07.0017 >> Processo com 2 parte(s), 30 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:02:21: advogado 0001255-41.2018.5.07.0034 >> Processo com 3 parte(s), 36 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:02:22: advogado 0001260-97.2017.5.07.0034 >> Processo com 2 parte(s), 52 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:02:23: advogado 0001279-06.2017.5.07.0034 >> Processo com 3 parte(s), 36 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:02:25: advogado 0001330-17.2017.5.07.0034 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:02:25: advogado 0001330-17.2017.5.07.0034 >> Processo com 7 parte(s), 83 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:02:26: advogado 0001332-84.2017.5.07.0034 >> Processo com 7 parte(s), 77 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:02:28: advogado 0001364-89.2017.5.07.0034 >> Processo com 7 parte(s), 60 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:29: advogado 0001366-59.2017.5.07.0034 >> Processo com 3 parte(s), 55 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:30: advogado 0001367-44.2017.5.07.0034 >> Processo com 5 parte(s), 34 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:02:32: advogado 0001368-29.2017.5.07.0034 >> Processo com 3 parte(s), 64 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:33: advogado 0001448-56.2018.5.07.0034 >> Processo com 3 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:02:35: advogado 0001576-13.2017.5.07.0034 >> Processo com 3 parte(s), 110 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:02:36: advogado 0001597-86.2017.5.07.0034 >> Processo com 3 parte(s), 41 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:02:38: advogado 0001813-47.2017.5.07.0034 >> Processo com 3 parte(s), 72 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:02:39: advogado 0001829-98.2017.5.07.0034 >> Processo com 3 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:02:41: advogado 0001830-83.2017.5.07.0034 >> Processo com 3 parte(s), 59 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:02:42: advogado 0001889-03.2019.5.07.0034 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:02:42: advogado 0001889-03.2019.5.07.0034 >> Processo com 2 parte(s), 91 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:02:43: advogado 0001925-16.2017.5.07.0034 >> Processo com 3 parte(s), 21 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:02:44: advogado 0001937-30.2017.5.07.0034 >> Processo com 3 parte(s), 68 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:02:46: advogado 0001938-15.2017.5.07.0034 >> Processo com 3 parte(s), 86 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:02:48: advogado 0001939-97.2017.5.07.0034 >> Processo com 3 parte(s), 86 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:02:49: advogado 0001958-06.2017.5.07.0034 >> Processo com 3 parte(s), 63 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:02:51: advogado 0001965-95.2017.5.07.0034 >> Processo com 3 parte(s), 83 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:02:52: advogado 0002131-30.2017.5.07.0034 >> Processo com 3 parte(s), 36 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:02:54: advogado 0002132-15.2017.5.07.0034 >> Processo com 3 parte(s), 63 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:02:55: advogado 0002134-82.2017.5.07.0034 >> Processo com 3 parte(s), 60 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:02:57: advogado 0002136-52.2017.5.07.0034 >> Processo com 3 parte(s), 67 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:02:58: advogado 0002137-37.2017.5.07.0034 >> Processo com 3 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:03:00: advogado 0002138-22.2017.5.07.0034 >> Processo com 3 parte(s), 100 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:03:01: advogado 0002139-07.2017.5.07.0034 >> Processo com 3 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:03:02: advogado 0002177-19.2017.5.07.0034 >> Processo com 3 parte(s), 30 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:03:03: advogado 0002178-04.2017.5.07.0034 >> Processo com 3 parte(s), 28 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:03:05: advogado 0002220-53.2017.5.07.0034 >> Processo com 3 parte(s), 43 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:03:06: advogado 0002222-23.2017.5.07.0034 >> Processo com 7 parte(s), 75 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:03:07: advogado 0002223-08.2017.5.07.0034 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:03:07: advogado 0002223-08.2017.5.07.0034 >> Processo com 3 parte(s), 59 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:08: advogado 0002224-90.2017.5.07.0034 >> Processo com 2 parte(s), 38 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:03:09: advogado 0002652-09.2016.5.07.0034 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:03:11: advogado 0002894-65.2016.5.07.0034 >> Processo com 2 parte(s), 62 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:03:12: advogado 0002911-04.2016.5.07.0034 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:03:13: advogado 0002915-41.2016.5.07.0034 >> Processo com 2 parte(s), 67 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:03:14: Total: 344
+14/11/2024 01:03:14: Total: 344
+14/11/2024 01:03:15: advogado 0000012-58.2023.5.07.0011 >> Processo com 2 parte(s), 39 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:03:16: advogado 0000023-21.2017.5.07.0004 >> Processo com 3 parte(s), 40 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:03:19: advogado 0000025-65.2020.5.07.0010 >> Processo com 3 parte(s), 190 andamento(s) e 35 expediente(s) atualizado
+14/11/2024 01:03:20: advogado 0000028-24.2023.5.07.0007 >> Processo com 5 parte(s), 56 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:03:21: advogado 0000043-15.2017.5.07.0003 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:03:23: advogado 0000061-63.2022.5.07.0002 >> Processo com 4 parte(s), 103 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:03:25: advogado 0000063-97.2017.5.07.0005 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:03:25: advogado 0000063-97.2017.5.07.0005 >> Processo com 2 parte(s), 118 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:26: advogado 0000066-55.2017.5.07.0004 >> Processo com 2 parte(s), 23 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:03:28: advogado 0000086-60.2019.5.07.0009 >> Processo com 2 parte(s), 96 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:03:28: advogado 0000093-96.2017.5.07.0017 >> Processo com 3 parte(s), 9 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:31: advogado 0000104-40.2017.5.07.0013 >> Processo com 3 parte(s), 115 andamento(s) e 34 expediente(s) atualizado
+14/11/2024 01:03:32: advogado 0000112-42.2016.5.07.0016 >> Processo com 2 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:03:33: advogado 0000151-69.2016.5.07.0006 >> Processo com 2 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:03:34: advogado 0000165-29.2016.5.07.0014 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:03:35: advogado 0000176-10.2024.5.07.0004 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:03:37: advogado 0000177-59.2024.5.07.0015 >> Processo com 4 parte(s), 41 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:03:39: advogado 0000179-13.2016.5.07.0014 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:03:39: advogado 0000179-13.2016.5.07.0014 >> Processo com 4 parte(s), 126 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:41: advogado 0000179-60.2023.5.07.0016 >> Processo com 2 parte(s), 81 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:03:42: advogado 0000180-57.2023.5.07.0012 >> Processo com 2 parte(s), 25 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:03:44: advogado 0000192-09.2016.5.07.0015 >> Processo com 2 parte(s), 148 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 01:03:46: advogado 0000201-23.2024.5.07.0004 >> Processo com 3 parte(s), 56 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:03:47: advogado 0000207-78.2016.5.07.0014 >> Processo com 4 parte(s), 26 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:03:48: advogado 0000222-38.2016.5.07.0017 >> Processo com 2 parte(s), 26 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:03:49: advogado 0000252-69.2017.5.07.0007 >> Processo com 3 parte(s), 26 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:03:50: advogado 0000252-82.2016.5.07.0014 >> Processo com 2 parte(s), 17 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:52: advogado 0000257-40.2016.5.07.0003 >> Processo com 3 parte(s), 85 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:03:53: advogado 0000263-11.2016.5.07.0015 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:03:53: advogado 0000263-11.2016.5.07.0015 >> Processo com 2 parte(s), 25 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:55: advogado 0000270-35.2018.5.07.0014 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:03:55: advogado 0000270-35.2018.5.07.0014 >> Processo com 6 parte(s), 180 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:03:56: advogado 0000275-37.2016.5.07.0011 >> Processo com 3 parte(s), 17 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:03:59: advogado 0000276-07.2016.5.07.0016 >> Processo com 5 parte(s), 210 andamento(s) e 61 expediente(s) atualizado
+14/11/2024 01:04:02: advogado 0000277-03.2017.5.07.0001 >> Processo com 3 parte(s), 140 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 01:04:04: advogado 0000277-95.2016.5.07.0014 >> Processo com 3 parte(s), 36 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:04:05: advogado 0000279-09.2018.5.07.0010 >> Processo com 2 parte(s), 55 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:04:06: advogado 0000285-25.2018.5.07.0007 >> Processo com 3 parte(s), 11 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:07: advogado 0000286-95.2018.5.07.0011 >> Processo com 2 parte(s), 20 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:04:08: advogado 0000288-47.2018.5.07.0017 >> Processo com 2 parte(s), 43 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:04:09: advogado 0000290-32.2018.5.07.0012 >> Processo com 2 parte(s), 24 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:04:11: advogado 0000290-38.2018.5.07.0010 >> Processo com 2 parte(s), 43 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:04:12: advogado 0000291-17.2018.5.07.0012 >> Processo com 2 parte(s), 20 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:04:14: advogado 0000292-02.2018.5.07.0012 >> Processo com 2 parte(s), 80 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:04:15: advogado 0000292-26.2023.5.07.0012 >> Processo com 3 parte(s), 53 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:04:16: advogado 0000293-84.2018.5.07.0012 >> Processo com 2 parte(s), 36 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:04:18: advogado 0000295-66.2018.5.07.0008 >> Processo com 2 parte(s), 56 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:04:19: advogado 0000297-09.2018.5.07.0017 >> Processo com 2 parte(s), 28 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:04:21: advogado 0000300-85.2018.5.07.0009 >> Processo com 2 parte(s), 36 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:04:22: advogado 0000303-22.2018.5.07.0015 >> Processo com 2 parte(s), 83 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:04:24: advogado 0000304-40.2018.5.07.0004 >> Processo com 2 parte(s), 37 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:04:25: advogado 0000307-92.2018.5.07.0004 >> Processo com 2 parte(s), 19 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:04:26: advogado 0000308-59.2018.5.07.0010 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:04:26: advogado 0000308-59.2018.5.07.0010 >> Processo com 2 parte(s), 22 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:27: advogado 0000316-81.2019.5.07.0016 >> Processo com 3 parte(s), 53 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:04:29: advogado 0000321-37.2018.5.07.0017 >> Processo com 2 parte(s), 78 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:04:30: advogado 0000321-46.2018.5.07.0014 >> Processo com 2 parte(s), 50 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:04:31: advogado 0000325-04.2018.5.07.0008 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:04:31: advogado 0000325-04.2018.5.07.0008 >> Processo com 2 parte(s), 57 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:32: advogado 0000325-83.2018.5.07.0014 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:04:32: advogado 0000325-83.2018.5.07.0014 >> Processo com 2 parte(s), 29 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:34: advogado 0000330-42.2017.5.07.0014 >> Processo com 3 parte(s), 48 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:04:36: advogado 0000333-64.2016.5.07.0003 >> Processo com 3 parte(s), 70 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:04:37: advogado 0000334-48.2018.5.07.0013 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:04:37: advogado 0000334-48.2018.5.07.0013 >> Processo com 2 parte(s), 30 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:39: advogado 0000339-89.2017.5.07.0018 >> Processo com 5 parte(s), 59 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:04:40: advogado 0000341-40.2018.5.07.0013 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:04:40: advogado 0000341-40.2018.5.07.0013 >> Processo com 2 parte(s), 62 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:41: advogado 0000349-45.2017.5.07.0015 >> Processo com 5 parte(s), 42 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:04:43: advogado 0000351-96.2023.5.07.0017 >> Processo com 5 parte(s), 77 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:04:45: advogado 0000355-48.2018.5.07.0005 >> Processo com 2 parte(s), 55 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:04:46: advogado 0000355-83.2016.5.07.0016 >> Processo com 4 parte(s), 12 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:04:47: advogado 0000371-03.2017.5.07.0016 >> Processo com 3 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:04:48: advogado 0000382-02.2016.5.07.0005 >> Processo com 3 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:04:49: advogado 0000394-98.2016.5.07.0010 >> Processo com 2 parte(s), 41 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:04:51: advogado 0000396-77.2016.5.07.0007 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:04:51: advogado 0000396-77.2016.5.07.0007 >> Processo com 2 parte(s), 123 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:04:52: advogado 0000396-85.2022.5.07.0001 >> Processo com 2 parte(s), 28 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:04:53: advogado 0000399-04.2017.5.07.0005 >> Processo com 2 parte(s), 30 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:04:55: advogado 0000417-10.2017.5.07.0010 >> Processo com 5 parte(s), 51 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:04:56: advogado 0000422-48.2016.5.07.0016 >> Processo com 2 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:04:57: advogado 0000423-32.2017.5.07.0005 >> Processo com 2 parte(s), 35 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:04:59: advogado 0000423-93.2017.5.07.0017 >> Processo com 3 parte(s), 37 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:05:01: advogado 0000424-45.2016.5.07.0007 >> Processo com 6 parte(s), 135 andamento(s) e 35 expediente(s) atualizado
+14/11/2024 01:05:02: advogado 0000425-68.2023.5.07.0012 >> Processo com 2 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:05:04: advogado 0000426-54.2017.5.07.0015 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:05:04: advogado 0000426-54.2017.5.07.0015 >> Processo com 5 parte(s), 74 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:05:05: advogado 0000427-15.2016.5.07.0002 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:05:06: advogado 0000429-05.2023.5.07.0013 >> Processo com 2 parte(s), 56 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:05:08: advogado 0000434-31.2017.5.07.0015 >> Processo com 2 parte(s), 102 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:05:10: advogado 0000442-11.2017.5.07.0014 >> Processo com 3 parte(s), 55 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:05:12: advogado 0000442-20.2017.5.07.0011 >> Processo com 3 parte(s), 53 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:05:13: advogado 0000446-48.2017.5.07.0014 >> Processo com 3 parte(s), 48 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:05:15: advogado 0000447-72.2017.5.07.0001 >> Processo com 3 parte(s), 49 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:05:16: advogado 0000460-28.2018.5.07.0004 >> Processo com 2 parte(s), 36 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:05:17: advogado 0000473-58.2017.5.07.0005 >> Processo com 2 parte(s), 22 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:05:18: advogado 0000480-97.2024.5.07.0007 >> Processo com 2 parte(s), 53 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:05:20: advogado 0000486-95.2019.5.07.0002 >> Processo com 2 parte(s), 28 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:05:21: advogado 0000505-46.2015.5.07.0001 >> Processo com 2 parte(s), 44 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:05:22: advogado 0000511-16.2016.5.07.0002 >> Processo com 3 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:05:23: advogado 0000515-35.2016.5.07.0008 >> Processo com 2 parte(s), 33 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:05:25: advogado 0000525-35.2023.5.07.0008 >> Processo com 4 parte(s), 57 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:05:26: advogado 0000530-85.2017.5.07.0002 >> Processo com 5 parte(s), 27 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:05:28: advogado 0000534-09.2019.5.07.0017 >> Processo com 3 parte(s), 114 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 01:05:30: advogado 0000534-62.2021.5.07.0009 >> Processo com 2 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:05:32: advogado 0000541-14.2017.5.07.0003 >> Processo com 2 parte(s), 64 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:05:33: advogado 0000544-66.2017.5.07.0003 >> Processo com 2 parte(s), 24 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:05:35: advogado 0000555-74.2017.5.07.0010 >> Processo com 5 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:05:36: advogado 0000562-54.2017.5.07.0014 >> Processo com 2 parte(s), 62 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:05:37: advogado 0000569-67.2017.5.07.0007 >> Processo com 2 parte(s), 10 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:05:38: advogado 0000574-95.2017.5.07.0005 >> Processo com 5 parte(s), 23 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:05:39: advogado 0000575-71.2017.5.07.0008 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:05:41: advogado 0000576-71.2017.5.07.0003 >> Processo com 2 parte(s), 28 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:05:42: advogado 0000577-23.2021.5.07.0001 >> Processo com 2 parte(s), 93 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:05:44: advogado 0000583-48.2017.5.07.0008 >> Processo com 3 parte(s), 43 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:05:45: advogado 0000588-76.2017.5.07.0006 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:05:46: advogado 0000591-43.2017.5.07.0002 >> Processo com 3 parte(s), 36 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:05:47: advogado 0000592-77.2017.5.07.0018 >> Processo com 3 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:05:49: advogado 0000593-41.2016.5.07.0004 >> Processo com 2 parte(s), 41 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:05:50: advogado 0000594-80.2017.5.07.0007 >> Processo com 2 parte(s), 21 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:05:52: advogado 0000599-62.2023.5.07.0017 >> Processo com 4 parte(s), 145 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 01:05:53: advogado 0000605-68.2015.5.07.0011 >> Processo com 2 parte(s), 19 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:05:55: advogado 0000608-61.2017.5.07.0008 >> Processo com 2 parte(s), 30 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:05:56: advogado 0000620-47.2023.5.07.0014 >> Processo com 5 parte(s), 53 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:05:58: advogado 0000620-72.2017.5.07.0009 >> Processo com 5 parte(s), 43 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:06:00: advogado 0000626-92.2016.5.07.0016 >> Processo com 3 parte(s), 110 andamento(s) e 38 expediente(s) atualizado
+14/11/2024 01:06:02: advogado 0000635-53.2017.5.07.0005 >> Processo com 2 parte(s), 66 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:06:03: advogado 0000636-10.2023.5.07.0011 >> Processo com 2 parte(s), 26 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:06:05: advogado 0000636-66.2016.5.07.0007 >> Processo com 4 parte(s), 103 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:06:07: advogado 0000639-57.2017.5.07.0016 >> Processo com 2 parte(s), 18 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:06:08: advogado 0000640-78.2017.5.07.0004 >> Processo com 3 parte(s), 23 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:06:09: advogado 0000641-27.2017.5.07.0016 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:06:10: advogado 0000642-48.2017.5.07.0004 >> Processo com 3 parte(s), 31 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:06:11: advogado 0000643-91.2017.5.07.0017 >> Processo com 2 parte(s), 8 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:06:12: advogado 0000646-91.2017.5.07.0002 >> Processo com 3 parte(s), 28 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:06:13: advogado 0000647-62.2020.5.07.0005 >> Processo com 2 parte(s), 28 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:06:15: advogado 0000648-08.2015.5.07.0010 >> Processo com 2 parte(s), 73 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:06:16: advogado 0000648-52.2017.5.07.0005 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:06:17: advogado 0000653-53.2017.5.07.0012 >> Processo com 2 parte(s), 29 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:06:18: advogado 0000657-20.2017.5.07.0003 >> Processo com 2 parte(s), 18 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:06:20: advogado 0000658-22.2019.5.07.0007 >> Processo com 3 parte(s), 29 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:06:22: advogado 0000660-72.2022.5.07.0011 >> Processo com 4 parte(s), 69 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:06:22: advogado 0000661-68.2024.5.07.0017 >> Processo já foi verificado recentemente
+14/11/2024 01:06:23: advogado 0000664-82.2017.5.07.0012 >> Processo com 2 parte(s), 28 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:06:25: advogado 0000676-54.2016.5.07.0005 >> Processo com 2 parte(s), 54 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:06:27: advogado 0000678-72.2017.5.07.0010 >> Processo com 2 parte(s), 114 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:06:28: advogado 0000681-51.2017.5.07.0002 >> Processo com 3 parte(s), 27 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:06:31: advogado 0000683-04.2020.5.07.0006 >> Processo com 3 parte(s), 172 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 01:06:32: advogado 0000686-64.2017.5.07.0005 >> Processo com 6 parte(s), 22 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:06:34: advogado 0000688-10.2017.5.07.0013 >> Processo com 3 parte(s), 50 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:06:35: advogado 0000688-87.2015.5.07.0010 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:06:36: advogado 0000689-85.2023.5.07.0012 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:06:37: advogado 0000693-49.2019.5.07.0017 >> Processo com 2 parte(s), 51 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:06:39: advogado 0000696-54.2021.5.07.0010 >> Processo com 2 parte(s), 38 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:06:40: advogado 0000713-50.2017.5.07.0004 >> Processo com 2 parte(s), 29 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:06:41: advogado 0000714-11.2017.5.07.0012 >> Processo com 2 parte(s), 25 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:06:42: advogado 0000736-90.2017.5.07.0005 >> Processo com 3 parte(s), 21 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:06:45: advogado 0000737-15.2016.5.07.0004 >> Processo com 4 parte(s), 89 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:06:46: advogado 0000745-43.2017.5.07.0008 >> Processo com 2 parte(s), 38 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:06:47: advogado 0000747-13.2017.5.07.0008 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:06:48: advogado 0000749-33.2019.5.07.0001 >> Processo com 2 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:06:49: advogado 0000751-20.2017.5.07.0018 >> Processo com 2 parte(s), 17 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:06:50: advogado 0000753-45.2016.5.07.0011 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:06:53: advogado 0000754-73.2020.5.07.0016 >> Processo com 4 parte(s), 116 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 01:06:54: advogado 0000755-96.2017.5.07.0005 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:06:55: advogado 0000763-39.2023.5.07.0013 >> Processo com 4 parte(s), 74 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:06:59: advogado 0000765-81.2019.5.07.0002 >> Processo com 9 parte(s), 242 andamento(s) e 45 expediente(s) atualizado
+14/11/2024 01:07:00: advogado 0000766-65.2016.5.07.0004 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:07:01: advogado 0000774-72.2017.5.07.0015 >> Processo com 5 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:07:03: advogado 0000775-97.2016.5.07.0013 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:07:03: advogado 0000775-97.2016.5.07.0013 >> Processo com 5 parte(s), 301 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:07:05: advogado 0000787-69.2015.5.07.0006 >> Processo com 2 parte(s), 53 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:07:07: advogado 0000788-46.2018.5.07.0007 >> Processo com 4 parte(s), 99 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:07:09: advogado 0000794-48.2021.5.07.0007 >> Processo com 3 parte(s), 97 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:07:10: advogado 0000809-44.2017.5.07.0011 >> Processo com 2 parte(s), 54 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:07:13: advogado 0000810-18.2015.5.07.0005 >> Processo com 5 parte(s), 97 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 01:07:15: advogado 0000810-79.2019.5.07.0004 >> Processo com 4 parte(s), 91 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:07:16: advogado 0000816-18.2021.5.07.0004 >> Processo com 2 parte(s), 38 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:07:18: advogado 0000820-25.2016.5.07.0006 >> Processo com 3 parte(s), 74 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:07:19: advogado 0000829-12.2015.5.07.0009 >> Processo com 2 parte(s), 47 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:07:20: advogado 0000844-28.2022.5.07.0011 >> Processo com 2 parte(s), 22 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:07:22: advogado 0000845-63.2015.5.07.0009 >> Processo com 3 parte(s), 38 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:07:23: advogado 0000882-25.2017.5.07.0008 >> Processo com 3 parte(s), 11 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:07:25: advogado 0000890-60.2021.5.07.0008 >> Processo com 5 parte(s), 131 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:07:26: advogado 0000892-10.2019.5.07.0005 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:07:27: advogado 0000892-10.2019.5.07.0005 >> Processo com 3 parte(s), 98 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:07:28: advogado 0000897-34.2021.5.07.0014 >> Processo com 5 parte(s), 91 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:07:29: advogado 0000913-61.2016.5.07.0014 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:07:29: advogado 0000913-61.2016.5.07.0014 >> Processo com 5 parte(s), 85 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:07:35: advogado 0000914-29.2019.5.07.0018 >> Processo com 6 parte(s), 406 andamento(s) e 78 expediente(s) atualizado
+14/11/2024 01:07:36: advogado 0000924-40.2023.5.07.0016 >> Processo com 2 parte(s), 65 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:07:38: advogado 0000926-15.2015.5.07.0008 >> Processo com 2 parte(s), 17 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:07:39: advogado 0000931-44.2023.5.07.0012 >> Processo com 2 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:07:41: advogado 0000935-43.2021.5.07.0015 >> Processo com 3 parte(s), 40 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:07:42: advogado 0000940-54.2024.5.07.0017 >> Processo com 3 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:07:43: advogado 0000948-14.2017.5.07.0005 >> Processo com 3 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:07:44: advogado 0000952-13.2015.5.07.0008 >> Processo com 2 parte(s), 15 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:07:45: advogado 0000955-88.2017.5.07.0010 >> Processo com 2 parte(s), 23 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:07:48: advogado 0000959-58.2013.5.07.0013 >> Processo com 5 parte(s), 189 andamento(s) e 45 expediente(s) atualizado
+14/11/2024 01:07:50: advogado 0000968-08.2022.5.07.0012 >> Processo com 3 parte(s), 35 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:07:51: advogado 0000968-14.2017.5.07.0002 >> Processo com 4 parte(s), 68 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:07:54: advogado 0000985-64.2019.5.07.0007 >> Processo com 3 parte(s), 181 andamento(s) e 38 expediente(s) atualizado
+14/11/2024 01:07:55: advogado 0000989-11.2018.5.07.0016 >> Processo com 2 parte(s), 15 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:07:56: advogado 0000989-77.2019.5.07.0015 >> Processo com 3 parte(s), 96 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:07:58: advogado 0000991-30.2017.5.07.0011 >> Processo com 2 parte(s), 61 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:07:59: advogado 0000993-20.2019.5.07.0014 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:07:59: advogado 0000993-20.2019.5.07.0014 >> Processo com 2 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:08:00: advogado 0001000-21.2019.5.07.0011 >> Processo com 2 parte(s), 34 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:08:02: advogado 0001008-12.2021.5.07.0016 >> Processo com 3 parte(s), 160 andamento(s) e 30 expediente(s) atualizado
+14/11/2024 01:08:04: advogado 0001010-15.2017.5.07.0018 >> Processo com 2 parte(s), 49 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:08:05: advogado 0001011-97.2017.5.07.0018 >> Processo com 2 parte(s), 25 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:08:07: advogado 0001019-39.2019.5.07.0007 >> Processo com 4 parte(s), 104 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:08:09: advogado 0001023-54.2016.5.07.0016 >> Processo com 2 parte(s), 94 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:08:11: advogado 0001025-11.2022.5.07.0017 >> Processo com 4 parte(s), 127 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:08:14: advogado 0001027-53.2018.5.07.0006 >> Processo com 12 parte(s), 220 andamento(s) e 61 expediente(s) atualizado
+14/11/2024 01:08:16: advogado 0001031-60.2018.5.07.0016 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:08:16: advogado 0001031-60.2018.5.07.0016 >> Processo com 3 parte(s), 69 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:08:17: advogado 0001039-73.2018.5.07.0004 >> Processo com 4 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:08:18: advogado 0001040-43.2018.5.07.0009 >> Processo com 3 parte(s), 84 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:08:20: advogado 0001040-93.2016.5.07.0015 >> Processo com 2 parte(s), 41 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:08:22: advogado 0001047-74.2023.5.07.0004 >> Processo com 5 parte(s), 104 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:08:22: advogado 0001068-16.2024.5.07.0004 >> Processo já foi verificado recentemente
+14/11/2024 01:08:23: advogado 0001096-53.2016.5.07.0007 >> Processo com 2 parte(s), 23 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:08:25: advogado 0001097-03.2023.5.07.0004 >> Processo com 2 parte(s), 60 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:08:27: advogado 0001122-08.2017.5.07.0010 >> Processo com 8 parte(s), 44 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:08:28: advogado 0001126-45.2017.5.07.0010 >> Processo com 2 parte(s), 36 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:08:29: advogado 0001127-38.2023.5.07.0004 >> Processo com 2 parte(s), 17 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:08:30: advogado 0001133-13.2017.5.07.0018 >> Processo com 2 parte(s), 20 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:08:32: advogado 0001136-72.2015.5.07.0006 >> Processo com 2 parte(s), 70 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:08:33: advogado 0001147-71.2015.5.07.0016 >> Processo com 2 parte(s), 38 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:08:34: advogado 0001154-57.2015.5.07.0018 >> Processo com 2 parte(s), 28 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:08:35: advogado 0001170-17.2015.5.07.0016 >> Processo com 2 parte(s), 32 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:08:37: advogado 0001171-37.2017.5.07.0014 >> Processo com 2 parte(s), 18 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:08:38: advogado 0001172-21.2018.5.07.0003 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:08:38: advogado 0001172-21.2018.5.07.0003 >> Processo com 4 parte(s), 142 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:08:39: advogado 0001181-61.2015.5.07.0011 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:08:40: advogado 0001195-42.2015.5.07.0012 >> Processo com 2 parte(s), 20 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:08:42: advogado 0001215-64.2023.5.07.0008 >> Processo com 2 parte(s), 56 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:08:44: advogado 0001218-07.2023.5.07.0012 >> Processo com 3 parte(s), 90 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:08:46: advogado 0001221-06.2016.5.07.0012 >> Processo com 4 parte(s), 53 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:08:47: advogado 0001227-23.2019.5.07.0007 >> Processo com 3 parte(s), 129 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:08:49: advogado 0001243-44.2019.5.07.0017 >> Processo com 4 parte(s), 19 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:08:50: advogado 0001251-59.2016.5.07.0006 >> Processo com 3 parte(s), 46 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:08:51: advogado 0001254-17.2016.5.07.0005 >> Processo com 3 parte(s), 32 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:08:53: advogado 0001255-21.2015.5.07.0010 >> Processo com 2 parte(s), 28 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:08:54: advogado 0001256-22.2023.5.07.0011 >> Processo com 2 parte(s), 30 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:08:56: advogado 0001264-29.2019.5.07.0014 >> Processo com 2 parte(s), 147 andamento(s) e 34 expediente(s) atualizado
+14/11/2024 01:08:57: advogado 0001267-17.2019.5.07.0003 >> Processo com 3 parte(s), 18 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:09:00: advogado 0001271-07.2017.5.07.0009 >> Processo com 4 parte(s), 134 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:09:01: advogado 0001271-54.2019.5.07.0003 >> Processo com 4 parte(s), 103 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:09:03: advogado 0001282-62.2019.5.07.0010 >> Processo com 4 parte(s), 20 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:09:04: advogado 0001290-50.2016.5.07.0008 >> Processo com 2 parte(s), 12 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:09:05: advogado 0001291-11.2016.5.07.0016 >> Processo com 2 parte(s), 30 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:09:06: advogado 0001315-21.2015.5.07.0001 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:09:08: advogado 0001324-46.2016.5.07.0001 >> Processo com 3 parte(s), 103 andamento(s) e 35 expediente(s) atualizado
+14/11/2024 01:09:09: advogado 0001326-67.2017.5.07.0005 >> Processo com 2 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:09:10: advogado 0001336-57.2016.5.07.0002 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:09:10: advogado 0001336-57.2016.5.07.0002 >> Processo com 2 parte(s), 75 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:09:12: advogado 0001337-97.2016.5.07.0016 >> Processo com 3 parte(s), 12 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:09:13: advogado 0001354-02.2017.5.07.0016 >> Processo com 4 parte(s), 29 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:09:14: advogado 0001356-66.2017.5.07.0017 >> Processo com 4 parte(s), 34 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:09:15: advogado 0001357-51.2017.5.07.0017 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:09:15: advogado 0001357-51.2017.5.07.0017 >> Processo com 2 parte(s), 58 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:09:18: advogado 0001359-64.2016.5.07.0014 >> Processo com 5 parte(s), 158 andamento(s) e 33 expediente(s) atualizado
+14/11/2024 01:09:20: advogado 0001365-46.2017.5.07.0011 >> Processo com 5 parte(s), 97 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:09:21: advogado 0001366-84.2015.5.07.0016 >> Processo com 3 parte(s), 36 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:09:23: advogado 0001370-92.2017.5.07.0003 >> Processo com 4 parte(s), 37 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:09:25: advogado 0001371-41.2017.5.07.0015 >> Processo com 6 parte(s), 170 andamento(s) e 36 expediente(s) atualizado
+14/11/2024 01:09:27: advogado 0001371-77.2017.5.07.0003 >> Processo com 3 parte(s), 22 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:09:29: advogado 0001374-54.2016.5.07.0007 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:09:29: advogado 0001374-54.2016.5.07.0007 >> Processo com 4 parte(s), 161 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:09:30: advogado 0001386-04.2017.5.07.0017 >> Processo com 2 parte(s), 45 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:09:32: advogado 0001386-19.2017.5.07.0012 >> Processo com 5 parte(s), 87 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:09:33: advogado 0001389-77.2017.5.07.0010 >> Processo com 4 parte(s), 55 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:09:35: advogado 0001390-71.2017.5.07.0007 >> Processo com 2 parte(s), 54 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:09:36: advogado 0001395-42.2016.5.07.0003 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:09:38: advogado 0001399-36.2017.5.07.0006 >> Processo com 4 parte(s), 117 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:09:39: advogado 0001401-13.2016.5.07.0015 >> Processo com 3 parte(s), 16 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:09:40: advogado 0001401-97.2017.5.07.0008 >> Processo com 2 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:09:42: advogado 0001403-85.2017.5.07.0002 >> Processo com 2 parte(s), 17 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:09:44: advogado 0001406-29.2016.5.07.0017 >> Processo com 3 parte(s), 110 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 01:09:45: advogado 0001408-13.2017.5.07.0001 >> Processo com 2 parte(s), 16 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:09:47: advogado 0001408-74.2017.5.07.0013 >> Processo com 3 parte(s), 97 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:09:49: advogado 0001410-68.2017.5.07.0005 >> Processo com 7 parte(s), 101 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 01:09:50: advogado 0001430-50.2017.5.07.0008 >> Processo com 2 parte(s), 37 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:09:52: advogado 0001436-09.2016.5.07.0003 >> Processo com 3 parte(s), 96 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:09:54: advogado 0001444-50.2016.5.07.0014 >> Processo com 5 parte(s), 79 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:09:55: advogado 0001446-47.2016.5.07.0005 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:09:57: advogado 0001454-09.2016.5.07.0010 >> Processo com 3 parte(s), 44 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:09:58: advogado 0001484-65.2016.5.07.0003 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:09:59: advogado 0001484-89.2017.5.07.0016 >> Processo com 2 parte(s), 27 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:10:01: advogado 0001514-95.2015.5.07.0016 >> Processo com 3 parte(s), 48 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:10:03: advogado 0001516-09.2017.5.07.0012 >> Processo com 3 parte(s), 54 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:10:04: advogado 0001552-09.2016.5.07.0005 >> Processo com 2 parte(s), 33 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:10:06: advogado 0001569-73.2015.5.07.0007 >> Processo com 2 parte(s), 94 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 01:10:09: advogado 0001575-27.2017.5.07.0002 >> Processo com 8 parte(s), 176 andamento(s) e 33 expediente(s) atualizado
+14/11/2024 01:10:11: advogado 0001585-94.2015.5.07.0017 >> Processo com 2 parte(s), 79 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:10:13: advogado 0001596-91.2017.5.07.0005 >> Processo com 3 parte(s), 59 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:10:13: advogado 0001596-97.2017.5.07.0003 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:14: advogado 0001620-83.2017.5.07.0017 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:10:15: advogado 0001645-26.2017.5.07.0008 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:16: advogado 0001646-17.2017.5.07.0006 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:10:17: advogado 0001655-10.2016.5.07.0007 >> Processo com 2 parte(s), 9 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:10:18: advogado 0001658-28.2017.5.07.0007 >> Processo com 2 parte(s), 17 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:10:19: advogado 0001661-56.2017.5.07.0015 >> Processo com 3 parte(s), 28 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:10:21: advogado 0001663-20.2017.5.07.0017 >> Processo com 3 parte(s), 108 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:10:22: advogado 0001663-78.2016.5.07.0009 >> Processo com 2 parte(s), 15 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:10:24: advogado 0001664-23.2017.5.07.0011 >> Processo com 5 parte(s), 101 andamento(s) e 27 expediente(s) atualizado
+14/11/2024 01:10:25: advogado 0001666-08.2017.5.07.0006 >> Processo com 2 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:27: advogado 0001678-66.2015.5.07.0014 >> Processo com 2 parte(s), 90 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:10:28: advogado 0001679-45.2015.5.07.0016 >> Processo com 2 parte(s), 28 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:10:31: advogado 0001681-81.2016.5.07.0015 >> Processo com 2 parte(s), 132 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 01:10:33: advogado 0001687-31.2015.5.07.0013 >> Processo com 2 parte(s), 157 andamento(s) e 42 expediente(s) atualizado
+14/11/2024 01:10:34: advogado 0001692-65.2015.5.07.0009 >> Processo com 3 parte(s), 30 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:10:36: advogado 0001696-31.2017.5.07.0010 >> Processo com 3 parte(s), 14 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:10:37: advogado 0001715-40.2017.5.07.0009 >> Processo com 3 parte(s), 107 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:10:38: advogado 0001717-29.2016.5.07.0014 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:39: advogado 0001726-27.2016.5.07.0002 >> Processo com 2 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:40: advogado 0001739-21.2015.5.07.0015 >> Processo com 2 parte(s), 23 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:10:42: advogado 0001755-13.2017.5.07.0012 >> Processo com 3 parte(s), 63 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:10:44: advogado 0001767-28.2015.5.07.0002 >> Processo com 3 parte(s), 94 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:10:45: advogado 0001776-53.2016.5.07.0002 >> Processo com 3 parte(s), 24 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:10:46: advogado 0001780-79.2015.5.07.0017 >> Processo com 3 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:47: advogado 0001783-76.2015.5.07.0003 >> Processo com 3 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:10:48: advogado 0001793-34.2017.5.07.0009 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:10:48: advogado 0001793-34.2017.5.07.0009 >> Processo com 2 parte(s), 74 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:10:50: advogado 0001798-62.2017.5.07.0007 >> Processo com 3 parte(s), 127 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:10:52: advogado 0001801-11.2017.5.07.0009 >> Processo com 2 parte(s), 26 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:10:53: advogado 0001806-48.2017.5.07.0004 >> Processo com 2 parte(s), 43 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:10:55: advogado 0001808-68.2015.5.07.0010 >> Processo com 3 parte(s), 104 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 01:10:56: advogado 0001810-88.2017.5.07.0003 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:10:56: advogado 0001810-88.2017.5.07.0003 >> Processo com 2 parte(s), 27 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:10:57: advogado 0001811-73.2017.5.07.0003 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:10:58: advogado 0001813-16.2017.5.07.0012 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:10:58: advogado 0001813-16.2017.5.07.0012 >> Processo com 2 parte(s), 31 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:10:59: advogado 0001815-10.2017.5.07.0004 >> Processo com 2 parte(s), 36 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:11:00: advogado 0001816-68.2017.5.07.0012 >> Processo com 2 parte(s), 19 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:11:01: advogado 0001819-08.2017.5.07.0017 >> Processo com 2 parte(s), 9 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:11:03: advogado 0001819-11.2017.5.07.0016 >> Processo com 2 parte(s), 54 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:11:04: advogado 0001827-85.2017.5.07.0016 >> Processo com 2 parte(s), 20 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:11:07: advogado 0001828-73.2017.5.07.0015 >> Processo com 3 parte(s), 155 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 01:11:08: advogado 0001829-67.2017.5.07.0012 >> Processo com 2 parte(s), 17 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:11:09: advogado 0001842-51.2017.5.07.0017 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:11:09: advogado 0001842-51.2017.5.07.0017 >> Processo com 2 parte(s), 19 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:11:10: advogado 0001846-94.2017.5.07.0015 >> Processo com 2 parte(s), 28 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:11: advogado 0001850-52.2017.5.07.0009 >> Processo com 2 parte(s), 36 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:11:12: advogado 0001852-22.2017.5.07.0009 >> Processo com 2 parte(s), 15 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:11:13: advogado 0001853-77.2017.5.07.0018 >> Processo com 2 parte(s), 12 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:16: advogado 0001854-62.2017.5.07.0018 >> Processo com 4 parte(s), 84 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:11:18: advogado 0001858-82.2015.5.07.0014 >> Processo com 3 parte(s), 96 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:11:19: advogado 0001860-69.2017.5.07.0018 >> Processo com 2 parte(s), 33 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:11:20: advogado 0001862-39.2017.5.07.0018 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:11:21: advogado 0001862-39.2017.5.07.0018 >> Processo com 3 parte(s), 196 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:11:22: advogado 0001869-58.2017.5.07.0009 >> Processo com 2 parte(s), 30 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:23: advogado 0001875-56.2017.5.07.0012 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:11:23: advogado 0001875-56.2017.5.07.0012 >> Processo com 2 parte(s), 110 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:11:24: advogado 0001879-23.2017.5.07.0003 >> Processo com 2 parte(s), 29 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:25: advogado 0001882-36.2017.5.07.0016 >> Processo com 2 parte(s), 14 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:11:27: advogado 0001884-03.2017.5.07.0017 >> Processo com 2 parte(s), 23 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:11:28: advogado 0001884-12.2017.5.07.0014 >> Processo com 2 parte(s), 22 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:11:31: advogado 0001884-45.2017.5.07.0003 >> Processo com 3 parte(s), 147 andamento(s) e 27 expediente(s) atualizado
+14/11/2024 01:11:33: advogado 0001892-57.2015.5.07.0014 >> Processo com 3 parte(s), 68 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:11:35: advogado 0001897-02.2017.5.07.0017 >> Processo com 3 parte(s), 112 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:11:37: advogado 0001900-60.2017.5.07.0015 >> Processo com 4 parte(s), 87 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:11:38: advogado 0001902-16.2015.5.07.0010 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:11:39: advogado 0001915-20.2017.5.07.0018 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:11:39: advogado 0001915-20.2017.5.07.0018 >> Processo com 2 parte(s), 58 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:11:40: advogado 0001958-61.2015.5.07.0006 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:11:41: advogado 0002010-02.2016.5.07.0013 >> Processo com 2 parte(s), 21 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:11:42: advogado 0002012-02.2016.5.07.0003 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:11:43: advogado 0068500-83.2009.5.07.0002 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:11:43: advogado 0068500-83.2009.5.07.0002 >> Processo com 6 parte(s), 103 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:11:43: Total: 150
+14/11/2024 01:11:43: Total: 150
+14/11/2024 01:11:45: advogado 0000011-78.2021.5.07.0032 >> Processo com 2 parte(s), 73 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:11:46: advogado 0000014-30.2021.5.07.0033 >> Processo com 2 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:11:48: advogado 0000024-06.2023.5.07.0033 >> Processo com 2 parte(s), 108 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:11:49: advogado 0000061-07.2021.5.07.0032 >> Processo com 2 parte(s), 40 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:50: advogado 0000079-67.2017.5.07.0032 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:11:51: advogado 0000161-04.2021.5.07.0018 >> Processo com 2 parte(s), 29 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:53: advogado 0000269-80.2024.5.07.0033 >> Processo com 2 parte(s), 86 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:11:54: advogado 0000318-24.2024.5.07.0033 >> Processo com 2 parte(s), 40 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:11:55: advogado 0000322-40.2019.5.07.0032 >> Processo com 2 parte(s), 30 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:11:56: advogado 0000323-22.2019.5.07.0033 >> Processo com 2 parte(s), 29 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:11:58: advogado 0000363-41.2018.5.07.0032 >> Processo com 2 parte(s), 68 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:11:59: advogado 0000374-57.2024.5.07.0033 >> Processo com 2 parte(s), 51 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:12:01: advogado 0000377-20.2021.5.07.0032 >> Processo com 4 parte(s), 77 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:12:02: advogado 0000380-67.2024.5.07.0032 >> Processo com 2 parte(s), 35 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:12:03: advogado 0000389-36.2018.5.07.0033 >> Processo com 4 parte(s), 95 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:12:05: advogado 0000390-21.2018.5.07.0033 >> Processo com 4 parte(s), 48 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:12:06: advogado 0000391-30.2023.5.07.0033 >> Processo com 2 parte(s), 32 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:12:08: advogado 0000408-11.2019.5.07.0032 >> Processo com 4 parte(s), 105 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:12:09: advogado 0000414-73.2023.5.07.0033 >> Processo com 2 parte(s), 23 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:12:10: advogado 0000432-65.2021.5.07.0033 >> Processo com 2 parte(s), 18 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:12:12: advogado 0000442-88.2016.5.07.0032 >> Processo com 3 parte(s), 41 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:12:13: advogado 0000444-84.2018.5.07.0033 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:12:14: advogado 0000450-94.2018.5.07.0032 >> Processo com 2 parte(s), 25 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:12:15: advogado 0000452-54.2024.5.07.0032 >> Processo com 4 parte(s), 31 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:12:16: advogado 0000462-06.2021.5.07.0032 >> Processo com 2 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:12:19: advogado 0000471-96.2020.5.07.0033 >> Processo com 2 parte(s), 110 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:12:20: advogado 0000512-71.2017.5.07.0032 >> Processo com 2 parte(s), 30 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:12:24: advogado 0000525-02.2019.5.07.0032 >> Processo com 5 parte(s), 207 andamento(s) e 38 expediente(s) atualizado
+14/11/2024 01:12:25: advogado 0000528-80.2021.5.07.0033 >> Processo com 2 parte(s), 19 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:12:26: advogado 0000546-72.2019.5.07.0033 >> Processo com 2 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:12:27: advogado 0000587-39.2019.5.07.0033 >> Processo com 2 parte(s), 29 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:12:29: advogado 0000620-97.2017.5.07.0033 >> Processo com 2 parte(s), 49 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:12:30: advogado 0000634-21.2016.5.07.0032 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:12:31: advogado 0000646-95.2017.5.07.0033 >> Processo com 2 parte(s), 18 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:12:32: advogado 0000651-13.2023.5.07.0032 >> Processo com 2 parte(s), 38 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:12:33: advogado 0000651-23.2017.5.07.0032 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:12:35: advogado 0000654-65.2023.5.07.0032 >> Processo com 2 parte(s), 156 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:12:37: advogado 0000659-55.2021.5.07.0033 >> Processo com 2 parte(s), 49 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:12:41: advogado 0000659-58.2021.5.07.0032 >> Processo com 5 parte(s), 240 andamento(s) e 45 expediente(s) atualizado
+14/11/2024 01:12:42: advogado 0000675-41.2023.5.07.0032 >> Processo com 4 parte(s), 48 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:12:44: advogado 0000675-48.2017.5.07.0033 >> Processo com 2 parte(s), 47 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:12:45: advogado 0000678-61.2021.5.07.0033 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:12:46: advogado 0000678-93.2023.5.07.0032 >> Processo com 2 parte(s), 71 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:12:48: advogado 0000679-22.2016.5.07.0033 >> Processo com 4 parte(s), 112 andamento(s) e 38 expediente(s) atualizado
+14/11/2024 01:12:49: advogado 0000729-48.2016.5.07.0033 >> Processo com 2 parte(s), 18 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:12:51: advogado 0000730-36.2016.5.07.0032 >> Processo com 2 parte(s), 80 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:12:53: advogado 0000745-55.2023.5.07.0033 >> Processo com 2 parte(s), 55 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:12:55: advogado 0000753-16.2015.5.07.0032 >> Processo com 2 parte(s), 18 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:12:56: advogado 0000754-90.2018.5.07.0033 >> Processo com 2 parte(s), 64 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 01:12:58: advogado 0000758-57.2023.5.07.0032 >> Processo com 4 parte(s), 70 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:12:59: advogado 0000770-15.2016.5.07.0033 >> Processo com 2 parte(s), 41 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:13:00: advogado 0000780-59.2016.5.07.0033 >> Processo com 2 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:01: advogado 0000788-34.2019.5.07.0032 >> Processo com 2 parte(s), 14 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:13:02: advogado 0000794-41.2019.5.07.0032 >> Processo com 2 parte(s), 20 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:13:05: advogado 0000795-52.2021.5.07.0033 >> Processo com 3 parte(s), 227 andamento(s) e 39 expediente(s) atualizado
+14/11/2024 01:13:08: advogado 0000797-95.2016.5.07.0033 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:13:08: advogado 0000797-95.2016.5.07.0033 >> Processo com 9 parte(s), 542 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:13:10: advogado 0000804-90.2016.5.07.0032 >> Processo com 3 parte(s), 78 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 01:13:12: advogado 0000821-60.2015.5.07.0033 >> Processo com 2 parte(s), 50 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:13:13: advogado 0000832-24.2017.5.07.0032 >> Processo com 3 parte(s), 27 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:13:15: advogado 0000835-10.2016.5.07.0033 >> Processo com 2 parte(s), 77 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 01:13:18: advogado 0000861-03.2019.5.07.0033 >> Processo com 4 parte(s), 186 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 01:13:19: advogado 0000867-81.2017.5.07.0032 >> Processo com 3 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:13:20: advogado 0000886-21.2016.5.07.0033 >> Processo com 2 parte(s), 18 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:13:21: advogado 0000888-88.2016.5.07.0033 >> Processo com 2 parte(s), 28 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:13:22: advogado 0000925-18.2016.5.07.0033 >> Processo com 3 parte(s), 12 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:13:23: advogado 0000939-94.2019.5.07.0033 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:13:25: advogado 0000988-07.2020.5.07.0032 >> Processo com 3 parte(s), 57 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:13:27: advogado 0000990-69.2023.5.07.0032 >> Processo com 4 parte(s), 51 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:13:28: advogado 0001004-97.2016.5.07.0032 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:13:28: advogado 0001004-97.2016.5.07.0032 >> Processo com 2 parte(s), 161 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:13:29: advogado 0001005-74.2019.5.07.0033 >> Processo com 2 parte(s), 18 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:30: advogado 0001016-64.2023.5.07.0033 >> Processo com 2 parte(s), 46 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:13:31: advogado 0001025-39.2017.5.07.0032 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:13:31: advogado 0001025-39.2017.5.07.0032 >> Processo com 2 parte(s), 8 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:13:32: advogado 0001039-44.2022.5.07.0033 >> Processo com 2 parte(s), 27 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:33: advogado 0001040-63.2021.5.07.0033 >> Processo com 3 parte(s), 49 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:13:33: advogado 0001042-28.2024.5.07.0033 >> Processo já foi verificado recentemente
+14/11/2024 01:13:35: advogado 0001051-27.2023.5.07.0032 >> Processo com 2 parte(s), 44 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:36: advogado 0001067-17.2019.5.07.0033 >> Processo com 2 parte(s), 48 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:13:38: advogado 0001138-87.2017.5.07.0033 >> Processo com 2 parte(s), 38 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:13:40: advogado 0001162-21.2017.5.07.0032 >> Processo com 3 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:13:41: advogado 0001215-65.2018.5.07.0032 >> Processo com 3 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:13:42: advogado 0001219-05.2018.5.07.0032 >> Processo com 3 parte(s), 35 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:13:43: advogado 0001236-46.2015.5.07.0032 >> Processo com 2 parte(s), 55 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:13:45: advogado 0001247-57.2024.5.07.0033 >> Processo com 4 parte(s), 25 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:13:46: advogado 0001249-08.2016.5.07.0033 >> Processo com 2 parte(s), 15 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:13:48: advogado 0001261-20.2019.5.07.0032 >> Processo com 4 parte(s), 157 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 01:13:49: advogado 0001269-18.2024.5.07.0033 >> Processo com 2 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:13:51: advogado 0001279-70.2021.5.07.0032 >> Processo com 4 parte(s), 100 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:13:53: advogado 0001288-68.2017.5.07.0033 >> Processo com 5 parte(s), 81 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:13:54: advogado 0001295-94.2016.5.07.0033 >> Processo com 2 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:55: advogado 0001296-79.2016.5.07.0033 >> Processo com 2 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:56: advogado 0001297-64.2016.5.07.0033 >> Processo com 2 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:13:58: advogado 0001327-97.2019.5.07.0032 >> Processo com 4 parte(s), 52 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:14:02: advogado 0001328-82.2019.5.07.0032 >> Processo com 5 parte(s), 351 andamento(s) e 68 expediente(s) atualizado
+14/11/2024 01:14:04: advogado 0001330-54.2016.5.07.0033 >> Processo com 4 parte(s), 113 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:14:05: advogado 0001349-63.2016.5.07.0032 >> Processo com 2 parte(s), 7 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:14:07: advogado 0001361-74.2016.5.07.0033 >> Processo com 2 parte(s), 54 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:14:08: advogado 0001363-13.2017.5.07.0032 >> Processo com 2 parte(s), 62 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:14:10: advogado 0001365-38.2021.5.07.0033 >> Processo com 2 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:14:11: advogado 0001367-11.2021.5.07.0032 >> Processo com 2 parte(s), 39 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:14:12: advogado 0001375-82.2021.5.07.0033 >> Processo com 2 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:14:14: advogado 0001385-08.2016.5.07.0032 >> Processo com 2 parte(s), 52 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:14:15: advogado 0001387-72.2016.5.07.0033 >> Processo com 2 parte(s), 20 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:14:16: advogado 0001390-27.2016.5.07.0033 >> Processo com 3 parte(s), 30 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:14:17: advogado 0001450-92.2019.5.07.0033 >> Processo com 5 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:14:20: advogado 0001464-74.2022.5.07.0032 >> Processo com 3 parte(s), 113 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 01:14:21: advogado 0001515-92.2016.5.07.0033 >> Processo com 2 parte(s), 22 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:14:25: advogado 0001539-52.2018.5.07.0033 >> Processo com 5 parte(s), 235 andamento(s) e 65 expediente(s) atualizado
+14/11/2024 01:14:26: advogado 0001576-45.2019.5.07.0033 >> Processo com 5 parte(s), 94 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:14:28: advogado 0001592-67.2017.5.07.0033 >> Processo com 3 parte(s), 52 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:14:29: advogado 0001612-61.2017.5.07.0032 >> Processo com 3 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:14:31: advogado 0001636-13.2022.5.07.0033 >> Processo com 4 parte(s), 139 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:14:34: advogado 0001645-72.2022.5.07.0033 >> Processo com 4 parte(s), 121 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:14:35: advogado 0001685-30.2017.5.07.0033 >> Processo com 2 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:14:36: advogado 0001693-07.2017.5.07.0033 >> Processo com 3 parte(s), 45 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:14:38: advogado 0001712-16.2017.5.07.0032 >> Processo com 3 parte(s), 77 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:14:39: advogado 0001743-33.2017.5.07.0033 >> Processo com 4 parte(s), 33 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:14:41: advogado 0001816-29.2022.5.07.0033 >> Processo com 4 parte(s), 188 andamento(s) e 41 expediente(s) atualizado
+14/11/2024 01:14:43: advogado 0001862-65.2015.5.07.0032 >> Processo com 3 parte(s), 38 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:14:44: advogado 0001936-22.2015.5.07.0032 >> Processo com 2 parte(s), 8 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:14:45: advogado 0001938-89.2015.5.07.0032 >> Processo com 2 parte(s), 24 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:14:46: advogado 0001968-27.2015.5.07.0032 >> Processo com 2 parte(s), 18 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:14:48: advogado 0001969-12.2015.5.07.0032 >> Processo com 3 parte(s), 96 andamento(s) e 26 expediente(s) atualizado
+14/11/2024 01:14:49: advogado 0001972-64.2015.5.07.0032 >> Processo com 2 parte(s), 10 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:14:51: advogado 0001997-06.2017.5.07.0033 >> Processo com 5 parte(s), 60 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:14:52: advogado 0002003-13.2017.5.07.0033 >> Processo com 2 parte(s), 26 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:14:53: advogado 0002006-68.2017.5.07.0032 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:14:53: advogado 0002006-68.2017.5.07.0032 >> Processo com 3 parte(s), 38 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:14:55: advogado 0002038-73.2017.5.07.0032 >> Processo com 3 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:14:56: advogado 0002039-29.2015.5.07.0032 >> Processo com 3 parte(s), 99 andamento(s) e 40 expediente(s) atualizado
+14/11/2024 01:14:57: advogado 0002044-80.2017.5.07.0032 >> Processo com 3 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:14:59: advogado 0002050-58.2015.5.07.0032 >> Processo com 2 parte(s), 25 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:15:00: advogado 0002052-28.2015.5.07.0032 >> Processo com 2 parte(s), 10 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:15:01: advogado 0002054-27.2017.5.07.0032 >> Processo com 3 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:15:02: advogado 0002054-95.2015.5.07.0032 >> Processo com 2 parte(s), 22 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:15:03: advogado 0002104-53.2017.5.07.0032 >> Processo com 3 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:15:04: advogado 0002106-57.2016.5.07.0032 >> Processo com 2 parte(s), 26 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:05: advogado 0002117-52.2017.5.07.0032 >> Processo com 3 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:15:06: advogado 0002128-18.2016.5.07.0032 >> Processo com 3 parte(s), 37 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:15:07: advogado 0002173-85.2017.5.07.0032 >> Processo com 3 parte(s), 12 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:08: advogado 0002186-84.2017.5.07.0032 >> Processo com 2 parte(s), 18 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:10: advogado 0002230-37.2016.5.07.0033 >> Processo com 2 parte(s), 68 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:15:11: advogado 0002367-19.2016.5.07.0033 >> Processo com 2 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:15:13: advogado 0002385-43.2016.5.07.0032 >> Processo com 3 parte(s), 79 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:15:14: advogado 0002429-62.2016.5.07.0032 >> Processo com 2 parte(s), 33 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:15:15: advogado 0002465-07.2016.5.07.0032 >> Processo com 2 parte(s), 16 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:15:16: advogado 0002469-44.2016.5.07.0032 >> Processo com 2 parte(s), 20 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:15:18: advogado 0002703-23.2016.5.07.0033 >> Processo com 3 parte(s), 109 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 01:15:21: advogado 0002815-89.2016.5.07.0033 >> Processo com 3 parte(s), 139 andamento(s) e 43 expediente(s) atualizado
+14/11/2024 01:15:22: advogado 0002838-38.2016.5.07.0032 >> Processo com 3 parte(s), 28 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:15:23: advogado 0003257-58.2016.5.07.0032 >> Processo com 2 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:24: advogado 0003259-28.2016.5.07.0032 >> Processo com 3 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:24: Total: 19
+14/11/2024 01:15:24: Total: 19
+14/11/2024 01:15:26: advogado 0000020-09.2022.5.07.0031 >> Processo com 2 parte(s), 63 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:15:28: advogado 0000038-93.2023.5.07.0031 >> Processo com 2 parte(s), 53 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:15:30: advogado 0000601-58.2021.5.07.0031 >> Processo com 2 parte(s), 103 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:15:33: advogado 0000603-28.2021.5.07.0031 >> Processo com 2 parte(s), 74 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:15:35: advogado 0000606-80.2021.5.07.0031 >> Processo com 4 parte(s), 86 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:15:39: advogado 0000701-13.2021.5.07.0031 >> Processo com 2 parte(s), 162 andamento(s) e 27 expediente(s) atualizado
+14/11/2024 01:15:42: advogado 0000716-79.2021.5.07.0031 >> Processo com 6 parte(s), 221 andamento(s) e 34 expediente(s) atualizado
+14/11/2024 01:15:44: advogado 0000718-49.2021.5.07.0031 >> Processo com 4 parte(s), 73 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:15:45: advogado 0000729-54.2016.5.07.0031 >> Processo com 3 parte(s), 70 andamento(s) e 30 expediente(s) atualizado
+14/11/2024 01:15:46: advogado 0000862-62.2017.5.07.0031 >> Processo com 3 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:48: advogado 0000971-47.2015.5.07.0031 >> Processo com 2 parte(s), 35 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:15:49: advogado 0000977-83.2017.5.07.0031 >> Processo com 2 parte(s), 36 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:15:50: advogado 0001149-25.2017.5.07.0031 >> Processo com 3 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:15:51: advogado 0001204-29.2024.5.07.0031 >> Processo com 4 parte(s), 9 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:15:54: advogado 0001386-30.2015.5.07.0031 >> Processo com 4 parte(s), 148 andamento(s) e 69 expediente(s) atualizado
+14/11/2024 01:15:56: advogado 0001421-87.2015.5.07.0031 >> Processo com 4 parte(s), 69 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:15:57: advogado 0001428-11.2017.5.07.0031 >> Processo com 4 parte(s), 76 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:15:58: advogado 0001799-72.2017.5.07.0031 >> Processo com 2 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:15:59: advogado 0001915-78.2017.5.07.0031 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:15:59: advogado 0001915-78.2017.5.07.0031 >> Processo com 4 parte(s), 103 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:16:00: Total: 17
+14/11/2024 01:16:00: Total: 17
+14/11/2024 01:16:02: advogado 0000003-63.2023.5.07.0022 >> Processo com 2 parte(s), 104 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:16:04: advogado 0000018-03.2021.5.07.0022 >> Processo com 3 parte(s), 148 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 01:16:06: advogado 0000020-70.2021.5.07.0022 >> Processo com 3 parte(s), 140 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:16:08: advogado 0000021-55.2021.5.07.0022 >> Processo com 3 parte(s), 139 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:16:10: advogado 0000022-40.2021.5.07.0022 >> Processo com 3 parte(s), 152 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 01:16:12: advogado 0000397-41.2021.5.07.0022 >> Processo com 3 parte(s), 69 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:16:13: advogado 0000856-38.2024.5.07.0022 >> Processo com 3 parte(s), 31 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:16:16: advogado 0000888-82.2020.5.07.0022 >> Processo com 4 parte(s), 281 andamento(s) e 53 expediente(s) atualizado
+14/11/2024 01:16:18: advogado 0000906-64.2024.5.07.0022 >> Processo com 3 parte(s), 22 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:16:20: advogado 0000923-42.2020.5.07.0022 >> Processo com 3 parte(s), 116 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:16:21: advogado 0001123-49.2020.5.07.0022 >> Processo com 3 parte(s), 111 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:16:23: advogado 0001124-34.2020.5.07.0022 >> Processo com 3 parte(s), 112 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:16:24: advogado 0001127-86.2020.5.07.0022 >> Processo com 3 parte(s), 111 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:16:27: advogado 0001139-03.2020.5.07.0022 >> Processo com 3 parte(s), 114 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:16:29: advogado 0001140-85.2020.5.07.0022 >> Processo com 3 parte(s), 119 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:16:31: advogado 0001273-30.2020.5.07.0022 >> Processo com 3 parte(s), 46 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:16:33: advogado 0001275-97.2020.5.07.0022 >> Processo com 3 parte(s), 130 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:16:33: Total: 7
+14/11/2024 01:16:33: Total: 7
+14/11/2024 01:16:34: advogado 0000350-03.2017.5.07.0024 >> Processo com 3 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:16:36: advogado 0000386-66.2018.5.07.0038 >> Processo com 2 parte(s), 74 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:16:37: advogado 0000612-50.2017.5.07.0024 >> Processo com 2 parte(s), 24 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:16:39: advogado 0000796-61.2017.5.07.0038 >> Processo com 3 parte(s), 50 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:16:41: advogado 0001213-72.2021.5.07.0038 >> Processo com 2 parte(s), 155 andamento(s) e 23 expediente(s) atualizado
+14/11/2024 01:16:42: advogado 0001299-82.2017.5.07.0038 >> Processo com 2 parte(s), 24 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:16:43: advogado 0001702-93.2017.5.07.0024 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:16:43: advogado 0001702-93.2017.5.07.0024 >> Processo com 3 parte(s), 52 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:16:43: Total: 68
+14/11/2024 01:16:43: Total: 68
+14/11/2024 01:16:44: advogado 0000200-74.2017.5.07.0039 >> Processo com 2 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:16:46: advogado 0000317-31.2018.5.07.0039 >> Processo com 2 parte(s), 65 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:16:47: advogado 0000338-41.2017.5.07.0039 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:16:47: advogado 0000338-41.2017.5.07.0039 >> Processo com 3 parte(s), 196 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:16:49: advogado 0000343-63.2017.5.07.0039 >> Processo com 2 parte(s), 38 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:16:50: advogado 0000345-96.2018.5.07.0039 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:16:50: advogado 0000345-96.2018.5.07.0039 >> Processo com 2 parte(s), 80 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:16:59: advogado 0000494-97.2015.5.07.0039 >> Processo com 10 parte(s), 870 andamento(s) e 284 expediente(s) atualizado
+14/11/2024 01:17:01: advogado 0000759-94.2018.5.07.0039 >> Processo com 2 parte(s), 55 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:17:02: advogado 0000773-15.2017.5.07.0039 >> Processo com 2 parte(s), 19 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:17:04: advogado 0000784-44.2017.5.07.0039 >> Processo com 4 parte(s), 101 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:17:05: advogado 0000814-45.2018.5.07.0039 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:17:05: advogado 0000814-45.2018.5.07.0039 >> Processo com 5 parte(s), 66 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:17:07: advogado 0000819-04.2017.5.07.0039 >> Processo com 2 parte(s), 64 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:17:08: advogado 0000821-71.2017.5.07.0039 >> Processo com 2 parte(s), 63 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:17:09: advogado 0000825-11.2017.5.07.0039 >> Processo com 5 parte(s), 39 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:17:11: advogado 0000902-20.2017.5.07.0039 >> Processo com 3 parte(s), 74 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:17:13: advogado 0000904-87.2017.5.07.0039 >> Processo com 3 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:17:14: advogado 0000917-86.2017.5.07.0039 >> Processo com 5 parte(s), 95 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:17:16: advogado 0000918-71.2017.5.07.0039 >> Processo com 3 parte(s), 58 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:17:18: advogado 0000919-56.2017.5.07.0039 >> Processo com 3 parte(s), 80 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 01:17:19: advogado 0000929-66.2018.5.07.0039 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:17:19: advogado 0000929-66.2018.5.07.0039 >> Processo com 5 parte(s), 79 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:17:20: advogado 0000985-36.2017.5.07.0039 >> Processo com 4 parte(s), 43 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:17:21: advogado 0000991-43.2017.5.07.0039 >> Processo com 4 parte(s), 45 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:17:24: advogado 0000993-13.2017.5.07.0039 >> Processo com 4 parte(s), 213 andamento(s) e 71 expediente(s) atualizado
+14/11/2024 01:17:26: advogado 0001009-64.2017.5.07.0039 >> Processo com 4 parte(s), 62 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 01:17:28: advogado 0001033-92.2017.5.07.0039 >> Processo com 4 parte(s), 72 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:17:29: advogado 0001035-62.2017.5.07.0039 >> Processo com 2 parte(s), 30 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:17:31: advogado 0001036-47.2017.5.07.0039 >> Processo com 5 parte(s), 106 andamento(s) e 28 expediente(s) atualizado
+14/11/2024 01:17:33: advogado 0001039-31.2019.5.07.0039 >> Processo com 5 parte(s), 66 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:17:34: advogado 0001040-84.2017.5.07.0039 >> Processo com 4 parte(s), 96 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:17:36: advogado 0001042-54.2017.5.07.0039 >> Processo com 4 parte(s), 82 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:17:37: advogado 0001044-24.2017.5.07.0039 >> Processo com 4 parte(s), 72 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:17:40: advogado 0001045-09.2017.5.07.0039 >> Processo com 5 parte(s), 122 andamento(s) e 36 expediente(s) atualizado
+14/11/2024 01:17:41: advogado 0001046-91.2017.5.07.0039 >> Processo com 4 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:17:42: advogado 0001047-76.2017.5.07.0039 >> Processo com 4 parte(s), 24 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:17:43: advogado 0001048-61.2017.5.07.0039 >> Processo com 4 parte(s), 26 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:17:44: advogado 0001050-31.2017.5.07.0039 >> Processo com 2 parte(s), 19 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 01:17:46: advogado 0001062-45.2017.5.07.0039 >> Processo com 5 parte(s), 126 andamento(s) e 43 expediente(s) atualizado
+14/11/2024 01:17:47: advogado 0001063-30.2017.5.07.0039 >> Processo com 4 parte(s), 37 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 01:17:49: advogado 0001064-15.2017.5.07.0039 >> Processo com 5 parte(s), 86 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 01:17:52: advogado 0001065-97.2017.5.07.0039 >> Processo com 5 parte(s), 134 andamento(s) e 45 expediente(s) atualizado
+14/11/2024 01:17:53: advogado 0001069-37.2017.5.07.0039 >> Processo com 5 parte(s), 43 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:17:55: advogado 0001070-22.2017.5.07.0039 >> Processo com 5 parte(s), 48 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:17:56: advogado 0001073-74.2017.5.07.0039 >> Processo com 6 parte(s), 72 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:17:58: advogado 0001075-44.2017.5.07.0039 >> Processo com 5 parte(s), 81 andamento(s) e 17 expediente(s) atualizado
+14/11/2024 01:17:59: advogado 0001076-29.2017.5.07.0039 >> Processo com 5 parte(s), 62 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:18:02: advogado 0001077-14.2017.5.07.0039 >> Processo com 6 parte(s), 170 andamento(s) e 50 expediente(s) atualizado
+14/11/2024 01:18:03: advogado 0001078-96.2017.5.07.0039 >> Processo com 4 parte(s), 39 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:18:05: advogado 0001093-65.2017.5.07.0039 >> Processo com 5 parte(s), 25 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:18:06: advogado 0001121-33.2017.5.07.0039 >> Processo com 4 parte(s), 63 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:18:08: advogado 0001122-18.2017.5.07.0039 >> Processo com 4 parte(s), 92 andamento(s) e 20 expediente(s) atualizado
+14/11/2024 01:18:10: advogado 0001123-03.2017.5.07.0039 >> Processo com 4 parte(s), 106 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:18:11: advogado 0001211-41.2017.5.07.0039 >> Processo com 5 parte(s), 64 andamento(s) e 9 expediente(s) atualizado
+14/11/2024 01:18:13: advogado 0001212-26.2017.5.07.0039 >> Processo com 5 parte(s), 46 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:18:14: advogado 0001214-93.2017.5.07.0039 >> Processo com 3 parte(s), 46 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:18:16: advogado 0001236-54.2017.5.07.0039 >> Processo com 5 parte(s), 83 andamento(s) e 15 expediente(s) atualizado
+14/11/2024 01:18:17: advogado 0001239-09.2017.5.07.0039 >> Processo com 5 parte(s), 41 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:18:19: advogado 0001240-91.2017.5.07.0039 >> Processo com 5 parte(s), 63 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 01:18:21: advogado 0001242-61.2017.5.07.0039 >> Processo com 5 parte(s), 179 andamento(s) e 60 expediente(s) atualizado
+14/11/2024 01:18:23: advogado 0001243-46.2017.5.07.0039 >> Processo com 5 parte(s), 77 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 01:18:24: advogado 0001249-53.2017.5.07.0039 >> Processo com 5 parte(s), 42 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:18:26: advogado 0001356-68.2015.5.07.0039 >> Processo com 2 parte(s), 38 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 01:18:28: advogado 0001402-86.2017.5.07.0039 >> Processo com 4 parte(s), 88 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 01:18:29: advogado 0001424-18.2015.5.07.0039 >> Processo com 2 parte(s), 9 andamento(s) e 1 expediente(s) atualizado
+14/11/2024 01:18:30: advogado 0001431-39.2017.5.07.0039 >> Processo com 5 parte(s), 38 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:18:32: advogado 0001432-24.2017.5.07.0039 >> Processo com 5 parte(s), 103 andamento(s) e 30 expediente(s) atualizado
+14/11/2024 01:18:33: advogado 0001438-65.2016.5.07.0039 >> Processo com 3 parte(s), 52 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 01:18:34: advogado 0001636-05.2016.5.07.0039 >> Processo com 2 parte(s), 16 andamento(s) e 3 expediente(s) atualizado
+14/11/2024 01:18:36: advogado 0001872-54.2016.5.07.0039 >> Processo com 3 parte(s), 69 andamento(s) e 22 expediente(s) atualizado
+14/11/2024 01:18:37: advogado 0002062-51.2015.5.07.0039 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:18:40: Entrou na aba acervo do perfil e mapeou 867 processos e teve erro em 0 processos
+14/11/2024 01:18:40: Rodou

@@ -1,0 +1,18 @@
+RN11915@mgmadvocacia@32AC42C9-F109-4544-A24E-1A5E78D03236@linus em 4.05.pje.1.81
+13/11/2024 01:44:49: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mgm12345 vehs05NETi6eAZMoiUWO5C1iLH6yj3Nw "MARCOS GEORGE DE MEDEIROS:83901507434"
+13/11/2024 01:44:52: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:44:52: Perfil advogado e usuário MARCOS GEORGE DE MEDEIROS
+OAB = RN11915 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN11915@mgmadvocacia@32AC42C9-F109-4544-A24E-1A5E78D03236@linus ; Cookies (
+Name = JSESSIONID ; Value = tjZmjIZRHiK5Hw3TK-vigSpp.node04 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+13/11/2024 01:44:58: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 01:45:14: Total: 0
+13/11/2024 01:45:14: Total: 0
+13/11/2024 01:45:31: Total: 0
+13/11/2024 01:45:31: Total: 0
+13/11/2024 01:45:43: Total: 0
+13/11/2024 01:45:43: Total: 0
+13/11/2024 01:45:44: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 01:45:44: Rodou

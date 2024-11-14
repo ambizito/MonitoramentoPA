@@ -1,0 +1,12 @@
+RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark em 8.05.pje.1
+12/11/2024 21:55:34: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm 0.v6c0sjhfx87 "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+12/11/2024 21:55:37: Erro no acesso: Desconhecido
+RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark em 8.05.pje.1
+12/11/2024 21:56:39: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm 0.3hxyfi3gx73 "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+12/11/2024 21:56:42: Erro no acesso: Desconhecido
+RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark em 8.05.pje.1
+12/11/2024 21:57:43: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm 0.syje12ofgq9 "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+12/11/2024 22:14:25: Erro no acesso: Desconhecido

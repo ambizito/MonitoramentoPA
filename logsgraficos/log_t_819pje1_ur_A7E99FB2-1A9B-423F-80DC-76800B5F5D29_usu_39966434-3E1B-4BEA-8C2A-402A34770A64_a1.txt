@@ -1,0 +1,30 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.19.pje.1
+12/11/2024 22:12:26: Acessou https://tjrj.pje.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0.syje12ofgq9 "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+12/11/2024 22:12:28: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 22:12:28: Perfil advogado e usuário RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = Jk49NUM6hBRrHaA0q6XPtIF7Phfj-HSTEXowqGzv.pje-legacy-6494dcd4ff-cgxmp ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODkxNDgsImlhdCI6MTczMTQ2MDM0OCwiYXV0aF90aW1lIjoxNzMxNDYwMzQ4LCJqdGkiOiIyMjYxYmQ0Yy1mMDM1LTRiOWQtOTJlZi0wZWE5YWQyOWYyZmUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiNDg1OWRkY2UtODhkYy00NjUyLWJlZjctZjI1NGZiNGIwMWE5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiI0YWQ0MDNhYy1hOTA2LTRhM2QtOWYwMy1hZGE2N2I3ZDg5NGEiLCJhdF9oYXNoIjoiNWdMMXQ2djZ0NThGOERWMTBPd1I5QSIsImFjciI6IjEiLCJzaWQiOiI0YWQ0MDNhYy1hOTA2LTRhM2QtOWYwMy1hZGE2N2I3ZDg5NGEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlJPRFJJR08gTU9SUVVFQ0hPIERFIENBUlZBTEhPIiwianRyIjoiODE5IiwiSlRSIjoiODE5IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDcyNTcwNjc0MDYiLCJnaXZlbl9uYW1lIjoiUk9EUklHTyBNT1JRVUVDSE8gREUgQ0FSVkFMSE8iLCJlbWFpbCI6InJvZHJpZ29fbW9ycXVlY2hvNTU1QGhvdG1haWwuY29tIn0.UrFSYvhE9iLL_smGzeKHRW3N0_XZ1U_dP_Wz6xz4z7j7WNYHDhl71wPi0pdtHx_b_H3_7_6rIkCtHq7cvMTW8OyRd0QDrTVTMIgKrodvfPH9k5YPpnlQbHL20dmj_thHU1N-Af3nxHOZg8d-8vBRMXBjf-9iPoRt_-omLDwk3kV7M0mducREAQMi1P0E8Rroc9Aa5HCrChy6EwzMJczwyWFI2HQzAbkJcWDrEzfM-2pTO1_q6dIeAm1b89aiRkSvLUXKgP0dqLwgtae6h4I-3ZFnXYKzeOWZR2CN5UvOPavEGsFBHxF0qGT7cSyU43_mLG17XpxFVqjH1l8rljXZ2Q ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-6494dcd4ff-cgxmp:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAADStEmbB9owDxcoAeTVAN8Mp73BA3jJIXk/a3/SInYSpHv6bJ4TBp5ZSPB1x3xSk8sahbgSk9hTR2GxEz8/dNycac9CpKH+/CXuM1c5eVP3vBFovfd3IKYYO+eAtgurNWaSnMQ= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+12/11/2024 22:12:32: Total: 1
+12/11/2024 22:12:33: advogado 0805010-70.2024.8.19.0058 >> Processo com 3 parte(s), 42 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:12:33: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 3 e leu 1
+12/11/2024 22:12:45: Total: 1
+12/11/2024 22:12:45: Total: 1
+12/11/2024 22:12:45: advogado 0913981-63.2023.8.19.0001 >> Processo já foi verificado recentemente
+12/11/2024 22:12:45: Total: 1
+12/11/2024 22:12:45: Total: 1
+12/11/2024 22:12:45: advogado 0804805-53.2024.8.19.0054 >> Processo já foi verificado recentemente
+12/11/2024 22:12:45: Total: 1
+12/11/2024 22:12:45: Total: 1
+12/11/2024 22:12:45: advogado 0805010-70.2024.8.19.0058 >> Processo já foi verificado recentemente
+12/11/2024 22:12:50: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 22:12:54: Rodou

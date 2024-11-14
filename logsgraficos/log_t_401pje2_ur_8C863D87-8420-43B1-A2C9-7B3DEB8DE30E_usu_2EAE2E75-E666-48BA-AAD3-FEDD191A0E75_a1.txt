@@ -1,0 +1,73 @@
+BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 4.01.pje.2
+13/11/2024 13:02:00: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 0.psqj8jvfy0a "DENIS SANTOS DA COSTA:96628898504"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 D8IVMasmC0LmmtPwUcyiyVHPgLVtMJJc "DENIS SANTOS DA COSTA:96628898504"
+13/11/2024 13:02:26: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:02:27: Perfil advogado e usuário DENIS SANTOS DA COSTA
+OAB = BA31210 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners ; Cookies (
+Name = JSESSIONID ; Value = ZOWKJYJx52-2-f9QA6w1_O0Q1tvGZMNL1YoCmFzu.srvpje2goutjb04 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDI1MjIsImlhdCI6MTczMTUxMzcyMywiYXV0aF90aW1lIjoxNzMxNTEzNzIyLCJqdGkiOiIxMTBhYjEwYy0wZjFlLTQ4ODktODljNi04NTA3YWZkZGMyZDkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOTZiYTdlZDYtOTA0OC00ZTQwLTg1YjQtMDJjN2NiMTVmNmIzIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI3ZDBjNGQyNC0xYjQ0LTRhNGYtYTY3MS1kM2Q4ZjQ1Nzk5N2MiLCJhdF9oYXNoIjoidG1QNTRZcEtydGU3LVN4WlBfa1BFQSIsImFjciI6IjEiLCJzaWQiOiI3ZDBjNGQyNC0xYjQ0LTRhNGYtYTY3MS1kM2Q4ZjQ1Nzk5N2MiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsIkpUUiI6IjQwMSIsImp0ciI6IjQwMSIsInByZWZlcnJlZF91c2VybmFtZSI6Ijk2NjI4ODk4NTA0IiwiZ2l2ZW5fbmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsImVtYWlsIjoiZGVuaXNAY2FydmFsaG9lY29zdGFhZHYuY29tIn0.GwncAx6P1Xd_uoODj254kSJjkgm3BPHYxGXP9nLOAIlmIQ34R8aoYWbqyYorbwl4tLyAhcDWg_4esteiEfe9CvFlLclYLYuZj0a98mJxZz7kH_ZrDvHnjh8o2PYauRPx_JP6nScxWUHgVJANwPU53MzSY2-kZHRXtzRVsn9UJLnj1KzNg9whjFNz2WqkrlWnW8yyfl9UMRw_UjNxDZPJVZInualBE8IB5UPLWCXUopXftCwp402-b4Uqn4Q1vu9TtCECqzThGRtQmf4DaDnryqjyIRRskUmQkYqZbcBxJDA0SBxhnucYM3Bt5Yque6xvwPR9GqzELZpJkYS36Mhgjw ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb04:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+13/11/2024 13:07:51: Não acessou a url de pesquisa de expedientes para o OAB BA31210
+html: salvo no mongo.
+13/11/2024 13:08:01: Não acessou a url de pesquisa de expedientes para o OAB BA31210
+html: salvo no mongo.
+13/11/2024 13:08:02: Rodou com falha
+BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 4.01.pje.2
+13/11/2024 13:09:05: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 0.f85dmi9hw3u "DENIS SANTOS DA COSTA:96628898504"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 TgrKTbyrf61bBhcH9P1YPo6HQhVsAQQr "DENIS SANTOS DA COSTA:96628898504"
+13/11/2024 13:09:18: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:09:20: Perfil advogado e usuário DENIS SANTOS DA COSTA
+OAB = BA31210 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners ; Cookies (
+Name = JSESSIONID ; Value = fwXE6B4r_REvO8rPpfIae54ccIYsEG-nvqbf44dZ.srvpje2goutjb10 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDI5NTAsImlhdCI6MTczMTUxNDE1MCwiYXV0aF90aW1lIjoxNzMxNTE0MTUwLCJqdGkiOiI4OWFiYThjZC04NDc5LTRmYTEtOTNhNi0xZTRkZGNkMmUyOTciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOTZiYTdlZDYtOTA0OC00ZTQwLTg1YjQtMDJjN2NiMTVmNmIzIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiJmZWEwNTg4YS1iZmUzLTQ1NzAtOWY2Ny0wZThlYjQzMWM0NzMiLCJhdF9oYXNoIjoiejRuYUNRM3FMbE5NdjMxWGgtOFRGdyIsImFjciI6IjEiLCJzaWQiOiJmZWEwNTg4YS1iZmUzLTQ1NzAtOWY2Ny0wZThlYjQzMWM0NzMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsIkpUUiI6IjQwMSIsImp0ciI6IjQwMSIsInByZWZlcnJlZF91c2VybmFtZSI6Ijk2NjI4ODk4NTA0IiwiZ2l2ZW5fbmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsImVtYWlsIjoiZGVuaXNAY2FydmFsaG9lY29zdGFhZHYuY29tIn0.qeztFJ-AgKoC3_lSqvkHhQVidgMbMx5-e1Xmv5IE7ZsRe8Ac6Nu0aInMTmmRLGUpjNBSNIEPY8QH-ZJdnHfMVCD7EZqf2oo4SDiibiJ4-3OkBKxBDAc870EBKdwKlQlV0xFw_W8pV3LgGhKMwCZnQDBrt5rIAkN0mPPtYQfLE5L3MuyCvxGIT8AS8zdtj8BOiRRhr731loTl0qpZ5hhnuQBEBUybaezRCub8YwvdnLXE0aO6XV1dSKZxYzw7G0MoksK3RUwDde6fBpqOWhogjKE5xKwJkm1W5bPvNjF2V0mKtuwt9S0d0nVLWZ178-pinme2KkD4KtNmzF66K1qD9w ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb10:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+13/11/2024 13:09:23: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 13:13:46: Não acessou a url de pesquisa de expedientes para o OAB BA31210
+html: salvo no mongo.
+13/11/2024 13:13:48: Rodou com falha
+BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 4.01.pje.2
+13/11/2024 13:14:50: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 0.j89qynlxtsc "DENIS SANTOS DA COSTA:96628898504"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 wMdmpOvg56n2SITDNCa8SV7LuSioZeu9 "DENIS SANTOS DA COSTA:96628898504"
+13/11/2024 13:15:43: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:15:44: Perfil advogado e usuário DENIS SANTOS DA COSTA
+OAB = BA31210 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners ; Cookies (
+Name = JSESSIONID ; Value = imKLUUzBCjXVRD47T4rrgmmi8Z8qyFT2Vw0Wu4rU.srvpje2goutjb09 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDMzMTEsImlhdCI6MTczMTUxNDUxMSwiYXV0aF90aW1lIjoxNzMxNTE0NTExLCJqdGkiOiI1NGZjMTljMy03ZGIwLTRlNjgtOWQ2YS1iZmNjNmQxZjFlNWEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOTZiYTdlZDYtOTA0OC00ZTQwLTg1YjQtMDJjN2NiMTVmNmIzIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI3NmM5ZmYxMC1lNjY4LTQ0M2UtYjFhYy1jZTBhNmI2MGQyOWEiLCJhdF9oYXNoIjoiS0JqN2czbXgwYnpZQkEzMEhqVXhIZyIsImFjciI6IjEiLCJzaWQiOiI3NmM5ZmYxMC1lNjY4LTQ0M2UtYjFhYy1jZTBhNmI2MGQyOWEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsIkpUUiI6IjQwMSIsImp0ciI6IjQwMSIsInByZWZlcnJlZF91c2VybmFtZSI6Ijk2NjI4ODk4NTA0IiwiZ2l2ZW5fbmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsImVtYWlsIjoiZGVuaXNAY2FydmFsaG9lY29zdGFhZHYuY29tIn0.ev0C4tkSOxg2HXaGH3xKLrCgU2jalCksL8Kc8U8Erb57o1WOba9TNRbLsIXZQicDqW0BdYDalaY7J05t6mrSxFKiKuPg--pIXwuM6fwTa-mMTmswlIHcuHiHlv5Qk8CyQzdrD2Ol6gNYLRrJcsGGaVAgsw1oCSYcYOfywWApTw1Xw4ADD-O4VExystWhQekuixDBDSaSE0kKUvT2cbkBk6-hO_Sa2YhQBhpCINYQ3HyIIVTUxyK_DF8hhdizBY49j1742DVFpc1nwomXdSrakR-I7n39pPNUDGMlhXk8yF95wetPu3iX19ywnRAoPiO5qJYaAStzVCAitR121wr65Q ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb09:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+13/11/2024 13:15:46: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 13:17:36: Total: 2
+13/11/2024 13:17:36: Total: 2
+13/11/2024 13:17:45: advogado 1006254-61.2020.4.01.3312 >> Processo com 4 parte(s), 55 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 13:17:56: advogado 1011840-74.2023.4.01.3312 >> Processo com 5 parte(s), 44 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 13:17:57: Total: 6
+13/11/2024 13:17:57: Total: 6
+13/11/2024 13:18:50: advogado 0003583-29.2008.4.01.3304 >> Processo com 7 parte(s), 14 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 13:19:38: advogado 1038892-29.2019.4.01.0000 >> Processo com 5 parte(s), 53 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 13:21:35: advogado 0000606-30.2014.4.01.3312 >> Processo com 4 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 13:21:39: advogado 0005361-75.2015.4.01.3308 >> Processo com 4 parte(s), 51 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 13:21:43: advogado 1009073-08.2023.4.01.0000 >> Processo com 7 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 13:21:48: advogado 1020581-48.2023.4.01.0000 >> Processo com 8 parte(s), 30 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 13:21:49: Total: 8
+13/11/2024 13:21:49: Total: 8
+13/11/2024 13:22:03: advogado 1001756-53.2019.4.01.3312 >> Processo com 4 parte(s), 53 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 13:22:11: advogado 0005287-72.2016.4.01.3312 >> Processo com 6 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:22:36: advogado 0000110-98.2014.4.01.3312 >> Processo com 4 parte(s), 41 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 13:22:50: advogado 1005165-03.2020.4.01.3312 >> Processo com 4 parte(s), 52 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 13:23:35: advogado 1003481-43.2020.4.01.3312 >> Processo com 4 parte(s), 41 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 13:23:42: advogado 1006612-26.2020.4.01.3312 >> Processo com 4 parte(s), 53 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 13:25:02: advogado 1002485-11.2021.4.01.3312 >> Processo com 6 parte(s), 52 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 13:26:21: advogado 1002970-74.2022.4.01.3312 >> Processo com 4 parte(s), 49 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 13:28:34: Entrou na aba acervo do perfil e mapeou 16 processos e teve erro em 0 processos
+13/11/2024 13:28:35: Rodou

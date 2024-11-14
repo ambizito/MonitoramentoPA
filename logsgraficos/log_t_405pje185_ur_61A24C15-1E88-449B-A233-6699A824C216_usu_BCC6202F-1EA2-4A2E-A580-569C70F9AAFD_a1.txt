@@ -1,0 +1,19 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 4.05.pje.1.85
+13/11/2024 13:59:41: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 vOv4NzyYGqjtq4aYyVwj1WoHDRK516W4 "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+13/11/2024 14:00:25: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 14:00:25: Perfil advogado e usuário 
+OAB = RN1695 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners ; Cookies (
+Name = JSESSIONID ; Value = Ld4cLlxIi1WZxOJ4XGHHemAR.node02 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3125449119e2ba33612ef5f4cbcd96efce1a9df3a9aa2c9a6f12a32b9f3245df57f6e30efb850e444c4c8510fc6c7615ab23e0dea951a126805de6be9f3fe9006 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3a341b63e3f491759ae4c5324ea108006e1a9df3a9aa2c9a6f12a32b9f3245df5f9bcb554135c0a792ea7729166f43b17ee59ac08849b197bb836e539401f8529 ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3a341b63e3f491759ae4c5324ea108006e1a9df3a9aa2c9a6f12a32b9f3245df5f9bcb554135c0a792ea7729166f43b17ee59ac08849b197bb836e539401f8529 ; Domain = .pje.jfse.jus.br ; Path = /
+)
+13/11/2024 14:00:29: Não acessou a url de pesquisa de expedientes para o OAB RN1695
+html: salvo no mongo.
+13/11/2024 14:02:05: Não acessou a url de pesquisa de expedientes para o OAB RN1695
+html: salvo no mongo.
+13/11/2024 14:02:09: Procuracao: Perfil advogado e usuário  filtrado, não roda.
+13/11/2024 14:03:39: Rodou

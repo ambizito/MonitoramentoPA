@@ -1,0 +1,22 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 4.05.pje.1.85
+12/11/2024 22:52:00: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 1J3hPJbN05gNbXy4bqqMEdTbEZN73rbt "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 22:52:02: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:52:02: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = 2CjSZTyO-uAdhPLiYLuH1U3J.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3e9f2c70c254960fff5ea0f52bec51a2898993212b9cfabb45a45229ae5f9541d8550ad40de8fe9539e872fea31af392ba696e8a846e1e29af82cf97d42bca700 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c33b2efa266a8644eb0e326b444e2ba6c498993212b9cfabb45a45229ae5f9541d1bc8a37d80058ec950278b943cb9a5dce87c5b0bef43307f9ff03085c0d649d7 ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c33b2efa266a8644eb0e326b444e2ba6c498993212b9cfabb45a45229ae5f9541d1bc8a37d80058ec950278b943cb9a5dce87c5b0bef43307f9ff03085c0d649d7 ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:52:04: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:52:09: Total: 0
+12/11/2024 22:52:09: Total: 0
+12/11/2024 22:52:14: Total: 0
+12/11/2024 22:52:14: Total: 0
+12/11/2024 22:52:17: Total: 0
+12/11/2024 22:52:17: Total: 0
+12/11/2024 22:52:19: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:52:19: Rodou

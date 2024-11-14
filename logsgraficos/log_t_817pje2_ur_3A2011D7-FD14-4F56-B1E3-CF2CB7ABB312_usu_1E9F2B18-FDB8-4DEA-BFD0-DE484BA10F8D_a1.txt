@@ -1,0 +1,12 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.17.pje.2
+12/11/2024 20:04:58: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 0.dun2cn2xttf "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 20:05:03: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:05:03: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = rf7kRjX0NtAXJsw6pu3IqneRSKL_K-Ss_98yocpT.keycloak-0 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+12/11/2024 20:05:03: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:05:05: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:05:05: Rodou

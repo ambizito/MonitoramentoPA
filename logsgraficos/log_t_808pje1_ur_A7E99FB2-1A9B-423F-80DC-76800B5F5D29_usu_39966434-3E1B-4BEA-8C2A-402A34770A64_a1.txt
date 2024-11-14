@@ -1,0 +1,21 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.08.pje.1
+13/11/2024 00:11:11: Acessou https://pje.tjes.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0.94grnfcx4m2 "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+13/11/2024 00:11:13: Logou https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:11:13: Perfil advogado e usuário RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.1 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = NaYAbtYpuE6yr_sXWLCqlVAiyg8G_cD2a4_Xv6XA.pje1g-8659f8cdd8-lmsm2 ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTYyNzIsImlhdCI6MTczMTQ2NzQ3MywiYXV0aF90aW1lIjoxNzMxNDY3NDcyLCJqdGkiOiJiZGFkOTY3NS1lMDBhLTQ5Y2QtYjY3Yi1kZGQyMjlmNzc1YjYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTFnLWNsb3VkIiwic3ViIjoiNDg1OWRkY2UtODhkYy00NjUyLWJlZjctZjI1NGZiNGIwMWE5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiI5NzgxNjMzMi0wYzA2LTRlYWUtODJhYS1kNzRjNTUxYzAwNWMiLCJhdF9oYXNoIjoiMkU5Sy1UWVNjYmluS21VbE1Fa3hQdyIsImFjciI6IjEiLCJzaWQiOiI5NzgxNjMzMi0wYzA2LTRlYWUtODJhYS1kNzRjNTUxYzAwNWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlJPRFJJR08gTU9SUVVFQ0hPIERFIENBUlZBTEhPIiwianRyIjoiODA4IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDcyNTcwNjc0MDYiLCJnaXZlbl9uYW1lIjoiUk9EUklHTyBNT1JRVUVDSE8gREUgQ0FSVkFMSE8iLCJlbWFpbCI6InJvZHJpZ29fbW9ycXVlY2hvNTU1QGhvdG1haWwuY29tIn0.0SaL23uvqn6n3i7ZttE1yHPa7OpWRaEP2LtZVOkjX41IEsKXaEPW7H10Z5nq2KDvEEcnl6e-HOcNZdiES7okbZEKBPtDIOXHGqk0HT8rP_MC-yFl3B7be3APDCEYC_S0PTMzuTxmU2IN4TZmLT-e9jQK6_W_6Rka3BvOye85dhWCSmuNO8kz-VZiXfmaH_4cHBu762lFH5Z8SZuMSi-gELoJ8qC8NjMrFaI1AdmE7abDYxqy7Q1AJ5P0_u9dYzi8P-0iptDnCzT6qXJJ8PMook_OTIfdUIxWlKPddG-5CrM0tWNYjJlKKAU7SUPAXyPs460qRRzWWzjLSX8JPInYbw ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = PJE-TJES-1G-StickySessionRule ; Value = "pje1g-8659f8cdd8-lmsm2:pje-tjes-1g" ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = AWSALB ; Value = s6btxcvp8Kax8dyhXz6r5/VEgzVkm6D4yKr86TB87m5ejkErlEZV0CxVY/ZME3FAeTkK92ON9ULtWCCcerxMjNoe5rrQ/sW3Ow+WVFZgVRVEscOs44asLotxuqjZ ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = s6btxcvp8Kax8dyhXz6r5/VEgzVkm6D4yKr86TB87m5ejkErlEZV0CxVY/ZME3FAeTkK92ON9ULtWCCcerxMjNoe5rrQ/sW3Ow+WVFZgVRVEscOs44asLotxuqjZ ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 0b66da9c-106d-4fe4-b2b2-b9d77acbecca ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+13/11/2024 00:11:16: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:11:26: Total: 1
+13/11/2024 00:11:26: Total: 1
+13/11/2024 00:11:27: advogado 5006556-47.2024.8.08.0048 >> Processo com 2 parte(s), 67 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 00:11:34: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:11:37: Rodou

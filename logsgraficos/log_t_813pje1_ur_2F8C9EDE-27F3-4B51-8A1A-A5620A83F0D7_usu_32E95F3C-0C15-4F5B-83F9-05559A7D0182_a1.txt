@@ -1,0 +1,29 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.13.pje.1
+13/11/2024 13:24:38: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.fq8yi721i5p "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+13/11/2024 13:26:00: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:26:00: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = YX-DXqDLqymv1bI0XcnAtdMW2wFIFGUwWVIc4RMi.pje1g-poapp24.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDM4ODEsImlhdCI6MTczMTUxNTA4MSwiYXV0aF90aW1lIjoxNzMxNTE1MDgxLCJqdGkiOiIyMmZkM2FlZS05MmFjLTQ3MTMtOWVhNi1mOTM0OTNkMTUzN2IiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiMDdiMzFjNDMtYWI1Yy00NDMxLWE2MWUtM2M2M2RhNjhmMzg2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiIzNjA4MzZlMC03MDUwLTRmY2MtYTU5NC0wZDY5NGM5Mzc1ZWEiLCJhdF9oYXNoIjoiMTlVZFdIa0hXUGVRYzF2aEJjVzQ5dyIsImFjciI6IjEiLCJzaWQiOiIzNjA4MzZlMC03MDUwLTRmY2MtYTU5NC0wZDY5NGM5Mzc1ZWEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlBSSVNDSUxMQSBMSUNJQSBGRUlUT1NBIERFIEFSQVVKTyBDQUJSQUwiLCJKVFIiOiI4MTMiLCJqdHIiOiI4MTMiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTU3Nzk4ODQxMSIsImdpdmVuX25hbWUiOiJQUklTQ0lMTEEgTElDSUEgRkVJVE9TQSBERSBBUkFVSk8gQ0FCUkFMIiwiZW1haWwiOiJwcmlzY2lsbGFAZ2NwYWR2b2dhZG9zLmNvbS5iciJ9.q2LhxflacfWmgbmfQalBgIWyO7Xi5z5aNReexVD_6Vv_ZmZaWvGlf2eB7wLNp83iQxWZCYtLozmEsBcjZQoYxDGPcd85zEt4aZ5OAsP4fKPWn1teKeo244s8p2XY_jExV03awxKb73vMLeOcf0K8GCZ8YrIXtRu66jKMDzgg5EogPYVyEJNHJyXRZSFUKUK1tPeCpjm2DbdFC78SWcwe7iTXlU3oHfQv91ILOHPyhbfY2a7QZ4NHqW_SiBkat90XnCmn_O9Vo3wUiGnNYzG0DAtMCQWGlIDaEa7GEu84tLNkgnmT0aVOZHE1UE8x4AZEsH9iqOSysVghgDRYodQCnw ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp24:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+13/11/2024 13:26:03: Total: 1
+13/11/2024 13:26:14: advogado 5110566-79.2024.8.13.0024 >> Processo com 25 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:26:15: Entrou na aba expediente do perfil para as categorias Respondidos nos últimos 10 dias e detectou 1 e leu 0
+13/11/2024 13:26:36: Total: 1
+13/11/2024 13:26:36: advogado 5110566-79.2024.8.13.0024 >> Processo já foi verificado recentemente
+13/11/2024 13:26:37: Total: 1
+13/11/2024 13:26:37: advogado 5110566-79.2024.8.13.0024 >> Processo já foi verificado recentemente
+13/11/2024 13:26:38: Total: 1
+13/11/2024 13:26:46: advogado 5136329-24.2020.8.13.0024 >> Processo com 4 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:26:47: Total: 1
+13/11/2024 13:26:47: advogado 5110566-79.2024.8.13.0024 >> Processo já foi verificado recentemente
+13/11/2024 13:26:48: Total: 1
+13/11/2024 13:26:48: advogado 5136329-24.2020.8.13.0024 >> Processo já foi verificado recentemente
+13/11/2024 13:26:49: Total: 1
+13/11/2024 13:26:54: advogado 5025825-51.2020.8.13.0702 >> Processo com 7 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:29:04: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+13/11/2024 13:29:06: Rodou

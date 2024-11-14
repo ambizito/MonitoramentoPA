@@ -1,0 +1,13 @@
+05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.11.pje.1
+14/11/2024 00:56:24: Acessou https://pje.tjmt.jus.br/pje/login.seam
+14/11/2024 00:56:26: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 00:56:26: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = 05479437410 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = 05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = p__6ARaKvNcwKXihZvI7AEZsSmHr2-9Uw7sLOjKM.pjev2-vra-0027 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_82BE979C689AB22EC3986BD7AC8E6088_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_82BE979C689AB22EC3986BD7AC8E6088_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+14/11/2024 00:56:26: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 00:56:29: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+14/11/2024 00:56:29: Rodou

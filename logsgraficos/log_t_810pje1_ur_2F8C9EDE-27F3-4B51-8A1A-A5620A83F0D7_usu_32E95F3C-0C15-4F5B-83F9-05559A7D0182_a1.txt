@@ -1,0 +1,17 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.10.pje.1
+12/11/2024 20:35:04: Acessou https://pje.tjma.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.dun2cn2xttf "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 20:35:07: Logou https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:35:07: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.1 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = epUQXlsX2uyyna1EjQ26W9n93QmC1bACYza8hSDT.pje-web-ss-19 ; Domain = pje.tjma.jus.br ; Path = /pje
+Name = f114a8f9c4f449e1102a9ca02ac30508 ; Value = 95baa1a4032eea2b075b79a0aeb9dbfc ; Domain = pje.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjma.jus.br ; Path = /
+)
+12/11/2024 20:35:07: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:35:09: Total: 2
+12/11/2024 20:35:09: Total: 2
+12/11/2024 20:35:09: advogado 0812459-81.2019.8.10.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:35:09: advogado 0844628-58.2018.8.10.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:35:10: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 20:35:10: Rodou

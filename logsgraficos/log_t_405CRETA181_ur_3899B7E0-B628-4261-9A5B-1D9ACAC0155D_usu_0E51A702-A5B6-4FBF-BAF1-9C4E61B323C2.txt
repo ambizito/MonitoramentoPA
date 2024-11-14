@@ -1,0 +1,4 @@
+RN19439@samoaadv@3899B7E0-B628-4261-9A5B-1D9ACAC0155D@bezos em 4.05.CRETA.1.81
+13/11/2024 19:31:01: Acessou https://wwws.jfce.jus.br/cretace/login.wsp
+13/11/2024 19:31:35: Erro no acesso: Senha invalida
+html: salvo no mongo.

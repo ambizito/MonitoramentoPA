@@ -1,0 +1,19 @@
+RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners em 8.19.pje.1
+12/11/2024 22:16:00: Acessou https://tjrj.pje.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar lrasobrado2024 0.fuxov3048r8 "MARIA LUIZA DE ARAUJO LIMA LEITE:04973354414"
+12/11/2024 22:16:07: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 22:16:07: Perfil advogado e usuário MARIA LUIZA DE ARAUJO LIMA LEITE
+OAB = RN6623 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners ; Cookies (
+Name = JSESSIONID ; Value = H-0MI7rGSXyxM7cOrUilzRsmmTz4MHk3br0Ru6CU.pje-legacy-6494dcd4ff-vfxf6 ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODkzNjcsImlhdCI6MTczMTQ2MDU2NywiYXV0aF90aW1lIjoxNzMxNDYwNTY3LCJqdGkiOiIyNDkxODU1Yy01OGQ5LTRjMTctOWRhYi01MDdhZjAwZjEyZTkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiZDE4MWM5YjctZmNmZS00ZGEyLThhY2EtM2E4ZmYzMTUzNzQ2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiJhZmUwZTY0YS02MTE3LTQ0MGQtOTJiMy0xZTYzNDYxNjFlZWIiLCJhdF9oYXNoIjoiLTMtejdweVk0RENORGtlUEpvWmJRUSIsImFjciI6IjEiLCJzaWQiOiJhZmUwZTY0YS02MTE3LTQ0MGQtOTJiMy0xZTYzNDYxNjFlZWIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BUklBIExVSVpBIERFIEFSQVVKTyBMSU1BIExFSVRFIiwianRyIjoiODE5IiwiSlRSIjoiODE5IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ5NzMzNTQ0MTQiLCJnaXZlbl9uYW1lIjoiTUFSSUEgTFVJWkEgREUgQVJBVUpPIExJTUEgTEVJVEUiLCJlbWFpbCI6Im1sbEBsZWl0ZXJpdmFzLmNvbS5iciJ9.mOkNHi_XheqOXSknEjtCIMoJZ4jP7V8tiLU2ktfE_RZSl3-33gPRK7rxobKMe5-hzc0HXOZiYsLR-D_ArZ4rhscrb-q92JOfSP97Czn3jfFJY62RpTTy3sxW_yP7lIGY9rQrGuxVukS5B7y6YjCD0wCxM49-KSdauHtfRHQ4hzzteSUTOhZ5QMfkNhEMraiYGzs4zjgW2C0uCEcgqAtkL9c6xB-VLj_zNNg7cMsoL5wfGoZnnHWWgzpjtFJG-_z2XAVJBxY5vNVO4eMV5T0LYn77HaD3fgR4wzM8nnJdLtVX7AONckChz35FL6XpV0LWcK9FHSSpTjV9cBnORHySaQ ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-6494dcd4ff-vfxf6:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAAAxHMSt7M4FmkQdMa7PPNnwYt+hSrCM6fhy6JZqyDF+mdNHk6vzqTBGjcqJKSMSvvWq9EO4Ua7ditlgPrccQIbAqD02dDivrp4aRdErkPuZ23Q3XMxlfZv6je7ceI+yMdbMAio= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+12/11/2024 22:16:07: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:16:15: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:16:15: Rodou

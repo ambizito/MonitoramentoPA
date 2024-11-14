@@ -1,0 +1,32 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.10.pje.2
+12/11/2024 21:46:00: Acessou https://pje2.tjma.jus.br/pje2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.94grnfcx4m2 "HERMANO GADELHA DE SA46843574491"
+12/11/2024 21:46:03: Logou https://pje2.tjma.jus.br/pje2g/Painel/painel_usuario/advogado.seam
+12/11/2024 21:46:03: Perfil advogado e usuário HERMANO GADELHA DE SA
+OAB = PB8463 ; URL = https://pje2.tjma.jus.br/pje2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.2 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = lu3Nh_D_1pXU-4-geoP5RHL-uSGZc7S7ZMyqJPrw.pje-web-ss-2 ; Domain = pje2.tjma.jus.br ; Path = /pje2g
+Name = 1800063213a96c7b454057e9861b120b ; Value = fc11fbe17eb0805f945f0821127ed20a ; Domain = pje2.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2.tjma.jus.br ; Path = /
+)
+12/11/2024 21:46:03: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 21:46:08: Total: 14
+12/11/2024 21:46:08: Total: 14
+12/11/2024 21:46:15: advogado 0820110-65.2022.8.10.0000 >> Processo com 3 parte(s), 127 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:46:15: advogado 0826976-86.2022.8.10.0001 >> Processo já foi verificado recentemente
+12/11/2024 21:46:20: advogado 0800029-91.2022.8.10.0066 >> Processo com 4 parte(s), 103 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 21:46:20: advogado 0810368-79.2023.8.10.0000 >> Processo já foi verificado recentemente
+12/11/2024 21:46:23: advogado 0810437-14.2023.8.10.0000 >> Processo com 3 parte(s), 59 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:46:28: advogado 0821979-29.2023.8.10.0000 >> Processo com 4 parte(s), 63 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:46:33: advogado 0801979-25.2022.8.10.0038 >> Processo com 6 parte(s), 143 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 21:46:38: advogado 0825637-61.2023.8.10.0000 >> Processo com 5 parte(s), 43 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:46:43: advogado 0828269-60.2023.8.10.0000 >> Processo com 4 parte(s), 56 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:46:48: advogado 0815524-64.2019.8.10.0040 >> Processo com 6 parte(s), 131 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 21:46:51: advogado 0841273-64.2023.8.10.0001 >> Processo com 3 parte(s), 116 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:46:56: advogado 0858918-39.2022.8.10.0001 >> Processo com 5 parte(s), 92 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:46:59: advogado 0820285-02.2023.8.10.0040 >> Processo com 4 parte(s), 47 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 21:47:03: advogado 0829058-36.2023.8.10.0040 >> Processo com 4 parte(s), 69 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 21:47:04: Total: 1
+12/11/2024 21:47:04: Total: 1
+12/11/2024 21:47:04: advogado 0800402-41.2024.8.10.0038 >> Processo já foi verificado recentemente
+12/11/2024 21:47:06: Entrou na aba acervo do perfil e mapeou 15 processos e teve erro em 0 processos
+12/11/2024 21:47:06: Rodou

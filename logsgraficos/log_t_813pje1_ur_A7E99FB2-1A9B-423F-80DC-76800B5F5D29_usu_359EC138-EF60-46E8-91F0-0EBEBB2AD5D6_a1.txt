@@ -1,0 +1,17 @@
+RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.13.pje.1
+12/11/2024 20:28:31: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar coque123 0.syje12ofgq9 "LUCAS RODRIGUES DE MEDEIROS COQUE:09935787486"
+12/11/2024 20:28:33: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:28:33: Perfil advogado e usuário LUCAS RODRIGUES DE MEDEIROS COQUE
+OAB = RN14395 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = -LqE5rFlGs1qe-YByUTTwE-Q4iP4eDrFmUxlaGVW.pje1g-poapp78.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODI5MTIsImlhdCI6MTczMTQ1NDExMiwiYXV0aF90aW1lIjoxNzMxNDU0MTEyLCJqdGkiOiI1MWI1NjE1NC0wNjY0LTQzMzUtOGU4Ni1iYTU1MDhjOTg2YjMiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiNjQ3Mzk5MWEtNjU3OC00ODc3LWEzZTAtNTczYTg0OGFlNTQwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiI0NGFkMzJkOC1iOTQwLTQxMTktYTA4YS1lMGE3YWI1YTRhYzIiLCJhdF9oYXNoIjoiY1BRNFRNbHd6WjBELVRYWWdlQ3BVdyIsImFjciI6IjEiLCJzaWQiOiI0NGFkMzJkOC1iOTQwLTQxMTktYTA4YS1lMGE3YWI1YTRhYzIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxVQ0FTIFJPRFJJR1VFUyBERSBNRURFSVJPUyBDT1FVRSIsIkpUUiI6IjgxMyIsImp0ciI6IjgxMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA5OTM1Nzg3NDg2IiwiZ2l2ZW5fbmFtZSI6IkxVQ0FTIFJPRFJJR1VFUyBERSBNRURFSVJPUyBDT1FVRSIsImVtYWlsIjoibHVjYXNyY29xdWVAZ21haWwuY29tIn0.GlwYUyN8yQxjDr_dTEyh1praHq13qRPfqcE8Nz17WZH0qK91DMksv5SY3u0aQ9-au6265FqC_02gjmDgQwUHWRvxHB85qNkw97s7heb9MkG3g_gOeSB9ouZwekKXp8cwGjQpCS8BmDb_Nk6rTNdK8oBPLVhGx_5u37ulEWXBRvLLuJzC5_XA4OWrXYttizL47wQXuAYMABV_6LJicccDYH9qXGawPKdyGnbIROT1Nv6KSnAPjWRCRXgub60cCKXnNLozDMxAtUo_y-smCTjWVBWQLS-3qQW-YP0D1ADolyEoLs51EqS_Bz7Za9Sn8lIY8g6t-ZBYDshCXweHfFoApw ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp78:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+12/11/2024 20:28:34: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:28:37: Total: 1
+12/11/2024 20:28:38: advogado 5004541-16.2022.8.13.0702 >> Processo com 2 parte(s), 59 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:28:40: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:28:40: Rodou

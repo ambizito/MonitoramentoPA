@@ -1,0 +1,22 @@
+01062490452@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 8.19.pje.1
+14/11/2024 08:37:13: Acessou https://tjrj.pje.jus.br/1g/login.seam
+14/11/2024 08:37:14: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+14/11/2024 08:37:14: Perfil advogado e usuário MARIO MATOS JUNIOR
+OAB = 01062490452 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = 01062490452@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = kK24xvdRG4rIwZdG8Ketqxy5eNODMOnKFj6k01e5.pje-legacy-65c56f6f8-7bc9m ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTMwMzMsImlhdCI6MTczMTU4NDIzMywiYXV0aF90aW1lIjoxNzMxNTg0MjMzLCJqdGkiOiIxZjcyNWEzNS1mNjM3LTRkODktOGQyNy01MzJjMTNjZDkwM2UiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiYjRjZmUyMjItNWI1ZS00NzQ1LWEwMjUtY2Y2NzBhZmU4YzdhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiI5YmJlNWRjNi1lYmVhLTQ2MzUtODUwMC0zZTZhY2JlOWM5MTIiLCJhdF9oYXNoIjoiWThpNWJnSkkzc01Wc1dEUThPbWgyQSIsImFjciI6IjEiLCJzaWQiOiI5YmJlNWRjNi1lYmVhLTQ2MzUtODUwMC0zZTZhY2JlOWM5MTIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJNQVJJTyBNQVRPUyBKVU5JT1IiLCJqdHIiOiI4MTkiLCJKVFIiOiI4MTkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwMTA2MjQ5MDQ1MiIsImdpdmVuX25hbWUiOiJNQVJJTyBNQVRPUyBKVU5JT1IiLCJlbWFpbCI6ImFkdm1hcmlvanVuaW9yODFAZ21haWwuY29tIn0.VpB4rzQNSWatO3hI7mPJuRJRmT2p8zWsqXGt4hPFlUQ_98V85V4YFRBRx813LIbWr5WT5GbT6GmILf9kYKReDQi6LbdjzKOSYGJcFW1Pk4QxawwU6bx3kRJ-cGrzB15jW5ncKljSxiIqoB94dB9CL0UqqQZYrm6V4Vy8Nz5mwW-6yqJ_YOSuxUo8PPawYSaR9LcdZwj6WvAY4s0nM_3M29-bPTqpl0o6DxWfuv1bu2TmTIolOMGTo2uzEJo4T51uAiBpc4PRBLOTcOPOUTQWI33lXLxgV3B3hJMSe3VHrrtaqN1unwPNQGBt8KVKMhNKTEGsYo8zThwl7KA6Cl2rcA ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-65c56f6f8-7bc9m:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAACM9PHu/fQZunpKnw2ZYhAa2hImc75jJMXj3oOT3r9LrTyzr1JPUHRWWxJhNFUPpWkxJWBvuvoWQJ2DT62ewgkuZEmOlLMF9SvSGX/QCgL6IsqRziLpi4soGtq2hGC7t6El4aQ= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+14/11/2024 08:37:14: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 08:37:20: Total: 2
+14/11/2024 08:37:20: Total: 2
+14/11/2024 08:37:20: advogado 0815961-07.2023.8.19.0011 >> Processo já foi verificado recentemente
+14/11/2024 08:37:20: advogado 0813974-33.2023.8.19.0011 >> Processo já foi verificado recentemente
+14/11/2024 08:37:21: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+14/11/2024 08:37:21: Rodou

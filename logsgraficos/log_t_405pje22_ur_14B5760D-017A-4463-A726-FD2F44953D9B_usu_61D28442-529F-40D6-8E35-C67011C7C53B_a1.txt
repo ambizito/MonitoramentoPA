@@ -1,0 +1,33 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 4.05.pje2.2
+12/11/2024 22:46:33: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 0.94grnfcx4m2 "GERSON SANTINI:01529424160"
+12/11/2024 22:46:37: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:46:37: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = 0s5GF3shpzBPiXMDM8iz---zEKVmOHrqFYSgU0at.sg-119-nj4dv ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTExOTUsImlhdCI6MTczMTQ2MjM5NiwiYXV0aF90aW1lIjoxNzMxNDYyMzk1LCJqdGkiOiIwMDQzNzI5OC1kYWZlLTQ3OGItODI2YS0zNWZlMTQ2Njg1OGYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiZjc0OTg5ZTMtMzZjMi00NjM0LWJhYmItNTE0NDgxMTNiZDQ2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiJlMjMzYWQ4Ni03NjQzLTRiNGMtOWZhOC1iYjE5YzVlMDA2ZmEiLCJhdF9oYXNoIjoiZWZqM1pMZ1BMZ3ZzdUhMX1NoMi1jUSIsImFjciI6IjEiLCJzaWQiOiJlMjMzYWQ4Ni03NjQzLTRiNGMtOWZhOC1iYjE5YzVlMDA2ZmEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkdFUlNPTiBTQU5USU5JIiwiSlRSIjoiNDA1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDE1Mjk0MjQxNjAiLCJnaXZlbl9uYW1lIjoiR0VSU09OIFNBTlRJTkkiLCJlbWFpbCI6ImdlcnNvbnNhbnRpbmlAaG90bWFpbC5jb20ifQ.JX6d8FHt1T5TctpdRb2o80steDNn19YzUFFD9TA_IpsHCG9-j4SBlS-mnq1Y3DNCuWLfCaSYxlZlccjH5koYG-BCrBoLhVrw-VdwTnwrz0XJTO_7W8yZxPjrJydhgkh_myaChs1HqTPtyq_GZDGf6NpHvJm0LnPrmjPbrcKslgUT4acdsLZm9xfQIpL8rOomPcIPVOreDxWuDjtzl309ORQ6KVpAnO0aBKME2wrAcEwdBIvni_dXBbDTdxzmK8Zr5qoliLYJ2F4ZzRg1qEiW89sRmPmE-EXFuzMZ1wrl9ECu1VAUxJt-RfS3UUFuraMOps4ybrkmJ2pLarALJX9mmQ ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 98cd00aa48a73a8145360589f6d5fc28 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_4_sn_6C1BB777F5A1D304C83A06EF9D42965C_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_4_sn_6C1BB777F5A1D304C83A06EF9D42965C_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+12/11/2024 22:46:37: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:46:39: Total: 14
+12/11/2024 22:46:39: Total: 14
+12/11/2024 22:46:42: advogado 0009136-93.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 22:46:45: advogado 0011863-88.2023.4.05.8400 >> Processo com 5 parte(s), 50 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 22:46:47: advogado 0009270-23.2022.4.05.8400 >> Processo com 6 parte(s), 49 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:46:50: advogado 0009651-31.2022.4.05.8400 >> Processo com 9 parte(s), 52 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:46:52: advogado 0006225-11.2022.4.05.8400 >> Processo com 8 parte(s), 50 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:46:55: advogado 0000212-41.2022.4.05.9840 >> Processo com 4 parte(s), 32 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:46:57: advogado 0002250-78.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 22:47:00: advogado 0001118-83.2022.4.05.8400 >> Processo com 4 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 22:47:02: advogado 0006931-28.2021.4.05.8400 >> Processo com 4 parte(s), 46 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:47:05: advogado 0005162-82.2021.4.05.8400 >> Processo com 5 parte(s), 51 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 22:47:08: advogado 0002862-50.2021.4.05.8400 >> Processo com 7 parte(s), 52 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 22:47:10: advogado 0000387-24.2021.4.05.8400 >> Processo com 3 parte(s), 52 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 22:47:12: advogado 0000162-04.2021.4.05.8400 >> Processo com 3 parte(s), 55 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 22:47:15: advogado 0000261-71.2021.4.05.8400 >> Processo com 4 parte(s), 47 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:47:15: Entrou na aba acervo do perfil e mapeou 14 processos e teve erro em 0 processos
+12/11/2024 22:47:15: Rodou

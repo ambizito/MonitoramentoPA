@@ -1,0 +1,16 @@
+RN18530@nayaracarvalho@4C61336A-3B56-43D3-A393-7929AC5A37BE@mark em 8.07.pje.2
+12/11/2024 20:38:37: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 0.u8fridwxh5i "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 20:38:40: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:38:40: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN18530 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN18530@nayaracarvalho@4C61336A-3B56-43D3-A393-7929AC5A37BE@mark ; Cookies (
+Name = JSESSIONID ; Value = nXFxsxDIOCHyqxJKE31H1-xX5-Ns1pOqXgs0lauE.hc-zdu154:pje2i-internet-zdu154 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 20:38:40: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:38:42: Total: 1
+12/11/2024 20:38:42: Total: 1
+12/11/2024 20:38:44: advogado 0732065-35.2023.8.07.0000 >> Processo com 4 parte(s), 59 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:38:45: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:38:45: Rodou

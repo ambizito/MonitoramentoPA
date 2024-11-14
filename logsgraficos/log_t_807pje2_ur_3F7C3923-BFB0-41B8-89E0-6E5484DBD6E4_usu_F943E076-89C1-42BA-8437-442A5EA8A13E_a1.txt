@@ -1,0 +1,14 @@
+PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 8.07.pje.2
+13/11/2024 00:24:55: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 2314lando 0.syje12ofgq9 "landoaldo falcao de sousa neto:05505553400 2024-09-02 12:06:18"
+13/11/2024 00:24:57: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:24:57: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO
+OAB = PB13544 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = AcApmfGElBX7Zjr7r9Q31wtQ9pUws1U7TJ1O2IPq.hc-zdu156:pje2i-internet-zdu156 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+13/11/2024 00:24:58: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:25:17: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:25:17: Procuracao: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO filtrado, não roda.
+13/11/2024 00:25:17: Rodou

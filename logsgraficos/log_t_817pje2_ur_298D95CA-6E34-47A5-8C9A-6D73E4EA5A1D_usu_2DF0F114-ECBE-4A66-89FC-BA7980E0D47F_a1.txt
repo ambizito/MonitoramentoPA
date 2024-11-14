@@ -1,0 +1,12 @@
+PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.17.pje.2
+13/11/2024 00:04:51: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.eg3g0ewx4kw "GABRIEL GALVAO DANTAS TENORIO:05146428409"
+13/11/2024 00:04:54: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+13/11/2024 00:04:54: Perfil advogado e usuário GABRIEL GALVAO DANTAS TENORIO
+OAB = PB15800 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = A_llln2v7Yephcg1qmTTv11kyptbefK0D7Vr1k7C.keycloak-5 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+13/11/2024 00:04:55: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:05:05: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:05:05: Rodou

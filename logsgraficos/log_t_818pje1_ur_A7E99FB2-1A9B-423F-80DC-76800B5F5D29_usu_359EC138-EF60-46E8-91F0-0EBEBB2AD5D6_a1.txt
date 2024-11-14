@@ -1,0 +1,23 @@
+RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.18.pje.1
+12/11/2024 21:16:59: Acessou https://pje.tjpi.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar coque123 0.psqj8jvfy0a "LUCAS RODRIGUES DE MEDEIROS COQUE:09935787486"
+12/11/2024 21:17:03: Logou https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 21:17:03: Perfil advogado e usuário LUCAS RODRIGUES DE MEDEIROS COQUE
+OAB = RN14395 ; URL = https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.18.pje.1 ; usuarioId = RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = 2Gd2AFlDQBFuWhNxO58kIatSQTRyZwfXf_pa1EhF.pje-legacy-7b74846fb9-574p2 ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = X-Oracle-BMC-LBS-Route ; Value = 4822fad9c9bb8c830577f47c88b362e58ffcba2927da03a11a2ff120e313e9b656c62fd8a7c42ae875fc2e911339b9015e22eeca98f3db2e53d010cf ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODU4MjIsImlhdCI6MTczMTQ1NzAyMiwiYXV0aF90aW1lIjoxNzMxNDU3MDIyLCJqdGkiOiIwYWYwMTMxMy1kOGRkLTQyOGMtOTdmMy1lNWNhNmExODkwOWQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBpLTFnLW5ldyIsInN1YiI6IjY0NzM5OTFhLTY1NzgtNDg3Ny1hM2UwLTU3M2E4NDhhZTU0MCIsInR5cCI6IklEIiwiYXpwIjoicGplLXRqcGktMWctbmV3Iiwic2Vzc2lvbl9zdGF0ZSI6Ijg5NTIxOTdjLTRhZTItNDViZi04YjQ3LTcyMTM4MzU1ZjJkNSIsImF0X2hhc2giOiIwYUxBQXVBWWxJb3FmRU5VMzloUVJnIiwiYWNyIjoiMSIsInNpZCI6Ijg5NTIxOTdjLTRhZTItNDViZi04YjQ3LTcyMTM4MzU1ZjJkNSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiTFVDQVMgUk9EUklHVUVTIERFIE1FREVJUk9TIENPUVVFIiwiSlRSIjoiODE4IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDk5MzU3ODc0ODYiLCJnaXZlbl9uYW1lIjoiTFVDQVMgUk9EUklHVUVTIERFIE1FREVJUk9TIENPUVVFIiwiZW1haWwiOiJsdWNhc3Jjb3F1ZUBnbWFpbC5jb20ifQ.EwdLi7gJ9E1iBSOX3FdIk1_gXQRwpVyUJ2nyVJA2B36NLdao6ZeeeSeXrBBo6LfQrzZijGfZBK11agTnHFtJBg8W2UaVSCzGr6CkIeBFksCo9lQUx-XUwtd3MlD51zQ95nU_SY5NA2xA2jY0WijuzxGYqrW65AUzUPzqHfsGk1nGSBT4zX55XOYSLmGf4KPNRRlOnLHBm5h_wlhxJoCzk4Q2o3sDQHKoGM-PKERtbSgB7prN_ErDcCS6g4QBOeB4eReojrKsvpBny6xFRHHC8xSiNIROYZtMxQMq3OW89heCqzr0NQmOz-j7jZECB8NGYXUTJ0jGD3RkZOmr7hXF-w ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = PJE-TJPI-1G-StickySessionRule ; Value = "pje-legacy-7b74846fb9-574p2:pje-tjpi-1g" ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /
+)
+12/11/2024 21:17:04: Total: 1
+12/11/2024 21:17:07: advogado 0800628-70.2024.8.18.0152 >> Processo com 2 parte(s), 51 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:17:08: Total: 1
+12/11/2024 21:17:10: advogado 0800628-70.2024.8.18.0152 >> Processo com 2 parte(s), 51 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:17:10: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Sem prazo e detectou 3 e leu 0
+12/11/2024 21:17:14: Total: 1
+12/11/2024 21:17:14: Total: 1
+12/11/2024 21:17:14: advogado 0800628-70.2024.8.18.0152 >> Processo já foi verificado recentemente
+12/11/2024 21:17:15: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 21:17:15: Rodou

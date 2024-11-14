@@ -1,0 +1,18 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.22.pje.2
+12/11/2024 22:52:30: Acessou https://pjesg.tjro.jus.br/login.seam
+12/11/2024 22:52:32: Logou https://pjesg.tjro.jus.br/Painel/painel_usuario/advogado.seam
+12/11/2024 22:52:32: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pjesg.tjro.jus.br/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.22.pje.2 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = f5avraaaaaaaaaaaaaaaa_session_ ; Value = IDJELCHKBLDADACNNLPHAHDBBOIIAKABIJPBCCNJELOJBOBGGCMONIMGEMKMOGKFOKODOANPEGLJKFPOIFHAKHJLBAADEEEELLKNNIGBDEKFDLBIGEADMNKBKFNIMHCP ; Domain = pjesg.tjro.jus.br ; Path = /Painel/painel_usuario/advogado.seam
+Name = JSESSIONID ; Value = 37e993567adc05d072d1be5629b7973a~mDDiW1etryKpvYAFr4pAuvDCzeH09jzj_o8Lyy-b.pjesg-688d8cc6-blhts ; Domain = pjesg.tjro.jus.br ; Path = /
+Name = TS01051b55 ; Value = 015c8d2173e65c15646c7a06e4081b752b183bd1f043cc3b63699f5762fdd6b63764991315a62d9676779ddcc99c1053fde795badfefc34097168723fab6da25157e9dd494b12ae381bba22341f02806804ebbd5835cdb4d95223686744b1fd61360343df13d05166f7a283eb4e241cea03e3eff9e ; Domain = pjesg.tjro.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pjesg.tjro.jus.br ; Path = /
+)
+12/11/2024 22:52:33: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:52:35: Total: 3
+12/11/2024 22:52:35: Total: 3
+12/11/2024 22:52:35: advogado 7000793-18.2016.8.22.0017 >> Processo já foi verificado recentemente
+12/11/2024 22:52:35: advogado 0812046-67.2021.8.22.0000 >> Processo já foi verificado recentemente
+12/11/2024 22:52:35: advogado 7010428-82.2018.8.22.0007 >> Processo já foi verificado recentemente
+12/11/2024 22:52:36: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 22:52:36: Rodou

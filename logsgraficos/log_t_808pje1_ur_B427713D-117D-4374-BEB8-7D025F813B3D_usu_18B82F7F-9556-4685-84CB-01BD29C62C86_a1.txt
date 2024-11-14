@@ -1,0 +1,18 @@
+MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos em 8.08.pje.1
+12/11/2024 20:09:15: Acessou https://pje.tjes.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 190803 0.qe6y4asf81q "LAERCIO SERRA DA SILVA:94463654300"
+12/11/2024 20:09:18: Logou https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:09:18: Perfil advogado e usuário LAERCIO SERRA DA SILVA
+OAB = MA9447 ; URL = https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.1 ; usuarioId = MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos ; Cookies (
+Name = JSESSIONID ; Value = 7S6kTe3VkYDDHMpm0IosfYFvneycDhDH3l1LCacO.pje1g-8659f8cdd8-9rl29 ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE3NTcsImlhdCI6MTczMTQ1Mjk1NywiYXV0aF90aW1lIjoxNzMxNDUyOTU3LCJqdGkiOiJhNjNiZDllYi0xMWQxLTRlM2ItYWY4MS00MDg0MTZlMDIxYzYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTFnLWNsb3VkIiwic3ViIjoiZWUwMzVkNzQtZDEwYy00MDg3LWExZTUtODFkMjc0ZDI3N2YwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiI1NDBlZmU0Yi0zODllLTQ5ZjctYWJhNS00ZTU3MzhhMDI0NTEiLCJhdF9oYXNoIjoiemZJOUpBaThZdDR2RjNwV1pQSGlpQSIsImFjciI6IjEiLCJzaWQiOiI1NDBlZmU0Yi0zODllLTQ5ZjctYWJhNS00ZTU3MzhhMDI0NTEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxBRVJDSU8gU0VSUkEgREEgU0lMVkEiLCJqdHIiOiI4MDgiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiI5NDQ2MzY1NDMwMCIsImdpdmVuX25hbWUiOiJMQUVSQ0lPIFNFUlJBIERBIFNJTFZBIiwiZW1haWwiOiJsYWVyY2lvanVzQHlhaG9vLmNvbS5iciJ9.Lgl9Ju7DXQvDE4LwufzmwPcJDbsM827pwKkY4owo4znW0GtwGIEGXBX5rMGQPZHgAvRE-vento-4CsxxB0hJq5YLGnj3hS4xWhuB8P5jRs45mvrWvrjRWNt2g-AOJhwmu6p-ay-3x9V8qC4fwywVI3EWZ4Njv-RQUZ3JZGO42cw_5iTD7Rv83zR-ouGGC61EwUsKyBOOrqnWF6AgRRltT7fObWo620cTgc0yThKTlZSPTqziyHastSNJ-Na_Nub5WQooFt6AxpHC4itQiUjlVuPtN1XYQYA_GmfyMxYSmKDzO0kcl_-9zNgkhngg537bfTA2JqSWEEbXLK-ZudT-wA ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = PJE-TJES-1G-StickySessionRule ; Value = "pje1g-8659f8cdd8-9rl29:pje-tjes-1g" ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = AWSALB ; Value = K3DNupUT9etyiqD0m+grwAFGsLLRieIVO8zTV7WRdsWYGcl4MxAkplJlrdleensjVz9LVJ718mlgW4UIXnaH0VBiRZOzIEHxfzixtnc/6e/vJxagAn5v54r/7PYO ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = K3DNupUT9etyiqD0m+grwAFGsLLRieIVO8zTV7WRdsWYGcl4MxAkplJlrdleensjVz9LVJ718mlgW4UIXnaH0VBiRZOzIEHxfzixtnc/6e/vJxagAn5v54r/7PYO ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 2cda300c-e896-49e6-98eb-684a10832868 ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+12/11/2024 20:09:18: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:09:20: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:09:20: Rodou

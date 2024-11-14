@@ -1,0 +1,22 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 4.05.pje.1.85
+12/11/2024 22:47:52: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 afgHiALQpKctK6SU0CBu1MvNHOoDtiLk "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 22:47:55: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:47:55: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = 0bAeiUEvMT1d5oFcPAJmA-AB.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3069d84e4a16a792abdd6f9c0ad7080386d46a12f7320ff3645106421e83369c4cd4fad115575769cce9a90f65a2b9939fc91a6efaf8e050e111dce40ebfa8fd7 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c35de94983124b70f212112ed68caba77c6d46a12f7320ff3645106421e83369c445eba154c5514819a02afaeb9124064b99efe4ef4928a0f36ba2434110599d0f ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c35de94983124b70f212112ed68caba77c6d46a12f7320ff3645106421e83369c445eba154c5514819a02afaeb9124064b99efe4ef4928a0f36ba2434110599d0f ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:47:57: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:48:03: Total: 0
+12/11/2024 22:48:03: Total: 0
+12/11/2024 22:48:08: Total: 0
+12/11/2024 22:48:08: Total: 0
+12/11/2024 22:48:11: Total: 0
+12/11/2024 22:48:11: Total: 0
+12/11/2024 22:48:12: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:48:12: Rodou

@@ -1,0 +1,20 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.03.pje.1
+12/11/2024 22:09:58: Acessou https://pje.tjap.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.94grnfcx4m2 "HERMANO GADELHA DE SA46843574491"
+12/11/2024 22:10:02: Logou https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 22:10:02: Perfil advogado e usuário HERMANO GADELHA DE SA
+OAB = PB8463 ; URL = https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.03.pje.1 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = qW_xIlRcF2bNZZxxrCLg0pDSALdP3_5Atwyq-d-C.prd-1g-5f4d9c4447-grjh2 ; Domain = pje.tjap.jus.br ; Path = /1g
+Name = INGRESSCOOKIE ; Value = 725e07ecb5c02ae5 ; Domain = pje.tjap.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjap.jus.br ; Path = /
+)
+12/11/2024 22:10:03: Total: 1
+12/11/2024 22:10:09: advogado 6010157-29.2024.8.03.0001 >> Processo com 2 parte(s), 63 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:10:09: Total: 1
+12/11/2024 22:10:14: advogado 6010157-29.2024.8.03.0001 >> Processo com 2 parte(s), 63 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:10:14: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo Judiciário - pendente de resposta e detectou 3 e leu 1
+12/11/2024 22:10:17: Total: 1
+12/11/2024 22:10:17: Total: 1
+12/11/2024 22:10:17: advogado 6010157-29.2024.8.03.0001 >> Processo já foi verificado recentemente
+12/11/2024 22:10:22: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 22:10:22: Rodou

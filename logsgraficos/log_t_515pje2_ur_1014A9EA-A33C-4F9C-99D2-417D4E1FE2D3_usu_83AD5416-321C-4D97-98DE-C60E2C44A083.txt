@@ -1,0 +1,7 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.15.pje.2
+12/11/2024 21:57:36: Acessou https://pje.trt15.jus.br/segundograu/login.seam
+12/11/2024 21:57:39: Logou https://pje.trt15.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 21:57:40: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+12/11/2024 21:57:42: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 21:57:44: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 21:57:44: Rodou

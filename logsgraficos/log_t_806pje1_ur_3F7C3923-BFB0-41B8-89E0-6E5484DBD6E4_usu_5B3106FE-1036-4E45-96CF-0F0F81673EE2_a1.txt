@@ -1,0 +1,15 @@
+PB18750@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 8.06.pje.1
+12/11/2024 23:12:20: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 141403 0.ukxtwskfpho "larissa de arruda sousa pinto:07184181409 2024-09-02 10:38:21"
+12/11/2024 23:12:23: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+12/11/2024 23:12:23: Perfil advogado e usuário LARISSA DE ARRUDA SOUSA PINTO
+OAB = PB18750 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = PB18750@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = ijMae_YZvU-6soJECd2-PfuSb9MGQM6uzXREDggX.tjpjp34 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTI3NDIsImlhdCI6MTczMTQ2Mzk0MiwiYXV0aF90aW1lIjoxNzMxNDYzOTQyLCJqdGkiOiJiNmFiMWY4ZC03YzFmLTRiN2EtYTZjYi0xYzA4OGI3MzMyMjIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiZjg1MzQ2YTEtMzM1OS00MjU2LWFhODYtOGRiYjU5NThkYjdkIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiIxYmUyOGE1ZS04ZWJiLTRjYTMtYWI0NC1mYzkyOWNjNGY0Y2EiLCJhdF9oYXNoIjoiNWxMa1NOTE1icXFiNl9QcmdmZmtJUSIsImFjciI6IjEiLCJzaWQiOiIxYmUyOGE1ZS04ZWJiLTRjYTMtYWI0NC1mYzkyOWNjNGY0Y2EiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxBUklTU0EgREUgQVJSVURBIFNPVVNBIFBJTlRPIiwianRyIjoiODA2IiwiSlRSIjoiODA2IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDcxODQxODE0MDkiLCJnaXZlbl9uYW1lIjoiTEFSSVNTQSBERSBBUlJVREEgU09VU0EgUElOVE8iLCJlbWFpbCI6Imxhcmlzc2FAZmFsY2FvZGVzb3VzYS5jb20uYnIifQ.D_wEwoqbB6CoWovLRxOw8EM50hqOBUeNJL9b7oMieczxSKazP2JCX0IGQdZ-AFuJeliDw2NFaXbsP5L1xbl1TF-WyKOVHJ5QbL7oHBQiUrm9wEbrDXNLVsK3G6rU4TyxjEUoGXLDf6U39XiH51PGIGbUTwKs82CVoBxIc8Qv4TF1ggIVAYcI9Z3AAJWLi1DzN3GKNlHfr8ZEf_83v7ZZ28t15zGc7SBs4sDhs8rcVPdSYn8_p5EFHaePFlaPGjBreQ5_cznFq5v6UQEMtAdOp0kdk9BV-EdQAP8p7Ucjkp1Ya92V3XoHHDLVlT7JQY2vi4rtUVQwRopYtzQMvlrang ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp34:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 23:12:23: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:12:29: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:12:29: Rodou

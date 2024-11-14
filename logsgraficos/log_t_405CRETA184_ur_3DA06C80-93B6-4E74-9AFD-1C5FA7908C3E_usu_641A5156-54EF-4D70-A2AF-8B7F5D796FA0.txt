@@ -1,0 +1,6 @@
+13230@robertosousa@3DA06C80-93B6-4E74-9AFD-1C5FA7908C3E@linus em 4.05.CRETA.1.84
+12/11/2024 16:57:21: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+12/11/2024 16:58:02: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 16:58:12: Não acessou a url de pesquisa para o OAB 
+html: salvo no mongo.
+12/11/2024 16:58:12: Rodou

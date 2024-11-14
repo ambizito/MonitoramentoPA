@@ -1,0 +1,13 @@
+MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos em 4.06.pje.1
+12/11/2024 19:25:38: Acessou https://pje1g.trf6.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 190803 2nMoeMc069ouk1BA1Iz5F1FqryionbCQ "LAERCIO SERRA DA SILVA:94463654300"
+12/11/2024 19:25:40: Logou https://pje1g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:25:40: Perfil advogado e usuário LAERCIO SERRA DA SILVA
+OAB = MA9447 ; URL = https://pje1g.trf6.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 4.06.pje.1 ; usuarioId = MA9447@laercioserra@B427713D-117D-4374-BEB8-7D025F813B3D@bezos ; Cookies (
+Name = JSESSIONID ; Value = 2N3Q5u9_lC9xBFbWZ0mGA0t7AdGDcKercvkkMnhL.trf6pje1goutjb06 ; Domain = pje1g.trf6.jus.br ; Path = /pje
+Name = PJE-TRF6-1G-StickySessionRule ; Value = trf6-pje1goutjb06:pje-trf6-1g ; Domain = pje1g.trf6.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf6.jus.br ; Path = /
+)
+12/11/2024 19:25:41: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:25:42: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 19:25:42: Rodou

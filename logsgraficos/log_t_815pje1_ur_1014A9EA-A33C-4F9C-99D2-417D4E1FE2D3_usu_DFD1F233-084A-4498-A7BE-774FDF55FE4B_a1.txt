@@ -1,0 +1,32 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.15.pje.1
+12/11/2024 20:16:42: Acessou https://pje.tjpb.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 0.94grnfcx4m2 "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 20:16:45: Logou https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:16:45: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.15.pje.1 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = ICjq4eM3pRs_GSxXK8yv1aQlV6a4XwIu02z8r6LQ.pje08-v21 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = TS019bf079 ; Value = 01766fbb17d96dfc4f5525b45a69d530d4e560ef5b24f47d22211c85ad2cba1b99d2d4da2aaa44fba8fca4c5a6b94f5792213259dd ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODIyMDQsImlhdCI6MTczMTQ1MzQwNCwiYXV0aF90aW1lIjoxNzMxNDUzNDA0LCJqdGkiOiJjYjZjNDU5My04OGJlLTQ2NzUtYTAxOS1lMGI1NzExN2RmZjQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBiLTFnIiwic3ViIjoiMTk5MmQwMDQtZGNkMi00ZjEzLTg4OGItYjhmOTY3MzFjMGYwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYi0xZyIsInNlc3Npb25fc3RhdGUiOiJkZjE3NGMzNS1mMWVjLTRiMzAtYjg5Zi05Y2FmNWNjMjhhZDUiLCJhdF9oYXNoIjoiY05YUU9MUVhRTXl4Mnlwenp0RzZzUSIsImFjciI6IjEiLCJzaWQiOiJkZjE3NGMzNS1mMWVjLTRiMzAtYjg5Zi05Y2FmNWNjMjhhZDUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkJSRU5EQSBKT1JEQU5BIExPQkFUTyBBUkFVSk8gVEVJWEVJUkEiLCJKVFIiOiI4MTUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIxMDM0MDUwNjQ4MiIsImdpdmVuX25hbWUiOiJCUkVOREEgSk9SREFOQSBMT0JBVE8gQVJBVUpPIFRFSVhFSVJBIiwiZW1haWwiOiJicmVuZGFqb3JkYW5hX0Bob3RtYWlsLmNvbSJ9.aYQOaN2B4obbjNU1LB4WuydS5LLSlWAjK4eXWM_f4XRFR7tUqQ6SXEufoWKzFRhNcX68mgS-VkEg5TsWbzzLjh0bokfeWujnbxOVJa4l-3wY6csW1VtEUOLGKQ-r-Sc8oYAk8fYUhr0K4Cxy_Uv-8DhDonftD0s3Lo5nB-AEYeulNjhrpBFxXxItuNYgqth7Hojsg2DwlwlQ8f4cCWCw5r2KGi0Ej68qGSS1k51Nin79diLPdH5M-mPFtxQ7aulW1dhwOODRbg6HBGGoQXVSg6FO8xvNjGLVIcjoD0c9pS_Jpzm3Bp1qXlvvuMTNbFIa476EDtc99OUv7ZQUBg-ldQ ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = PJE-TJPB-1G-StickySessionRule ; Value = pje08-v21:pje-tjpb-1g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = BIGipServerpool_pje1g_prod ; Value = 352649226.36895.0000 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = TS01d5de65 ; Value = 01766fbb17d96dfc4f5525b45a69d530d4e560ef5b24f47d22211c85ad2cba1b99d2d4da2aaa44fba8fca4c5a6b94f5792213259dd ; Domain = pje.tjpb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /
+)
+12/11/2024 20:16:45: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:16:46: Total: 1
+12/11/2024 20:16:46: Total: 1
+12/11/2024 20:16:46: advogado 0803639-50.2018.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 20:16:47: Total: 1
+12/11/2024 20:16:47: Total: 1
+12/11/2024 20:16:47: advogado 0000145-47.2016.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 20:16:47: Total: 2
+12/11/2024 20:16:47: Total: 2
+12/11/2024 20:16:47: advogado 0811138-94.2024.8.15.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:16:47: advogado 0817489-54.2022.8.15.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:16:47: Total: 2
+12/11/2024 20:16:47: Total: 2
+12/11/2024 20:16:47: advogado 0859213-18.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:16:47: advogado 0804950-64.2022.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 20:16:48: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 20:16:48: Rodou

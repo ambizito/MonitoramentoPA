@@ -1,0 +1,17 @@
+05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 5.24.pje.1
+14/11/2024 10:22:29: Acessou https://pje.trt24.jus.br/primeirograu/login.seam
+14/11/2024 10:22:31: Logou https://pje.trt24.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 10:22:32: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = 05479437410 ; URL = https://pje.trt24.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.24.pje.1 ; usuarioId = 05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 96586a8fe9111fc0~uEtjpt9qiMQT9QkrUzx6C4xn ; Domain = pje.trt24.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt24.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = ecd8b3bb-540d-4d5e-8b23-74c0a49facfc ; Domain = pje.trt24.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt24.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2ZmNlNmI0Yi00ZjBmLTQ4OTktYWQwMS04M2MyMmYxMTA2Y2QiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTkwNTUwLCJzdWIiOiIxMzhlODYxMi05NTk1LTRkMjAtOTJmZC02MjNhZDgwNDE4MjIucGplIiwiZXhwIjoxNzMxNTk0MTUwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQxNTM5MSwibG9naW4iOiIwNTQ3OTQzNzQxMCIsIm5vbWUiOiJESUVHTyBET01JQ0lBTk8gVklFSVJBIENPU1RBIENBQlJBTCIsInBlcmZpbCI6NzQ2OTEsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6NjU2ODEsImRlc2NyaWNhbyI6IkRJRUdPIERPTUlDSUFOTyBWSUVJUkEgQ09TVEEgQ0FCUkFMICgwNTQuNzk0LjM3NC0xMCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUUlQyNCIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt24.jus.br ; Path = /
+Name = access_token_footer ; Value = YBIWWsbXEygHjMcjqNPpYI2z8KGiifmtNTuQ66MjI8I ; Domain = pje.trt24.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1YWEzMTUyZi0yZDllLTRiNWQtYmYwZS05ZjU3YjRiMzJlZWUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTkwNTUwLCJzdWIiOiIxMzhlODYxMi05NTk1LTRkMjAtOTJmZC02MjNhZDgwNDE4MjIucGplIiwiZXhwIjoxNzMxNjMzNzUwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTQ3OTQzNzQxMCIsInBlcmZpbCI6NzQ2OTEsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMjQifQ.a9kQe5cfaCHhhFpAIldnCh6VmHh3zbu6WMOFz36VFng ; Domain = pje.trt24.jus.br ; Path = /
+Name = Xsrf-Token ; Value = F3283A7D408081608BC20CCC0C3B0561F7F96D3791517B92CE7B61C3E4AE29326394CB37918CAB5D23500F0B8946380A96D3 ; Domain = pje.trt24.jus.br ; Path = /
+)
+14/11/2024 10:22:33: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 10:22:34: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+14/11/2024 10:22:34: Rodou

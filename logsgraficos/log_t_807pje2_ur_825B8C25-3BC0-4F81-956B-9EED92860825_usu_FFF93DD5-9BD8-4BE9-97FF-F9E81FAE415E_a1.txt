@@ -1,0 +1,13 @@
+RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 8.07.pje.2
+13/11/2024 00:21:17: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.eg3g0ewx4kw "RODRIGO ANDRADE DO NASCIMENTO01399099400"
+13/11/2024 00:21:19: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:21:19: Perfil advogado e usuário RODRIGO ANDRADE DO NASCIMENTO
+OAB = RN11195 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus ; Cookies (
+Name = JSESSIONID ; Value = xH4obsR3a1ygpG8XBhhyxot4dni6rBeKhSVFReMF.hc-zdu128:pje2i-internet-zdu128 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+13/11/2024 00:21:32: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:21:47: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:21:50: Rodou

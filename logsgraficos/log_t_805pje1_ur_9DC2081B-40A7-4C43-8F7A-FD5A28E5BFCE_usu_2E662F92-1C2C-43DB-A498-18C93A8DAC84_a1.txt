@@ -1,0 +1,12 @@
+PB33636@rochaformigaadv@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark em 8.05.pje.1
+12/11/2024 19:35:41: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 010203 0.ecsu5um2isb "HAVILA ALMEIDA ARAUJO:70508570417"
+12/11/2024 19:35:44: Erro no acesso: Desconhecido
+PB33636@rochaformigaadv@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark em 8.05.pje.1
+12/11/2024 19:36:45: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 010203 0.qe6y4asf81q "HAVILA ALMEIDA ARAUJO:70508570417"
+12/11/2024 19:36:49: Erro no acesso: Desconhecido
+PB33636@rochaformigaadv@9DC2081B-40A7-4C43-8F7A-FD5A28E5BFCE@mark em 8.05.pje.1
+12/11/2024 19:37:50: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 010203 0.b00lgw6xk5y "HAVILA ALMEIDA ARAUJO:70508570417"
+12/11/2024 19:54:32: Erro no acesso: Desconhecido

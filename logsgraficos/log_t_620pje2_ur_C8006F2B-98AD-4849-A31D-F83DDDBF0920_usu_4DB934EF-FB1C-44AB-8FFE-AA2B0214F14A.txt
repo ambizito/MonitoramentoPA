@@ -1,0 +1,4 @@
+05830512432@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 6.20.pje.2
+14/11/2024 09:58:26: Acessou https://pje.tre-rn.jus.br/pje/login.seam
+14/11/2024 09:58:27: Erro no acesso: Senha invalida
+html: salvo no mongo.

@@ -1,0 +1,17 @@
+RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 8.19.pje.2
+12/11/2024 23:38:57: Acessou https://tjrj.pje.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar K4APBQI5 dgxoEwhFZqof9ZzYEBN9ACNZpU8XjcC5 "MARIO MATOS JUNIOR:01062490452"
+12/11/2024 23:38:59: Logou https://tjrj.pje.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 23:38:59: Perfil advogado e usuário JusPostulandi - MARIO MATOS JUNIOR
+OAB = RN7292 ; URL = https://tjrj.pje.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 8.19.pje.2 ; usuarioId = RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = 4_ocKHJgOOn7ZRuQmIg229bSMSXFhivFCwBa9I9V.pje-legacy-5bcf7db6cf-gkj2p ; Domain = tjrj.pje.jus.br ; Path = /2g
+Name = PJE-TJRJ-2G-StickySessionRule ; Value = "pje-legacy-5bcf7db6cf-gkj2p:pje-tjrj-2g" ; Domain = tjrj.pje.jus.br ; Path = /2g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAACncqf3ze9zkn5KNMTh1aOv75hu2NFa3LkZOP9Su1owlOa1NWxDgs24Wt09IUdUDmUpnjjWIubWlQWk5Zl2OAb5VUpkRG1Q1FSBaWNTKouvhiuB+/Fl6ZY7AsFVYkNniK7rZ3I= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+12/11/2024 23:39:02: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:39:16: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:39:18: Rodou

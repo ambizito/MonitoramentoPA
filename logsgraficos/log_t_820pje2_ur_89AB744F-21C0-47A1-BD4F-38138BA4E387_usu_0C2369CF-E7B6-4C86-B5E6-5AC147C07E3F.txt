@@ -1,0 +1,15 @@
+04432734485@venanciomedeiros@89AB744F-21C0-47A1-BD4F-38138BA4E387@bezos em 8.20.pje.2
+12/11/2024 20:46:43: Acessou https://pje2g.tjrn.jus.br/pje/login.seam
+12/11/2024 20:46:45: Logou https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:46:45: Perfil advogado e usuário VENANCIO VIANA DE MEDEIROS NETO
+OAB = 04432734485 ; URL = https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.2 ; usuarioId = 04432734485@venanciomedeiros@89AB744F-21C0-47A1-BD4F-38138BA4E387@bezos ; Cookies (
+Name = JSESSIONID ; Value = C4jSPaYRoX_5BRdDXCegDhHal_wAJhfNlzthdIEu.pje2g-90-79s9b ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODQwMDQsImlhdCI6MTczMTQ1NTIwNCwiYXV0aF90aW1lIjoxNzMxNDU1MjA0LCJqdGkiOiI2YjkwZTkxZC1iNTM4LTQ3YjItYjU5NC00MmFjYWNhOTFiY2YiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTJnIiwic3ViIjoiMzk2MDdlZjctZWM5Ni00ZDM5LTgxZGYtYTZhZmRhYjkxYWZjIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0yZyIsInNlc3Npb25fc3RhdGUiOiIxMTdhZjc5ZS1jMzhjLTRjZmQtOTNmYi04YzlhZjQ4MWVhZmMiLCJhdF9oYXNoIjoiUGFSemFiWVhXM2dycHhBbXFhdnhXUSIsImFjciI6IjEiLCJzaWQiOiIxMTdhZjc5ZS1jMzhjLTRjZmQtOTNmYi04YzlhZjQ4MWVhZmMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJWRU5BTkNJTyBWSUFOQSBERSBNRURFSVJPUyBORVRPIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ0MzI3MzQ0ODUiLCJnaXZlbl9uYW1lIjoiVkVOQU5DSU8gVklBTkEgREUgTUVERUlST1MgTkVUTyIsImVtYWlsIjoidmVuYW5jaW9fbWVkZWlyb3NAaG90bWFpbC5jb20ifQ.S1vnqB_Lwh24E6_85-Hux58y25d54dSrjE6S0HsmmoWm9EbiFEtI4_0btrUXTEq8cEjlonXGSMgOayoXUu2jqY810ni2pKf19GXDvfS_HKYEjZEUptb-9kV5HEN1fMBJNL73mQHnq68GXza4QtgNKZxf6HAwl-0qWy4vmcM7Ib8s6RiIlM5bjZhInWcXrne6Cs8C27KXKTJrL2CviEbhfQaCHsQHAdJ2Tn3X2Ibm7fmIf80dmYlEYKkvoEw4lGm7KTDE9qsIGDDe6C9_ZIuHhYAVcIpPsHO-m4JZqNWjEN178Fm-Ku_s_dsy-j6IDE-CYstbIyW04zwViEX78ZyDIg ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-2G-StickySessionRule ; Value = "pje2g-90-79s9b:pje-tjrn-2g" ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = a9e62c9a4679a8c2a04e8599b7e8e026 ; Domain = pje2g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /
+)
+12/11/2024 20:46:46: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:46:49: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:46:49: Rodou

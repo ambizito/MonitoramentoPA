@@ -1,0 +1,35 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 4.05.pje.1.84
+12/11/2024 19:26:23: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 ZIVXKxmcDorIgyu55wK0fKoowaf4LqiQ "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 19:26:25: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:26:25: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = 1ZSzQ-NXx-eDVxDiqOFsLRFK.node06 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 19:26:28: Total: 2
+12/11/2024 19:26:34: advogado 0800281-12.2024.4.05.8404 >> Processo com 3 parte(s), 15 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:26:42: advogado 0800151-59.2023.4.05.8403 >> Processo com 2 parte(s), 15 andamento(s) e 21 expediente(s) atualizado
+12/11/2024 19:26:42: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 15 e leu 2
+12/11/2024 19:26:48: Total: 5
+12/11/2024 19:26:48: Total: 5
+12/11/2024 19:26:58:  0806186-20.2018.4.05.8400 >> Processo com 7 parte(s), 14 andamento(s) e 37 expediente(s) atualizado
+12/11/2024 19:26:58:  0800151-59.2023.4.05.8403 >> Processo já foi verificado recentemente
+12/11/2024 19:27:05:  0800261-58.2023.4.05.8403 >> Processo com 2 parte(s), 13 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 19:27:05:  0800281-12.2024.4.05.8404 >> Processo já foi verificado recentemente
+12/11/2024 19:27:05:  0801720-67.2024.4.05.8401 >> Processo já foi verificado recentemente
+12/11/2024 19:27:13: Total: 9
+12/11/2024 19:27:13: Total: 9
+12/11/2024 19:27:19:  0800405-68.2019.4.05.8404 >> Processo com 2 parte(s), 14 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:27:23:  0800294-50.2020.4.05.8404 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:27:28:  0000132-30.2016.4.05.8404 >> Processo com 2 parte(s), 11 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:27:36:  0800108-22.2023.4.05.8404 >> Processo com 2 parte(s), 15 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 19:27:40:  0801144-11.2023.4.05.8401 >> Processo com 2 parte(s), 8 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:27:45:  0801394-44.2023.4.05.8401 >> Processo com 2 parte(s), 8 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:27:50:  0800110-64.2024.4.05.8401 >> Processo com 2 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:27:55:  0801196-70.2024.4.05.8401 >> Processo com 2 parte(s), 14 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 19:27:59:  0801481-63.2024.4.05.8401 >> Processo com 2 parte(s), 9 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:28:05: Total: 0
+12/11/2024 19:28:05: Total: 0
+12/11/2024 19:28:06: Entrou na aba acervo do perfil e mapeou 14 processos e teve erro em 0 processos
+12/11/2024 19:28:06: Rodou

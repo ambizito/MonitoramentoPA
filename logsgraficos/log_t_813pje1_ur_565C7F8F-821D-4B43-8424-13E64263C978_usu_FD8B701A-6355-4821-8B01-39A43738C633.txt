@@ -1,0 +1,162 @@
+08295861484@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 8.13.pje.1
+14/11/2024 09:38:55: Acessou https://pje.tjmg.jus.br/pje/login.seam
+14/11/2024 09:38:57: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 09:38:57: Perfil advogado e usuário JESSICA XAVIER DA SILVA SANTOS
+OAB = 08295861484 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = 08295861484@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = 1-oAL1jIU-wzhw8Bp01BOR-8Ooe_zXD0OYzQ-DhB.pje1g-poapp72.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTY3MzYsImlhdCI6MTczMTU4NzkzNywiYXV0aF90aW1lIjoxNzMxNTg3OTM2LCJqdGkiOiJhNzYyNTBhOS0zZmIwLTRmZGEtYTNmNi1mY2M4ZjQyOWU5MTEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiNzc5MmU1NTQtMTk0My00OWE0LWFmN2UtZWJhOThlNzllYmNmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiI0NjkzMDNlMi1hMmMxLTQ3NjgtYmUyMC1mNDUwYjg1YzVjZGMiLCJhdF9oYXNoIjoidGQyWHQyTHM4UHZlX3ZvdEQyYnN4USIsImFjciI6IjEiLCJzaWQiOiI0NjkzMDNlMi1hMmMxLTQ3NjgtYmUyMC1mNDUwYjg1YzVjZGMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJKRVNTSUNBIFhBVklFUiBEQSBTSUxWQSBTQU5UT1MiLCJKVFIiOiI4MTMiLCJqdHIiOiI4MTMiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwODI5NTg2MTQ4NCIsImdpdmVuX25hbWUiOiJKRVNTSUNBIFhBVklFUiBEQSBTSUxWQSBTQU5UT1MiLCJlbWFpbCI6ImNvbnRhdG9Ac2FudG9zZXNhbnRvc2Fkdm9nYWRvcy5jb20ifQ.LKvBjrLZzMaxVqBiREgewdR7g1vIwudKgQ7dmGUui6cpGGXMbJeLZWEGdGcpn61EDVDx_8tesMJhM3b5tPfDogVwhYeeTHU5pJ3KML8L1fpw9xKAjN5Jnlvt7YWxfXustguia6tDSFxXc3qeqOjv1Dbt4GYuZC20gx5_veHVPLZ0aRYvVPPYDl9kUxXbDO9Bw-4kIWDtxxPdlSU9X7kzfTyk3DVL2KweHssFMNQhCngR-0xvfeqhaYU-64kYUMkBN8aRJnITV7Rwxprp9USey_a2kS6F2uOVIphVpUb67OBAGJPcjQM-Q2iE6qX5HLUJ0H66sEfrnMERrEILpiVNbw ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp72:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+14/11/2024 09:38:59: Total: 2
+14/11/2024 09:39:01: advogado 5004777-42.2024.8.13.0105 >> Processo com 5 parte(s), 58 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 09:39:01: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:01: Total: 2
+14/11/2024 09:39:03: advogado 5004777-42.2024.8.13.0105 >> Processo com 5 parte(s), 58 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 09:39:03: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:04: Total: 2
+14/11/2024 09:39:05: advogado 5003965-97.2024.8.13.0396 >> Processo com 3 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 09:39:05: advogado 5003965-97.2024.8.13.0396 >> Processo já foi verificado recentemente
+14/11/2024 09:39:05: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Respondidos nos últimos 10 dias e detectou 8 e leu 4
+14/11/2024 09:39:07: Total: 1
+14/11/2024 09:39:07: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:39:08: Total: 1
+14/11/2024 09:39:08: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:39:09: Total: 1
+14/11/2024 09:39:09: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:39:10: Total: 1
+14/11/2024 09:39:10: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:39:10: Total: 1
+14/11/2024 09:39:10: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:39:11: Total: 1
+14/11/2024 09:39:11: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:12: Total: 3
+14/11/2024 09:39:12: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:12: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:12: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:13: Total: 1
+14/11/2024 09:39:13: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:39:13: Total: 1
+14/11/2024 09:39:13: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:39:14: Total: 1
+14/11/2024 09:39:14: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:14: Total: 3
+14/11/2024 09:39:14: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:14: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:14: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:15: Total: 1
+14/11/2024 09:39:15: advogado 5032944-69.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:16: Total: 1
+14/11/2024 09:39:16: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:39:16: Total: 1
+14/11/2024 09:39:16: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:39:16: Total: 1
+14/11/2024 09:39:16: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:17: Total: 3
+14/11/2024 09:39:17: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:17: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:17: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:17: Total: 1
+14/11/2024 09:39:17: advogado 5032944-69.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:18: Total: 1
+14/11/2024 09:39:18: advogado 5006515-33.2024.8.13.0148 >> Processo já foi verificado recentemente
+14/11/2024 09:39:19: Total: 1
+14/11/2024 09:39:19: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:39:20: Total: 1
+14/11/2024 09:39:20: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:39:20: Total: 1
+14/11/2024 09:39:20: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:21: Total: 3
+14/11/2024 09:39:21: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:21: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:21: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:21: Total: 1
+14/11/2024 09:39:21: advogado 5032944-69.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:39:22: Total: 1
+14/11/2024 09:39:22: advogado 5006515-33.2024.8.13.0148 >> Processo já foi verificado recentemente
+14/11/2024 09:39:22: Total: 1
+14/11/2024 09:39:22: Não casou processos no acervo para o OAB 08295861484
+html: salvo no mongo.
+14/11/2024 09:39:24: Rodou com falha
+08295861484@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 8.13.pje.1
+14/11/2024 09:40:24: Acessou https://pje.tjmg.jus.br/pje/login.seam
+14/11/2024 09:40:27: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 09:40:27: Perfil advogado e usuário JESSICA XAVIER DA SILVA SANTOS
+OAB = 08295861484 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = 08295861484@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = 74S8uMhBqRgE-qF7hJXU-KRqRSDIsdZZGunYdEJW.pje1g-poapp58.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTY4MjcsImlhdCI6MTczMTU4ODAyNywiYXV0aF90aW1lIjoxNzMxNTg4MDI3LCJqdGkiOiIxOTJhNWFiMS0yMWNkLTRjNjQtYThlOC05ZGRjODg5MGJiZDkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiNzc5MmU1NTQtMTk0My00OWE0LWFmN2UtZWJhOThlNzllYmNmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiJlYTE5MGNlZi01YmE0LTRhY2EtOTdjNi1mMzAxMjc5N2VmMjciLCJhdF9oYXNoIjoiSWhvbDJUdkVtQUlaS2xZYUg4b2hoUSIsImFjciI6IjEiLCJzaWQiOiJlYTE5MGNlZi01YmE0LTRhY2EtOTdjNi1mMzAxMjc5N2VmMjciLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJKRVNTSUNBIFhBVklFUiBEQSBTSUxWQSBTQU5UT1MiLCJKVFIiOiI4MTMiLCJqdHIiOiI4MTMiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwODI5NTg2MTQ4NCIsImdpdmVuX25hbWUiOiJKRVNTSUNBIFhBVklFUiBEQSBTSUxWQSBTQU5UT1MiLCJlbWFpbCI6ImNvbnRhdG9Ac2FudG9zZXNhbnRvc2Fkdm9nYWRvcy5jb20ifQ.HXokaSMwJKkTTdYolD28Q7sZl06djRgC0PM5iIZaJhk-IJxrt8vwgtenDc3skfBhCJCWTd75-gmjnZCoGAJYxMavvtG-dIi7S4rPjJNlMa2eXTObOSMmJTYA1F_rzcANTL1HHOAv_zSBZE45WL5MAWTGCSY1q2T1Jc2Wvjw2Mp1MptIG4xPsVsJwfai6ODiM4R9hxWV7yFo37L9Ah89Q5tiw8jkQ5dMzRUvwOsH-PcAt7Kjit738TB8ttUf9udDLutFkEVW0JOo1P0eTx3gKwULhO4qNg0QuwafJgTpGlttlFEt3S-yAtkfO_nPFi3JUy8Kv9oOSI9IW_shpBGQiaA ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp58:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+14/11/2024 09:40:29: Total: 2
+14/11/2024 09:40:30: advogado 5004777-42.2024.8.13.0105 >> Processo com 5 parte(s), 58 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 09:40:30: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:31: Total: 2
+14/11/2024 09:40:32: advogado 5004777-42.2024.8.13.0105 >> Processo com 5 parte(s), 58 andamento(s) e 13 expediente(s) atualizado
+14/11/2024 09:40:32: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:33: Total: 2
+14/11/2024 09:40:34: advogado 5003965-97.2024.8.13.0396 >> Processo com 3 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 09:40:34: advogado 5003965-97.2024.8.13.0396 >> Processo já foi verificado recentemente
+14/11/2024 09:40:34: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Respondidos nos últimos 10 dias e detectou 8 e leu 4
+14/11/2024 09:40:36: Total: 1
+14/11/2024 09:40:36: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:40:37: Total: 1
+14/11/2024 09:40:37: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:40:38: Total: 1
+14/11/2024 09:40:38: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:40:39: Total: 1
+14/11/2024 09:40:39: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:40:39: Total: 1
+14/11/2024 09:40:39: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:40:40: Total: 1
+14/11/2024 09:40:40: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:41: Total: 3
+14/11/2024 09:40:41: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:41: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:41: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:42: Total: 1
+14/11/2024 09:40:42: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:40:43: Total: 1
+14/11/2024 09:40:43: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:40:43: Total: 1
+14/11/2024 09:40:43: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:44: Total: 3
+14/11/2024 09:40:44: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:44: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:44: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:44: Total: 1
+14/11/2024 09:40:44: advogado 5032944-69.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:45: Total: 1
+14/11/2024 09:40:45: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:40:46: Total: 1
+14/11/2024 09:40:46: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:40:46: Total: 1
+14/11/2024 09:40:46: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:47: Total: 3
+14/11/2024 09:40:47: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:47: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:47: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:47: Total: 1
+14/11/2024 09:40:47: advogado 5032944-69.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:48: Total: 1
+14/11/2024 09:40:48: advogado 5006515-33.2024.8.13.0148 >> Processo já foi verificado recentemente
+14/11/2024 09:40:49: Total: 1
+14/11/2024 09:40:49: advogado 5111725-57.2024.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:40:49: Total: 1
+14/11/2024 09:40:49: advogado 5006110-06.2023.8.13.0027 >> Processo já foi verificado recentemente
+14/11/2024 09:40:50: Total: 1
+14/11/2024 09:40:50: advogado 5004777-42.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:50: Total: 3
+14/11/2024 09:40:50: advogado 5004774-87.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:50: advogado 5021002-74.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:50: advogado 5020980-16.2023.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:51: Total: 1
+14/11/2024 09:40:51: advogado 5032944-69.2024.8.13.0105 >> Processo já foi verificado recentemente
+14/11/2024 09:40:51: Total: 1
+14/11/2024 09:40:51: advogado 5006515-33.2024.8.13.0148 >> Processo já foi verificado recentemente
+14/11/2024 09:40:52: Total: 1
+14/11/2024 09:40:52: Não casou processos no acervo para o OAB 08295861484
+html: salvo no mongo.
+14/11/2024 09:40:53: Rodou com falha

@@ -1,0 +1,37 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.02.pje.2
+12/11/2024 16:29:12: Acessou https://pje.trt2.jus.br/segundograu/login.seam
+12/11/2024 16:29:13: Logou https://pje.trt2.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 16:29:14: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+12/11/2024 16:29:14: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:29:17: Total: 8
+12/11/2024 16:29:17: Total: 8
+12/11/2024 16:29:20: advogado 1000052-36.2020.5.02.0312 >> Processo com 3 parte(s), 60 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 16:29:24: advogado 1000363-60.2021.5.02.0322 >> Processo com 3 parte(s), 84 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 16:29:26: advogado 1000738-21.2017.5.02.0316 >> Processo com 3 parte(s), 15 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:29:28: advogado 1001024-11.2017.5.02.0312 >> Processo com 3 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:29:31: advogado 1001216-75.2021.5.02.0320 >> Processo com 4 parte(s), 52 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 16:29:33: advogado 1001300-79.2021.5.02.0319 >> Processo com 3 parte(s), 18 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:29:35: advogado 1001627-94.2016.5.02.0320 >> Processo com 4 parte(s), 14 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:29:38: advogado 1001849-51.2019.5.02.0322 >> Processo com 3 parte(s), 46 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: advogado 1001849-51.2019.5.02.0322 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: Total: 3
+12/11/2024 16:29:39: Total: 3
+12/11/2024 16:29:39: advogado 1000052-36.2020.5.02.0312 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: advogado 1000363-60.2021.5.02.0322 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: advogado 1001300-79.2021.5.02.0319 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: advogado 1000738-21.2017.5.02.0316 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: advogado 1001216-75.2021.5.02.0320 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: advogado 1001627-94.2016.5.02.0320 >> Processo já foi verificado recentemente
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: Total: 1
+12/11/2024 16:29:39: advogado 1001024-11.2017.5.02.0312 >> Processo já foi verificado recentemente
+12/11/2024 16:29:41: Entrou na aba acervo do perfil e mapeou 16 processos e teve erro em 0 processos
+12/11/2024 16:29:41: Rodou

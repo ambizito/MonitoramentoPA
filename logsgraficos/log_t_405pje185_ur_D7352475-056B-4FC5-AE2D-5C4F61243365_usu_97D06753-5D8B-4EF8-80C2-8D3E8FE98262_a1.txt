@@ -1,0 +1,22 @@
+RN1727@magnaadvogadosassociados@D7352475-056B-4FC5-AE2D-5C4F61243365@mark em 4.05.pje.1.85
+12/11/2024 22:52:30: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 26121964 jUEXbRL9IAx8T6JJEfU46U18BqfVtNvw "MAGNA LETICIA DE AZEVEDO LOPES CAMARA:37883380400"
+12/11/2024 22:52:33: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:52:33: Perfil advogado e usuário Magnas Letícia de Azevedo Lopes Câmara
+OAB = RN1727 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = RN1727@magnaadvogadosassociados@D7352475-056B-4FC5-AE2D-5C4F61243365@mark ; Cookies (
+Name = JSESSIONID ; Value = 0fcDDm21Q8XRG0K3yCTZkHrg.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3466bf6e4b5d5dd89577125d1b13465504505d43319ed9ee632bcb7beab604c5a6c0065017ecf7178097a9f5983affce2e75676497f55b33699982f18ea47c31c ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c348afe9564cf84ac1c0069d4c8a0d42094505d43319ed9ee632bcb7beab604c5ae5a6cfa293614e583794a4b6044e980e07b4e55195437af2aacb58335d4a15cb ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c348afe9564cf84ac1c0069d4c8a0d42094505d43319ed9ee632bcb7beab604c5ae5a6cfa293614e583794a4b6044e980e07b4e55195437af2aacb58335d4a15cb ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:52:35: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:52:40: Total: 0
+12/11/2024 22:52:40: Total: 0
+12/11/2024 22:52:44: Total: 0
+12/11/2024 22:52:44: Total: 0
+12/11/2024 22:52:48: Total: 0
+12/11/2024 22:52:48: Total: 0
+12/11/2024 22:52:49: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:52:49: Rodou

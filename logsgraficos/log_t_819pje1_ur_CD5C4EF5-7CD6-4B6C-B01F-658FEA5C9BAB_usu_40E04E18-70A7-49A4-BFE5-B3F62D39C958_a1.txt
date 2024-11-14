@@ -1,0 +1,19 @@
+PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 8.19.pje.1
+13/11/2024 14:02:05: Acessou https://tjrj.pje.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 0.aou7j79xcdh "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+13/11/2024 14:02:09: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+13/11/2024 14:02:09: Perfil advogado e usuário JOSE HARAN DE BRITO VEIGA PESSOA
+OAB = PB13028 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = RjX0LtYmJ-U-US--scUXmvmykAbs7QgYK1P4zeKD.pje-legacy-5ddfc8fb55-hf886 ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDYxMjgsImlhdCI6MTczMTUxNzMyOCwiYXV0aF90aW1lIjoxNzMxNTE3MzI4LCJqdGkiOiI4MmRmYTM2ZC1mYjJjLTQwZDEtOWExNS1hOTY1ZDI4OTE2ZTAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiOGMyZmFlOWQtYjU2MS00NjkyLWE3Y2UtNTZiNWFiZDMyN2Y3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiJkZTc5NjY4OC1mMmUxLTQxNjYtYWZlNS1iZDYzZWRhZGM0NDAiLCJhdF9oYXNoIjoiZ0p1WmlhcHh1c24xbWVJdlhqMjB3QSIsImFjciI6IjEiLCJzaWQiOiJkZTc5NjY4OC1mMmUxLTQxNjYtYWZlNS1iZDYzZWRhZGM0NDAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkpPU0UgSEFSQU4gREUgQlJJVE8gVkVJR0EgUEVTU09BIiwianRyIjoiODE5IiwiSlRSIjoiODE5IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDQ0NDYxNDE0MTQiLCJnaXZlbl9uYW1lIjoiSk9TRSBIQVJBTiBERSBCUklUTyBWRUlHQSBQRVNTT0EiLCJlbWFpbCI6Impvc2VoYXJhbmJAeWFob28uY29tLmJyIn0.aGQM4B8i1tBR6TIk8pX07J9qViRSslpZayhubeOWK4H8Cpa5vZ13vT9JfzGF4c4N1F4fzPrvrgJDCxZvHnYrw1XE2wiKaLiMbER6GIUHtVZ1k9cwYnyExNte1ILqEJDaPbhi9qhlVpbKnIrIwDrvgojZefuousLX8FY7Tm2I-b1FcFdekLqNyvf7ctwslEoraxt9NplSrWv9ci3vb7E1YAn98L3RbAlDKV6PszSLOVkIdJ131wiAX8VoJFyNg72EuwFvWIxdz8GD_Z2Q_OJzTtLEe_Iei4wNELJ0cRqwnXzzmqaST-fNge5Gw7O2RNXM2PYIqzJUUeimeN_wxpXO6g ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-5ddfc8fb55-hf886:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAAA1jYxN67MXbNPhr1J6ebLQxQkn8ppMfgOHV2Ll4H9faBktchLC0vw/Plm0XK/jIHhVjQEOSyf2GrxH2faZJyXsNzzv5YXto9N8Om50wQUepK6sfhythMkgZRYRIpev1EY0hFQ= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+13/11/2024 14:02:14: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 14:07:47: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 14:07:47: Rodou

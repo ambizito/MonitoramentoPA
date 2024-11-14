@@ -1,0 +1,22 @@
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 4.05.pje.1.83
+12/11/2024 18:45:24: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 h8FXqLunsaWgiuxjad1GK7uaDGm6A0Je "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 18:45:27: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:45:27: Perfil advogado e usuário Marcello Rocha Lopes
+OAB = RN5382 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = w9L8ebOOerDUg6ZN46AwDjkl.node03 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357cc1689a4851adddf9901b64af3522430055c8c704cfc53bb5abca276bdb790f5c3b6d93a04129324a61912673b1de51d48d5b409e1d6145d3a183dafc6bdc779c ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000cc5dc675bff0f27822d8d7db310da44d4bf7c3b3481f669944432df8902a0dfa08c1bac283113000c2a35d08e03fc0c093a8b1ee6df98f0e5fd5a743ee1571959669a75be5a422c594dee77e5e0416b964842efd9a8311f9 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357cff7346fdbb396e51392326908b48983a55c8c704cfc53bb5abca276bdb790f5c6340c2b1af47b07db0d87388b5b88326 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357cff7346fdbb396e51392326908b48983a55c8c704cfc53bb5abca276bdb790f5c6340c2b1af47b07db0d87388b5b88326 ; Domain = .pje.jfpe.jus.br ; Path = /
+)
+12/11/2024 18:45:34: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:45:52: Total: 0
+12/11/2024 18:45:52: Total: 0
+12/11/2024 18:46:13: Total: 0
+12/11/2024 18:46:13: Total: 0
+12/11/2024 18:46:28: Total: 0
+12/11/2024 18:46:28: Total: 0
+12/11/2024 18:46:29: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:46:29: Rodou

@@ -1,0 +1,24 @@
+BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 8.17.pje.1
+12/11/2024 20:17:25: Acessou https://pje.cloud.tjpe.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 0.g2fv77txbbd "DENIS SANTOS DA COSTA:96628898504"
+12/11/2024 20:17:28: Logou https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:17:28: Perfil advogado e usuário DENIS SANTOS DA COSTA
+OAB = BA31210 ; URL = https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.1 ; usuarioId = BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners ; Cookies (
+Name = JSESSIONID ; Value = amW1E8qC0neW61Gb6bhYdwjfwqbnq-4iUfDSSLNy.pje-1g-5 ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODIyNDcsImlhdCI6MTczMTQ1MzQ0OCwiYXV0aF90aW1lIjoxNzMxNDUzNDQ3LCJqdGkiOiJmZTY5NDg4Ni1jNWU0LTRhMjUtODc1ZS05MDAxNjVjOTI0ZDciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBlLTFnLWNsb3VkIiwic3ViIjoiOTZiYTdlZDYtOTA0OC00ZTQwLTg1YjQtMDJjN2NiMTVmNmIzIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwZS0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiIzN2VlMDViNy04ZDY4LTQ4YWEtOWY0MC0yY2Q3MzE3MTZiOWMiLCJhdF9oYXNoIjoiUjhfUjQtOWozaTJhUVFxOVlMV0hHUSIsImFjciI6IjEiLCJzaWQiOiIzN2VlMDViNy04ZDY4LTQ4YWEtOWY0MC0yY2Q3MzE3MTZiOWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsImp0ciI6IjgxNyIsIkpUUiI6IjgxNyIsInByZWZlcnJlZF91c2VybmFtZSI6Ijk2NjI4ODk4NTA0IiwiZ2l2ZW5fbmFtZSI6IkRFTklTIFNBTlRPUyBEQSBDT1NUQSIsImVtYWlsIjoiZGVuaXNAY2FydmFsaG9lY29zdGFhZHYuY29tIn0.WPgrHZ26KRTgzC1a2F5DXV4cds9S7heZ-TSwhkbixyDYa6fLi91TkeZsrcRnzfLQ0WziOLyQIR9y8a-eOIpV2nT_1kjmPz-VX_fr0Bo_TIf0ay2J-VmmhZ_W3U1GMQzuP95sHZYBkF2oOxOC2hcCsTep1qaoGZER_CvS3bACl2xzK27D6lMOfHw2bOomqqmfaI6I6a9kBIYdUcPPDom657PK3-OPZUQonOV1klNtfZUdSeA_DYhISiCTUL6gIyJVQfkqTDT34C_1Wh0DKb9MP8Jfmr-t7Lt7OPfx4OlXaovw7yQRb2MEpMHoNgatn5TmgOltms31zBNqv6D2T_bEpw ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = PJE-TJPE-1G-StickySessionRule ; Value = "pje-1g-5:pje-tjpe-1g" ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAABkaXiHuO3Q6yhmi7a42MKXpdjrBZ+zn14LbuobIoKp9Gwc7SlmoaNzzp3G0NWDFMBMo8DC/iMcbtnzRS1LszF6bGLZ8SrTbHhgwSCWPRSQLEXoGsMYgF1NTRGPyr2SZPMww74= ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+)
+12/11/2024 20:17:29: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:17:30: Total: 1
+12/11/2024 20:17:30: Total: 1
+12/11/2024 20:17:30: advogado 0041987-66.2024.8.17.8201 >> Processo já foi verificado recentemente
+12/11/2024 20:17:31: Total: 1
+12/11/2024 20:17:31: Total: 1
+12/11/2024 20:17:31: advogado 0041988-51.2024.8.17.8201 >> Processo já foi verificado recentemente
+12/11/2024 20:17:32: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 20:17:32: Rodou

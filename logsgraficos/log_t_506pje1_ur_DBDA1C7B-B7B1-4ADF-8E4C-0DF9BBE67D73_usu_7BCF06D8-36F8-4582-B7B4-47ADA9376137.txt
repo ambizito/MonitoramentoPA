@@ -1,0 +1,28 @@
+07509883474@mphadvocacia@DBDA1C7B-B7B1-4ADF-8E4C-0DF9BBE67D73@bezos em 5.06.pje.1
+12/11/2024 20:22:24: Acessou https://pje.trt6.jus.br/primeirograu/login.seam
+12/11/2024 20:22:26: Logou https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 20:22:27: Perfil advogado e usuário RODRIGO CUNHA PERES
+OAB = 07509883474 ; URL = https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.1 ; usuarioId = 07509883474@mphadvocacia@DBDA1C7B-B7B1-4ADF-8E4C-0DF9BBE67D73@bezos ; Cookies (
+Name = JSESSIONID ; Value = 1751caed8b1fc88d~fP27BIcRn6DtdcZIMS9h8Zi+ ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = ce46912e-546b-4437-a230-db31fdd3ae20 ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3YjQzZWMyZC1iODdhLTQxMTQtYmI0Yy1kZDgwOTcxZDdiMWEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUzNzQ0LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNDU3MzQ0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjI1ODA2LCJsb2dpbiI6IjA3NTA5ODgzNDc0Iiwibm9tZSI6IlJPRFJJR08gQ1VOSEEgUEVSRVMiLCJwZXJmaWwiOjU0NjYsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6NDU5MCwiZGVzY3JpY2FvIjoiUk9EUklHTyBDVU5IQSBQRVJFUyAoMDc1LjA5OC44MzQtNzQpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFJUNiIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = YH20G_-rvIOjV6pfw126FDLzhsb79Ag5Cgo4VZy8Mxw ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJjNDMwMzY5Mi1mODU4LTQ0NTgtYjAxZi00NTdkNDZmY2E3ZGYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUzNzQ0LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNDk2OTQ0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNzUwOTg4MzQ3NCIsInBlcmZpbCI6NTQ2NiwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvcmlnZW0iOiJUUlQ2In0.JA64Bg-1qrkQ6KT63LDQSN1geKI9kemia_Q5i1MugU0 ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 541F6FAD61CC0FCE87BBF935E60C0C670CC144653CD04B3514C54B4EF08305E7F6FF822B83DDC1587304EFF4024A9508D624 ; Domain = pje.trt6.jus.br ; Path = /
+)
+12/11/2024 20:22:29: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 20:22:30: Total: 1
+12/11/2024 20:22:30: Total: 1
+12/11/2024 20:22:30: advogado 0000121-46.2013.5.06.0142 >> Processo já foi verificado recentemente
+12/11/2024 20:22:30: Total: 6
+12/11/2024 20:22:30: Total: 6
+12/11/2024 20:22:30: advogado 0000265-90.2020.5.06.0007 >> Processo já foi verificado recentemente
+12/11/2024 20:22:30: advogado 0000461-69.2020.5.06.0004 >> Processo já foi verificado recentemente
+12/11/2024 20:22:30: advogado 0000537-15.2014.5.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:22:30: advogado 0000803-12.2022.5.06.0004 >> Processo já foi verificado recentemente
+12/11/2024 20:22:30: advogado 0001237-73.2019.5.06.0014 >> Processo já foi verificado recentemente
+12/11/2024 20:22:30: advogado 0001602-66.2015.5.06.0015 >> Processo já foi verificado recentemente
+12/11/2024 20:22:31: Entrou na aba acervo do perfil e mapeou 7 processos e teve erro em 0 processos
+12/11/2024 20:22:31: Rodou

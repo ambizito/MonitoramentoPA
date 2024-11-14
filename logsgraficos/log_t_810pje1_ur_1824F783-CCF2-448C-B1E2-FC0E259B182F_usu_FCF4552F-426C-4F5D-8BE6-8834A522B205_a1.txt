@@ -1,0 +1,16 @@
+RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.10.pje.1
+12/11/2024 22:52:16: Acessou https://pje.tjma.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.i52u1ssfly "LEANDRO CESAR CRUZ DE SA LORENZETTI:06519418498"
+12/11/2024 22:52:19: Logou https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:52:19: Perfil advogado e usuário LEANDRO CESAR CRUZ DE SA LORENZETTI
+OAB = RN12552 ; URL = https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.1 ; usuarioId = RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = 2ViW8DYScLA-syfdzqKPWnLGAJrjHbBzlmqdsB9B.pje-web-ss-19 ; Domain = pje.tjma.jus.br ; Path = /pje
+Name = f114a8f9c4f449e1102a9ca02ac30508 ; Value = 95baa1a4032eea2b075b79a0aeb9dbfc ; Domain = pje.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjma.jus.br ; Path = /
+)
+12/11/2024 22:52:19: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:52:21: Total: 1
+12/11/2024 22:52:21: Total: 1
+12/11/2024 22:52:23: advogado 0825794-41.2017.8.10.0001 >> Processo com 4 parte(s), 187 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:52:24: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 22:52:24: Rodou

@@ -1,0 +1,18 @@
+PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 4.05.pje.1.80
+12/11/2024 22:59:54: Acessou https://pje.jfal.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 wgDJxV8IQOQCtRGc34ZEnBtmP9DxUnNl "GABRIEL GALVAO DANTAS TENORIO:05146428409"
+12/11/2024 22:59:56: Logou https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:59:56: Perfil advogado e usuário gabriel galvão dantas tenório
+OAB = PB15800 ; URL = https://pje.jfal.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.80 ; usuarioId = PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = BSslhpeoJ3uLk-XW9PAtQZfW.node02 ; Domain = pje.jfal.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfal.jus.br ; Path = /
+)
+12/11/2024 23:00:01: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 23:00:10: Total: 0
+12/11/2024 23:00:10: Total: 0
+12/11/2024 23:00:19: Total: 0
+12/11/2024 23:00:19: Total: 0
+12/11/2024 23:00:26: Total: 0
+12/11/2024 23:00:26: Total: 0
+12/11/2024 23:00:27: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:00:27: Rodou

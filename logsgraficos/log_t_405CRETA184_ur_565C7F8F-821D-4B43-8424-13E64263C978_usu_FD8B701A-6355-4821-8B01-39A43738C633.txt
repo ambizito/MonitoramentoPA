@@ -1,0 +1,4 @@
+9560 @santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 4.05.CRETA.1.84
+13/11/2024 01:03:24: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:04:05: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

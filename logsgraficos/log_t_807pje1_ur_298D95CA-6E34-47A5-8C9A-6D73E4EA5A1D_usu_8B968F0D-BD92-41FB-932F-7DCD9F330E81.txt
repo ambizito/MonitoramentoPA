@@ -1,0 +1,22 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.07.pje.1
+14/11/2024 10:29:25: Acessou https://pje.tjdft.jus.br/pje/login.seam
+14/11/2024 10:29:26: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 10:29:26: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 5SrZ8WLC_NZ7oyEO0zzgPOktaiEWWK8cIjDrAgvt.hc-zdu120:pje-internet-zdu120 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+14/11/2024 10:29:27: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 10:29:28: Total: 2
+14/11/2024 10:29:28: Total: 2
+14/11/2024 10:29:28: advogado 0777520-38.2024.8.07.0016 >> Processo já foi verificado recentemente
+14/11/2024 10:29:28: advogado 0727525-90.2023.8.07.0016 >> Processo já foi verificado recentemente
+14/11/2024 10:29:28: Total: 1
+14/11/2024 10:29:28: Total: 1
+14/11/2024 10:29:28: advogado 0704162-80.2018.8.07.0006 >> Processo já foi verificado recentemente
+14/11/2024 10:29:29: Total: 1
+14/11/2024 10:29:29: Total: 1
+14/11/2024 10:29:29: advogado 0723119-14.2023.8.07.0020 >> Processo já foi verificado recentemente
+14/11/2024 10:29:30: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+14/11/2024 10:29:30: Rodou

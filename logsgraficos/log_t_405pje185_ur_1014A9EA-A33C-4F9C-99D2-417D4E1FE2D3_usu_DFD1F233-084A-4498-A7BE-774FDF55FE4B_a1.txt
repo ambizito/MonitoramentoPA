@@ -1,0 +1,22 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 4.05.pje.1.85
+12/11/2024 18:38:42: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 PQVjhkrJGaUQbiQpXT8zMKeUIZj1lDSx "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 18:38:45: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:38:45: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = mgxyq5cVf5-z8VUVCg5nxV77.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3ab6968144327c112f85c7b610c8d0edf83d4090d89d6f4b348b1f8044a0c939dd4188d50ba24ae6f7c487c4611b4de0551fa24f9e914b2e1190b5c298f7e8eaf ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c379994269f56c6365856521df1e09e11e83d4090d89d6f4b348b1f8044a0c939d9e28e03f84da4df83cab16835c17b56042d4c8f2db043d993f4777cd3e8f5d7a ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c379994269f56c6365856521df1e09e11e83d4090d89d6f4b348b1f8044a0c939d9e28e03f84da4df83cab16835c17b56042d4c8f2db043d993f4777cd3e8f5d7a ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 18:38:47: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:38:52: Total: 0
+12/11/2024 18:38:52: Total: 0
+12/11/2024 18:38:57: Total: 0
+12/11/2024 18:38:57: Total: 0
+12/11/2024 18:39:00: Total: 0
+12/11/2024 18:39:00: Total: 0
+12/11/2024 18:39:02: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:39:02: Rodou

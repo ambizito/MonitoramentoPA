@@ -1,0 +1,18 @@
+RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos em 8.15.pje.1
+12/11/2024 20:05:13: Acessou https://pje.tjpb.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Rodrigo@053 0.94grnfcx4m2 "RODRIGO ALVES DA SILVA RODRIGUES GENTIL:05370712450"
+12/11/2024 20:05:16: Logou https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:05:16: Perfil advogado e usuário RODRIGO ALVES DA SILVA RODRIGUES
+OAB = RN9792 ; URL = https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.15.pje.1 ; usuarioId = RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos ; Cookies (
+Name = JSESSIONID ; Value = SN_mqBBgAniRXvX9FoOiweyrfryzOGqT2kTb-E0O.pje31-v21 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = TS019bf079 ; Value = 01766fbb178f4bec6a723802dba1ab823c9561d6fe87e7eed8abbd23ecf24a5aca07753eacc9c314017fb11810566227000e9278dd ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE1MTUsImlhdCI6MTczMTQ1MjcxNiwiYXV0aF90aW1lIjoxNzMxNDUyNzE1LCJqdGkiOiJkNDhlNWI0Yy0zMDJhLTRmZGUtOGFhYS05ZmE3OGJhNjU1NWQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBiLTFnIiwic3ViIjoiYzMzMjMyMzYtOWE4ZC00Y2EzLTk3NjYtYmNhY2NkY2FkYTlkIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYi0xZyIsInNlc3Npb25fc3RhdGUiOiJlZTA3MzBiMC01MmJiLTRlMWEtYjVkYS1mYmJlYmI3ZDM2MjEiLCJhdF9oYXNoIjoiSHAtc0puX1ZsaEEtT1JEM05LcjlEUSIsImFjciI6IjEiLCJzaWQiOiJlZTA3MzBiMC01MmJiLTRlMWEtYjVkYS1mYmJlYmI3ZDM2MjEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlJPRFJJR08gQUxWRVMgREEgU0lMVkEgUk9EUklHVUVTIiwiSlRSIjoiODE1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDUzNzA3MTI0NTAiLCJnaXZlbl9uYW1lIjoiUk9EUklHTyBBTFZFUyBEQSBTSUxWQSBST0RSSUdVRVMiLCJlbWFpbCI6InJvZHJpZ29hbHZlczk3OTJAaG90bWFpbC5jb20ifQ.K8xqRuh3ozeQPD5wqUmZKTOEgiGoeUvc1Ez3yVrgzfrtn9D9545bFXNZcSRVVjkN0VBg0LVKsqTREPg358DdNmryJBGbogdIBnYwCT0SoS84Fz2r6l9sZR2yaFtBV7x47OFssWpVWNpDylwOe6oHOFYnR7yDjCO_BoAfYjrGTBh3AkZZTcI8iUuJyU1maEf_OJi1mWe1hlyakmIsIyYG265PZgPas12YedhwnZ5B4Z5e2s5q1hiTmF20Bh_Lsld33f-txkhrEdouWcQvF1NC0V5XvHCZz1cCw9oaDeAZCtruWxs_1607FFQGPgU8zgKYmNVWFNcOyvDWMU7Ck7YwgA ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = PJE-TJPB-1G-StickySessionRule ; Value = pje31-v21:pje-tjpb-1g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = BIGipServerpool_pje1g_prod ; Value = 1527054346.36895.0000 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = TS01d5de65 ; Value = 01766fbb178f4bec6a723802dba1ab823c9561d6fe87e7eed8abbd23ecf24a5aca07753eacc9c314017fb11810566227000e9278dd ; Domain = pje.tjpb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /
+)
+12/11/2024 20:05:17: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:05:20: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:05:20: Rodou

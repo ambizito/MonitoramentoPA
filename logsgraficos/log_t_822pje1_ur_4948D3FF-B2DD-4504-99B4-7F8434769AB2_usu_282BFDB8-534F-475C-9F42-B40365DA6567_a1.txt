@@ -1,0 +1,17 @@
+AM12877@rozeno@4948D3FF-B2DD-4504-99B4-7F8434769AB2@mark em 8.22.pje.1
+12/11/2024 22:36:30: Acessou https://pjepg.tjro.jus.br/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 6789 0.r3yacus3hp5 "ALDACY ALVES ROZENO:56981074249"
+12/11/2024 22:36:33: Logou https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam
+12/11/2024 22:36:33: Perfil advogado e usuário ALDACY ALVES ROZENO
+OAB = AM12877 ; URL = https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.22.pje.1 ; usuarioId = AM12877@rozeno@4948D3FF-B2DD-4504-99B4-7F8434769AB2@mark ; Cookies (
+Name = f5avraaaaaaaaaaaaaaaa_session_ ; Value = AEAFIEJMKDDMEGGLAACDIBOKOPGNNDHEFAFDPCOEDKENCDAKAKJHPFPENAOPFLIEFJKDLLIFFCFENEKBKLFAOJINFAIAOCJEHDKHFILIDPFFDFECMEJMJJAGKOGPKOCP ; Domain = pjepg.tjro.jus.br ; Path = /Painel/painel_usuario/advogado.seam
+Name = JSESSIONID ; Value = 9c2932b62affa37bd0db9c04d1570c9a~ZMKUL_UwD8NicTeLNIfbzQV6AmvPHMbqHjLeVuwC.pjepg-77d54846dc-xqc2b ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = TS01051b55 ; Value = 015c8d21730e33c896f059e303d4ba81291021a32d8c7b1bf3d526badb5ef2be7930a828e1f23bc94a62d70036c2e189896ffd4d28d1ca6e7b498accc72c2ed6aed4d4a415e6023189e3ad77b5200b356aae441d8a20cdb3f99cde16b004024cb3d99ef72bfa816d989fd2aa95f8d34885be131f7a ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pjepg.tjro.jus.br ; Path = /
+)
+12/11/2024 22:36:34: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:36:37: Total: 1
+12/11/2024 22:36:37: Total: 1
+12/11/2024 22:36:40: advogado 7005653-08.2024.8.22.0009 >> Processo com 7 parte(s), 11 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 22:36:40: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 22:36:40: Rodou

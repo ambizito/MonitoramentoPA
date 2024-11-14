@@ -1,0 +1,6 @@
+RN13422@pmaadvogados@BA17F2F0-D85E-4671-9DEE-E885F5AB9460@jobs em 4.05.CRETA.1.84
+12/11/2024 18:05:24: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+12/11/2024 18:06:15: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 18:06:25: Não acessou a url de pesquisa para o OAB RN13422
+html: salvo no mongo.
+12/11/2024 18:06:25: Rodou

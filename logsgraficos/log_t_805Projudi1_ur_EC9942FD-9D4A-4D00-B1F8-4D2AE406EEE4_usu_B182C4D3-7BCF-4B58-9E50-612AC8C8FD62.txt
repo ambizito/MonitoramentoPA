@@ -1,0 +1,12 @@
+handersonsimoes1@gmailcom@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark em 8.05.Projudi.1
+13/11/2024 01:24:07: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:24:07: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:24:08: Não capturou o total de processos para o OAB handersonsimoes1@gmailcom
+html: salvo no mongo.
+13/11/2024 01:24:08: Rodou com falha
+handersonsimoes1@gmailcom@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark em 8.05.Projudi.1
+13/11/2024 01:25:08: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:25:08: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:25:08: Não capturou o total de processos para o OAB handersonsimoes1@gmailcom
+html: salvo no mongo.
+13/11/2024 01:25:08: Rodou com falha

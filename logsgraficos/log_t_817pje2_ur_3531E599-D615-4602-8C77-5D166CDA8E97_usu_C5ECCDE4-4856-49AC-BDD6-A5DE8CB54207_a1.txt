@@ -1,0 +1,12 @@
+PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark em 8.17.pje.2
+12/11/2024 17:39:24: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 776933 0.dun2cn2xttf "ENIO SILVA NASCIMENTO77693329587"
+12/11/2024 17:39:27: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 17:39:27: Perfil advogado e usuário ENIO SILVA NASCIMENTO
+OAB = PB11946 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = TBAPY__OMYK0Rxx6dhoyclXa1QlklhGJIC9vZL-F.keycloak-6 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+12/11/2024 17:39:30: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Ciência dada pelo Judiciário - pendente de resposta, Respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 17:39:40: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 17:39:40: Rodou

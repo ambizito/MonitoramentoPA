@@ -1,0 +1,8 @@
+06667749433@rrc@D57B69BB-47A3-4E2E-8843-40A6350CA31F@bezos em 6.10.pje.2
+13/11/2024 19:27:24: Acessou https://pje.tre-ma.jus.br/pje/login.seam
+13/11/2024 19:27:27: Erro no acesso: Desconhecido
+html: salvo no mongo.
+06667749433@rrc@D57B69BB-47A3-4E2E-8843-40A6350CA31F@bezos em 6.10.pje.2
+13/11/2024 19:28:28: Acessou https://pje.tre-ma.jus.br/pje/login.seam
+13/11/2024 19:28:32: Erro no acesso: Desconhecido
+html: salvo no mongo.

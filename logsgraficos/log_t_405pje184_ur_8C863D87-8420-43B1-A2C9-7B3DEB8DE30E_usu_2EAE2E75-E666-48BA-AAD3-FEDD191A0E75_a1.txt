@@ -1,0 +1,18 @@
+BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners em 4.05.pje.1.84
+12/11/2024 22:25:50: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Dsc@2024 pF98Kue1pmeZZCQjDiSlaQu3wJBhfGdo "DENIS SANTOS DA COSTA:96628898504"
+12/11/2024 22:25:52: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:25:52: Perfil advogado e usuário Denis Santos da Costa
+OAB = BA31210 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = BA31210@carvalhoecosta@8C863D87-8420-43B1-A2C9-7B3DEB8DE30E@berners ; Cookies (
+Name = JSESSIONID ; Value = h4iFlbO1zYHM0T72x2GOC+Du.node03 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 22:25:54: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:26:00: Total: 0
+12/11/2024 22:26:00: Total: 0
+12/11/2024 22:26:07: Total: 0
+12/11/2024 22:26:07: Total: 0
+12/11/2024 22:26:13: Total: 0
+12/11/2024 22:26:13: Total: 0
+12/11/2024 22:26:14: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:26:14: Rodou

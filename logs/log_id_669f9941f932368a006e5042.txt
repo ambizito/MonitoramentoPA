@@ -1,7 +1,0 @@
-RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.19.pje.2
-08/10/2024 10:27:31: Acessou https://tjrj.pje.jus.br/2g/login.seam
-Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar coque123 mLKPAuvaSLUEhVQLF8BGe2ooCsklmqIs "LUCAS RODRIGUES DE MEDEIROS COQUE:09935787486"
-08/10/2024 10:27:31: Exceção: O sistema não pode encontrar o arquivo especificado
-Stack Trace:    em System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
-   em ProcessoAgil.TribunalToken.Assinar(String ViewState, String mensagem, String senha, String hashAlgoritmo, Int32 slot, String html, TokenInfo token, String tribunal, String uuid) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 2672
-   em ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 337

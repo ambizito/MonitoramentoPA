@@ -1,0 +1,23 @@
+05520521409@portoemaia@CED18B30-4BF2-404A-9222-0077FFD76501@bezos em 5.05.pje.2
+12/11/2024 17:56:44: Acessou https://pje.trt5.jus.br/segundograu/login.seam
+12/11/2024 17:56:45: Logou https://pje.trt5.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 17:56:46: Perfil advogado e usuário BARBARA CAMPOS PORTO PALHANO
+OAB = 05520521409 ; URL = https://pje.trt5.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.05.pje.2 ; usuarioId = 05520521409@portoemaia@CED18B30-4BF2-404A-9222-0077FFD76501@bezos ; Cookies (
+Name = JSESSIONID ; Value = 1e2b4e853bc4a3ee~XVcFs94UxA9Qnmhug3El6nN6 ; Domain = pje.trt5.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt5.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = 4512f37f-ad6f-466a-a37c-288453cccd44 ; Domain = pje.trt5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmMzNmYzBjOC01MGQwLTQxODMtYWYwOS05MzI5ZjNlMDM0NTYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQ1MDA0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDQ4NjA0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ2MDU0MiwibG9naW4iOiIwNTUyMDUyMTQwOSIsIm5vbWUiOiJCQVJCQVJBIENBTVBPUyBQT1JUTyBQQUxIQU5PIiwicGVyZmlsIjo5MDY0NCwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjo3MjE4MCwiZGVzY3JpY2FvIjoiQkFSQkFSQSBDQU1QT1MgUE9SVE8gUEFMSEFOTyAoMDU1LjIwNS4yMTQtMDkpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFJUNSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token_footer ; Value = owD15OdSxbor3A2ib27ghCy2dudnjyqkTH1fiXkkFuc ; Domain = pje.trt5.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwNWU3NzAzNy1iNjI3LTRmYTktOWE1My0zMWJmN2FlYTg1NjYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQ1MDA0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDg4MjA0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTUyMDUyMTQwOSIsInBlcmZpbCI6OTA2NDQsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNSJ9.BJGhP6C5Lvta8lK5XvUdIGQgBI4iEg7-pRjxHubZC_c ; Domain = pje.trt5.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 17CA57E588C0C1E8BE99486124A6626FE9C314F4138C8EAB96F01D6E2D86F678A2522BA12C0AF64B9B8B33A725B299DBA896 ; Domain = pje.trt5.jus.br ; Path = /
+)
+12/11/2024 17:56:47: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 17:56:48: Total: 1
+12/11/2024 17:56:48: Total: 1
+12/11/2024 17:56:48: advogado 0000468-24.2022.5.05.0035 >> Processo já foi verificado recentemente
+12/11/2024 17:56:48: Total: 1
+12/11/2024 17:56:48: Total: 1
+12/11/2024 17:56:48: advogado 0000468-24.2022.5.05.0035 >> Processo já foi verificado recentemente
+12/11/2024 17:56:49: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 17:56:49: Rodou

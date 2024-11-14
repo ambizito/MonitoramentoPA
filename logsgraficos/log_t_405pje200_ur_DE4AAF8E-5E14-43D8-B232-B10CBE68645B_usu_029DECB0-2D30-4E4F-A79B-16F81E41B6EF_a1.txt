@@ -1,0 +1,23 @@
+RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark em 4.05.pje.2.00
+12/11/2024 17:50:13: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Henf0714 s3clStsdyxNnPO0zV7AMTXySB5hNvmVk "HENRIQUE EDUARDO NUNES DE FRANCA:01126394459"
+12/11/2024 17:50:18: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 17:50:18: Perfil advogado e usuário HENRIQUE EDUARDO NUNES DE FRANCA
+OAB = RN15034 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark ; Cookies (
+Name = JSESSIONID ; Value = Rfpk0D9WDctodI392+JofaZZ.node08 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab20001906493be96ee54033861e2b0dd63502b0d80cb6ba04a297e3b13da24cc356990879b3452711300023b5dba1d2431daa186bee0ad3e2668c10b7559b54ab521ae5c5e803b4fd54c6c792051174cf36a64d6891ed9280f835 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 17:51:52: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 17:52:08: Total: 0
+12/11/2024 17:52:08: Total: 0
+12/11/2024 17:52:30: Total: 4
+12/11/2024 17:52:30: Total: 4
+12/11/2024 17:52:30:  0802546-77.2016.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 17:52:30:  0802778-16.2021.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 17:52:30:  0803264-73.2024.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 17:52:30:  0800074-10.2024.4.05.8405 >> Processo já foi verificado recentemente
+12/11/2024 17:52:46: Total: 0
+12/11/2024 17:52:46: Total: 0
+12/11/2024 17:52:47: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 17:52:47: Rodou

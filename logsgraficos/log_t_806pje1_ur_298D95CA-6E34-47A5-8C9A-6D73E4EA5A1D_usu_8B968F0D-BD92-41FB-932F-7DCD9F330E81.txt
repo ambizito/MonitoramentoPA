@@ -1,0 +1,39 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.06.pje.1
+14/11/2024 09:21:26: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+14/11/2024 09:21:27: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+14/11/2024 09:21:27: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = iR6Oh1qAAKKs1lMgtdflSEfxxYLLVZmEkauSZjEh.tjpjp12 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTU2ODcsImlhdCI6MTczMTU4Njg4NywiYXV0aF90aW1lIjoxNzMxNTg2ODg3LCJqdGkiOiIzNTc5ZGU2MS1kYjAzLTQzNDgtOWIwOC1jZTNlZGI0YTU4MTUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiZDVkZGRiZTgtMTEzOS00OWE5LTg3OTAtZmFhYzg4MjI0YzI5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiIxMjhjNjU2My1hMGU4LTRkZTAtYWYxNS03Mjk5NDEwMDNmZjUiLCJhdF9oYXNoIjoiZkZCQURwWjh5Ry1xMVktLTRGZ1pvQSIsImFjciI6IjEiLCJzaWQiOiIxMjhjNjU2My1hMGU4LTRkZTAtYWYxNS03Mjk5NDEwMDNmZjUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJKT1NFIFBJUkVTIFJPRFJJR1VFUyBGSUxITyIsImp0ciI6IjgwNiIsIkpUUiI6IjgwNiIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0OTQ0NDcxNDE2IiwiZ2l2ZW5fbmFtZSI6IkpPU0UgUElSRVMgUk9EUklHVUVTIEZJTEhPIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGdjcGFkdm9nYWRvcy5jb20uYnIifQ.qEiJbzlPXHytDgHXqnmzaJOcSYsLYG4OGRRMIQUWhNcrheG5ynegbG2nJe1FxWlkQZKikEhFUxv9eH-5aXm_l6ZHYZF4MoveB7pxo8_VWyYIvePqAB34b8H6cryZKUljWKObW9GVg6W7BtyI6oZocpZvj-P26eeA_gDdPtjBlJAhNWqS5VFmoxA3zNXl5x56jqCWUI0-Do23keFZoLDtIxzkIMDVqBBYCJNfi7kKUAmTOSQLTxa8J8aUYPrNjR1vAbt0nR6qnQ6SHPBoKbqdUg1YsYizwFo8C6v27-BSErTGbMhpMoGnv_3mcG8_EdeeU8WWtPYl-_n7CePf8TJoyg ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp12:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+14/11/2024 09:21:28: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 09:21:29: Total: 1
+14/11/2024 09:21:29: Total: 1
+14/11/2024 09:21:29: advogado 3001310-33.2017.8.06.0072 >> Processo já foi verificado recentemente
+14/11/2024 09:21:29: Total: 1
+14/11/2024 09:21:29: Total: 1
+14/11/2024 09:21:29: advogado 3029204-90.2023.8.06.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:21:29: Total: 1
+14/11/2024 09:21:29: Total: 1
+14/11/2024 09:21:29: advogado 3000616-28.2023.8.06.0016 >> Processo já foi verificado recentemente
+14/11/2024 09:21:30: Total: 4
+14/11/2024 09:21:30: Total: 4
+14/11/2024 09:21:30: advogado 0203059-56.2022.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:30: advogado 0203058-37.2023.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:30: advogado 0206752-14.2023.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:30: advogado 0200694-29.2022.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:30: Total: 2
+14/11/2024 09:21:31: Total: 2
+14/11/2024 09:21:31: advogado 3000213-48.2023.8.06.0246 >> Processo já foi verificado recentemente
+14/11/2024 09:21:31: advogado 3000738-15.2021.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:31: Total: 4
+14/11/2024 09:21:31: Total: 4
+14/11/2024 09:21:31: advogado 3001063-50.2022.8.06.0113 >> Processo já foi verificado recentemente
+14/11/2024 09:21:31: advogado 3000477-13.2022.8.06.0113 >> Processo já foi verificado recentemente
+14/11/2024 09:21:31: advogado 3000667-18.2018.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:31: advogado 3000650-79.2018.8.06.0112 >> Processo já foi verificado recentemente
+14/11/2024 09:21:32: Entrou na aba acervo do perfil e mapeou 13 processos e teve erro em 0 processos
+14/11/2024 09:21:32: Rodou

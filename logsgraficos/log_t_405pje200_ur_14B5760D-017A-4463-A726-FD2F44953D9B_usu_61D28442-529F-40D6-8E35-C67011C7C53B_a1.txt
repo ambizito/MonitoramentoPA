@@ -1,0 +1,26 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 4.05.pje.2.00
+12/11/2024 16:53:20: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 sPm91xC1rNl2p4hZOO4DQxzTlTZbkzcP "GERSON SANTINI:01529424160"
+12/11/2024 16:53:23: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:53:23: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = 7R6OIC6OYrzsTEchqLNnvGiS.node07 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab200053c9c3b60422193f2ff80a5d87f51e375ed8ee4e4cbb44e4774f715d9d387eef086685c8e21130006ab6ba3e1cdc1f5cb71c03f1592e55fe9c20bda8a2b174d42f125d1fa25d839a69383818fc7fa73cce66d497b99569b7 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 16:54:58: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 16:55:13: Total: 1
+12/11/2024 16:55:13: Total: 1
+12/11/2024 16:55:26:  0800309-26.2023.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 16:55:46: Total: 6
+12/11/2024 16:55:46: Total: 6
+12/11/2024 16:55:58:  0801054-16.2017.4.05.8400 >> Processo com 5 parte(s), 13 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 16:56:10:  0800199-17.2020.4.05.8405 >> Processo com 3 parte(s), 14 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 16:56:25:  0807430-47.2019.4.05.8400 >> Processo com 4 parte(s), 15 andamento(s) e 41 expediente(s) atualizado
+12/11/2024 16:56:37:  0801205-40.2021.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 16:56:47:  0801778-44.2022.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 16:57:02:  0802090-88.2020.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 39 expediente(s) atualizado
+12/11/2024 16:57:18: Total: 0
+12/11/2024 16:57:18: Total: 0
+12/11/2024 16:57:19: Entrou na aba acervo do perfil e mapeou 7 processos e teve erro em 0 processos
+12/11/2024 16:57:19: Rodou

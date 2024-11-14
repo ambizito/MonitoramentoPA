@@ -1,0 +1,14 @@
+RN15606A@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 8.11.pje.1
+12/11/2024 18:19:36: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.401usmd1sm1 "JOSENILDO SOUSA DE OLIVEIRA:04429349479"
+12/11/2024 18:19:39: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:19:39: Perfil advogado e usuário JOSENILDO SOUSA DE OLIVEIRA
+OAB = RN15606A ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = RN15606A@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus ; Cookies (
+Name = JSESSIONID ; Value = 3V1cOBCQs2aPZz8kiLvnxzPChDSAomTxoKQIUJmt.pjev2-vra-0016 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_2_sn_C9F9ABD778C7F0F13C287991280C129E_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_2_sn_C9F9ABD778C7F0F13C287991280C129E_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+12/11/2024 18:19:39: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:19:41: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:19:41: Rodou

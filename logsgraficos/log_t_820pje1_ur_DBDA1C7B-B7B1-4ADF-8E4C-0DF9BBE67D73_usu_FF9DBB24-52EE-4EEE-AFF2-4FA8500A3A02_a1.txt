@@ -1,0 +1,26 @@
+PB16228@mphadvocacia@DBDA1C7B-B7B1-4ADF-8E4C-0DF9BBE67D73@bezos em 8.20.pje.1
+13/11/2024 01:02:20: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 070188070188 0.cref95q1a3u "LUCAS HENRIQUES DE QUEIROZ MELO:06651876457"
+13/11/2024 01:02:24: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:02:24: Perfil advogado e usuário LUCAS HENRIQUES DE QUEIROZ MELO
+OAB = PB16228 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB16228@mphadvocacia@DBDA1C7B-B7B1-4ADF-8E4C-0DF9BBE67D73@bezos ; Cookies (
+Name = JSESSIONID ; Value = rLvPxBmKJN2pIPKoSK9-IGKsOzOF7x1BM8UAgJ9d.pje1g-104-f6c4c ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTkzNDIsImlhdCI6MTczMTQ3MDU0MiwiYXV0aF90aW1lIjoxNzMxNDcwNTQyLCJqdGkiOiIzMGFjMTQzZS03MjMyLTQ2ZjctOTNkZi00YzhlMGM2MTIwNGUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiZGJhNTA1NTYtOTk1Yi00NWU0LThlZGItZTgxMGY2Mjk3ZmU3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiIzN2IxMGM3ZC05M2U1LTQ1MTctODNmZS0xY2RmM2IzY2IwNWYiLCJhdF9oYXNoIjoiaEhvRmVxekRXU1lYVUNYeUh3YnhHZyIsImFjciI6IjEiLCJzaWQiOiIzN2IxMGM3ZC05M2U1LTQ1MTctODNmZS0xY2RmM2IzY2IwNWYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxVQ0FTIEhFTlJJUVVFUyBERSBRVUVJUk9aIE1FTE8iLCJKVFIiOiI4MjAiLCJqdHIiOiI4MjAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNjY1MTg3NjQ1NyIsImdpdmVuX25hbWUiOiJMVUNBUyBIRU5SSVFVRVMgREUgUVVFSVJPWiBNRUxPIiwiZW1haWwiOiJsdWNhc2hlbnJpcXVlc21lbG9AaG90bWFpbC5jb20ifQ.iM8C8vyuGxGp0DP9zsAHXUHygpblm6etTuByHNts3Wj9Dn-gR8lQhFDnVexVa7sKWwN79STqimVX0p1VZGZIrPc3rfyGnKN4Wwv0up0EGTKO1OVNUmMn8XvxvSVxbo-haW066tfgFdgVB4TY0Rhv66A2afpultRRtqW3XtybBTwNU4TkRqLJHE-g0elUQDsV8TyVtQsMVOtyYoq636VeIc2nUsIpTd-R5uHoe3F98X2rigRP6dZzEdUZZgIITbVNWzbWnlfeM4_hZhMk8ED9CLNvw-Er8hN_1GhmRIPg-GBjJKhe9cDG07e65EM0Q6rxgbZYdL7xGAJoccWR2OdkJQ ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-f6c4c:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = de52001c836e7f9170f074eac5ebfe3a ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:02:24: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:02:26: Total: 1
+13/11/2024 01:02:26: Total: 1
+13/11/2024 01:02:28: advogado 0800439-06.2024.8.20.5142 >> Processo com 2 parte(s), 28 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:02:28: Total: 1
+13/11/2024 01:02:29: Total: 1
+13/11/2024 01:02:31: advogado 0800215-65.2022.8.20.5101 >> Processo com 2 parte(s), 40 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:02:31: Total: 2
+13/11/2024 01:02:31: Total: 2
+13/11/2024 01:02:33: advogado 0815525-43.2024.8.20.5004 >> Processo com 3 parte(s), 37 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:02:35: advogado 0822853-92.2022.8.20.5004 >> Processo com 2 parte(s), 78 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:02:36: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+13/11/2024 01:02:36: Rodou

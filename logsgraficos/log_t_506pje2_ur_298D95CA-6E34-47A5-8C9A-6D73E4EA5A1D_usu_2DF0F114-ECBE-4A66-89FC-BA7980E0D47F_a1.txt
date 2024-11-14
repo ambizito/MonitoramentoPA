@@ -1,0 +1,82 @@
+PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 5.06.pje.2
+12/11/2024 20:24:53: Acessou https://pje.trt6.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 daK3kK29xbnZnRbDp4T8LSghFvwxqFDk "GABRIEL GALVAO DANTAS TENORIO:05146428409"
+12/11/2024 20:24:56: Logou https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 20:24:56: Perfil advogado e usuário GABRIEL GALVAO DANTAS TENORIO
+OAB = PB15800 ; URL = https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.2 ; usuarioId = PB15800@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 63a616fbbaf501bc~MmWDI47AMtNSXlbQNAMTFf1F ; Domain = pje.trt6.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = fb1f7d32-7fc1-4dc0-bb33-22840230f98b ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3ZTc4N2U3Zi02MzI4LTQxOGYtOTNmYS0wMjgxNzBiYmEyYjQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUzODk1LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNDU3NDk1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjYwNzM0LCJsb2dpbiI6IjA1MTQ2NDI4NDA5Iiwibm9tZSI6IkdBQlJJRUwgR0FMVkFPIERBTlRBUyBURU5PUklPIiwicGVyZmlsIjoxNTUxNCwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxMjk0MCwiZGVzY3JpY2FvIjoiR0FCUklFTCBHQUxWQU8gREFOVEFTIFRFTk9SSU8gKDA1MS40NjQuMjg0LTA5KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDYiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = DLETHdRlujfdhmlAcwp9lQ6Pk2IrRKKI2EoyqpO9rak ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlYTBjYThlMC1lMGFmLTRjYjMtYTM4Zi1iMDMyNWU2OWYzMDUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDUzODk1LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNDk3MDk1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTE0NjQyODQwOSIsInBlcmZpbCI6MTU1MTQsIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNiJ9.CdrkAc0vO4iGPKBB6CV0CUdnjSmf9umhwW5QyP6stks ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 3802DC26AE2C726D00EB75C9FB32DA25FA4AF930EAFAC8FFE37BA573CB89F7B8B14ED773328DC58AB3D3AAB21A4720B622DC ; Domain = pje.trt6.jus.br ; Path = /
+)
+12/11/2024 20:24:57: Total: 3
+12/11/2024 20:24:59: advogado 0000249-12.2024.5.06.0003 >> Processo com 3 parte(s), 25 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:01: advogado 0000967-86.2023.5.06.0021 >> Processo com 4 parte(s), 48 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 20:25:01: advogado 0000967-86.2023.5.06.0021 >> Processo já foi verificado recentemente
+12/11/2024 20:25:01: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 9 e leu 3
+12/11/2024 20:25:03: Total: 23
+12/11/2024 20:25:03: Total: 23
+12/11/2024 20:25:05: advogado 0000191-15.2024.5.06.0001 >> Processo com 3 parte(s), 26 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:08: advogado 0000221-06.2022.5.06.0006 >> Processo com 5 parte(s), 70 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 20:25:08: advogado 0000249-12.2024.5.06.0003 >> Processo já foi verificado recentemente
+12/11/2024 20:25:12: advogado 0000327-45.2021.5.06.0121 >> Processo com 3 parte(s), 131 andamento(s) e 19 expediente(s) atualizado
+12/11/2024 20:25:14: advogado 0000367-95.2015.5.06.0231 >> Processo com 4 parte(s), 37 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:25:16: advogado 0000435-66.2022.5.06.0371 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:20: advogado 0000522-90.2022.5.06.0122 >> Processo com 6 parte(s), 57 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:25:21: advogado 0000569-02.2024.5.06.0023 >> Processo com 3 parte(s), 1 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:25:24: advogado 0000612-39.2023.5.06.0001 >> Processo com 3 parte(s), 71 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:25:26: advogado 0000635-49.2015.5.06.0232 >> Processo com 4 parte(s), 19 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:28: advogado 0000637-19.2015.5.06.0232 >> Processo com 4 parte(s), 37 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 20:25:30: advogado 0000737-94.2020.5.06.0006 >> Processo com 3 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:32: advogado 0000763-33.2023.5.06.0121 >> Processo com 3 parte(s), 17 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:36: advogado 0000778-82.2021.5.06.0020 >> Processo com 4 parte(s), 90 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:25:38: advogado 0000831-12.2020.5.06.0016 >> Processo com 3 parte(s), 46 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:25:40: advogado 0000840-78.2023.5.06.0012 >> Processo com 3 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:25:40: advogado 0000967-86.2023.5.06.0021 >> Processo já foi verificado recentemente
+12/11/2024 20:25:42: advogado 0000993-21.2021.5.06.0000 >> Processo com 5 parte(s), 16 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:25:44: advogado 0001006-20.2021.5.06.0000 >> Processo com 6 parte(s), 43 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:25:44: advogado 0001248-33.2023.5.06.0121 >> Processo já foi verificado recentemente
+12/11/2024 20:25:48: advogado 0001751-64.2013.5.06.0231 >> Processo com 5 parte(s), 62 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 20:25:50: advogado 0002407-55.2015.5.06.0391 >> Processo com 4 parte(s), 43 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:25:52: advogado 0011201-94.2014.5.06.0231 >> Processo com 4 parte(s), 11 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:25:52: Total: 2
+12/11/2024 20:25:52: Total: 2
+12/11/2024 20:25:52: advogado 0000993-21.2021.5.06.0000 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0001006-20.2021.5.06.0000 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: Total: 8
+12/11/2024 20:25:52: Total: 8
+12/11/2024 20:25:52: advogado 0000221-06.2022.5.06.0006 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000367-95.2015.5.06.0231 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000522-90.2022.5.06.0122 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000612-39.2023.5.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000637-19.2015.5.06.0232 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000778-82.2021.5.06.0020 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000967-86.2023.5.06.0021 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0002407-55.2015.5.06.0391 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: Total: 5
+12/11/2024 20:25:52: Total: 5
+12/11/2024 20:25:52: advogado 0000191-15.2024.5.06.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000249-12.2024.5.06.0003 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000635-49.2015.5.06.0232 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0000737-94.2020.5.06.0006 >> Processo já foi verificado recentemente
+12/11/2024 20:25:52: advogado 0011201-94.2014.5.06.0231 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: Total: 6
+12/11/2024 20:25:53: Total: 6
+12/11/2024 20:25:53: advogado 0000327-45.2021.5.06.0121 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: advogado 0000763-33.2023.5.06.0121 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: advogado 0000831-12.2020.5.06.0016 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: advogado 0000840-78.2023.5.06.0012 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: advogado 0001248-33.2023.5.06.0121 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: advogado 0001751-64.2013.5.06.0231 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: Total: 1
+12/11/2024 20:25:53: Total: 1
+12/11/2024 20:25:53: advogado 0000435-66.2022.5.06.0371 >> Processo já foi verificado recentemente
+12/11/2024 20:25:53: Total: 1
+12/11/2024 20:25:53: Total: 1
+12/11/2024 20:25:53: advogado 0000569-02.2024.5.06.0023 >> Processo já foi verificado recentemente
+12/11/2024 20:25:54: Entrou na aba acervo do perfil e mapeou 46 processos e teve erro em 0 processos
+12/11/2024 20:25:54: Rodou

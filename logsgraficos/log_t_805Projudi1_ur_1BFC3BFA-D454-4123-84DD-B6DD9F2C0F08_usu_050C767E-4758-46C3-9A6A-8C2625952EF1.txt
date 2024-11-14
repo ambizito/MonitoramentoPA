@@ -1,0 +1,9 @@
+25593PB@velloso@1BFC3BFA-D454-4123-84DD-B6DD9F2C0F08@berners em 8.05.Projudi.1
+12/11/2024 22:13:59: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 22:14:00: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 22:14:00: Entrou na aba acervo e mapeou 0 processos
+12/11/2024 22:14:00: Total: 1
+12/11/2024 22:14:01: Entrou na aba acervo e mapeou 1 processos
+12/11/2024 22:14:01: Entrou na aba acervo e mapeou 0 processos
+12/11/2024 22:14:01: Rodou
+12/11/2024 22:14:01: Rodou

@@ -1,0 +1,14 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.22.pje.1
+12/11/2024 20:06:13: Acessou https://pjepg.tjro.jus.br/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 0.v6c0sjhfx87 "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 20:06:16: Logou https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam
+12/11/2024 20:06:16: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.22.pje.1 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = f5avraaaaaaaaaaaaaaaa_session_ ; Value = GPMCNILMBCECCDBLMNAAKOCOEKHAEMABJJLHNLIFOPMAIOMCMOMEJJNMAFDJPDGHBOGDMPDONPDDPBDCGAMANNFBBNBKBMNDLLMIGENEDJELHBHKAKJKEHGFNKOMOFMN ; Domain = pjepg.tjro.jus.br ; Path = /Painel/painel_usuario/advogado.seam
+Name = JSESSIONID ; Value = 69f39950dfaf45b429e8d3b1cf32c146~hpNWdmrCclDhlBNunfklMqW8eHFKRBMp0fPzNlJl.pjepg-66fc65df9f-zlmd4 ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = TS01051b55 ; Value = 015c8d21734940381035fe80a4bd5d9872c42ed6de7462c42a683c5d59964a5a7a710080eb746b425c4fea46d8d26626f3a5ea0595494698ab5b80bc1f1d702f130c6d8747f6611e319c4cf49708b3ec3bf80fb4e361c644a5cbf8a5a56defb7654815ebe066be15c7af9f44529e57d65e809d24b8 ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pjepg.tjro.jus.br ; Path = /
+)
+12/11/2024 20:06:16: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:06:18: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:06:18: Rodou

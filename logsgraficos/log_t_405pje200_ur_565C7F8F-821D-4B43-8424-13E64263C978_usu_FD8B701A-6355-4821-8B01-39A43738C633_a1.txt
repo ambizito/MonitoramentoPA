@@ -1,0 +1,22 @@
+RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 4.05.pje.2.00
+13/11/2024 00:56:01: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1857 pHu5Y6iRfwoPCkBQsoTi4DZT4MY5Bv6p "JESSICA XAVIER DA SILVA SANTOS:08295861484"
+13/11/2024 00:56:04: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:56:04: Perfil advogado e usuário Jéssica Xavier da Silva Santos Carvalho
+OAB = RN11345 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = GfwObXFfK2+HLkotjiJJbqKL.node12 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000caeee2887adbfa4873271d811cc2305244cf3e0b01500da860927a07aa7e4e8a082df461f01130002933af3833e6c259acd88c0be451b8ea5ff3a0f83a81be0cf7b9a663a3b7a0b61ecc1e989d7697a0720411771740746e ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+13/11/2024 00:57:34: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 00:57:47: Total: 0
+13/11/2024 00:57:47: Total: 0
+13/11/2024 00:58:04: Total: 3
+13/11/2024 00:58:04: Total: 3
+13/11/2024 00:58:16:  0801871-94.2016.4.05.0000 >> Processo com 4 parte(s), 15 andamento(s) e 11 expediente(s) atualizado
+13/11/2024 00:58:27:  0803746-02.2016.4.05.0000 >> Processo com 4 parte(s), 15 andamento(s) e 20 expediente(s) atualizado
+13/11/2024 00:58:38:  0802665-38.2016.4.05.8400 >> Processo com 4 parte(s), 15 andamento(s) e 17 expediente(s) atualizado
+13/11/2024 00:58:52: Total: 0
+13/11/2024 00:58:52: Total: 0
+13/11/2024 00:58:53: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+13/11/2024 00:58:53: Rodou

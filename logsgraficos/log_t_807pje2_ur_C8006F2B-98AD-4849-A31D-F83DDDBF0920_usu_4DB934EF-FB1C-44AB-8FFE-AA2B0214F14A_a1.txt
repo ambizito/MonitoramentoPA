@@ -1,0 +1,16 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 8.07.pje.2
+12/11/2024 20:32:21: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# 0.b00lgw6xk5y "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+12/11/2024 20:32:24: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:32:24: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = L7DrI4wd1twqbju5k8FXPLENwt0tAcROcoI1uuSN.hc-zdu126:pje2i-internet-zdu126 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 20:32:24: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:32:25: Total: 1
+12/11/2024 20:32:25: Total: 1
+12/11/2024 20:32:25: advogado 0722454-29.2021.8.07.0000 >> Processo já foi verificado recentemente
+12/11/2024 20:32:26: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:32:27: Rodou

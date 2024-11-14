@@ -1,0 +1,11 @@
+06491163482@petronioleonardo@C946031B-FD0C-48AA-B019-9E0CAD67EB92@linus em 8.17.pje.2
+13/11/2024 00:13:30: Acessou https://pje.tjpe.jus.br/2g/login.seam
+13/11/2024 00:13:32: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+13/11/2024 00:13:32: Perfil advogado e usuário 
+OAB = 06491163482 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState =  ; tribunal = 8.17.pje.2 ; usuarioId = 06491163482@petronioleonardo@C946031B-FD0C-48AA-B019-9E0CAD67EB92@linus ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = qkGD6prw3l7ywBGPMrbBFUZhD2Kks91LHtaIqgbF.keycloak-8 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+13/11/2024 00:13:32: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:13:44: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:13:44: Rodou

@@ -1,0 +1,12 @@
+PE39940@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus em 8.17.pje.2
+12/11/2024 20:06:03: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.ptwgdry29m3 "yuri barbosa de oliveira:07491684475 2023-12-19 10:03:11"
+12/11/2024 20:06:06: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:06:06: Perfil advogado e usuário YURI BARBOSA DE OLIVEIRA
+OAB = PE39940 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = PE39940@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = MHNrUIOVWQUkRGSEA-X6d-0tk5QnFcDL0dAwl1zV.keycloak-3 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+12/11/2024 20:06:08: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta, Respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 20:06:09: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:06:09: Rodou

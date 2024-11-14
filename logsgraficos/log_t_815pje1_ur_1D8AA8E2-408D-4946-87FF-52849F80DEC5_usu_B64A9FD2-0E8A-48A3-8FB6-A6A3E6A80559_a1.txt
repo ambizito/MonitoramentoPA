@@ -1,0 +1,1122 @@
+PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 8.15.pje.1
+12/11/2024 21:57:21: Acessou https://pje.tjpb.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Wms@2546 0.imtb3wpxk3u "WILSON RIBEIRO DE MORAES NETO:05651954414"
+12/11/2024 21:57:24: Logou https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:57:24: Perfil advogado e usuário WILSON RIBEIRO DE MORAES NETO
+OAB = PB15660 ; URL = https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.15.pje.1 ; usuarioId = PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos ; Cookies (
+Name = JSESSIONID ; Value = -RbAHCjnd0c7T6dwH-v9ba7Q3zcCqjR98QPeqDwg.pje20-v21 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = TS019bf079 ; Value = 01766fbb17e2976ec6d44f5dcc9c32b45e8477351491570b73960c1fba5a61af6b4260a79815e1ea288273c1c18de1f7b52acef847 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODgyNDMsImlhdCI6MTczMTQ1OTQ0MywiYXV0aF90aW1lIjoxNzMxNDU5NDQzLCJqdGkiOiJlNTQwM2QwMS1jNzViLTQ5NzEtYmIxNi04M2Q0NjkxNTRmNjAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBiLTFnIiwic3ViIjoiYTk5NmI3MzItNDk5NS00ODUyLTg1ZTMtMmQ4YjA3ZDE2MGUwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYi0xZyIsInNlc3Npb25fc3RhdGUiOiI4ODI2ZThiMC02MzM3LTRiNjMtYTM0OC0wMGIxMDIwN2I3MjkiLCJhdF9oYXNoIjoic2VWdEJZTXBZTTdXOWhRXzJlUHJEZyIsImFjciI6IjEiLCJzaWQiOiI4ODI2ZThiMC02MzM3LTRiNjMtYTM0OC0wMGIxMDIwN2I3MjkiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IldJTFNPTiBSSUJFSVJPIERFIE1PUkFFUyBORVRPIiwiSlRSIjoiODE1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDU2NTE5NTQ0MTQiLCJnaXZlbl9uYW1lIjoiV0lMU09OIFJJQkVJUk8gREUgTU9SQUVTIE5FVE8iLCJlbWFpbCI6IndpbHNvbm1vcmFlc2FkdkBnbWFpbC5jb20ifQ.ZPuT8KYUojwB6Jiaw49Ob4NjYS63OqVpwzJEh81h6slMcHZqMLl8qvZbYp5F3nu6qeLPdNMHEceQS-fmmBXdm9Azcz9bxqL4DqLUg8yvh4IiOaz4ziJMEG-2IdO2lknGOSBx_Zok9oOuFtLGzo31P9f9uqEAkunjfI3DGXCp5OtJ1cWc7YGnvUiG1Pz3bojzvfvKedNqUh7Pyxa3XTJtSVT8Kam3_EnHrIxUTk23oRz0Pm6lFJjSbMbUZyPiYFkR7-O-HflH1vZlXpHsMgwg5nY5bqeK52EB2yCqsGWfmMK4v55gsBh3GO0fx_OcIqFWszn1aoKxRqQCZPU6qrIE-g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = PJE-TJPB-1G-StickySessionRule ; Value = pje20-v21:pje-tjpb-1g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = BIGipServerpool_pje1g_prod ; Value = 621084682.36895.0000 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = TS01d5de65 ; Value = 01766fbb17e2976ec6d44f5dcc9c32b45e8477351491570b73960c1fba5a61af6b4260a79815e1ea288273c1c18de1f7b52acef847 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /
+)
+12/11/2024 21:57:26: Total: 3
+12/11/2024 21:57:27: advogado 0870242-31.2024.8.15.2001 >> Processo com 4 parte(s), 31 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:57:28: advogado 0802941-34.2024.8.15.0751 >> Processo com 2 parte(s), 66 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 21:57:28: advogado 0870242-31.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:57:29: Total: 1
+12/11/2024 21:57:30: advogado 0809118-74.2024.8.15.0731 >> Processo com 2 parte(s), 35 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:57:31: Total: 3
+12/11/2024 21:57:33: advogado 0805480-15.2015.8.15.2003 >> Processo com 6 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:33: advogado 0805480-15.2015.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 21:57:34: advogado 0863896-64.2024.8.15.2001 >> Processo com 4 parte(s), 38 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:57:35: Total: 75
+12/11/2024 21:57:36: advogado 0870091-41.2019.8.15.2001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:38: advogado 0822080-44.2020.8.15.2001 >> Processo com 2 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:39: advogado 0822908-40.2020.8.15.2001 >> Processo com 2 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:41: advogado 0824632-79.2020.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:42: advogado 0870645-34.2023.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 21:57:43: advogado 0804021-66.2024.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 21:57:45: advogado 0867871-94.2024.8.15.2001 >> Processo com 2 parte(s), 20 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 21:57:46: advogado 0862675-56.2018.8.15.2001 >> Processo com 4 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:47: advogado 0873803-39.2019.8.15.2001 >> Processo com 3 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:49: advogado 0841278-33.2021.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:49: advogado 0841278-33.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:57:50: advogado 0851734-42.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:52: advogado 0833966-98.2024.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:57:53: advogado 0866514-89.2018.8.15.2001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:55: advogado 0869145-06.2018.8.15.2001 >> Processo com 2 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:56: advogado 0869343-43.2018.8.15.2001 >> Processo com 3 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:58: advogado 0871142-87.2019.8.15.2001 >> Processo com 3 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:57:59: advogado 0873831-07.2019.8.15.2001 >> Processo com 3 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:00: advogado 0831575-15.2020.8.15.2001 >> Processo com 2 parte(s), 64 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 21:58:02: advogado 0823353-24.2021.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:02: advogado 0823353-24.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:58:03: advogado 0824901-84.2021.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:05: advogado 0828745-42.2021.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:06: advogado 0829131-72.2021.8.15.2001 >> Processo com 2 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:07: advogado 0830933-08.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:09: advogado 0842833-85.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:09: advogado 0842833-85.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:58:10: advogado 0827877-30.2022.8.15.2001 >> Processo com 2 parte(s), 61 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:12: advogado 0851998-25.2022.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:13: advogado 0817138-61.2023.8.15.2001 >> Processo com 3 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:15: advogado 0817230-39.2023.8.15.2001 >> Processo com 3 parte(s), 76 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:16: advogado 0857833-57.2023.8.15.2001 >> Processo com 3 parte(s), 77 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:17: advogado 0820956-84.2024.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:58:19: advogado 0828546-15.2024.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:58:20: advogado 0829014-76.2024.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:58:22: advogado 0869721-86.2024.8.15.2001 >> Processo com 3 parte(s), 21 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:58:23: advogado 0836863-02.2024.8.15.2001 >> Processo com 2 parte(s), 69 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:58:24: advogado 0827186-79.2023.8.15.2001 >> Processo com 4 parte(s), 38 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:58:25: advogado 0827486-41.2023.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:27: advogado 0848438-07.2024.8.15.2001 >> Processo com 2 parte(s), 42 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 21:58:28: advogado 0853228-34.2024.8.15.2001 >> Processo com 2 parte(s), 63 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:58:30: advogado 0822131-21.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:31: advogado 0842243-74.2022.8.15.2001 >> Processo com 3 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:33: advogado 0819893-58.2023.8.15.2001 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:34: advogado 0817598-19.2021.8.15.2001 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:35: advogado 0862697-07.2024.8.15.2001 >> Processo com 2 parte(s), 27 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 21:58:37: advogado 0866514-89.2018.8.15.2001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:38: advogado 0872694-87.2019.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:39: advogado 0839226-64.2021.8.15.2001 >> Processo com 3 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:41: advogado 0843519-77.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:42: advogado 0813705-83.2022.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:43: advogado 0831417-52.2023.8.15.2001 >> Processo com 3 parte(s), 78 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:45: advogado 0866503-84.2023.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 21:58:46: advogado 0810930-27.2024.8.15.2001 >> Processo com 3 parte(s), 60 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 21:58:47: advogado 0824409-87.2024.8.15.2001 >> Processo com 3 parte(s), 62 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:58:49: advogado 0828177-21.2024.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:58:50: advogado 0858139-89.2024.8.15.2001 >> Processo com 2 parte(s), 47 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:58:51: advogado 0828005-84.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:53: advogado 0830243-76.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:54: advogado 0856153-37.2023.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 21:58:55: advogado 0864733-56.2023.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:57: advogado 0867452-11.2023.8.15.2001 >> Processo com 5 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:58:58: advogado 0817221-19.2019.8.15.2001 >> Processo com 5 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:00: advogado 0837448-59.2021.8.15.2001 >> Processo com 4 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:02: advogado 0853300-55.2023.8.15.2001 >> Processo com 3 parte(s), 77 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:03: advogado 0866508-82.2018.8.15.2001 >> Processo com 3 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:05: advogado 0851733-57.2021.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:06: advogado 0854478-05.2024.8.15.2001 >> Processo com 3 parte(s), 39 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 21:59:07: advogado 0852603-10.2018.8.15.2001 >> Processo com 3 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:09: advogado 0828745-42.2021.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:11: advogado 0841278-33.2021.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:12: advogado 0838227-77.2022.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:14: advogado 0853286-71.2023.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:14: advogado 0853286-71.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:59:15: advogado 0861454-28.2024.8.15.2001 >> Processo com 2 parte(s), 41 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:59:16: Total: 4
+12/11/2024 21:59:17: advogado 0802182-87.2020.8.15.0241 >> Processo com 2 parte(s), 41 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:59:18: advogado 0802531-90.2020.8.15.0241 >> Processo com 2 parte(s), 51 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 21:59:19: advogado 0802724-08.2020.8.15.0241 >> Processo com 2 parte(s), 72 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 21:59:21: advogado 0801528-32.2022.8.15.0241 >> Processo com 2 parte(s), 51 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 21:59:21: Total: 2
+12/11/2024 21:59:22: advogado 0869206-51.2024.8.15.2001 >> Processo com 3 parte(s), 21 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 21:59:23: advogado 0800957-20.2024.8.15.7701 >> Processo com 3 parte(s), 26 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:59:24: Total: 30
+12/11/2024 21:59:25: advogado 0873803-39.2019.8.15.2001 >> Processo com 3 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:27: advogado 0841278-33.2021.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:27: advogado 0841278-33.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:59:28: advogado 0851734-42.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:30: advogado 0833966-98.2024.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:59:31: advogado 0866514-89.2018.8.15.2001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:33: advogado 0869145-06.2018.8.15.2001 >> Processo com 2 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:34: advogado 0869343-43.2018.8.15.2001 >> Processo com 3 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:36: advogado 0871142-87.2019.8.15.2001 >> Processo com 3 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:37: advogado 0873831-07.2019.8.15.2001 >> Processo com 3 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:39: advogado 0831575-15.2020.8.15.2001 >> Processo com 2 parte(s), 64 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 21:59:40: advogado 0823353-24.2021.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:41: advogado 0824901-84.2021.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:43: advogado 0828745-42.2021.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:44: advogado 0829131-72.2021.8.15.2001 >> Processo com 2 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:46: advogado 0830933-08.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:47: advogado 0842833-85.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:47: advogado 0842833-85.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 21:59:49: advogado 0827877-30.2022.8.15.2001 >> Processo com 2 parte(s), 61 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:50: advogado 0851998-25.2022.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:52: advogado 0817138-61.2023.8.15.2001 >> Processo com 3 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:53: advogado 0857833-57.2023.8.15.2001 >> Processo com 3 parte(s), 77 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:59:55: advogado 0820956-84.2024.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 21:59:56: advogado 0869721-86.2024.8.15.2001 >> Processo com 3 parte(s), 21 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 21:59:57: advogado 0827186-79.2023.8.15.2001 >> Processo com 4 parte(s), 38 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 21:59:59: advogado 0848438-07.2024.8.15.2001 >> Processo com 2 parte(s), 42 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 22:00:00: advogado 0853228-34.2024.8.15.2001 >> Processo com 2 parte(s), 63 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:00:02: advogado 0822131-21.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:04: advogado 0842243-74.2022.8.15.2001 >> Processo com 3 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:05: advogado 0819893-58.2023.8.15.2001 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:06: Total: 1
+12/11/2024 22:00:08: advogado 0802941-34.2024.8.15.0751 >> Processo com 2 parte(s), 66 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 22:00:08: Total: 1
+12/11/2024 22:00:10: advogado 0809118-74.2024.8.15.0731 >> Processo com 2 parte(s), 35 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:00:10: Total: 31
+12/11/2024 22:00:12: advogado 0870091-41.2019.8.15.2001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:14: advogado 0822080-44.2020.8.15.2001 >> Processo com 2 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:16: advogado 0822908-40.2020.8.15.2001 >> Processo com 2 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:17: advogado 0824632-79.2020.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:19: advogado 0870645-34.2023.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 22:00:22: advogado 0804021-66.2024.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 22:00:24: advogado 0823353-24.2021.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:25: advogado 0817230-39.2023.8.15.2001 >> Processo com 3 parte(s), 76 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:27: advogado 0828546-15.2024.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 22:00:29: advogado 0829014-76.2024.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 22:00:30: advogado 0827486-41.2023.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:31: advogado 0817598-19.2021.8.15.2001 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:33: advogado 0866514-89.2018.8.15.2001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:35: advogado 0872694-87.2019.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:36: advogado 0839226-64.2021.8.15.2001 >> Processo com 3 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:38: advogado 0843519-77.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:39: advogado 0813705-83.2022.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:41: advogado 0831417-52.2023.8.15.2001 >> Processo com 3 parte(s), 78 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:42: advogado 0866503-84.2023.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 22:00:43: advogado 0810930-27.2024.8.15.2001 >> Processo com 3 parte(s), 60 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 22:00:45: advogado 0824409-87.2024.8.15.2001 >> Processo com 3 parte(s), 62 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:00:47: advogado 0828177-21.2024.8.15.2001 >> Processo com 3 parte(s), 65 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:00:48: advogado 0828005-84.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:50: advogado 0830243-76.2021.8.15.2001 >> Processo com 3 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:51: advogado 0856153-37.2023.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 22:00:52: advogado 0864733-56.2023.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:54: advogado 0866508-82.2018.8.15.2001 >> Processo com 3 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:55: advogado 0851733-57.2021.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:00:57: advogado 0854478-05.2024.8.15.2001 >> Processo com 3 parte(s), 39 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 22:00:58: advogado 0852603-10.2018.8.15.2001 >> Processo com 3 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:00: advogado 0828745-42.2021.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:00: Total: 4
+12/11/2024 22:01:02: advogado 0802182-87.2020.8.15.0241 >> Processo com 2 parte(s), 41 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:01:03: advogado 0802531-90.2020.8.15.0241 >> Processo com 2 parte(s), 51 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:01:04: advogado 0802724-08.2020.8.15.0241 >> Processo com 2 parte(s), 72 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 22:01:06: advogado 0801528-32.2022.8.15.0241 >> Processo com 2 parte(s), 51 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:01:06: Total: 2
+12/11/2024 22:01:07: advogado 0869206-51.2024.8.15.2001 >> Processo com 3 parte(s), 21 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 22:01:09: advogado 0800957-20.2024.8.15.7701 >> Processo com 3 parte(s), 26 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:01:09: Total: 1
+12/11/2024 22:01:11: advogado 0870242-31.2024.8.15.2001 >> Processo com 4 parte(s), 31 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:01:11: Total: 2
+12/11/2024 22:01:13: advogado 0805480-15.2015.8.15.2003 >> Processo com 6 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:13: advogado 0805480-15.2015.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:01:14: Total: 9
+12/11/2024 22:01:15: advogado 0867871-94.2024.8.15.2001 >> Processo com 2 parte(s), 20 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 22:01:16: advogado 0862675-56.2018.8.15.2001 >> Processo com 4 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:18: advogado 0836863-02.2024.8.15.2001 >> Processo com 2 parte(s), 69 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:01:19: advogado 0862697-07.2024.8.15.2001 >> Processo com 2 parte(s), 27 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 22:01:20: advogado 0858139-89.2024.8.15.2001 >> Processo com 2 parte(s), 47 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:01:22: advogado 0867452-11.2023.8.15.2001 >> Processo com 5 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:23: advogado 0817221-19.2019.8.15.2001 >> Processo com 5 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:25: advogado 0837448-59.2021.8.15.2001 >> Processo com 4 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:26: advogado 0853300-55.2023.8.15.2001 >> Processo com 3 parte(s), 77 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:27: Total: 2
+12/11/2024 22:01:28: advogado 0867615-54.2024.8.15.2001 >> Processo com 4 parte(s), 44 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:01:28: advogado 0867615-54.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:01:29: Total: 1
+12/11/2024 22:01:30: advogado 0863896-64.2024.8.15.2001 >> Processo com 4 parte(s), 38 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:01:31: Total: 3
+12/11/2024 22:01:32: advogado 0838227-77.2022.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:34: advogado 0831731-95.2023.8.15.2001 >> Processo com 4 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:35: advogado 0866350-17.2024.8.15.2001 >> Processo com 3 parte(s), 31 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:01:35: Total: 1
+12/11/2024 22:01:37: advogado 0803292-24.2020.8.15.0241 >> Processo com 2 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:01:37: Total: 1
+12/11/2024 22:01:39: advogado 0821753-60.2024.8.15.2001 >> Processo com 3 parte(s), 76 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:01:39: Total: 1
+12/11/2024 22:01:41: advogado 0870242-31.2024.8.15.2001 >> Processo com 4 parte(s), 31 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:01:41: Total: 1
+12/11/2024 22:01:43: advogado 0863896-64.2024.8.15.2001 >> Processo com 4 parte(s), 38 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:01:43: Total: 5
+12/11/2024 22:01:44: advogado 0841278-33.2021.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:46: advogado 0838227-77.2022.8.15.2001 >> Processo com 2 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:48: advogado 0853286-71.2023.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:48: advogado 0853286-71.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:01:49: advogado 0861454-28.2024.8.15.2001 >> Processo com 2 parte(s), 41 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:01:50: Total: 1
+12/11/2024 22:01:51: advogado 0804102-79.2024.8.15.0751 >> Processo com 2 parte(s), 27 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 22:01:52: Total: 19
+12/11/2024 22:01:53: advogado 0850759-15.2024.8.15.2001 >> Processo com 2 parte(s), 33 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:01:54: advogado 0862697-07.2024.8.15.2001 >> Processo com 2 parte(s), 27 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 22:01:56: advogado 0837175-80.2021.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:01:57: advogado 0818422-07.2023.8.15.2001 >> Processo com 3 parte(s), 77 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 22:01:58: advogado 0826058-24.2023.8.15.2001 >> Processo com 2 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:00: advogado 0826873-84.2024.8.15.2001 >> Processo com 3 parte(s), 59 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:02:01: advogado 0822131-21.2021.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:03: advogado 0858139-89.2024.8.15.2001 >> Processo com 2 parte(s), 47 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:02:04: advogado 0865834-94.2024.8.15.2001 >> Processo com 2 parte(s), 25 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 22:02:05: advogado 0866263-71.2018.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:07: advogado 0820811-33.2021.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:08: advogado 0826554-53.2023.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 22:02:09: advogado 0830214-55.2023.8.15.2001 >> Processo com 3 parte(s), 73 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:11: advogado 0831416-67.2023.8.15.2001 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:11: advogado 0831416-67.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:12: advogado 0831731-95.2023.8.15.2001 >> Processo com 4 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:13: advogado 0841847-63.2023.8.15.2001 >> Processo com 4 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:15: advogado 0820079-47.2024.8.15.2001 >> Processo com 3 parte(s), 64 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 22:02:16: advogado 0827025-35.2024.8.15.2001 >> Processo com 3 parte(s), 72 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 22:02:17: Total: 1
+12/11/2024 22:02:18: advogado 0801108-36.2024.8.15.0571 >> Processo com 2 parte(s), 17 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 22:02:18: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Ciência dada pelo Judiciário - pendente de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta, Sem prazo, Respondidos nos últimos 10 dias e detectou 589 e leu 121
+12/11/2024 22:02:20: Total: 1
+12/11/2024 22:02:20: Total: 1
+12/11/2024 22:02:20: advogado 0800587-23.2023.8.15.0411 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: Total: 11
+12/11/2024 22:02:21: Total: 11
+12/11/2024 22:02:21: advogado 0870242-31.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0870243-16.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0801348-67.2024.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0867615-54.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0804102-79.2024.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0803151-85.2024.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0802941-34.2024.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0802533-77.2023.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0800078-08.2024.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0837792-45.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: advogado 0800015-17.2023.8.15.0751 >> Processo já foi verificado recentemente
+12/11/2024 22:02:21: Total: 1
+12/11/2024 22:02:21: Total: 1
+12/11/2024 22:02:21: advogado 0800245-81.2024.8.15.0021 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: Total: 10
+12/11/2024 22:02:22: Total: 10
+12/11/2024 22:02:22: advogado 0809118-74.2024.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0803903-98.2016.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0804077-63.2023.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0837866-02.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0803387-05.2021.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0801359-40.2016.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0802642-98.2016.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0801459-63.2014.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0803919-52.2016.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:22: advogado 0801044-17.2013.8.15.0731 >> Processo já foi verificado recentemente
+12/11/2024 22:02:23: Total: 4
+12/11/2024 22:02:23: Total: 4
+12/11/2024 22:02:23: advogado 0826607-83.2024.8.15.0001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:23: advogado 0828049-21.2023.8.15.0001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:23: advogado 0806357-82.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:23: advogado 0803439-71.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: Total: 10
+12/11/2024 22:02:24: Total: 10
+12/11/2024 22:02:24: advogado 0801093-69.2024.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0862116-60.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0801011-38.2024.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0001572-86.2010.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0000641-74.1996.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0001043-38.2008.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0000560-76.2006.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0001303-23.2005.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0000113-06.1997.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: advogado 0000042-72.1995.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 22:02:24: Total: 1
+12/11/2024 22:02:24: Total: 1
+12/11/2024 22:02:24: advogado 0805748-25.2023.8.15.0181 >> Processo já foi verificado recentemente
+12/11/2024 22:02:25: Total: 1
+12/11/2024 22:02:25: Total: 1
+12/11/2024 22:02:25: advogado 0800953-45.2024.8.15.0761 >> Processo já foi verificado recentemente
+12/11/2024 22:02:25: Total: 1
+12/11/2024 22:02:25: Total: 1
+12/11/2024 22:02:25: advogado 0812562-22.2023.8.15.2002 >> Processo já foi verificado recentemente
+12/11/2024 22:02:26: Total: 13
+12/11/2024 22:02:26: Total: 13
+12/11/2024 22:02:26: advogado 0863896-64.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0865799-37.2024.8.15.2001 >> Processo com 2 parte(s), 23 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 22:02:28: advogado 0805480-15.2015.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0810172-86.2017.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0829843-33.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0838009-49.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0840402-44.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0837943-69.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0843771-46.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0012052-64.2008.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0802808-53.2023.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0822269-22.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:28: advogado 0807589-02.2015.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: Total: 654
+12/11/2024 22:02:30: Total: 654
+12/11/2024 22:02:30: advogado 0822080-44.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0853286-71.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0819893-58.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0855643-87.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0827025-35.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0820079-47.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0841847-63.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0866263-71.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0826554-53.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0864632-19.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0869441-52.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0810623-15.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0831731-95.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0820811-33.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0831416-67.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0817138-61.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0850759-15.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0830214-55.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0842243-74.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0822131-21.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0857426-17.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0826672-92.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0839246-50.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0005662-79.2011.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0829131-72.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0841278-33.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0815118-39.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0819158-93.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0816711-30.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0830604-59.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0807334-69.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0814873-28.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0842833-85.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0817221-19.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0858139-89.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0854204-75.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0837448-59.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0860536-58.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0827186-79.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:30: advogado 0003650-54.1995.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:32: advogado 0848438-07.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:33: advogado 0824187-22.2024.8.15.2001 >> Processo com 5 parte(s), 81 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 22:02:33: advogado 0833966-98.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:33: advogado 0854599-67.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:33: advogado 0858292-59.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0817231-24.2023.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:35: advogado 0850770-44.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0821678-94.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0862716-13.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0836863-02.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0822497-94.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0853228-34.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:35: advogado 0854071-33.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:36: advogado 0816204-40.2022.8.15.2001 >> Processo com 3 parte(s), 71 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:36: advogado 0856664-11.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:36: advogado 0817233-91.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:36: advogado 0838227-77.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:36: advogado 0841584-70.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0839211-03.2018.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:37: advogado 0869145-06.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0866350-17.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0828745-42.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0869721-86.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0851998-25.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0857153-38.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0823177-45.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0806093-31.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0824901-84.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0853253-47.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0810930-27.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0867452-11.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0809152-61.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0875725-18.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0818422-07.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0865834-94.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0826873-84.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0866965-07.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:37: advogado 0826058-24.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:39: advogado 0822996-78.2020.8.15.2001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:39: advogado 0869343-43.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0823353-24.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0862675-56.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0862697-07.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0828740-15.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0827877-30.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0825928-10.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0831575-15.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0820956-84.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0832350-93.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:41: advogado 0850278-86.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0862587-42.2023.8.15.2001 >> Processo com 3 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:43: advogado 0867871-94.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0861150-29.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0873803-39.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0857833-57.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0830933-08.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0827133-06.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0837175-80.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0873831-07.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0862737-96.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0871142-87.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0838829-97.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0866514-89.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0860893-04.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:43: advogado 0832424-79.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:44: advogado 0867084-75.2018.8.15.2001 >> Processo com 3 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:44: advogado 0851734-42.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:44: advogado 0860279-96.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:44: advogado 0867638-10.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:44: advogado 0853308-95.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:44: advogado 0864733-56.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:44: advogado 0814436-50.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:46: advogado 0826468-48.2024.8.15.2001 >> Processo com 3 parte(s), 64 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 22:02:46: advogado 0870091-41.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:47: advogado 0864706-15.2019.8.15.2001 >> Processo com 3 parte(s), 74 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:02:47: advogado 0830243-76.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:47: advogado 0856153-37.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:47: advogado 0854478-05.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:47: advogado 0836106-08.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:47: advogado 0861454-28.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0831417-52.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0817230-39.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0819249-57.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0862689-40.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0872694-87.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0824630-12.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0824071-16.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0835814-57.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0861726-22.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0837431-23.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0034805-26.2005.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0858454-30.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0839226-64.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0862711-88.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0843519-77.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0848715-91.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0843458-22.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0824409-87.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0828177-21.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0843450-45.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0852838-64.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0813705-83.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0863343-17.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0828005-84.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0871201-75.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0853300-55.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0828546-15.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0829014-76.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0866503-84.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0823691-90.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0852111-42.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0846741-19.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0800667-04.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0852868-02.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0810659-23.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0819102-60.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0871251-04.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0824632-79.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0866508-82.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:49: advogado 0862200-37.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0800876-02.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0827024-60.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0867396-17.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0827486-41.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0860914-77.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0852999-74.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0853152-10.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0813467-98.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0808045-74.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0853204-06.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0853845-91.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0869689-18.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0883043-52.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0871206-97.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0808062-47.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0855016-20.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0850746-16.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0870645-34.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0804021-66.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0851272-17.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0823415-59.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0860922-54.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0862303-97.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0857486-87.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0822908-40.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0825232-32.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0834179-12.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0852599-70.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0833490-31.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0841054-95.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0850563-79.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0836822-35.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0823731-14.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0825643-41.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0800138-14.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0808129-12.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0836943-63.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0817886-64.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0840003-49.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:51: advogado 0849846-33.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0856471-54.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0807500-04.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0830200-71.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0803186-49.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0826445-44.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0853030-94.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0840968-27.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0852603-10.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0808938-65.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0862959-88.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0853276-90.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0809167-30.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0851933-64.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0841387-76.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0869138-14.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0806559-54.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0817598-19.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0871520-04.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0845594-89.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0867796-31.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0800755-42.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0815224-98.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0833635-53.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0856612-15.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0802271-63.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0866526-06.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0867394-47.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0829161-39.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0842200-69.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0830747-14.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0817232-09.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0853145-18.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0006478-23.1995.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0851733-57.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0834653-12.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0853130-49.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0829047-03.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0808159-47.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0830067-29.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:53: advogado 0853406-80.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0845647-70.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0853162-54.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0827091-54.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0861633-35.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0869133-89.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0833153-08.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0856325-76.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0864592-37.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0855747-16.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0854825-77.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0850846-05.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0809294-60.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0800241-21.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0831414-97.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0842731-92.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0872891-42.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0853387-74.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0812187-24.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0805390-03.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0810570-63.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0844350-28.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0834791-81.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0059722-46.2004.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0800224-53.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0119077-06.2012.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0000106-97.1991.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0851488-75.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0839404-42.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0809673-98.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0852916-58.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0825242-76.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0822607-54.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0830727-62.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0810242-07.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0807074-89.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0818424-74.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0823970-86.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0831326-59.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0862957-94.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:54: advogado 0827639-45.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0830217-10.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0814471-39.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0803353-03.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0816965-37.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0827899-54.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0841321-38.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0814352-78.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0827896-02.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0820955-07.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0807936-60.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0831207-35.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0833835-31.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0818033-90.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0851702-37.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0831636-36.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0843322-25.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0838748-51.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0836968-76.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0825014-72.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0822190-38.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0814236-04.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0815235-54.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0802175-48.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0843263-37.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0837713-61.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0801376-73.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0840313-55.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0823700-91.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0800106-86.2021.8.15.0231 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0808060-43.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0819805-20.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0847671-37.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0832225-23.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0867579-85.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0855420-08.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0819824-94.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0872906-11.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0865186-90.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0849786-36.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:56: advogado 0845435-20.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0840102-82.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0842876-90.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0833306-80.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0810669-62.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0800686-15.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0869346-95.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0827015-98.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0820225-98.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0842891-59.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0866511-37.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0864768-55.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0800428-97.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0830238-20.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0829019-35.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0800127-58.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0852429-59.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0821519-20.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0800394-25.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0841264-49.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0861800-23.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0851930-75.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0862147-80.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0800689-67.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0816017-66.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0801857-02.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0820237-10.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0829187-08.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0820999-26.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0809794-97.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0862126-07.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0806598-22.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0854951-25.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0842844-17.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0841074-86.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0801344-34.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0801386-83.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0827831-75.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0873950-65.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0059536-23.2004.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:58: advogado 0853018-17.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0870262-56.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0840097-60.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0800749-35.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0841898-45.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0826553-68.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0841336-36.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0803836-62.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0802257-16.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0800918-22.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0808785-66.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0824627-57.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0819872-53.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0813802-83.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0828492-20.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0840525-76.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0839376-45.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0855000-66.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0854888-97.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0809132-70.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0871717-56.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0816034-05.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0823014-02.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0819181-73.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0838881-64.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0802563-48.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0827645-52.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0816980-74.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0800390-85.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0829239-04.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0845619-05.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0845715-83.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0808051-18.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0851968-87.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0850367-80.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0819170-44.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0835421-40.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0883917-37.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0854920-05.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0839389-44.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:02:59: advogado 0845333-32.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0830351-08.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0871176-62.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0862121-82.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0856419-24.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0828498-27.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0801341-16.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0827233-29.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0851297-98.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0826571-65.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0830749-18.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0854905-36.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0800906-08.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0822151-41.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0839261-24.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0808110-06.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0850357-36.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0860555-98.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0833462-34.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0861796-83.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0864263-64.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0822691-94.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0865131-37.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0831446-73.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0837256-29.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0829220-95.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0010308-89.1998.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0840157-33.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0806073-40.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0840432-16.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0818089-26.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0800055-66.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0822724-84.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0800315-46.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0840135-09.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0828857-11.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0870127-83.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0828671-85.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0842461-05.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0837182-72.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:01: advogado 0829997-46.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0873837-14.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0800118-96.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0822914-47.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0844646-50.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0862119-15.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0813764-76.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0841155-35.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0819850-92.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0827085-47.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0851697-15.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0843331-84.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0846210-30.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0823698-19.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0822455-45.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0842863-91.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0801209-22.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0856793-74.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0821351-52.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0848640-52.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0823708-68.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0826439-37.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0831431-07.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0867627-44.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0800612-19.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0823102-06.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0830818-84.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0822851-22.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0818028-68.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0883381-26.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0817856-29.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0862611-07.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0818681-70.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0827970-27.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0876018-85.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0807519-43.2019.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0830152-83.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0828503-49.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0810666-15.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0854878-58.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:03: advogado 0879581-87.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0826442-89.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0839066-39.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0848681-53.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837459-88.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0865039-59.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0839851-98.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0869178-93.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0821575-53.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837371-50.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0871105-60.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0829236-49.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0824624-05.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837841-86.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837712-76.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0819863-91.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0847643-69.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0842178-16.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0848431-20.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0820031-93.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0842872-82.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0808459-14.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837715-94.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0827916-61.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0819175-32.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0828728-69.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0842504-39.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0842485-38.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0827021-08.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0811420-88.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0867085-60.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0819173-96.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837443-37.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0815225-83.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0837420-91.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0850342-67.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0828480-06.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0861898-03.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0822996-44.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0855366-18.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:05: advogado 0819320-93.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0830710-26.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0867594-54.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0840103-67.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0862739-32.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0845320-33.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0822729-77.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0865184-23.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0808155-44.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0800692-22.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0837465-95.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0801691-04.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0809456-26.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0869141-66.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0833081-26.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0842868-16.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0860996-84.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0827262-74.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0818160-28.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0842449-93.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0801422-62.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0002376-25.2013.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0819881-83.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0826338-29.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0814180-10.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0814618-65.2022.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0865181-68.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0812017-96.2016.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0805377-04.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0856385-54.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0835473-36.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0823691-32.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0801459-89.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0862763-94.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0831583-89.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0883795-24.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0826437-67.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0800120-66.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0878044-56.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0814467-70.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:06: advogado 0877905-07.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0874040-73.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0837466-80.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0821221-62.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0831577-82.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0870469-94.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0854083-23.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0825015-57.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0854221-87.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0810274-12.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0872241-92.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0822709-18.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0802048-18.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0868269-17.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0814887-12.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0842866-46.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0824628-42.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0867429-41.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0876020-55.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0822930-98.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0833129-48.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0833346-28.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0871190-46.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0801480-65.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0806846-85.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0877936-27.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0835060-23.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0807669-93.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0816915-79.2021.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0872890-57.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0856162-38.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0813838-33.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0840067-30.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0844974-14.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0878052-33.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0858888-53.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0867970-40.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0872888-87.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0824107-34.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0830208-24.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:08: advogado 0845440-42.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0876275-13.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0866019-45.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0876051-75.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0800130-13.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0835356-45.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0813750-92.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0842500-07.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0843890-12.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0873820-75.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0808453-07.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0804205-61.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0882989-86.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0835368-59.2020.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0825422-97.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0819924-20.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0866260-19.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0819324-33.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0861278-93.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0842879-45.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0813758-69.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0842533-94.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0803909-73.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0856867-36.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 3010735-38.2012.8.15.2003 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0822109-31.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0861107-05.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0813727-49.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0827867-25.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0866209-08.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0875886-28.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0879119-33.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0821449-71.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0816967-80.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0808508-55.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0817067-98.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0852559-54.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0806099-43.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0822725-40.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0817923-62.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:10: advogado 0861327-37.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0812774-85.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0829841-63.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0800152-71.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0816566-81.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0813767-31.2019.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0869137-29.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0824588-31.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0821568-32.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0827744-95.2016.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0831358-74.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0822051-96.2017.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0047618-75.2011.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0036579-52.2009.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:11: advogado 0015256-93.2006.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:13: Total: 4
+12/11/2024 22:03:13: Total: 4
+12/11/2024 22:03:13: advogado 0802906-82.2024.8.15.0231 >> Processo já foi verificado recentemente
+12/11/2024 22:03:13: advogado 0800046-11.2024.8.15.0231 >> Processo já foi verificado recentemente
+12/11/2024 22:03:13: advogado 0802524-17.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:13: advogado 0803894-74.2022.8.15.0231 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: Total: 111
+12/11/2024 22:03:15: Total: 111
+12/11/2024 22:03:15: advogado 0802713-76.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802758-80.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802528-38.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802967-49.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0801570-18.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802964-94.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0801528-32.2022.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0803291-39.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802277-20.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802710-87.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0803292-24.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802527-53.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802437-45.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802184-57.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802439-15.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802438-30.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802739-74.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802711-09.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802209-70.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802208-85.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0803031-59.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0803113-90.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802717-16.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802315-32.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802181-05.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802328-31.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802966-64.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802463-43.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0801572-85.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802182-87.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802724-08.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802531-90.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802539-67.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802220-02.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802529-23.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0803021-15.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802330-98.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802440-97.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802595-03.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:15: advogado 0802353-44.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802751-88.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802189-79.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802279-87.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802718-98.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802723-23.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802761-35.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802213-10.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803286-17.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803046-28.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802947-58.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802756-13.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802747-51.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802457-36.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802326-61.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802276-35.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802227-91.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802226-09.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802186-27.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803032-44.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802530-08.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803112-08.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802533-60.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803290-54.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802593-33.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802332-68.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802541-37.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802960-57.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803289-69.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802183-72.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802532-75.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802534-45.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802434-90.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802334-38.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802204-48.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0803033-29.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802207-03.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0801527-47.2022.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802764-87.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802742-29.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:16: advogado 0802313-62.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802730-15.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802735-37.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0800330-91.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0801569-33.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802709-05.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0801568-48.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0800109-11.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802711-72.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802507-62.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0803020-30.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0800070-14.2021.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0803288-84.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802340-45.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802199-26.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802346-52.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802325-76.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802456-51.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802354-29.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802755-28.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0803285-32.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802956-20.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802754-43.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802944-06.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802436-60.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0803025-52.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802216-62.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802946-73.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802955-35.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802314-47.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0802185-42.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:18: advogado 0803044-58.2020.8.15.0241 >> Processo já foi verificado recentemente
+12/11/2024 22:03:20: Total: 2
+12/11/2024 22:03:20: Total: 2
+12/11/2024 22:03:20: advogado 0869206-51.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:20: advogado 0800957-20.2024.8.15.7701 >> Processo já foi verificado recentemente
+12/11/2024 22:03:20: Total: 1
+12/11/2024 22:03:20: Total: 1
+12/11/2024 22:03:20: advogado 0800679-98.2020.8.15.0251 >> Processo já foi verificado recentemente
+12/11/2024 22:03:21: Total: 2
+12/11/2024 22:03:21: Total: 2
+12/11/2024 22:03:21: advogado 0801108-36.2024.8.15.0571 >> Processo já foi verificado recentemente
+12/11/2024 22:03:21: advogado 0800590-80.2023.8.15.0571 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: Total: 9
+12/11/2024 22:03:22: Total: 9
+12/11/2024 22:03:22: advogado 0821753-60.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0805053-72.2024.8.15.0331 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0806879-36.2024.8.15.0331 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0821737-09.2024.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0827025-45.2018.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0853072-80.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0834189-85.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0833086-43.2023.8.15.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: advogado 0801983-96.2014.8.15.0331 >> Processo já foi verificado recentemente
+12/11/2024 22:03:22: Total: 1
+12/11/2024 22:03:22: Total: 1
+12/11/2024 22:03:22: advogado 0801009-86.2020.8.15.0351 >> Processo já foi verificado recentemente
+12/11/2024 22:03:23: Entrou na aba acervo do perfil e mapeou 837 processos e teve erro em 0 processos
+12/11/2024 22:03:23: Rodou

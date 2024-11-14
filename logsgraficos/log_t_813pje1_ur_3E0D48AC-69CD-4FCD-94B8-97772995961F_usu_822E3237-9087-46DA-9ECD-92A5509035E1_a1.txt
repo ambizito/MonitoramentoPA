@@ -1,0 +1,15 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 8.13.pje.1
+12/11/2024 16:21:31: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 0.qe6y4asf81q "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 16:21:34: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:21:34: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = uIejDwx2kubCp4_-QAzBsPz5d8HKeyEswpI26mAR.pje1g-poapp27.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NjgwOTMsImlhdCI6MTczMTQzOTI5MywiYXV0aF90aW1lIjoxNzMxNDM5MjkzLCJqdGkiOiIxZWQ2NDNkNS1mOGE0LTRiMmMtYmQyNy1jMGIzNWVjNGQ1NTUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiMDg3ZmI1NTAtODk0MC00NjlhLTg2NWEtOGJlODQzMjY0ZjY5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiI3NjQ3NDg0YS1kOWVkLTRkMzAtODE3Zi1kN2YyYTBmODI4OTMiLCJhdF9oYXNoIjoiZGVYMC1mZkNBcHgzZnhmbV9Ia1FoUSIsImFjciI6IjEiLCJzaWQiOiI3NjQ3NDg0YS1kOWVkLTRkMzAtODE3Zi1kN2YyYTBmODI4OTMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsIkpUUiI6IjgxMyIsImp0ciI6IjgxMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0NTMyOTIzNDg0IiwiZ2l2ZW5fbmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsImVtYWlsIjoiaGVpdG9yZmVybmFuZGVzYWR2b2NhY2lhQGdtYWlsLmNvbSJ9.GjHyHxIP-sEPX6-J5kGtSlHdz-y3rocoN2k0T8Qm_T-hykgY9n9RGc86zQMPy6IHR-CBXhg-6OCmes3gtmSRMiBoAssbniwyk5FiXhNC_PWBH8sghtzht7viLr5bHe_ypGeNaVHUTnN_94RQ5V_y-amajDvTLIftPRe0XrolQ2e9rwiVP9S963c_YdPxcFN_FjCL9PFppQ_-INZcLPbLokdVmiPzcIo795zwD2GvLXaBAegto2YRnvqVQPz08VK5jrQJ0rVFycDUqCInV-PuGB93urrCwMEM8ZcQSTS-oGGn3OxqnP_KGFQqAHqYMMawsTPZ1rAxkGrfP0wSxw1Z9g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp27:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+12/11/2024 16:21:34: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:21:36: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:21:36: Rodou

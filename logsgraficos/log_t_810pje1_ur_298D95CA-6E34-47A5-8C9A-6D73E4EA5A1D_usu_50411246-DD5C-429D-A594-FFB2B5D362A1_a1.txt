@@ -1,0 +1,22 @@
+PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.10.pje.1
+12/11/2024 17:40:06: Acessou https://pje.tjma.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.goa8eptkl2q "DIEGO DOMICIANO VIEIRA COSTA CABRAL:05479437410"
+12/11/2024 17:40:09: Logou https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 17:40:09: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = PB15574 ; URL = https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.1 ; usuarioId = PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = la3euUehK-SH9-PbCrK6c8UAp00MDQHfSkGkDoLD.pje-web-ss-19 ; Domain = pje.tjma.jus.br ; Path = /pje
+Name = f114a8f9c4f449e1102a9ca02ac30508 ; Value = 95baa1a4032eea2b075b79a0aeb9dbfc ; Domain = pje.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjma.jus.br ; Path = /
+)
+12/11/2024 17:40:10: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 17:40:14: Total: 1
+12/11/2024 17:40:14: Total: 1
+12/11/2024 17:40:16: advogado 0800144-78.2020.8.10.0100 >> Processo com 2 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 17:40:18: Total: 4
+12/11/2024 17:40:18: Total: 4
+12/11/2024 17:40:21: advogado 0812459-81.2019.8.10.0001 >> Processo com 2 parte(s), 128 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 17:40:24: advogado 0844628-58.2018.8.10.0001 >> Processo com 2 parte(s), 175 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 17:40:27: advogado 0865177-89.2018.8.10.0001 >> Processo com 2 parte(s), 138 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 17:40:30: advogado 0844612-07.2018.8.10.0001 >> Processo com 2 parte(s), 104 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 17:40:36: Entrou na aba acervo do perfil e mapeou 5 processos e teve erro em 0 processos
+12/11/2024 17:40:36: Rodou

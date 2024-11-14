@@ -1,0 +1,19 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.18.pje.1
+12/11/2024 20:08:55: Acessou https://pje.tjpi.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.ww76rsn3jq4 "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 20:08:58: Logou https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:08:58: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.tjpi.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.18.pje.1 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = 5RdJPG7q-H4dZ8cA39VJw6vbikIJz-8J5nFYzJCy.pje-legacy-7b74846fb9-xbkkg ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = X-Oracle-BMC-LBS-Route ; Value = 98bae31113eb135aa8f434e17e67f8122090292327da03a11a2ff120e313e9b656c62fd8a7c42ae828aee0557acf494f2c68a603cdeb2a1aa0b74297 ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE3MzcsImlhdCI6MTczMTQ1MjkzNywiYXV0aF90aW1lIjoxNzMxNDUyOTM3LCJqdGkiOiIzNDVjYTRmZi0yZThiLTRlODktYWNkNS1lZjVmYmVjOWU2NDYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBpLTFnLW5ldyIsInN1YiI6IjA3YjMxYzQzLWFiNWMtNDQzMS1hNjFlLTNjNjNkYTY4ZjM4NiIsInR5cCI6IklEIiwiYXpwIjoicGplLXRqcGktMWctbmV3Iiwic2Vzc2lvbl9zdGF0ZSI6IjYxMzgxN2JlLWFiMTItNGY5ZS05MDNiLTQ3YTZjZGIwZTVkMiIsImF0X2hhc2giOiJVZVhkcXNtbEkxYVBUMC1WODRLY3NRIiwiYWNyIjoiMSIsInNpZCI6IjYxMzgxN2JlLWFiMTItNGY5ZS05MDNiLTQ3YTZjZGIwZTVkMiIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiUFJJU0NJTExBIExJQ0lBIEZFSVRPU0EgREUgQVJBVUpPIENBQlJBTCIsIkpUUiI6IjgxOCIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1NTc3OTg4NDExIiwiZ2l2ZW5fbmFtZSI6IlBSSVNDSUxMQSBMSUNJQSBGRUlUT1NBIERFIEFSQVVKTyBDQUJSQUwiLCJlbWFpbCI6ImNvbnRyb2xhZG9yaWFAZmVpdG9zYWVicmFuZGFvLmNvbS5iciJ9.eAlMI9a2tHCDJZLrxsRIjtyuCirLoKRubys96vqe_JgMBrVVUU5OWitf3EywIYQbrvMctnVRYaQtIkA_XjvQx28dv6uaYaH-lqmcg2c66bvoq3CkYykLq-j3gsEJty3mZem7zy4nqOkpr-kowMzZyrfrPVEsetDqN9u_FLvB5zmgcHWROYpKlCzmeX-FB4s1w3zzCaK2-3gO8anVQM9vgNztqJ8963BPEdGE18qpI0vsKDvPabbIWLR0Z_8TwL634vI0g7Sbr9eve9REngjc3LscdMLQ0qLOjocjikEJbiTDXbIhGpmgoxMB77QKHgPVzhoT8MPaZMO1k6UHt-1iRQ ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = PJE-TJPI-1G-StickySessionRule ; Value = "pje-legacy-7b74846fb9-xbkkg:pje-tjpi-1g" ; Domain = pje.tjpi.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = pje.tjpi.jus.br ; Path = /
+)
+12/11/2024 20:08:58: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:08:59: Total: 1
+12/11/2024 20:08:59: Total: 1
+12/11/2024 20:08:59: advogado 0320262-34.2011.8.18.0001 >> Processo já foi verificado recentemente
+12/11/2024 20:08:59: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:08:59: Rodou

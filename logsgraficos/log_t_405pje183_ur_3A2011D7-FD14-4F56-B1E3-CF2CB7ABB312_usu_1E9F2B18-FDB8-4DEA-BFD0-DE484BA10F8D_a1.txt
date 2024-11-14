@@ -1,0 +1,24 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 4.05.pje.1.83
+12/11/2024 18:39:08: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 1Uo8qPX3QkeOLlee3ToaFm7HofjrXoIn "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 18:39:10: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:39:10: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = JSESSIONID ; Value = 5GV+EoHOxaubJRyHJoN-l8qs.node07 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c86b88f6706871a076c8f3ca9e6fddd0f3de7a129bdd9acd0c82d6c62991adde6d043150a1a84704b0ed8e40865feaebcfe56cdf53951ec4c5b3b84ff27dff513 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000f1000a6081d2cc24b02da295ce5f7b4f1116fe2198f37bccee71dc60cf823428089e1d9ac0113000bd77e6e30fd48b242292197cf257efe4783daba0fb3e44af805c2dfcde2ac7c5d57129276c9990ef1325d55e19a7591a ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c6b8026ec67836c8987e90d4548166a7e3de7a129bdd9acd0c82d6c62991adde6913e3e90806a6e18e4dbb533d80f66bf196f67acdd0b1d64f271ff5584e00283 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_EC4FB577EAD9C9C891F6296162195AFE_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c6b8026ec67836c8987e90d4548166a7e3de7a129bdd9acd0c82d6c62991adde6913e3e90806a6e18e4dbb533d80f66bf196f67acdd0b1d64f271ff5584e00283 ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_EC4FB577EAD9C9C891F6296162195AFE_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 18:39:17: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:39:34: Total: 0
+12/11/2024 18:39:34: Total: 0
+12/11/2024 18:39:56: Total: 0
+12/11/2024 18:39:56: Total: 0
+12/11/2024 18:40:11: Total: 0
+12/11/2024 18:40:11: Total: 0
+12/11/2024 18:40:12: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:40:12: Rodou

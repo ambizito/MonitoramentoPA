@@ -1,0 +1,32 @@
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 4.05.pje.1.84
+12/11/2024 23:07:33: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 FmrubnWUvKYMf0VxDT4By6ZXS42Znky5 "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+12/11/2024 23:07:36: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:07:36: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = vpLryr9NBvcCbeTn7mDswDVS.node04 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 23:07:39: Total: 1
+12/11/2024 23:07:47: advogado 0808580-24.2023.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 21 expediente(s) atualizado
+12/11/2024 23:07:48: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 10 e leu 1
+12/11/2024 23:07:54: Total: 4
+12/11/2024 23:07:54: Total: 4
+12/11/2024 23:07:54:  0804668-53.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:07:54:  0808580-24.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:07:54:  0808791-60.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:07:54:  0802477-64.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:02: Total: 8
+12/11/2024 23:08:02: Total: 8
+12/11/2024 23:08:02:  0803213-53.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:02:  0808748-60.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:02:  0808936-53.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:09:  0810565-62.2022.4.05.8400 >> Processo com 4 parte(s), 10 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 23:08:09:  0811224-37.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:09:  0802070-58.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:09:  0803578-39.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:09:  0805171-06.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 23:08:15: Total: 0
+12/11/2024 23:08:15: Total: 0
+12/11/2024 23:08:16: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+12/11/2024 23:08:16: Rodou

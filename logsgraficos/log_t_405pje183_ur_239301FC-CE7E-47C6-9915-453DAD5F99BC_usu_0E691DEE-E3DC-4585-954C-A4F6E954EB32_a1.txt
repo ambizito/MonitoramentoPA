@@ -1,0 +1,24 @@
+RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark em 4.05.pje.1.83
+12/11/2024 22:50:09: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 31Y5o3rihBtKg656foSesKJgfYC6ulFt "ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO:06127234450"
+12/11/2024 22:50:11: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:50:11: Perfil advogado e usuário ANA DEBORA BATISTA SILVA FERREIRA DE FIGUEIREDO
+OAB = RN9565 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN9565@advocaciaanadebora@239301FC-CE7E-47C6-9915-453DAD5F99BC@mark ; Cookies (
+Name = JSESSIONID ; Value = 146YTSMJ0ZsopWjP3+iOShp-.node05 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c4012081d186a241373a31284f8f38726c81c51c7ecd5ebea85ca4e4fa879d2a2f9cfdc96cbf138448ead1c7c25b8755e49eee8cfb850ebe2046368ea2af9886e ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000abe32530bf7b7c158bdd5be9411ba49d3ab790e8371d3aa49eb24e2b07c6c1a60814811f2b113000dcc7196f78e78019b5224aba260fce342a65599aa822a65e4d5f2042f3a8a33df74686b996ebad827dc2144ac4cfe8df ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c624428c5d35ae92eb1d5c6cc0f5eb64ec81c51c7ecd5ebea85ca4e4fa879d2a28cbbb9a3adf8d95cec32b64f8024e4dcfb53c839ee79231a2bf2ed1a025ef1b1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_0644922CB01BB5AF84CA1FCE2C8D1CCB_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c624428c5d35ae92eb1d5c6cc0f5eb64ec81c51c7ecd5ebea85ca4e4fa879d2a28cbbb9a3adf8d95cec32b64f8024e4dcfb53c839ee79231a2bf2ed1a025ef1b1 ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_0644922CB01BB5AF84CA1FCE2C8D1CCB_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 22:50:18: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:50:34: Total: 0
+12/11/2024 22:50:34: Total: 0
+12/11/2024 22:50:53: Total: 0
+12/11/2024 22:50:53: Total: 0
+12/11/2024 22:51:07: Total: 0
+12/11/2024 22:51:07: Total: 0
+12/11/2024 22:51:09: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:51:09: Rodou

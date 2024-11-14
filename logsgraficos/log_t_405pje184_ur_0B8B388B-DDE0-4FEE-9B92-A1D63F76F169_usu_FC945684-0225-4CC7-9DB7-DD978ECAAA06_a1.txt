@@ -1,0 +1,19 @@
+RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark em 4.05.pje.1.84
+12/11/2024 20:11:37: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Eu151929 WqRG64aN3xwqaGwlee2nIISeVEXVuqg5 "ANA LUIZA BARRETO VERAS:05291758430"
+12/11/2024 20:11:39: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:11:39: Perfil advogado e usuário ANA LUIZA BARRETO VERAS
+OAB = RN19356 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark ; Cookies (
+Name = JSESSIONID ; Value = zKt3grd6N9SPEz6ApX2gncK1.node05 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 20:11:41: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 20:11:47: Total: 0
+12/11/2024 20:11:47: Total: 0
+12/11/2024 20:11:53: Total: 1
+12/11/2024 20:11:53: Total: 1
+12/11/2024 20:11:53:  0803663-93.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:11:59: Total: 0
+12/11/2024 20:11:59: Total: 0
+12/11/2024 20:12:00: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:12:00: Rodou

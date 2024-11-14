@@ -1,0 +1,16 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 8.07.pje.1
+13/11/2024 13:22:30: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# 0.lmv0ysej55g "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+13/11/2024 13:22:42: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:22:43: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = 7Bv0RGG7f0z76fyhsMldWngLbAiO6qh9GAC0YPd6.hc-zdu129:pje-internet-zdu129 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+13/11/2024 13:22:45: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 13:25:19: Total: 1
+13/11/2024 13:25:19: Total: 1
+13/11/2024 13:26:05: advogado 0727803-73.2022.8.07.0001 >> Processo com 7 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 13:28:01: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 13:28:01: Rodou

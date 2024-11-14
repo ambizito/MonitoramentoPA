@@ -1,0 +1,51 @@
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 4.01.pje.2
+13/11/2024 12:10:39: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 0.qbwdyqiin97 "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 hqJ3BSh8AmA6Xbj8Vzg8wKLNOi1OFqf1 "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+13/11/2024 12:11:34: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 12:11:34: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = oUfnp1ouWk0XPQNHUJpnnyEEOwvxXGOxP3AbvdGf.srvpje2goutjb12 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1Mzk0NDQsImlhdCI6MTczMTUxMDY0NCwiYXV0aF90aW1lIjoxNzMxNTEwNjQ0LCJqdGkiOiI5ZjUwOTUyMi03YzJhLTQ3MmItYThlMC00MjUzMTdkMzZiYTEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOGZjMWE4NmMtMmM1NC00MGFmLThkNzAtZWVmYjZlOTRkM2Y1IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI1YjMzNDI3Ny1jNzllLTRlNTAtOTc1Zi0xMmQzMDYzOWU0ZDQiLCJhdF9oYXNoIjoidnZQTTh2S3M0UV95V3g3TTNVeHI5USIsImFjciI6IjEiLCJzaWQiOiI1YjMzNDI3Ny1jNzllLTRlNTAtOTc1Zi0xMmQzMDYzOWU0ZDQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFEUklBTkEgTUFSSUEgREEgTFVaIE5PR1VFSVJBIERJTklaIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMTA0OTE0OTk0NzciLCJnaXZlbl9uYW1lIjoiQURSSUFOQSBNQVJJQSBEQSBMVVogTk9HVUVJUkEgRElOSVoiLCJlbWFpbCI6ImFkcmlhbmFub2d1ZWlyYS5hZHZvY2FjaWFAZ21haWwuY29tIn0.YVp19jF4UWeG54WLjRSaYxThdvQSeMG4h1sEXKKRuXnAjT3ON2o9Dpjp7U_K7ZfgaOx8OWpku2y3rw9ubieCgKtFKaw92qLJrKaLNSEnOhJeEowu5qHLC4QDvT2mucRhi48EeJwkS1AIGNwPEkUnOYU1OBbLKs0MKg85CiMYcDayOi5TWqfBEgksm0uClHPMq4dWXahxab-UVwM_6ZD6enFvc67sIjpG69P-jkDz51RINjPJ0Sr9GT_HK6QefgevZPuWRYafZD1PIKvWLW3eg6bMhONkdejbmUwPL8-dFy-tT8mrzNhITesX0aqn0yNtwHTPZqwCGGx5J5JColTASw ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb12:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+13/11/2024 12:11:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:15:08: Não acessou a url de pesquisa de expedientes para o OAB RN17649
+html: salvo no mongo.
+13/11/2024 12:15:10: Rodou com falha
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 4.01.pje.2
+13/11/2024 12:16:12: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 0.ghfol86x27p "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 2lO2GIbSP0f9HdgQUojxC2XmZjRnRu9m "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+13/11/2024 12:17:57: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 12:17:58: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = S3Teu0RDJBPyzUEdgeKHs0oUHL2D6eMSqvkNqfEN.srvpje2goutjb11 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1Mzk4NTMsImlhdCI6MTczMTUxMTA1MywiYXV0aF90aW1lIjoxNzMxNTExMDUzLCJqdGkiOiI2MjU0YWM0Ny1kMTBhLTQzNjItYTJlNy1jYWNiYTdlMDhhNGQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOGZjMWE4NmMtMmM1NC00MGFmLThkNzAtZWVmYjZlOTRkM2Y1IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI5ZjAyOTQ1Mi0xMzNkLTQzNTYtYTA2NS01Zjc2MmFiOWVmYmMiLCJhdF9oYXNoIjoiNWoxQldCaWFENjVxREtRT1diSnhCdyIsImFjciI6IjEiLCJzaWQiOiI5ZjAyOTQ1Mi0xMzNkLTQzNTYtYTA2NS01Zjc2MmFiOWVmYmMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFEUklBTkEgTUFSSUEgREEgTFVaIE5PR1VFSVJBIERJTklaIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMTA0OTE0OTk0NzciLCJnaXZlbl9uYW1lIjoiQURSSUFOQSBNQVJJQSBEQSBMVVogTk9HVUVJUkEgRElOSVoiLCJlbWFpbCI6ImFkcmlhbmFub2d1ZWlyYS5hZHZvY2FjaWFAZ21haWwuY29tIn0.sm7weXPyE_lIqsPzWFHq9mlu9SfktVaIGYIrMisp3vSXkq81BtWLx2JQfiM99mm17Dtcy9wl8DKUrtyazo71QPOvWhmc_qAcTXNawXak_idwdn_H-b-GYI4ErSgMcRZqOm75D2D7W3RrITNaNwaaaAXSQx-XTFh2D0DwGEG1bz63nPzPy3VcFchug9BnBlZHdsh6IimLCd1sdnhS0rEeBlTqNzpkdbndhjwQByqJJDxC_YDHwiArVBCFGIBT1QjscqZDZUrKu9i8fACNCgSmrPB6eUlE86w1xYXlRT9iH3ZMNhKbK4oEtZm0rfHthre5R9DGzXGtemJxEw72pr-WEw ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb11:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+13/11/2024 12:18:01: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:22:37: Não acessou a url de pesquisa de expedientes para o OAB RN17649
+html: salvo no mongo.
+13/11/2024 12:22:38: Rodou com falha
+RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark em 4.01.pje.2
+13/11/2024 12:23:40: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 0.bqlofdkor06 "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 23052019 F7XQgC8vzuprSRJzeGl4VVisrcEkDbSs "adriana maria da luz nogueira diniz:10491499477 2024-04-02 15:36:06"
+13/11/2024 12:24:06: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 12:24:06: Perfil advogado e usuário ADRIANA MARIA DA LUZ NOGUEIRA DINIZ
+OAB = RN17649 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = RN17649@adriananogueiraadvocacia@29D123DB-5371-4445-BC21-77E532DC5762@mark ; Cookies (
+Name = JSESSIONID ; Value = ZGMiZsUKinJXPHh-wNJ29ymIQgizMMIGCAFOeEaz.srvpje2goutjb01 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDAyMzAsImlhdCI6MTczMTUxMTQzMCwiYXV0aF90aW1lIjoxNzMxNTExNDMwLCJqdGkiOiI2ZTNlODM1Ni01OTE5LTRhNDYtYjhkNi0yMmY4YTQwZTNjMTkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiOGZjMWE4NmMtMmM1NC00MGFmLThkNzAtZWVmYjZlOTRkM2Y1IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI0ZmE2YTE4Zi1mZjcyLTQ1NDQtYWM1MC00YmRlZjM1ZTkwN2MiLCJhdF9oYXNoIjoib1VCR0dTeTkwdnRKLUpMTmhfRFM1QSIsImFjciI6IjEiLCJzaWQiOiI0ZmE2YTE4Zi1mZjcyLTQ1NDQtYWM1MC00YmRlZjM1ZTkwN2MiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFEUklBTkEgTUFSSUEgREEgTFVaIE5PR1VFSVJBIERJTklaIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMTA0OTE0OTk0NzciLCJnaXZlbl9uYW1lIjoiQURSSUFOQSBNQVJJQSBEQSBMVVogTk9HVUVJUkEgRElOSVoiLCJlbWFpbCI6ImFkcmlhbmFub2d1ZWlyYS5hZHZvY2FjaWFAZ21haWwuY29tIn0.Fwk9t369Nu78QwAvc-3fz9VwfGJeO6tC0ogDUQnbHmYGFwGzbN-nzFacHD-qtEJx7ftPwbiMVDiaR0mSeTnFRj3Ygj9JSh-Yj5rRCtI10NaMBVwbjuMbfMJs7K1mW-Lq7gdaAc6kA0KHDfxk3zGaNZYlSOab0XaNLubisrkB5cX1D6xA2Kn_eDyckn5PkU6F5QVrRfyJQyp8MwM-cQa-15C49wbgWTjE39_-GFJfFS4yWLwOZ8XWPz6gKmVYjKvXtKlYj1gHV7wahG3bsNmAmBBU2fnSeTFQPdOCeT46x2xXLk03U3vx-VIaDyMO7AafGPbczePXKL0rpVsq8IzBwQ ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb01:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+13/11/2024 12:24:07: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:27:35: Não acessou a url de pesquisa de expedientes para o OAB RN17649
+html: salvo no mongo.
+13/11/2024 12:29:04: Rodou com falha

@@ -1,0 +1,21 @@
+RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 8.06.pje.1
+12/11/2024 23:37:39: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar K4APBQI5 0.544ctw08v7t "MARIO MATOS JUNIOR:01062490452"
+12/11/2024 23:37:42: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+12/11/2024 23:37:42: Perfil advogado e usuário MARIO MATOS JUNIOR
+OAB = RN7292 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = G9KMIg2v9slI3PFOWA_rgH_arkWMDLaNOiAgJ9-N.tjpjp34 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTQyNjEsImlhdCI6MTczMTQ2NTQ2MiwiYXV0aF90aW1lIjoxNzMxNDY1NDYxLCJqdGkiOiI0YzI4ZmQyNy1lZjk3LTQ0OTktOTU1MS1hYTBjZmMwNDZhMmIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiYjRjZmUyMjItNWI1ZS00NzQ1LWEwMjUtY2Y2NzBhZmU4YzdhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiI5ZmE4NzVkMy02ZDQ1LTQyZmEtODc1MC00NGZkMGRjMWUxMjQiLCJhdF9oYXNoIjoieWJLRmNySmZxeGRWeWwteW9NRUlyUSIsImFjciI6IjEiLCJzaWQiOiI5ZmE4NzVkMy02ZDQ1LTQyZmEtODc1MC00NGZkMGRjMWUxMjQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BUklPIE1BVE9TIEpVTklPUiIsImp0ciI6IjgwNiIsIkpUUiI6IjgwNiIsInByZWZlcnJlZF91c2VybmFtZSI6IjAxMDYyNDkwNDUyIiwiZ2l2ZW5fbmFtZSI6Ik1BUklPIE1BVE9TIEpVTklPUiIsImVtYWlsIjoiYWR2bWFyaW9qdW5pb3I4MUBnbWFpbC5jb20ifQ.mzfGa0JfdRipWhOn84FJMYE2-OaZ1hiqqfqNBfC3_JXLq22yNOlU672jewrJn1Fi_rcu19YKFdsP2LXd4Eb_4ID8BSIuJYcnAbq-ExGBNzcOisBb86-1ne5gX1RPd6PFJfdi0k8nmDMbaBEGqcyU8DufmGe2CHY39kRT92uX30vB1wLLz8LxkJsJbaEGISQFYKSez9s0zqCoifh-iviQZJ2Hk4eGNvPijDtTtwNvyG_RZbSkQD-naYTufULrifZdgs8MgAT54gW_ch9c-eSaJYttvOipO2d_XPz9_RTsS4y4PGe_0YLcxHlW156ddoGj8vAYz43mDSxlEFH0YrmmlA ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp34:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 23:37:45: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:37:53: Total: 1
+12/11/2024 23:37:54: Total: 1
+12/11/2024 23:37:54: advogado 3000210-37.2024.8.06.0124 >> Processo já foi verificado recentemente
+12/11/2024 23:37:54: Total: 1
+12/11/2024 23:37:54: Total: 1
+12/11/2024 23:37:54: advogado 3000065-18.2024.8.06.0144 >> Processo já foi verificado recentemente
+12/11/2024 23:37:59: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 23:38:01: Rodou

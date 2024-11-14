@@ -1,0 +1,31 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.05.pje.1
+14/11/2024 09:25:05: Acessou https://pje.tjba.jus.br/pje/login.seam
+14/11/2024 09:25:07: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 09:25:07: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = gk-N9plGzA0srQRlSiJ74Ldjhzdb94G6wJv9C_7i.pje1gapp068 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTU5MDYsImlhdCI6MTczMTU4NzEwNiwiYXV0aF90aW1lIjoxNzMxNTg3MTA2LCJqdGkiOiI5NzMxNTlmNi0xMTA0LTRhNzEtOGU5NC0zY2NmNDc2M2FiMmYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiZDVkZGRiZTgtMTEzOS00OWE5LTg3OTAtZmFhYzg4MjI0YzI5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiI3YjJhYjA5ZS1mMDhmLTRkYzYtYmM2NC1hZDZkNDQyNmUxMjEiLCJhdF9oYXNoIjoiUlhUZ1UwXzEzUzJFMTJYZnoxZHBTdyIsImFjciI6IjEiLCJzaWQiOiI3YjJhYjA5ZS1mMDhmLTRkYzYtYmM2NC1hZDZkNDQyNmUxMjEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJKT1NFIFBJUkVTIFJPRFJJR1VFUyBGSUxITyIsIkpUUiI6IjgwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0OTQ0NDcxNDE2IiwiZ2l2ZW5fbmFtZSI6IkpPU0UgUElSRVMgUk9EUklHVUVTIEZJTEhPIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGdjcGFkdm9nYWRvcy5jb20uYnIifQ.GsrMuvPZ3Gz8WYPtaDYO_E1-MahDYLnsORYB3mjHFqTMsIWBPaxiUpJhzShvls4DQY0U8wdAsuD3Ut9-kaK1-LFxEYv6Bk4tRpw6j5Zdka15yIl5r5QG0wZNU8UTIFOzuLtT0wbZGsioGV0CiXaLqC7U6MED3XVHPYUOeFE8hL-nWhRPyC_Va3UsgkL3p192So-ai7xZxi5X2rNMPLIQblVq6kmgvC8tuqzMGUVs3zMVi71j3mPEcyZBrKfCyHObNN7NdUfYhWpvCTlKT_2WF_veYVKS12qNYMr6nbPnArbEXKe-dTtMX7TUqMDodP4uZ4lGvSPekDugZKpuEMKFwA ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp068:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+14/11/2024 09:25:08: Total: 5
+14/11/2024 09:25:10: advogado 8137344-68.2020.8.05.0001 >> Processo com 9 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 09:25:10: advogado 8137344-68.2020.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:10: advogado 8137344-68.2020.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:10: advogado 8137344-68.2020.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:13: advogado 8066611-43.2021.8.05.0001 >> Processo com 3 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 09:25:13: advogado 8066611-43.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:13: advogado 8066611-43.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:13: advogado 8066611-43.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:13: advogado 8066611-43.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:13: advogado 8066611-43.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:13: Entrou na aba expediente do perfil para as categorias Pendente de ciência pelo judiciário e detectou 8 e leu 4
+14/11/2024 09:25:14: Total: 4
+14/11/2024 09:25:14: Total: 4
+14/11/2024 09:25:14: advogado 8066611-43.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:14: advogado 8137344-68.2020.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:14: advogado 8058882-63.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:14: advogado 8055718-90.2021.8.05.0001 >> Processo já foi verificado recentemente
+14/11/2024 09:25:14: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+14/11/2024 09:25:14: Rodou

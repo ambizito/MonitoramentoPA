@@ -1,0 +1,12 @@
+RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus em 8.17.pje.2
+12/11/2024 20:05:18: Acessou https://pje.tjpe.jus.br/2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar djneto89 0.syje12ofgq9 "djanirito de souza moura neto:06855029450 2023-11-26 12:44:24"
+12/11/2024 20:05:21: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:05:21: Perfil advogado e usuário DJANIRITO DE SOUZA MOURA NETO
+OAB = RN11793 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = 9IlLClFXdWbBDBU1LhsCpU6zx2DYI2bdIZ6jDXUu.keycloak-1 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+12/11/2024 20:05:22: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:05:24: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:05:24: Rodou

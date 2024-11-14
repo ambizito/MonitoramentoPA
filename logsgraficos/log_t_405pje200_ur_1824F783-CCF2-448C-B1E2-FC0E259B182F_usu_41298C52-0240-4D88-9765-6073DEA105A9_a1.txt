@@ -1,0 +1,33 @@
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 4.05.pje.2.00
+13/11/2024 01:20:25: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 NmvfH8YtyZy0nmMQqhjEn60uAcQK42OS "MARCELLO ROCHA LOPES:83850333434"
+13/11/2024 01:20:29: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:20:29: Perfil advogado e usuário Marcello Rocha Lopes
+OAB = RN5382 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = Zm8Eupw6znLXJy3F17aX0bTM.node13 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab20001c41cdbd232f87c9b2b7cf5b280ffacf66df43cf89bcf2050d4e99a1d86f389b0854de9be1113000645007fff8146164686aeddf5997a19c01172f7b48cf8384e247f6cabf8c6777491aed238519d931f3ccf4e2bb00dd49 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+13/11/2024 01:20:36: Total: 2
+13/11/2024 01:20:49: advogado 0805987-65.2024.4.05.0000 >> Processo com 6 parte(s), 13 andamento(s) e 15 expediente(s) atualizado
+13/11/2024 01:20:49: advogado 0805987-65.2024.4.05.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:22:18: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 6 e leu 2
+13/11/2024 01:22:32: Total: 3
+13/11/2024 01:22:32: Total: 3
+13/11/2024 01:22:32:  0802297-34.2013.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:22:32:  0802409-03.2013.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:22:32:  0805987-65.2024.4.05.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:22:51: Total: 8
+13/11/2024 01:22:51: Total: 8
+13/11/2024 01:22:51:  0802511-25.2013.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:22:51:  0802755-94.2014.4.05.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:23:00:  0804478-46.2017.4.05.0000 >> Processo com 3 parte(s), 14 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:23:00:  0805358-38.2017.4.05.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:23:00:  0800514-65.2017.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:23:00:  0808001-18.2019.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:23:00:  0814283-09.2018.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:23:00:  0801006-18.2021.4.05.8400 >> Processo já foi verificado recentemente
+13/11/2024 01:23:14: Total: 0
+13/11/2024 01:23:14: Total: 0
+13/11/2024 01:23:15: Entrou na aba acervo do perfil e mapeou 11 processos e teve erro em 0 processos
+13/11/2024 01:23:15: Rodou

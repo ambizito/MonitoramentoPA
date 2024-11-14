@@ -1,0 +1,13 @@
+SP416989@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.10.pje.1
+13/11/2024 01:23:52: Acessou https://pje.tjma.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.aou7j79xcdh "RODRIGO ANTONIO DE ARAUJO LUZ:01797569406"
+13/11/2024 01:23:55: Logou https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:23:55: Perfil advogado e usuário RODRIGO ANTONIO DE ARAUJO LUZ
+OAB = SP416989 ; URL = https://pje.tjma.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.1 ; usuarioId = SP416989@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = JSESSIONID ; Value = 3TaG4KezOSe9IblVIeeTwzZ6Wamf8GoYn44I9dW8.pje-web-ss-19 ; Domain = pje.tjma.jus.br ; Path = /pje
+Name = f114a8f9c4f449e1102a9ca02ac30508 ; Value = 95baa1a4032eea2b075b79a0aeb9dbfc ; Domain = pje.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjma.jus.br ; Path = /
+)
+13/11/2024 01:23:55: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:23:56: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 01:23:56: Rodou

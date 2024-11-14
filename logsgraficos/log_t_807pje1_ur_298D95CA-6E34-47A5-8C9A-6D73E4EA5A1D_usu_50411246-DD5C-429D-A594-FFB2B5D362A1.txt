@@ -1,0 +1,18 @@
+05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.07.pje.1
+14/11/2024 10:15:25: Acessou https://pje.tjdft.jus.br/pje/login.seam
+14/11/2024 10:15:26: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 10:15:26: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = 05479437410 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = 05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = PnS0ph_9IyfjK31ThOcpfcgZotvsaf4ewMceG4Cz.hc-zdu121:pje-internet-zdu121 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+14/11/2024 10:15:27: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 10:15:28: Total: 1
+14/11/2024 10:15:28: Total: 1
+14/11/2024 10:15:28: advogado 0736541-05.2022.8.07.0016 >> Processo já foi verificado recentemente
+14/11/2024 10:15:28: Total: 1
+14/11/2024 10:15:28: Total: 1
+14/11/2024 10:15:28: advogado 0704162-80.2018.8.07.0006 >> Processo já foi verificado recentemente
+14/11/2024 10:15:29: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+14/11/2024 10:15:29: Rodou

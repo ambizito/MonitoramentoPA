@@ -1,0 +1,11 @@
+70223709409@rafaelvicenteadv@679A7AEF-0237-4024-B623-6FA2F40DE6BE@linus em 8.17.pje.2
+13/11/2024 00:12:54: Acessou https://pje.tjpe.jus.br/2g/login.seam
+13/11/2024 00:12:56: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+13/11/2024 00:12:56: Perfil advogado e usuário WALLISSON JOSE DA SILVA
+OAB = 70223709409 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = 70223709409@rafaelvicenteadv@679A7AEF-0237-4024-B623-6FA2F40DE6BE@linus ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = gGKTCEMfwaQFulFWGOt2mZBH52wqN8CYw2h3IIZ3.keycloak-4 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+13/11/2024 00:12:57: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo Judiciário - pendente de resposta, Respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 00:13:08: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:13:08: Rodou

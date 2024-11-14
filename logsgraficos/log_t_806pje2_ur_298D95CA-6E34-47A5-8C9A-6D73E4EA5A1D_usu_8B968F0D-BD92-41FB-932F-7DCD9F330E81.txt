@@ -1,0 +1,18 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.06.pje.2
+14/11/2024 10:28:19: Acessou https://pje.tjce.jus.br/pje2grau/login.seam
+14/11/2024 10:28:21: Logou https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam
+14/11/2024 10:28:21: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id1 ; tribunal = 8.06.pje.2 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = KLM9cEnnPib56p933AOFbOiZpJ9TlKHpWqPIjdI1.tjpjp39 ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTk3MDAsImlhdCI6MTczMTU5MDkwMCwiYXV0aF90aW1lIjoxNzMxNTkwOTAwLCJqdGkiOiIwNDAyZWFkZi02NTEzLTRhMTEtOGNkNi1iOGMwZGYyZTcwYmEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTJnIiwic3ViIjoiZDVkZGRiZTgtMTEzOS00OWE5LTg3OTAtZmFhYzg4MjI0YzI5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0yZyIsInNlc3Npb25fc3RhdGUiOiJmNTg3NzhhNi01ZmQ5LTQ4MzMtYTdmZC0xNjZkM2FmMjU0YmMiLCJhdF9oYXNoIjoibTRGSkQzSExjUWh4U2MzOVg5US1IQSIsImFjciI6IjEiLCJzaWQiOiJmNTg3NzhhNi01ZmQ5LTQ4MzMtYTdmZC0xNjZkM2FmMjU0YmMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJKT1NFIFBJUkVTIFJPRFJJR1VFUyBGSUxITyIsImp0ciI6IjgwNiIsIkpUUiI6IjgwNiIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0OTQ0NDcxNDE2IiwiZ2l2ZW5fbmFtZSI6IkpPU0UgUElSRVMgUk9EUklHVUVTIEZJTEhPIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGdjcGFkdm9nYWRvcy5jb20uYnIifQ.I5M5ms1vDbqkZldIahIkTso2j5grQzyjUaR_AR1OuMiQMbYZIHdChV6EXm_qmPI6MGuJJ8K6ad5uwA4tOH-UiZBjVawhlTB3xi7DbOVp2fm7a0EVT81950D7F5J5Ef4MVww59MlsE5baodQ__Sy-9sSrAZsZWI7TPGl2t-vT3f7gLfz1mKOHAux7cO5HuvQee-pKlewIaJ9MZ8RY2mG0FoQiixjeKKPc7CvVii1ZZuDKMW6mrPbrEuI8Ln39t2YOLtyYAdwsXVNxVrusliPpIjlk236t9zpu_WZf04V494a_DHANXvgbr5fRj8O9pjsw1HS4t7iMHG-NJLmV6X7TMw ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = PJE-TJCE-2G-StickySessionRule ; Value = "tjpjp39:pje-tjce-2g" ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+14/11/2024 10:28:21: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+14/11/2024 10:28:22: Total: 2
+14/11/2024 10:28:22: Total: 2
+14/11/2024 10:28:22: advogado 3000477-13.2022.8.06.0113 >> Processo já foi verificado recentemente
+14/11/2024 10:28:22: advogado 3001063-50.2022.8.06.0113 >> Processo já foi verificado recentemente
+14/11/2024 10:28:23: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+14/11/2024 10:28:23: Rodou

@@ -1,0 +1,10 @@
+5382RN@csdradvogados@0D35C291-D769-4968-9CE8-E4919F72EB45@linus em 8.05.Projudi.1
+13/11/2024 01:32:08: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:32:08: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:32:08: Total: 1
+13/11/2024 01:32:09: Entrou na aba acervo e mapeou 1 processos
+13/11/2024 01:32:09: Total: 3
+13/11/2024 01:32:11: Entrou na aba acervo e mapeou 3 processos
+13/11/2024 01:32:11: Entrou na aba acervo e mapeou 0 processos
+13/11/2024 01:32:11: Rodou
+13/11/2024 01:32:11: Rodou

@@ -1,0 +1,17 @@
+RN4971@lucianocoelho@EAFE89FC-7818-4BBB-A058-DAF9A4F1E371@linus em 4.05.pje2.2
+13/11/2024 00:06:49: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar luck1976 0.aou7j79xcdh "LUCIANO ROCHA COELHO JUNIOR:51226367453"
+13/11/2024 00:06:52: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:06:52: Perfil advogado e usuário LUCIANO ROCHA COELHO JUNIOR
+OAB = RN4971 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = RN4971@lucianocoelho@EAFE89FC-7818-4BBB-A058-DAF9A4F1E371@linus ; Cookies (
+Name = JSESSIONID ; Value = luSU3JEPhmNz8xhZfkOeP3PHYNk06otLrdijRSzy.sg-119-vbq78 ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTYwMTEsImlhdCI6MTczMTQ2NzIxMSwiYXV0aF90aW1lIjoxNzMxNDY3MjExLCJqdGkiOiIwNjJmZjA1Ni04M2MyLTQwNjItOTU0Ni0wMGJiNDQyODZlMDIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiNDlkN2ZkNjEtMzBiZC00OTJkLTlkYTktY2Y1OWUwMDE2MGVjIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiI3NWJkZjNiZi04N2M3LTRiYTgtOGVlOC1jNzE4MmM3ZTk2YWUiLCJhdF9oYXNoIjoiUTJ2M284XzJ1N21naF94OW5WdC1uUSIsImFjciI6IjEiLCJzaWQiOiI3NWJkZjNiZi04N2M3LTRiYTgtOGVlOC1jNzE4MmM3ZTk2YWUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxVQ0lBTk8gUk9DSEEgQ09FTEhPIEpVTklPUiIsIkpUUiI6IjQwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjUxMjI2MzY3NDUzIiwiZ2l2ZW5fbmFtZSI6IkxVQ0lBTk8gUk9DSEEgQ09FTEhPIEpVTklPUiIsImVtYWlsIjoibHVjaWFuby1hZHZvZ2Fkb0Bob3RtYWlsLmNvbSJ9.S5z282a2NOw1sX5dCAW3dDjWgQDno8ZOw4dSua8MEYrHAIMMfDQyMURebspj6mxZjuriyF2TaYLF_8buGlF24HydrkHNjMXqv7R8MKSCKRx-C0R6-tW4pjCu34XyAIyBZEHlCacjxadIEshceDorGaGlJXEZVJ_1LvBV0u3i1e2snTAvt6p8ZO6s79C49ditdVTesn5oRuUFy41gutVfRWMmcgwl-qcyup_sF9cFENUr5f4BbCTaENXqnp6EivhbC5grGZKJBUV4mrFATXx_TQIvEngs0ISsbhIHiSa7FVmXe3aKNC4NHHJalC2_thaDBo0BWUUEWtN0L2vUcXE8yQ ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 39e08340bbcc4d2e6e9bb2122e630c2f ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_74A4EC04099927E9CFA629A09356C7D3_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_74A4EC04099927E9CFA629A09356C7D3_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+13/11/2024 00:06:52: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:07:02: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:07:02: Rodou

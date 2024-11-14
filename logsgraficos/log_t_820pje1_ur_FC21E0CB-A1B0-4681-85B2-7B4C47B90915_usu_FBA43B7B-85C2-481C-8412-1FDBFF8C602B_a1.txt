@@ -1,0 +1,337 @@
+PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus em 8.20.pje.1
+13/11/2024 01:47:42: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.goa8eptkl2q "tadeu leal reis de melo:03234429430 2023-12-19 09:50:24"
+13/11/2024 01:47:46: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:47:46: Perfil advogado e usuário TADEU LEAL REIS DE MELO
+OAB = PE23111 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus ; Cookies (
+Name = JSESSIONID ; Value = nN7Yu27WiBlV1v9CkgCyTSTZM-5q7ID3OtmevKJA.pje1g-104-htmf9 ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1MDIwNjQsImlhdCI6MTczMTQ3MzI2NSwiYXV0aF90aW1lIjoxNzMxNDczMjY0LCJqdGkiOiIwZTBmMDU2Mi0yNGFkLTQ2YjItOWZjZS1iODQ5ZjUyNjgzZjAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiNDgxZDM4ZWYtZGI0Ni00NmU0LWEwNTUtNjJiZDZiYTUxNjYzIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiIyNjkxYmFiMi0xZTI1LTRiZmEtOTNkZi0zYjRiYTAyNTNiODYiLCJhdF9oYXNoIjoiNFN5M2dhQjVHdEdYcnhVYkdYRUtWZyIsImFjciI6IjEiLCJzaWQiOiIyNjkxYmFiMi0xZTI1LTRiZmEtOTNkZi0zYjRiYTAyNTNiODYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlRBREVVIExFQUwgUkVJUyBERSBNRUxPIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDMyMzQ0Mjk0MzAiLCJnaXZlbl9uYW1lIjoiVEFERVUgTEVBTCBSRUlTIERFIE1FTE8iLCJlbWFpbCI6InRscm1hZHZAZ21haWwuY29tIn0.ufyh3Ebb0qydV3EONaKix0xi4YiphvgFWvdXr7vFYMz4bl-kogUPV7P_0rQPSSd-UAkyEc01Y_0hiYXcQgzO9vRg9HBILD_FzVstnMxScnG0k3ndFAVTrO94TyRES8ezurkuYIpGNRxBClWwsobekFiFcQZ7uhwfysJVNF3GkQ0DmDUyX_IFzkMPd2yfIz4eG0X3PHMcCtTBNEKdSatxu4d4JUm4nqaqk-ZKNi1W_T6loLAxLbIBHTq2wCIFvW_BA7CN_wcYq-17vO6I6vv45VhdViSRkfN171wdxBr7XbJVNueQqerMjdoAI4Zwht4pHzvOnkip6xkmEDn7iqznGw ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-htmf9:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 529ee4a86244f0e9ca1dbabd6b8b2acd ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:47:47: Total: 3
+13/11/2024 01:47:49: advogado 0818613-20.2024.8.20.5124 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:47:51: advogado 0818614-05.2024.8.20.5124 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:47:53: advogado 0818618-42.2024.8.20.5124 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:47:54: Total: 11
+13/11/2024 01:47:56: advogado 0805483-45.2024.8.20.5129 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:47:58: advogado 0805485-15.2024.8.20.5129 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:00: advogado 0805516-35.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:02: advogado 0805518-05.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:05: advogado 0805519-87.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:09: advogado 0805596-96.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:13: advogado 0805607-28.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:19: advogado 0805608-13.2024.8.20.5129 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:25: advogado 0805609-95.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:30: advogado 0805484-30.2024.8.20.5129 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:34: advogado 0818035-29.2024.8.20.5004 >> Processo com 2 parte(s), 18 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:34: Total: 11
+13/11/2024 01:48:38: advogado 0819080-68.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:45: advogado 0817811-91.2024.8.20.5004 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:51: advogado 0817818-83.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:48:56: advogado 0817822-23.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:04: advogado 0817825-75.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:11: advogado 0818028-37.2024.8.20.5004 >> Processo com 2 parte(s), 19 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:49:16: advogado 0817824-90.2024.8.20.5004 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:49:23: advogado 0817979-93.2024.8.20.5004 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:28: advogado 0817997-17.2024.8.20.5004 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:33: advogado 0818902-22.2024.8.20.5004 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:37: advogado 0818848-56.2024.8.20.5004 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:38: Total: 3
+13/11/2024 01:49:53: advogado 0818613-20.2024.8.20.5124 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:49:58: advogado 0818614-05.2024.8.20.5124 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:50:38: advogado 0818618-42.2024.8.20.5124 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:50:38: Total: 10
+13/11/2024 01:51:27: advogado 0805483-45.2024.8.20.5129 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:52:25: advogado 0805485-15.2024.8.20.5129 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:52:31: advogado 0805516-35.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:52:36: advogado 0805518-05.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:53:26: advogado 0805519-87.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:53:49: advogado 0805596-96.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:53:56: advogado 0805607-28.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:54:29: advogado 0805608-13.2024.8.20.5129 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:54:34: advogado 0805609-95.2024.8.20.5129 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:55:14: advogado 0805484-30.2024.8.20.5129 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:55:14: Total: 2
+13/11/2024 01:55:55: advogado 0819080-68.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:56:35: advogado 0818028-37.2024.8.20.5004 >> Processo com 2 parte(s), 19 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:56:36: Total: 1
+13/11/2024 01:57:13: advogado 0818035-29.2024.8.20.5004 >> Processo com 2 parte(s), 18 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 01:57:13: Total: 9
+13/11/2024 01:58:26: advogado 0817811-91.2024.8.20.5004 >> Processo com 2 parte(s), 14 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 02:00:15: advogado 0817818-83.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 02:01:18: advogado 0817822-23.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 02:06:00: advogado 0817825-75.2024.8.20.5004 >> Processo com 2 parte(s), 15 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 02:06:14: advogado 0817824-90.2024.8.20.5004 >> Processo com 2 parte(s), 20 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 02:09:06: advogado 0817979-93.2024.8.20.5004 >> Falha ao salvar os dados do processo no mongo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String numeroNaFila, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 4138
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3658
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2535
+13/11/2024 02:12:16: advogado 0817979-93.2024.8.20.5004 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.FirstOrDefault[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MongoDB.Driver.IFindFluentExtensions.FirstOrDefault[TDocument,TProjection](IFindFluent`2 find, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3115
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+13/11/2024 02:16:07: advogado 0817997-17.2024.8.20.5004 >> Falha ao salvar os dados do processo no mongo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String numeroNaFila, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 4138
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3658
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2535
+13/11/2024 02:19:18: advogado 0817997-17.2024.8.20.5004 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.FirstOrDefault[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MongoDB.Driver.IFindFluentExtensions.FirstOrDefault[TDocument,TProjection](IFindFluent`2 find, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3115
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+13/11/2024 02:23:09: advogado 0818902-22.2024.8.20.5004 >> Falha ao salvar os dados do processo no mongo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String numeroNaFila, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 4138
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3658
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2535
+13/11/2024 02:26:19: advogado 0818902-22.2024.8.20.5004 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.FirstOrDefault[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MongoDB.Driver.IFindFluentExtensions.FirstOrDefault[TDocument,TProjection](IFindFluent`2 find, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3115
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+13/11/2024 02:30:10: advogado 0818848-56.2024.8.20.5004 >> Falha ao salvar os dados do processo no mongo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String numeroNaFila, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 4138
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3658
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2535
+13/11/2024 02:33:20: advogado 0818848-56.2024.8.20.5004 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.FirstOrDefault[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MongoDB.Driver.IFindFluentExtensions.FirstOrDefault[TDocument,TProjection](IFindFluent`2 find, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3115
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+13/11/2024 02:33:51: Total: 2
+13/11/2024 02:37:13: advogado 0817829-15.2024.8.20.5004 >> Falha ao salvar os dados do processo no mongo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String numeroNaFila, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 4138
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3658
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2535
+13/11/2024 02:40:23: advogado 0817829-15.2024.8.20.5004 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.FirstOrDefault[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MongoDB.Driver.IFindFluentExtensions.FirstOrDefault[TDocument,TProjection](IFindFluent`2 find, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3115
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+13/11/2024 02:44:14: advogado 0818028-37.2024.8.20.5004 >> Falha ao salvar os dados do processo no mongo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String numeroNaFila, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 4138
+   at ProcessoAgil.Dados.Mongo.AtualizarDadosProcesso(Processo p, String instancia, String idUsuario) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3658
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2535
+13/11/2024 02:47:24: advogado 0818028-37.2024.8.20.5004 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.FirstOrDefault[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at MongoDB.Driver.IFindFluentExtensions.FirstOrDefault[TDocument,TProjection](IFindFluent`2 find, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3115
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+13/11/2024 02:47:54: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo Judiciário - pendente de resposta, Respondidos nos últimos 10 dias e detectou 27 e leu 27
+13/11/2024 02:51:44: Falha ao buscar controle dos expedientes lidos: A timeout occured after 30000ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 } }. Client view of cluster state is { ClusterId : "1", ConnectionMode : "Automatic", Type : "ReplicaSet", State : "Connected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/token.softurbano.com:30050" }", EndPoint: "Unspecified/token.softurbano.com:30050", State: "Connected", Type: "ReplicaSetSecondary", WireVersionRange: "[0, 9]" }] }.
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadBindingHandle.GetReadChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.Execute(IReadBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperation[TResult](IReadBinding binding, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperation[TResult](IClientSessionHandle session, IReadOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](IClientSessionHandle session, FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass41_0`1.<FindSync>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindSync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.FindFluent`2.ToCursor(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.AsyncCursorSourceEnumerableAdapter`1.GetEnumerator()
+   at ProcessoAgil.Dados.Mongo.GetControleExpedienteLido(String token, String tribunal, Boolean terceiro, Nullable`1 dataLeitura) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 1893
+   at ProcessoAgil.TribunalToken.BuscarControles(String token, String tribunal, Boolean terceiro, Nullable`1 data) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1134
+13/11/2024 02:52:44: Exceção: A timeout occured after 30000ms selecting a server using CompositeServerSelector{ Selectors = WritableServerSelector, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 } }. Client view of cluster state is { ClusterId : "1", ConnectionMode : "Automatic", Type : "ReplicaSet", State : "Connected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/token.softurbano.com:30050" }", EndPoint: "Unspecified/token.softurbano.com:30050", State: "Connected", Type: "ReplicaSetSecondary", WireVersionRange: "[0, 9]" }] }.
+Stack Trace:    at MongoDB.Driver.Core.Clusters.Cluster.ThrowTimeoutException(IServerSelector selector, ClusterDescription description)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChangedHelper.HandleCompletedTask(Task completedTask)
+   at MongoDB.Driver.Core.Clusters.Cluster.WaitForDescriptionChanged(IServerSelector selector, ClusterDescription description, Task descriptionChangedTask, TimeSpan timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServer(IServerSelector selector, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.WritableServerBinding.GetWriteChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Bindings.ReadWriteBindingHandle.GetWriteChannelSource(CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.RetryableWriteContext.Create(IWriteBinding binding, Boolean retryRequested, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Operations.BulkMixedWriteOperation.Execute(IWriteBinding binding, CancellationToken cancellationToken)
+   at MongoDB.Driver.OperationExecutor.ExecuteWriteOperation[TResult](IWriteBinding binding, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteWriteOperation[TResult](IClientSessionHandle session, IWriteOperation`1 operation, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IClientSessionHandle session, IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.<>c__DisplayClass23_0.<BulkWrite>b__0(IClientSessionHandle session)
+   at MongoDB.Driver.MongoCollectionImpl`1.UsingImplicitSession[TResult](Func`2 func, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.BulkWrite(IEnumerable`1 requests, BulkWriteOptions options, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionBase`1.UpdateOne(FilterDefinition`1 filter, UpdateDefinition`1 update, UpdateOptions options, Func`3 bulkWrite)
+   at MongoDB.Driver.MongoCollectionBase`1.UpdateOne(FilterDefinition`1 filter, UpdateDefinition`1 update, UpdateOptions options, CancellationToken cancellationToken)
+   at ProcessoAgil.Dados.Mongo.GetTokenContador(String sistema, String login, String dominio, String servidor, String perfil, String tribunal, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 1396
+   at ProcessoAgil.TribunalToken.NavegarAcervo(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, String perfil, Nullable`1 tokenId, String parteNome, ControleExpedienteLido controleExpedienteLido) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1956
+   at ProcessoAgil.TribunalToken.Navegar(CookieContainer cookie, String viewState, String oab, String tribunal, String usuarioId, String html, String parteNome, String perfil, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 1000
+   at ProcessoAgil.TribunalToken.Conectar(String senha, String oab, String dominio, String tribunal, Int32 slot, String parteNome, TokenInfo token, String login) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 547

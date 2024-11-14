@@ -1,0 +1,22 @@
+PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 4.05.pje2.2
+12/11/2024 16:38:20: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.xekyxte3hn1 "DANIEL JOSE DE BRITO VEIGA PESSOA:05251776470"
+12/11/2024 16:38:23: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:38:23: Perfil advogado e usuário DANIEL JOSE DE BRITO VEIGA PESSOA
+OAB = PB14960 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = PB14960@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = MjstZtIsmiquNk-b26-W0Dsx5LNrYuHWeDYQfq7P.sg-119-jxhq9 ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NjkxMDIsImlhdCI6MTczMTQ0MDMwMiwiYXV0aF90aW1lIjoxNzMxNDQwMzAyLCJqdGkiOiI0NTY3YjExNy1mMjg1LTRlODAtYmE1My04MDU3OTlhNmM0MDYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiMzFmZDczMmItOWVhMC00NjlkLWJmNmUtYTljODU1MjI2NmEwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiI0YzA5MmNiYS1jZjNlLTQxNzUtOTQzOC05MDI0ZmY4ZjRjZDciLCJhdF9oYXNoIjoiSkdOaDMyTjZITTgta1hsQVlLbFFFZyIsImFjciI6IjEiLCJzaWQiOiI0YzA5MmNiYS1jZjNlLTQxNzUtOTQzOC05MDI0ZmY4ZjRjZDciLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRBTklFTCBKT1NFIERFIEJSSVRPIFZFSUdBIFBFU1NPQSIsIkpUUiI6IjQwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1MjUxNzc2NDcwIiwiZ2l2ZW5fbmFtZSI6IkRBTklFTCBKT1NFIERFIEJSSVRPIFZFSUdBIFBFU1NPQSIsImVtYWlsIjoiZGFuaWVsQHZlaWdhcGVzc29hLmNvbS5iciJ9.EzXlW9dOHiUQ2AKhgs01UYnb9YqdKEkAr_VOhMAYkMvtULYxS3yvmB-fkQDEdX9DacA7GlCIPUkx_2BUgoKWffOpGnKWWwkm03gLZJTvV7MspGcxw9fc6gc4EgYZpsT975D8mHDloYC7LY1divTvQMKwkZ2aoUofnZUqto2MHwBIZjNsyrG_2ylP03YBxiSE-ObKtndagGu-wkzVrmD2ETqJMORVLQeXPKS-8HvC467ac-Dc_GMHTIKZgq3sOrPmT9Q19xseuRDwWvfRe4afoldPwGsqjSEWJ3X5WNZvfdeHZ8y5f7OveayxMakDLtxRSgDqH95c33v8vs8hXkzaFA ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = e56ea972a917be1d606b45f9c53f25f6 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_86D271156B07B1B679AD8FD1D4297CAF_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_86D271156B07B1B679AD8FD1D4297CAF_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+12/11/2024 16:38:23: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:38:24: Total: 3
+12/11/2024 16:38:24: Total: 3
+12/11/2024 16:38:27: advogado 0013049-67.2023.4.05.8200 >> Processo com 3 parte(s), 49 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 16:38:28: advogado 0000065-07.2024.4.05.9820 >> Processo com 3 parte(s), 38 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 16:38:30: advogado 0002268-83.2023.4.05.8200 >> Processo com 3 parte(s), 41 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 16:38:31: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 16:38:31: Rodou

@@ -1,0 +1,20 @@
+PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark em 4.05.pje.2.00
+13/11/2024 01:31:11: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 88509332 PpxvdodoW1q64tYO3FjmsGLTtz1SLVat "DOUGLAS BRANDAO DO NASCIMENTO:06698038474"
+13/11/2024 01:31:14: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:31:14: Perfil advogado e usuário DOUGLAS BRANDAO DO NASCIMENTO
+OAB = PB17064 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark ; Cookies (
+Name = JSESSIONID ; Value = S5pvsRseecnlIRT1hzFhd0hX.node03 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000a808ecc0eca75cccc3c620f9ef0a8c2b07baddd9bfc8793c73b151e62dd68aeb0836141db11130001f764c9a96209bfc580751e8a198739e5f33ad1d88aaf5f7c1f4fdd0e30d75b7a3592f94c42552454cf84bf55e20ebe9 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+13/11/2024 01:32:47: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 01:33:00: Total: 0
+13/11/2024 01:33:00: Total: 0
+13/11/2024 01:33:18: Total: 1
+13/11/2024 01:33:18: Total: 1
+13/11/2024 01:33:18:  0810214-11.2018.4.05.0000 >> Processo já foi verificado recentemente
+13/11/2024 01:33:31: Total: 0
+13/11/2024 01:33:31: Total: 0
+13/11/2024 01:33:33: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 01:33:33: Rodou

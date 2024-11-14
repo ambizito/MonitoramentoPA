@@ -1,0 +1,24 @@
+RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark em 4.05.pje.1.83
+12/11/2024 18:51:38: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234bm QrjDRdummC0NP8JqPYwHCuyyiF9bTUAP "GERSON BRENDO MESQUITA FERREIRA:01675025495"
+12/11/2024 18:51:41: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:51:41: Perfil advogado e usuário GERSON BRENDO MESQUITA FERREIRA
+OAB = RN24861 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN24861@mmfadvocacia@1482398E-DCAD-4301-A8B3-9A3E1DCE9D2D@mark ; Cookies (
+Name = JSESSIONID ; Value = 3Jx1stJ-8VxI7Jni4EvwTiY8.node08 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c266834783a1f420c3d3fe087fb92e444ca55a11e70e250489b827b9f8fa4c15627750c95c52e8a29748c7a713d675b3f5ef93d26d5b7c99af5ded0dd3a80fc5c ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab200059ab82ac1d9ebeb85d9a25b675318cd6b1b56e2a93689c67d8fc0fbf8cdc11d4083bfebc9a113000b82e27a36478ea5e58abe3c0a0d1b4a38dc88583319b5dfd2787c6068a8bc1dd07749df0b5057d826211567dfaa710ea ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c99124cc4ad4a9966abfde3999e5f0f43ca55a11e70e250489b827b9f8fa4c156a863ef3c314429f858272f53583649d96934b3c45357cb6a00bc2bb90c98ff39 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_6D6380C78FB4C9CB8E8031533529B4AC_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c99124cc4ad4a9966abfde3999e5f0f43ca55a11e70e250489b827b9f8fa4c156a863ef3c314429f858272f53583649d96934b3c45357cb6a00bc2bb90c98ff39 ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_6D6380C78FB4C9CB8E8031533529B4AC_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 18:51:49: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:52:09: Total: 0
+12/11/2024 18:52:09: Total: 0
+12/11/2024 18:52:33: Total: 0
+12/11/2024 18:52:33: Total: 0
+12/11/2024 18:52:47: Total: 0
+12/11/2024 18:52:47: Total: 0
+12/11/2024 18:52:49: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:52:49: Rodou

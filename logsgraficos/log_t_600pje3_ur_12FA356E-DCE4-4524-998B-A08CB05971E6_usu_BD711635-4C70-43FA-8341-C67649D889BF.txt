@@ -1,0 +1,8 @@
+04429349479@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 6.00.pje.3
+13/11/2024 19:27:15: Acessou https://pje.tse.jus.br/pje/login.seam
+13/11/2024 19:27:17: Erro no acesso: Desconhecido
+html: salvo no mongo.
+04429349479@josenildosousa@12FA356E-DCE4-4524-998B-A08CB05971E6@linus em 6.00.pje.3
+13/11/2024 19:28:18: Acessou https://pje.tse.jus.br/pje/login.seam
+13/11/2024 19:28:48: Erro no acesso: Desconhecido
+html: salvo no mongo.

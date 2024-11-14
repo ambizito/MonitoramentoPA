@@ -1,0 +1,51 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.17.pje.1
+12/11/2024 20:11:52: Acessou https://pje.cloud.tjpe.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.aou7j79xcdh "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 20:11:55: Logou https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:11:55: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.1 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = CwDlnJeZfWVERORrslQ9MvM2u9AyBelQ9-fOXHv2.pje-1g-17 ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE5MTQsImlhdCI6MTczMTQ1MzExNCwiYXV0aF90aW1lIjoxNzMxNDUzMTE0LCJqdGkiOiI5YjUxYWVjMy00OGFmLTQ2OWEtYmRlMS04MzYwNzMxZDlkMDAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBlLTFnLWNsb3VkIiwic3ViIjoiMDdiMzFjNDMtYWI1Yy00NDMxLWE2MWUtM2M2M2RhNjhmMzg2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwZS0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiI3YWZmNWU5MS03ODA4LTQwNDItOTFiZC00MzYzMTBlZGIxNjYiLCJhdF9oYXNoIjoiazI4ZlFqb1NlcWtKVEwyUE1JRXlrZyIsImFjciI6IjEiLCJzaWQiOiI3YWZmNWU5MS03ODA4LTQwNDItOTFiZC00MzYzMTBlZGIxNjYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlBSSVNDSUxMQSBMSUNJQSBGRUlUT1NBIERFIEFSQVVKTyBDQUJSQUwiLCJqdHIiOiI4MTciLCJKVFIiOiI4MTciLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTU3Nzk4ODQxMSIsImdpdmVuX25hbWUiOiJQUklTQ0lMTEEgTElDSUEgRkVJVE9TQSBERSBBUkFVSk8gQ0FCUkFMIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGZlaXRvc2FlYnJhbmRhby5jb20uYnIifQ.RegCOHHfSig19FJDhNC7qXCm7wzH9YdpEzoxhkcKktcMhvUauEdDKGP85fbbh3jh-HWK_lqh4p9gWISsWuoBr8nskuyMTexuT1DBK5Ry6kFMZzScrCeGz37Cq7M-On8-zFfQTueUly_lD9veWRERDivzYSC_skNIV6Amjgi9uDVb7Sqp6rUsVGu_S8ZSZQRVbYQe1SWEdX9MXxdAqdr0s7pfD8JIPHNvkS1MWVOzqCv3zxTg5LziRbWzAVj1vcpo7ydOtwaOiU01bBgt09QaZoXpFDy4EJmbShQxFabdhwo6i5p6E6PHEsjGeoB1avVvvatl8oBtoxwcdZtbkA0dtw ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = PJE-TJPE-1G-StickySessionRule ; Value = "pje-1g-17:pje-tjpe-1g" ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAAAXp7KYN+qK7J7mfSHoScxsqEwKZT5tylzQFjnvaGIwlXtsnlEXEwc0atIrgLF4ZvuH6I0N6k6CzHeAOXwbW+TXvAWKlY5wn/3olKjfbRmyWLQypbO4jEIOIiMPNuM7pjsw87o= ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+)
+12/11/2024 20:11:56: Total: 1
+12/11/2024 20:11:58: advogado 0000931-28.2024.8.17.2260 >> Processo com 6 parte(s), 58 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:11:58: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 4 e leu 2
+12/11/2024 20:11:59: Total: 1
+12/11/2024 20:11:59: Total: 1
+12/11/2024 20:11:59: advogado 0000931-28.2024.8.17.2260 >> Processo já foi verificado recentemente
+12/11/2024 20:11:59: Total: 1
+12/11/2024 20:11:59: Total: 1
+12/11/2024 20:11:59: advogado 0003172-04.2018.8.17.2480 >> Processo já foi verificado recentemente
+12/11/2024 20:12:00: Total: 1
+12/11/2024 20:12:00: Total: 1
+12/11/2024 20:12:00: advogado 0033167-03.2022.8.17.2810 >> Processo já foi verificado recentemente
+12/11/2024 20:12:00: Total: 2
+12/11/2024 20:12:00: Total: 2
+12/11/2024 20:12:00: advogado 0000370-79.2020.8.17.2830 >> Processo já foi verificado recentemente
+12/11/2024 20:12:00: advogado 0000395-92.2020.8.17.2830 >> Processo já foi verificado recentemente
+12/11/2024 20:12:00: Total: 1
+12/11/2024 20:12:00: Total: 1
+12/11/2024 20:12:00: advogado 0014912-36.2024.8.17.3130 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: Total: 7
+12/11/2024 20:12:01: Total: 7
+12/11/2024 20:12:01: advogado 0162364-76.2023.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: advogado 0091773-55.2024.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: advogado 0002730-20.2018.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: advogado 0029526-77.2020.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: advogado 0040641-32.2019.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: advogado 0018705-14.2020.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: advogado 0022956-46.2018.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 20:12:01: Total: 1
+12/11/2024 20:12:01: Total: 1
+12/11/2024 20:12:01: advogado 0000659-07.2017.8.17.3480 >> Processo já foi verificado recentemente
+12/11/2024 20:12:02: Total: 1
+12/11/2024 20:12:02: Total: 1
+12/11/2024 20:12:02: advogado 0002829-05.2020.8.17.3590 >> Processo já foi verificado recentemente
+12/11/2024 20:12:02: Entrou na aba acervo do perfil e mapeou 15 processos e teve erro em 0 processos
+12/11/2024 20:12:02: Rodou

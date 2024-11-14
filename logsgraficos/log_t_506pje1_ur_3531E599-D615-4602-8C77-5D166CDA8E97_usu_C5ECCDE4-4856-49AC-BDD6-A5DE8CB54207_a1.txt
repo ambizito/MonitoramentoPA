@@ -1,0 +1,27 @@
+PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark em 5.06.pje.1
+13/11/2024 00:09:22: Acessou https://pje.trt6.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 776933 GYv5trefW3uc8HSp4JIVFEyuiDeIU7YH "ENIO SILVA NASCIMENTO77693329587"
+13/11/2024 00:09:25: Logou https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 00:09:26: Perfil advogado e usuário ENIO SILVA NASCIMENTO
+OAB = PB11946 ; URL = https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.1 ; usuarioId = PB11946@nascimentoebarbosa@3531E599-D615-4602-8C77-5D166CDA8E97@mark ; Cookies (
+Name = JSESSIONID ; Value = 1751caed8b1fc88d~QATgPIB+2-vQ13dgqR-73DaJ ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 6a833920-dbe8-4c2b-990f-5427eb9aa020 ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwNjAxMmM5MS04ZjZmLTRmZTQtYWJmMC04YTI2MmMxYjdiZTUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY3MzY0LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNDcwOTY0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ4MDE2MiwibG9naW4iOiI3NzY5MzMyOTU4NyIsIm5vbWUiOiJFTklPIFNJTFZBIE5BU0NJTUVOVE8iLCJwZXJmaWwiOjQyNTUyLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjMxMDE3LCJkZXNjcmljYW8iOiJFTklPIFNJTFZBIE5BU0NJTUVOVE8gKDc3Ni45MzMuMjk1LTg3KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDYiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = jYi8MyBcg_Gp1N8jwpRbTVNbp2nUV73HvSoVpyr3_p4 ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4ODYzNTE1NC0wNzVhLTRjODAtOTliNS1iMzJkMGFhYmZmMjkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY3MzY0LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTEwNTY0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI3NzY5MzMyOTU4NyIsInBlcmZpbCI6NDI1NTIsIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNiJ9.8DPsKXzKHW32yD1Z47axAGVGt7O12d5Fp3e1pIOrun8 ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = C6D52D7F31B7ECAA74D67822F8E757955BF084AC31937B3BF6096A947E41FE3405EC97C09F841B2F5277EF0D7FB5B4361FD4 ; Domain = pje.trt6.jus.br ; Path = /
+)
+13/11/2024 00:09:28: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 00:09:31: Total: 1
+13/11/2024 00:09:31: Total: 1
+13/11/2024 00:09:37: advogado 0000409-73.2017.5.06.0232 >> Processo com 4 parte(s), 256 andamento(s) e 54 expediente(s) atualizado
+13/11/2024 00:09:38: Total: 1
+13/11/2024 00:09:38: Total: 1
+13/11/2024 00:09:40: advogado 0001199-34.2016.5.06.0251 >> Processo com 2 parte(s), 71 andamento(s) e 14 expediente(s) atualizado
+13/11/2024 00:09:40: Total: 1
+13/11/2024 00:09:40: Total: 1
+13/11/2024 00:09:42: advogado 0000621-71.2016.5.06.0251 >> Processo com 2 parte(s), 31 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 00:09:49: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+13/11/2024 00:09:49: Rodou

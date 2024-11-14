@@ -1,0 +1,27 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.13.pje.1
+12/11/2024 22:28:58: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 0.w94rmsr112v "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 22:29:01: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:29:01: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = JSESSIONID ; Value = FIxlEltnOC9d4TsHa4jkc1GkyS2JaxA8ZoMs5TmL.pje1g-poapp48.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTAxNDAsImlhdCI6MTczMTQ2MTM0MSwiYXV0aF90aW1lIjoxNzMxNDYxMzQwLCJqdGkiOiJiZmRhMzFjZC03Yzk0LTRkMTMtYjE5Yy02ZWRmMjA5YWZhZjYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiZGU5ZWZjNjYtOGZmMC00MGZlLWE1NTQtZGQxZWUwN2VkMGNjIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiJkZTBlZGEwMC1jMTQ2LTQ0NjYtYjhmMi1jMzdmYjE5YWZmY2EiLCJhdF9oYXNoIjoiZGoxaGoyaWtWYnVwcFdkLTdFLWJoZyIsImFjciI6IjEiLCJzaWQiOiJkZTBlZGEwMC1jMTQ2LTQ0NjYtYjhmMi1jMzdmYjE5YWZmY2EiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkZFUk5BTkRBIENPU1RBIEZPTlNFQ0EgU0VSUkFOTyBEQSBST0NIQSIsIkpUUiI6IjgxMyIsImp0ciI6IjgxMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1MDgzNjI5NDYxIiwiZ2l2ZW5fbmFtZSI6IkZFUk5BTkRBIENPU1RBIEZPTlNFQ0EgU0VSUkFOTyBEQSBST0NIQSIsImVtYWlsIjoiZXNjcml0b3Jpb0BhZHZvY2FjaWFyb2NoYS5jb20uYnIifQ.CIbg7LL2CC8C2KuLJQKLrqUDU-BTVWr0gXBxG4M57-FRvbGWtB5HLFBkC2jufAd4m8TSzCM2ix3vqSwgYcWJ0fG0SpsqFLCOLy44vFzaA08uKxkMl67WBBNo4QfjCIRrqYtIJcHs5hJd4jzyZww4QbIectbwAsIHL9nYdQk5zBCwtitDvSt6smCW9NGXrdmSM2Dtf_FdPiXNP63D2QntY6rphImQA4DmamYIMwrHecGp3R6clR2Cs1q1oK5uf3rNLz3UXBdp7jmNqsvQy9w4BiUV9YLiv4cdf9a2neb35HNloHng1iaquVjdX54yw58LRBY2BUyyQuch5rg2P0ZEHw ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp48:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+12/11/2024 22:29:02: Total: 1
+12/11/2024 22:29:04: advogado 0002237-94.2014.8.13.0384 >> Processo com 2 parte(s), 80 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:29:05: Total: 1
+12/11/2024 22:29:06: advogado 0002237-94.2014.8.13.0384 >> Processo com 2 parte(s), 80 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:29:07: Total: 1
+12/11/2024 22:29:09: advogado 5110566-79.2024.8.13.0024 >> Processo com 25 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 22:29:09: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Respondidos nos últimos 10 dias e detectou 11 e leu 1
+12/11/2024 22:29:26: Total: 1
+12/11/2024 22:29:26: advogado 5110566-79.2024.8.13.0024 >> Processo já foi verificado recentemente
+12/11/2024 22:29:27: Total: 1
+12/11/2024 22:29:27: advogado 5110566-79.2024.8.13.0024 >> Processo já foi verificado recentemente
+12/11/2024 22:29:28: Total: 1
+12/11/2024 22:29:28: advogado 0002237-94.2014.8.13.0384 >> Processo já foi verificado recentemente
+12/11/2024 22:29:29: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 22:29:29: Rodou

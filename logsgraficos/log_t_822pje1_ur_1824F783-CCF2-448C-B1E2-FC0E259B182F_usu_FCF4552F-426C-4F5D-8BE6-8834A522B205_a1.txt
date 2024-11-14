@@ -1,0 +1,14 @@
+RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 8.22.pje.1
+13/11/2024 00:25:52: Acessou https://pjepg.tjro.jus.br/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.2wjjir7gofl "LEANDRO CESAR CRUZ DE SA LORENZETTI:06519418498"
+13/11/2024 00:25:55: Logou https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam
+13/11/2024 00:25:55: Perfil advogado e usuário JusPostulandi - LEANDRO CESAR CRUZ DE SA LORENZETTI
+OAB = RN12552 ; URL = https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.22.pje.1 ; usuarioId = RN12552@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners ; Cookies (
+Name = f5avraaaaaaaaaaaaaaaa_session_ ; Value = EBMFAILOBCECCDBLHHJKNOCOEKHAEMABJJLHNLIFOPMAIOMCMOMEJJNMAFDJPDGHBOGDMPDOILEDEMECGAMANNFBPBBKODNDLLMIGENEDJELHBOLAKJKEHGFNKOMOFGF ; Domain = pjepg.tjro.jus.br ; Path = /Painel/painel_usuario/advogado.seam
+Name = JSESSIONID ; Value = 9c6f94d4ea004ed91af64651cf0c5669~vIhOEqZMNomG4xjTvyBs-CShYjZzrENbsQvKQ6V1.pjepg-77d54846dc-slxl6 ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = TS01051b55 ; Value = 015c8d2173bd10f46d1c96b932a377396f5074faedcb584d0b91d83d6b4fd7e6c77de1c00c2b125931a0df56fde647c1f9614eda44d56d93064380ecf89bd029955417fdc0b46a541589adfe1618c540d59439dcd9820b2f9f9ec267d680f38873cef78d88efb4397bd11f1b1f65bfb1c4b4cc8c9d ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pjepg.tjro.jus.br ; Path = /
+)
+13/11/2024 00:25:55: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:26:01: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:26:01: Rodou

@@ -1,0 +1,72 @@
+RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos em 4.05.pje.1.84
+12/11/2024 20:07:28: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Rodrigo@053 WEggsCqVSKxRWDjWBWlTM5TBnQYu8qjA "RODRIGO ALVES DA SILVA RODRIGUES GENTIL:05370712450"
+12/11/2024 20:07:31: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:07:31: Perfil advogado e usuário RODRIGO ALVES DA SILVA RODRIGUES
+OAB = RN9792 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos ; Cookies (
+Name = JSESSIONID ; Value = 4hGQKQA0w4q-ivF2C9KzAITY.node04 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 20:07:35: Total: 8
+12/11/2024 20:07:40: advogado 0810130-20.2024.4.05.8400 >> Processo com 4 parte(s), 10 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:07:45: advogado 0810496-59.2024.4.05.8400 >> Processo com 5 parte(s), 14 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:07:50: advogado 0810493-07.2024.4.05.8400 >> Processo com 5 parte(s), 10 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:07:55: advogado 0810498-29.2024.4.05.8400 >> Processo com 4 parte(s), 9 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:08:00: advogado 0810495-74.2024.4.05.8400 >> Processo com 4 parte(s), 9 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:08:05: advogado 0810500-96.2024.4.05.8400 >> Processo com 4 parte(s), 10 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:08:11: advogado 0810314-73.2024.4.05.8400 >> Processo com 5 parte(s), 14 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 20:08:15: advogado 0810497-44.2024.4.05.8400 >> Processo com 4 parte(s), 9 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:08:16: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 9 e leu 9
+12/11/2024 20:08:26: Total: 14
+12/11/2024 20:08:26: Total: 14
+12/11/2024 20:08:26:  0812772-44.2016.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0805810-24.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0806959-55.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0807625-56.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0809615-82.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810130-20.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810314-73.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810493-07.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810495-74.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810496-59.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810497-44.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810498-29.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810500-96.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:26:  0810847-32.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:34: Total: 31
+12/11/2024 20:08:34: Total: 31
+12/11/2024 20:08:49:  0809574-96.2016.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0807048-25.2017.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0807825-05.2020.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0800369-67.2021.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0801560-16.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803002-17.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803027-30.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803029-97.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803292-32.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803969-62.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803970-47.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0807935-33.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0808407-34.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0808450-68.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0810530-05.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0810534-42.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0800331-84.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0800208-80.2023.4.05.8402 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0806017-57.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0807209-25.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0809712-19.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0811460-86.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0800015-37.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0800180-84.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0800182-54.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0801258-16.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803476-17.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0803477-02.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0805769-57.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0806957-85.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:08:49:  0806958-70.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 20:09:03: Total: 0
+12/11/2024 20:09:03: Total: 0
+12/11/2024 20:09:04: Entrou na aba acervo do perfil e mapeou 45 processos e teve erro em 0 processos
+12/11/2024 20:09:05: Rodou

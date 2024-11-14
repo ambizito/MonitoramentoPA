@@ -1,0 +1,14 @@
+RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners em 8.11.pje.1
+13/11/2024 13:07:33: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar lrasobrado2024 0.ecsu5um2isb "MARIA LUIZA DE ARAUJO LIMA LEITE:04973354414"
+13/11/2024 13:07:40: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 13:07:41: Perfil advogado e usuário MARIA LUIZA DE ARAUJO LIMA LEITE
+OAB = RN6623 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = RN6623@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners ; Cookies (
+Name = JSESSIONID ; Value = IQ0cfsFVnmqY318SNME2a9kLEAi1dv9hdQ941v8F.pjev2-vra-0016 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_3_sn_9C71974E942D74AE544FFDD4856F02EF_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_3_sn_9C71974E942D74AE544FFDD4856F02EF_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_0_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+13/11/2024 13:07:45: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 13:11:27: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 13:11:27: Rodou

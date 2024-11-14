@@ -1,0 +1,24 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 4.05.pje.1.83
+12/11/2024 22:37:07: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 pQ4zw6KyTQ4AC5YUEQxn41aEiohD0Vof "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 22:37:10: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:37:10: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = CZAF1CM+ti1sqfy8L2btpZEb.node01 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357ceff39c5fcc55df7f6c091b7d84b90e7a8898bc105c53f229a3444946eab42b0c994c20fc917c9ea93edae3bff70ae5f77dafc313895e6327743098d433320b0c ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab200007f3968a90769d6f31b2df344cc872f12ebc6787dd04d416caad1e02763157a808ea204a391130003f7f1fc8258cec6b0788f59e25fbfa9b1b27cd177220a4a918064f70588364f3030b5f371b2ca028e14e1f85c48ba0dc ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c1437b092ba11a030d3f159fe9b4f4e0e8898bc105c53f229a3444946eab42b0cea27ba1c415290fed8ad445bf6fb2cdbecea973af5dbe1758a16a7643c8a7f42 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_FEE28142C54FC9D599714F82BF7E055B_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c1437b092ba11a030d3f159fe9b4f4e0e8898bc105c53f229a3444946eab42b0cea27ba1c415290fed8ad445bf6fb2cdbecea973af5dbe1758a16a7643c8a7f42 ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_FEE28142C54FC9D599714F82BF7E055B_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 22:37:16: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:37:33: Total: 0
+12/11/2024 22:37:33: Total: 0
+12/11/2024 22:37:51: Total: 0
+12/11/2024 22:37:51: Total: 0
+12/11/2024 22:38:06: Total: 0
+12/11/2024 22:38:06: Total: 0
+12/11/2024 22:38:07: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:38:07: Rodou

@@ -1,0 +1,13 @@
+RN14321@diegoluis@1AB30A01-3CF5-44AB-A7FD-57F91E41C42F@linus em 8.07.pje.1
+12/11/2024 22:18:00: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123258456Dluis 0.eg3g0ewx4kw "DIEGO LUIS DANTAS GUIMARAES:09068096494"
+12/11/2024 22:18:03: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:18:03: Perfil advogado e usuário DIEGO LUIS DANTAS GUIMARAES
+OAB = RN14321 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN14321@diegoluis@1AB30A01-3CF5-44AB-A7FD-57F91E41C42F@linus ; Cookies (
+Name = JSESSIONID ; Value = hwyAECcp-97pAsw_a1zG-3Zs4Pq7b8ew-Waeb46K.hc-zdu133:pje-internet-zdu133 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 22:18:04: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:18:06: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:18:06: Rodou

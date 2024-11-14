@@ -1,0 +1,12 @@
+Agnes Sales@raulinosales@19486416-45F3-4FD5-BECA-8824008EC746@jobs em 8.10.Projudi.1
+13/11/2024 01:30:47: Acessou https://projudi.tjma.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:30:47: Logou https://projudi.tjma.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:30:47: Não capturou o total de processos para o OAB Agnes Sales
+html: salvo no mongo.
+13/11/2024 01:30:47: Rodou com falha
+Agnes Sales@raulinosales@19486416-45F3-4FD5-BECA-8824008EC746@jobs em 8.10.Projudi.1
+13/11/2024 01:31:47: Acessou https://projudi.tjma.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:31:47: Logou https://projudi.tjma.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:31:47: Não capturou o total de processos para o OAB Agnes Sales
+html: salvo no mongo.
+13/11/2024 01:31:47: Rodou com falha

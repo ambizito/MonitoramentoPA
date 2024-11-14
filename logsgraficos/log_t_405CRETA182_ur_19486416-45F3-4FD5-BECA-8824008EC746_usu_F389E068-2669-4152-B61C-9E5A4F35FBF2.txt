@@ -1,0 +1,4 @@
+RN12470@raulinosales@19486416-45F3-4FD5-BECA-8824008EC746@jobs em 4.05.CRETA.1.82
+13/11/2024 19:29:39: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+13/11/2024 19:30:15: Erro no acesso: Senha invalida
+html: salvo no mongo.

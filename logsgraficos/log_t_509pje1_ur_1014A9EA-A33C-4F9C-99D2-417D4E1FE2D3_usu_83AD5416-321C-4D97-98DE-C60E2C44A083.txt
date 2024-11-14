@@ -1,0 +1,17 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.09.pje.1
+13/11/2024 01:53:01: Acessou https://pje.trt9.jus.br/primeirograu/login.seam
+13/11/2024 01:55:17: Logou https://pje.trt9.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 01:55:22: Procuracao: Perfil advogado e usuário THIAGO TAVARES DE QUEIROZ
+13/11/2024 01:55:31: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 01:56:10: Total: 4
+13/11/2024 01:56:10: Total: 4
+13/11/2024 01:57:19: advogado 0000213-94.2015.5.09.0651 >> Processo com 5 parte(s), 106 andamento(s) e 21 expediente(s) atualizado
+13/11/2024 01:57:29: advogado 0000290-83.2020.5.09.0892 >> Processo com 3 parte(s), 179 andamento(s) e 33 expediente(s) atualizado
+13/11/2024 01:57:37: advogado 0000907-85.2020.5.09.0005 >> Processo com 2 parte(s), 60 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 01:57:43: advogado 0001178-11.2022.5.09.0010 >> Processo com 5 parte(s), 110 andamento(s) e 20 expediente(s) atualizado
+13/11/2024 01:57:43: Total: 1
+13/11/2024 01:57:43: Total: 1
+13/11/2024 01:59:08: advogado 0000286-28.2020.5.09.0122 >> Processo com 2 parte(s), 120 andamento(s) e 24 expediente(s) atualizado
+13/11/2024 02:04:09: TokenContador não rodou com sucesso: An exception occurred while receiving a message from the server.
+13/11/2024 02:05:57: Entrou na aba acervo do perfil e mapeou 5 processos e teve erro em 0 processos
+13/11/2024 02:05:58: Rodou

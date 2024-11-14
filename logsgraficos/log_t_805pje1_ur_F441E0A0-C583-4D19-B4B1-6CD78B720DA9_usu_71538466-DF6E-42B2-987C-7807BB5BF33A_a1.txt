@@ -1,0 +1,23 @@
+PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark em 8.05.pje.1
+13/11/2024 00:04:15: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 88509332 0.ukxtwskfpho "DOUGLAS BRANDAO DO NASCIMENTO:06698038474"
+13/11/2024 00:04:19: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:04:19: Perfil advogado e usuário DOUGLAS BRANDAO DO NASCIMENTO
+OAB = PB17064 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = PB17064@marquesebrandao@F441E0A0-C583-4D19-B4B1-6CD78B720DA9@mark ; Cookies (
+Name = JSESSIONID ; Value = t7JTZ5dDjVsNdXB_Rq1yqRUCQrqmMG2MjvxGXEYz.pje1gapp012 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTU4NTcsImlhdCI6MTczMTQ2NzA1NywiYXV0aF90aW1lIjoxNzMxNDY3MDU3LCJqdGkiOiJkODYzN2Y4MC0wMTcyLTQ0ZGYtOWNjNS05M2VhOWYxNGIxYTgiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiYTM3YjU3YWItNmU5Ni00YzJiLWExMzYtMzM5ODAxYmQwZjZhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiJkNTUwNDFhNS0wYWExLTQyMzctYmQ4ZS1jZTMzZTAwMDlkMGYiLCJhdF9oYXNoIjoiVlhHR2J1ZkhpNWRCWWdsWTBKV19aZyIsImFjciI6IjEiLCJzaWQiOiJkNTUwNDFhNS0wYWExLTQyMzctYmQ4ZS1jZTMzZTAwMDlkMGYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRPVUdMQVMgQlJBTkRBTyBETyBOQVNDSU1FTlRPIiwiSlRSIjoiODA1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDY2OTgwMzg0NzQiLCJnaXZlbl9uYW1lIjoiRE9VR0xBUyBCUkFOREFPIERPIE5BU0NJTUVOVE8iLCJlbWFpbCI6ImRvdWdsYXNicmFuZGFvLmFkdkBnbWFpbC5jb20ifQ.BJ7fCX0UJKXC5965ODtt-BERZQLVWtPwRN5Chur9jyuAhDG92F5P4F-gixd0ERcBg-bRjucE8i5P8MnTD-kD30nbuvRjLmQEdW1sJ1b-4SUhhhFIgOeQgHlBQFyCuFl9MLA4TTOYn5-INFduB0RzgOWI-QF5mfZfTpXCbUyR_2qH6E5s5UD2eOl4tobmOfv4p4G8ik2ycVBMtC8wU28gbXME9cBDZjIk12kQAkxKd0VCozUU8052UJyE4dtvqmMH2G46x3HOKkRDsI1hKlivO2dxVjgtXI2V9ss5hVYxz8T0svuNF3LMGbxbKz3PaCTx12FZVC_3HkZkwYXGPdHzxw ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp012:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+13/11/2024 00:04:20: Total: 2
+13/11/2024 00:04:23: advogado 0512808-89.2018.8.05.0080 >> Processo com 2 parte(s), 48 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:04:23: advogado 0512808-89.2018.8.05.0080 >> Processo já foi verificado recentemente
+13/11/2024 00:04:23: advogado 0512808-89.2018.8.05.0080 >> Processo já foi verificado recentemente
+13/11/2024 00:04:23: advogado 0512808-89.2018.8.05.0080 >> Processo já foi verificado recentemente
+13/11/2024 00:04:23: Entrou na aba expediente do perfil para as categorias Pendente de ciência pelo judiciário e detectou 4 e leu 2
+13/11/2024 00:04:26: Total: 1
+13/11/2024 00:04:26: Total: 1
+13/11/2024 00:04:26: advogado 0512808-89.2018.8.05.0080 >> Processo já foi verificado recentemente
+13/11/2024 00:04:31: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:04:31: Rodou

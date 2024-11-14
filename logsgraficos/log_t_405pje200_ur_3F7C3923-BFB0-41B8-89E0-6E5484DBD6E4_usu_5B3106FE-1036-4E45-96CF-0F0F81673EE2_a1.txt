@@ -1,0 +1,42 @@
+PB18750@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 4.05.pje.2.00
+12/11/2024 18:52:53: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 141403 rKHGdwvtKeL9GJfgyCXNAlzdJAkcfPtu "larissa de arruda sousa pinto:07184181409 2024-09-02 10:38:21"
+12/11/2024 18:52:57: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:52:57: Perfil advogado e usuário LARISSA DE ARRUDA SOUSA PINTO
+OAB = PB18750 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = PB18750@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = r2oZnaYIEw9G8RkAHtfTkMIB.node06 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab20006bb21683d95dbe2de81a44f920b66b4eaf499bdcb9aaf6d83fca60d4ae1fd9f008baa665fa1130008550a3d4a7e614e817d9cbdd8aaf53a8b02492ee642c246ad7f4cbe93f5858fe3f941c85c4409a4dfb492ff14c873ece ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 18:53:04: Total: 1
+12/11/2024 18:53:13: advogado 0814022-48.2023.4.05.0000 >> Processo com 4 parte(s), 10 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 18:54:38: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 1 e leu 1
+12/11/2024 18:54:52: Total: 5
+12/11/2024 18:54:52: Total: 5
+12/11/2024 18:55:06:  0800037-26.2023.4.05.8402 >> Processo com 4 parte(s), 10 andamento(s) e 27 expediente(s) atualizado
+12/11/2024 18:55:06:  0814022-48.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:55:19:  0814391-42.2023.4.05.0000 >> Processo com 3 parte(s), 14 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 18:55:28:  0808765-08.2024.4.05.0000 >> Processo com 3 parte(s), 8 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 18:55:38:  0806445-57.2023.4.05.8200 >> Processo com 4 parte(s), 15 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 18:55:56: Total: 16
+12/11/2024 18:55:56: Total: 16
+12/11/2024 18:56:27:  0800201-12.2023.4.05.8201 >> Processo com 3 parte(s), 12 andamento(s) e 43 expediente(s) atualizado
+12/11/2024 18:56:37:  0810543-47.2023.4.05.0000 >> Processo com 3 parte(s), 15 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 18:56:46:  0810768-67.2023.4.05.0000 >> Processo com 3 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:56:56:  0800020-87.2023.4.05.8402 >> Processo com 3 parte(s), 12 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 18:57:07:  0800682-72.2023.4.05.8201 >> Processo com 3 parte(s), 13 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 18:57:16:  0811644-22.2023.4.05.0000 >> Processo com 3 parte(s), 14 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 18:57:27:  0800999-70.2023.4.05.8201 >> Processo com 4 parte(s), 15 andamento(s) e 29 expediente(s) atualizado
+12/11/2024 18:58:19:  0807201-37.2021.4.05.8200 >> Processo com 10 parte(s), 11 andamento(s) e 306 expediente(s) atualizado
+12/11/2024 18:58:28:  0808658-70.2022.4.05.8200 >> Processo com 3 parte(s), 15 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 18:58:36:  0802311-12.2024.4.05.0000 >> Processo com 3 parte(s), 15 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 18:58:45:  0800507-52.2021.4.05.8200 >> Processo com 3 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:58:54:  0808647-41.2022.4.05.8200 >> Processo com 3 parte(s), 15 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 18:59:02:  0805959-09.2022.4.05.8200 >> Processo com 3 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:59:11:  0807838-51.2022.4.05.8200 >> Processo com 3 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:59:20:  0800500-60.2021.4.05.8200 >> Processo com 3 parte(s), 14 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:59:28:  0807608-97.2024.4.05.0000 >> Processo com 3 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:59:59: Total: 0
+12/11/2024 18:59:59: Total: 0
+12/11/2024 19:00:01: Entrou na aba acervo do perfil e mapeou 21 processos e teve erro em 0 processos
+12/11/2024 19:00:01: Rodou

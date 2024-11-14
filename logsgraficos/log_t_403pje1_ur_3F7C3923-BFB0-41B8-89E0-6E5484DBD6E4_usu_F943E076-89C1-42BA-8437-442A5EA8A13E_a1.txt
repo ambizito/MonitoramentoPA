@@ -1,0 +1,26 @@
+PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 4.03.pje.1
+13/11/2024 14:38:50: Acessou https://pje1g.trf3.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 2314lando 0.bx4wog6jusb "landoaldo falcao de sousa neto:05505553400 2024-09-02 12:06:18"
+13/11/2024 14:38:56: Logou https://pje1g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 14:38:56: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO
+OAB = PB13544 ; URL = https://pje1g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.03.pje.1 ; usuarioId = PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = vwTEeKDvSLtQt8Jlk4_NzesECNkzPzwgvkB9rjIR.svlpje1g14 ; Domain = pje1g.trf3.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf3.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDgzMzMsImlhdCI6MTczMTUxOTUzMywiYXV0aF90aW1lIjoxNzMxNTE5NTMzLCJqdGkiOiI4YmVlZWJiZS04YjFjLTRkYmQtYmE2ZS05MTIzZGJhNzgyNDEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYzLTFnIiwic3ViIjoiOWFiMTYzNDgtMDkyZC00NTc3LWI1YjUtMTEzYWM1ZjRlYjYwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMy0xZyIsInNlc3Npb25fc3RhdGUiOiJhNGRkMzU0OC1lZjIxLTQ4N2MtYmMxZi1hOTViMGRkMmQ4YWUiLCJhdF9oYXNoIjoidmlxeWk0d0pPQTk1NUF6QU5mMk1MZyIsImFjciI6IjEiLCJzaWQiOiJhNGRkMzU0OC1lZjIxLTQ4N2MtYmMxZi1hOTViMGRkMmQ4YWUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxBTkRPQUxETyBGQUxDQU8gREUgU09VU0EgTkVUTyIsIkpUUiI6IjQwMyIsImp0ciI6IjQwMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1NTA1NTUzNDAwIiwiZ2l2ZW5fbmFtZSI6IkxBTkRPQUxETyBGQUxDQU8gREUgU09VU0EgTkVUTyIsImVtYWlsIjoiZmFsY2FvZGVzb3VzYS5hZHZvY2FjaWFAZ21haWwuY29tIn0.irTkXlQcMIsBS_8eZxdRUi1z_WHR_l4f66QGeHGfLLvBtC6aJ_R1WgvzL0Aqep9akIktMv2mnZVGRbU4iIdZl1zj8jhA6XCfXN8zpEXNl-_hLC8zxyRRf8ZaW8A3Ddl44DBNIaYOS_MkpCg50rZT5qJzyJOFUaEGlzpOSCck4wPgHVdk0_J5rPKQeAmxYPtbHjCMBsHWfMRtwosXkHxr8iCnTbs8YpPHUxiQn1Oxy7FhlPBntnxRGRh8nEyA-ZzEq6iEfHBfzcmUwk4TsnoiO8jloJ2eZuMsC_-sJaDlXMJc-5q8o6IRsaQoHyuRt5zz2Gczaz8dobUSiqh6x9W0YQ ; Domain = pje1g.trf3.jus.br ; Path = /pje
+Name = PJESID ; Value = 21fe93bbcdb9c2e7 ; Domain = pje1g.trf3.jus.br ; Path = /
+Name = ak_bmsc ; Value = 05AE6ABB6A45810FB5CA377B10C42B0E~000000000000000000000000000000~YAAQneQlF2ab5xGTAQAAJkabJhk1+HceI0lISUnAcmOYRhn44XhIcmXzced2XTBZ+IFIN9GDzu3MGITUF/xb+rIMVwWyPHKWXhTAWxgZ2X0OFvKjQzh/hP9iRUQFbX/4RTQWLWLcMg/3vgoLvjjJxBqFD6v89SWmBtihtVxNckDcODmE9+KLDMpIYzpnEGcu6mbC7/cnNt6Z//Bko++YCijwLoTAG9iigzP9C+glt0zdH2Lx5PBq/SWCmdfdeYE/hj5/t8k2CpAahUnLpB1W8ozQ0eYZFSjn2BeJX4q4SWDyRGu41RLoiml/QSGNqPrL8Q8bZeT9PWMCrKwTQ3vKP0lWwJNIldW/TQSSvqU= ; Domain = pje1g.trf3.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.trf3.jus.br ; Path = /
+Name = ak_bmsc ; Value = 05AE6ABB6A45810FB5CA377B10C42B0E~000000000000000000000000000000~YAAQneQlF2ab5xGTAQAAJkabJhk1+HceI0lISUnAcmOYRhn44XhIcmXzced2XTBZ+IFIN9GDzu3MGITUF/xb+rIMVwWyPHKWXhTAWxgZ2X0OFvKjQzh/hP9iRUQFbX/4RTQWLWLcMg/3vgoLvjjJxBqFD6v89SWmBtihtVxNckDcODmE9+KLDMpIYzpnEGcu6mbC7/cnNt6Z//Bko++YCijwLoTAG9iigzP9C+glt0zdH2Lx5PBq/SWCmdfdeYE/hj5/t8k2CpAahUnLpB1W8ozQ0eYZFSjn2BeJX4q4SWDyRGu41RLoiml/QSGNqPrL8Q8bZeT9PWMCrKwTQ3vKP0lWwJNIldW/TQSSvqU= ; Domain = .trf3.jus.br ; Path = /
+Name = bm_mi ; Value = 741BABB43FF5C6253403184E542FDB52~YAAQneQlF2+b5xGTAQAAVFSbJhnobojal1hffdV473gp0tdbsP9UGm6nJ4VBhOYrDWxdYw63UsXR+aAqKt8zVCavL9nQd13a1Zn+ciwoCSxOI9l4dNGJmslnnt9TsxdJb4anVPI6EX4S6zWH8CxiECl4JZHUuxxWTqWo6+czgkq4+4PZcAJPeiq6kHxGLZx+Cbqik99TWxtETrLbCDO/XGc1GHOSdaDENjd98FL+nlBdpQWP7BMEd093irIB6qjM4G+rWdXZEP2ZxYVT6SKB4oMHY7uif+BXmGKTJ9ttH8BxkzYO25ObnHAeXAy2qDvfXbJJOyFZRiaMSySgUOx8AHRwu+o7Nt4sx6yet00sWIsvLA==~1 ; Domain = .trf3.jus.br ; Path = /
+Name = bm_sv ; Value = 9CB27361465BDA61C9E3B7DD3AD4961B~YAAQneQlF3Kb5xGTAQAA/1SbJhnrdT+RLETWsgqiw9/jB+kji0driSITDlwpUvIBfU6NHLIhqFvqDKwm1YLh3qiifeIQZznrrwxCsKA6qDO+6RHi2sv7yj+u1r2JWfKB3K5hGm7lL42iKB/2RDzsMIE7s8Vxx/d6pIBzlxBe4IsnUJfuDb4w0AVXej0syCMBoRnT274frGgL+sDjrFfok4FKA72TyTkOM2LN/80Xdf6yScQGEb6MWpbGNSTP7NNjEg==~1 ; Domain = .trf3.jus.br ; Path = /
+)
+13/11/2024 14:38:58: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 14:39:12: Total: 4
+13/11/2024 14:39:12: Total: 4
+13/11/2024 14:39:37: advogado 5023536-42.2022.4.03.6182 >> Processo com 2 parte(s), 39 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 14:39:40: advogado 5015381-50.2022.4.03.6182 >> Processo com 2 parte(s), 52 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 14:39:44: advogado 5002977-98.2021.4.03.6182 >> Processo com 2 parte(s), 45 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 14:40:22: advogado 5002988-30.2021.4.03.6182 >> Processo com 2 parte(s), 26 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 14:43:00: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+13/11/2024 14:43:01: Procuracao: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO filtrado, não roda.
+13/11/2024 14:43:46: Rodou

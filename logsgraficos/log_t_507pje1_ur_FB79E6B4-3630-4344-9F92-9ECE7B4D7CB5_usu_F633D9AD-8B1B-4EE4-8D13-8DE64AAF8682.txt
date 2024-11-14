@@ -1,0 +1,22 @@
+05074494362@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs em 5.07.pje.1
+13/11/2024 22:19:22: Acessou https://pje.trt7.jus.br/primeirograu/login.seam
+13/11/2024 22:19:26: Logou https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 22:19:27: Perfil advogado e usuário ANA GLAICE BEZERRA DA SILVA
+OAB = 05074494362 ; URL = https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.07.pje.1 ; usuarioId = 05074494362@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs ; Cookies (
+Name = JSESSIONID ; Value = 47bf3e6207fc67b1~WXBSl6WOtk2bZGUHvltU1U4H ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = a0786ccd-cee9-4280-bf92-560c104f69ea ; Domain = pje.trt7.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4NTM1NDM1OS1kNTBkLTRkM2EtODAzMy0wYTNjNTQzNzMyMmYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTQ3MTY0LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTUwNzY0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjUxMzA3MiwibG9naW4iOiIwNTA3NDQ5NDM2MiIsIm5vbWUiOiJBTkEgR0xBSUNFIEJFWkVSUkEgREEgU0lMVkEiLCJwZXJmaWwiOjQyMjA4LCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjM2OTk0LCJkZXNjcmljYW8iOiJBTkEgR0xBSUNFIEJFWkVSUkEgREEgU0lMVkEgKDA1MC43NDQuOTQzLTYyKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDciLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token_footer ; Value = rkrHWaKsslsuJe-XPlsnQhSfoguMUmt8KDAhPG_dTpw ; Domain = pje.trt7.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5MDQ2Njg0Ni0wMDVhLTRlMjAtYWM1ZC03YTYxZmMxN2VkMmQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTQ3MTY0LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTkwMzY0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTA3NDQ5NDM2MiIsInBlcmZpbCI6NDIyMDgsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNyJ9.htMDS61fgApdPXbF1xRR1bdKD2beeihDImtDwpyE5J0 ; Domain = pje.trt7.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 4D0B5B263927E6F339826DE750F7346D8DEC27A77A8881AE1E5AA6062FE5D709E301773B633418566AF7C51796E63D8CCF81 ; Domain = pje.trt7.jus.br ; Path = /
+)
+13/11/2024 22:19:43: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+13/11/2024 22:20:29: Total: 1
+13/11/2024 22:20:29: Total: 1
+13/11/2024 22:20:30: advogado 0000026-79.2018.5.07.0023 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+13/11/2024 22:20:45: advogado 0000026-79.2018.5.07.0023 >> Processo com 4 parte(s), 93 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 22:22:38: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 22:22:40: Rodou

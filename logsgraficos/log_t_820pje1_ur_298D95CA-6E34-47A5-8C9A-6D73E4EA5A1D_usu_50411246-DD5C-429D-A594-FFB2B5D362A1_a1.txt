@@ -1,0 +1,37 @@
+PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.20.pje.1
+13/11/2024 01:02:40: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.c2bit1fhfkw "DIEGO DOMICIANO VIEIRA COSTA CABRAL:05479437410"
+13/11/2024 01:02:43: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:02:43: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = PB15574 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB15574@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 8bLQkVl-Ceb6tpC-WI0VXyUQJgypZ0zQz_m-ISS-.pje1g-104-kxkjm ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTkzNjIsImlhdCI6MTczMTQ3MDU2MiwiYXV0aF90aW1lIjoxNzMxNDcwNTYyLCJqdGkiOiJiODAyMWNlMC0wODFkLTQxNmMtOTJmNC03YTI2ZmJhZmNlZWMiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiMGNmYWIzN2UtYjdkNy00OWY3LTlkNzYtNDAwNjczZWMzYTY3IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiI5OTFkOTkxZS0xOTc1LTQ2N2MtODJkNi03Yzc3OWQ4NTU4ZGIiLCJhdF9oYXNoIjoiUFVQSEdlOFdWVzFmeFdhemJQbDVMdyIsImFjciI6IjEiLCJzaWQiOiI5OTFkOTkxZS0xOTc1LTQ2N2MtODJkNi03Yzc3OWQ4NTU4ZGIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkRJRUdPIERPTUlDSUFOTyBWSUVJUkEgQ09TVEEgQ0FCUkFMIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDU0Nzk0Mzc0MTAiLCJnaXZlbl9uYW1lIjoiRElFR08gRE9NSUNJQU5PIFZJRUlSQSBDT1NUQSBDQUJSQUwiLCJlbWFpbCI6ImNvbnRyb2xhZG9yaWFAZ2NwYWR2b2dhZG9zLmNvbS5iciJ9.Wiabk9AwN0oepP9dQJH2GdvATE1HrRfgvX52LZLfakP_i5Oe6zLhJtSWIIb5JRJW7Xypwi7hJVHuRuc2rvhC0gPYByIYg_jsZ3vZf2UN_ztUngHYoUMhHypaVfUqdrxvNqdv29n7lU7li-GiiEyfvepOx1-NBXMCXP-v6FliJaB_PiUeUlcFAWw4FZkrjnZDkQa26LOxaBnqjKWo5Y12a-PTATTSXswKn22fpCXnkNE8Eiv7fVn9js3BiuYf8PQkXhW5ZLqyXoKEB2I_7PcFXRztBf7rQ47nGHg6QRgnC2Y6TgenoKU8AqZXTX6wq_nmg1mSBc-jGN7hsgolHD5Fbw ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-kxkjm:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = b0dd27ccec676a0d5672049df3a04457 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:02:44: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:02:46: Total: 2
+13/11/2024 01:02:46: Total: 2
+13/11/2024 01:02:49: advogado 0802376-84.2018.8.20.5102 >> Processo com 3 parte(s), 66 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 01:02:52: advogado 0800534-93.2023.8.20.5102 >> Processo com 2 parte(s), 53 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:02:52: Total: 1
+13/11/2024 01:02:52: Total: 1
+13/11/2024 01:02:54: advogado 0801689-55.2024.8.20.5116 >> Processo com 6 parte(s), 18 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:02:55: Total: 1
+13/11/2024 01:02:55: Total: 1
+13/11/2024 01:02:57: advogado 0812550-09.2019.8.20.5106 >> Processo com 3 parte(s), 61 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:02:58: Total: 1
+13/11/2024 01:02:58: Total: 1
+13/11/2024 01:02:59: advogado 0814760-48.2019.8.20.5004 >> Processo com 3 parte(s), 25 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:03:00: Total: 1
+13/11/2024 01:03:00: Total: 1
+13/11/2024 01:03:02: advogado 0824321-37.2021.8.20.5001 >> Processo com 2 parte(s), 45 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:03:02: Total: 3
+13/11/2024 01:03:02: Total: 3
+13/11/2024 01:03:05: advogado 0905986-41.2022.8.20.5001 >> Processo com 6 parte(s), 65 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 01:03:06: advogado 0815123-39.2022.8.20.5001 >> Processo com 2 parte(s), 65 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:03:08: advogado 0905775-05.2022.8.20.5001 >> Processo com 4 parte(s), 72 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:03:09: Entrou na aba acervo do perfil e mapeou 9 processos e teve erro em 0 processos
+13/11/2024 01:03:09: Rodou

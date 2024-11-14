@@ -1,0 +1,22 @@
+CE31341@rocadvocacia@4EF910B2-5DC7-4AE6-9A28-19AB21C9FB82@mark em 4.05.pje2.2
+12/11/2024 18:44:09: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.o11jwvbhj7d "HENDENSON DE OLIVEIRA RABELO:05030286306"
+12/11/2024 18:44:12: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:44:12: Perfil advogado e usuário HENDENSON DE OLIVEIRA RABELO
+OAB = CE31341 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = CE31341@rocadvocacia@4EF910B2-5DC7-4AE6-9A28-19AB21C9FB82@mark ; Cookies (
+Name = JSESSIONID ; Value = TVxC_rzszBKFGwoNSip8yzXz4fs7tnzeoXa7ktSK.sg-119-vbq78 ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NzY2NTEsImlhdCI6MTczMTQ0Nzg1MSwiYXV0aF90aW1lIjoxNzMxNDQ3ODUxLCJqdGkiOiI4YjUyOTc5Ny01NTJkLTQzYTYtYWY4NC1lYmM4ODJkZGE3YTciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiYjA2MWZlZDUtYzA2NC00MDRiLTljNDQtYWExMDZhYTg3NDkyIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiI2OGQxZTk5NC0zOTBhLTQzZmEtOTYxMS00ZTQzYTdiMDFhZDEiLCJhdF9oYXNoIjoicU5IMGZ6VmE2dW9hRkRPYm5sb04yQSIsImFjciI6IjEiLCJzaWQiOiI2OGQxZTk5NC0zOTBhLTQzZmEtOTYxMS00ZTQzYTdiMDFhZDEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFTkRFTlNPTiBERSBPTElWRUlSQSBSQUJFTE8iLCJKVFIiOiI0MDUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTAzMDI4NjMwNiIsImdpdmVuX25hbWUiOiJIRU5ERU5TT04gREUgT0xJVkVJUkEgUkFCRUxPIiwiZW1haWwiOiJhZHZoZW5kZXJzb24xQGdtYWlsLmNvbSJ9.vMJg1dXA5Zj5JEnghyiPNNohht4urDF3FwvxSHqXht3ubzfXxvowOPS4IbiOzEcdv6eYSdRmQnGeSlnjHUK7EknVV7nJ3yeE00MHBlkICsCRh9FRjDjl26psadTCyHLBVjNCZZnS0Mda1PeCym4WxJxEUXXuc-LWW4hWgcQT6ythsMJkahtbfMXLD_JsadF64wGGVfO2kTC3gOQFLIdgqj4pBpNxOqjH0LzJlMMqs6D4n8mKKwyKbLhKcIdrC8QUmOm-7ZAjezvWYeauav9E_qAmmiV4EsSrlmCiPrJwpcbf4_5Tiy2LHdF2dsWTeGWdyNDDSxfAX_55V05dnfg3kQ ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 39e08340bbcc4d2e6e9bb2122e630c2f ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_14616209FA30613D6C167F67C1014317_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_14616209FA30613D6C167F67C1014317_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+12/11/2024 18:44:12: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:44:13: Total: 3
+12/11/2024 18:44:14: Total: 3
+12/11/2024 18:44:15: advogado 0059662-57.2023.4.05.8100 >> Processo com 4 parte(s), 50 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:44:17: advogado 0057176-02.2023.4.05.8100 >> Processo com 4 parte(s), 40 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 18:44:19: advogado 0005692-45.2023.4.05.8100 >> Processo com 4 parte(s), 49 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:44:20: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+12/11/2024 18:44:20: Rodou

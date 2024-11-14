@@ -1,0 +1,56 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.17.pje.1
+12/11/2024 22:36:42: Acessou https://pje.cloud.tjpe.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0.aou7j79xcdh "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+12/11/2024 22:36:45: Logou https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 22:36:45: Perfil advogado e usuário RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://pje.cloud.tjpe.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.1 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = 9lllzA_a2hNSPbqrBbkZHD42uMHaNYuZ1PPy_HFg.pje-1g-48 ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTA2MDQsImlhdCI6MTczMTQ2MTgwNCwiYXV0aF90aW1lIjoxNzMxNDYxODA0LCJqdGkiOiIxOWYyY2Q3NS0xODM3LTQ4ZjgtOTBhMi1kNmM3NDE3YzlmM2YiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBlLTFnLWNsb3VkIiwic3ViIjoiNDg1OWRkY2UtODhkYy00NjUyLWJlZjctZjI1NGZiNGIwMWE5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwZS0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiI4ODUxZTA3YS0xMDc5LTQ1ZTctOTg0MS1kMGRhOTFmOWFlZGEiLCJhdF9oYXNoIjoiZlNoZ1NGbVRjY01zWVVzWmF1VTI5QSIsImFjciI6IjEiLCJzaWQiOiI4ODUxZTA3YS0xMDc5LTQ1ZTctOTg0MS1kMGRhOTFmOWFlZGEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlJPRFJJR08gTU9SUVVFQ0hPIERFIENBUlZBTEhPIiwianRyIjoiODE3IiwiSlRSIjoiODE3IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDcyNTcwNjc0MDYiLCJnaXZlbl9uYW1lIjoiUk9EUklHTyBNT1JRVUVDSE8gREUgQ0FSVkFMSE8iLCJlbWFpbCI6InByb2Nlc3Nvc0BhbWNvcXVlLmNvbSJ9.iy7qGWth5Wmvy_ZmPdhFmKOuH0keIe4BarUc3f3WlY3Fo9RKIDnINcVWx9TUUZ546bvz4C9lR9gr-I72GonapiN5GPFG5wd6g7FeS6eQ_NU5yMOEYxQt5HLwu0elgG9jDzDacLEOHpUbg1DCqGo0ODxsbbgJWQHBOe9pyuu3g94SdJvYzL8JJ5gzAsOzwOzT-CQE6I1eJmUl0c3LszF4iOQ6PPkbTHEb5iI6q5eBw_rf7ebfxGIS3btEgR9UjY-OOmmfUL1sBdrz2oqyGsh3IE6cIpAYkLCvR22Bl8tt-0hhPCfNTYVs-dlxMG4yqu_-Z0FB5viZeBcMmR5WWGqjIA ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = PJE-TJPE-1G-StickySessionRule ; Value = "pje-1g-48:pje-tjpe-1g" ; Domain = pje.cloud.tjpe.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAAC9jtzykOCXF3zyMrOplBKK7ic4Am1MIVKBFOVX0HS8HatbqQYMFjH/fH24wbps6JPjjF4NKg5VIrFHItVQP5CM9YLEjEMoI2Zq/rh3UVyH+TMMXSBv08SoEmfYychMTj1AF/0= ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.cloud.tjpe.jus.br ; Path = /
+)
+12/11/2024 22:36:47: Não abriu o expediente Outras para o Token RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus
+html: salvo no mongo.
+12/11/2024 22:36:49: Total: 1
+12/11/2024 22:36:52: advogado 0081656-39.2023.8.17.2001 >> Processo com 2 parte(s), 69 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 22:36:53: Total: 1
+12/11/2024 22:36:55: advogado 0059283-77.2024.8.17.2001 >> Processo com 2 parte(s), 43 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:36:55: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta, Respondidos nos últimos 10 dias e detectou 12 e leu 3
+12/11/2024 22:37:01: Total: 1
+12/11/2024 22:37:01: Total: 1
+12/11/2024 22:37:01: advogado 0006250-35.2020.8.17.2480 >> Processo já foi verificado recentemente
+12/11/2024 22:37:02: Total: 1
+12/11/2024 22:37:02: Total: 1
+12/11/2024 22:37:02: advogado 0002357-23.2024.8.17.2730 >> Processo já foi verificado recentemente
+12/11/2024 22:37:02: Total: 1
+12/11/2024 22:37:02: Total: 1
+12/11/2024 22:37:02: advogado 0007350-11.2024.8.17.8227 >> Processo já foi verificado recentemente
+12/11/2024 22:37:03: Total: 1
+12/11/2024 22:37:03: Total: 1
+12/11/2024 22:37:03: advogado 0001579-12.2024.8.17.2970 >> Processo já foi verificado recentemente
+12/11/2024 22:37:03: Total: 2
+12/11/2024 22:37:03: Total: 2
+12/11/2024 22:37:05: advogado 0005785-24.2024.8.17.8223 >> Processo com 2 parte(s), 36 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:37:05: advogado 0001263-51.2024.8.17.8223 >> Processo já foi verificado recentemente
+12/11/2024 22:37:05: Total: 4
+12/11/2024 22:37:05: Total: 4
+12/11/2024 22:37:05: advogado 0034739-49.2024.8.17.8201 >> Processo já foi verificado recentemente
+12/11/2024 22:37:05: advogado 0012908-42.2024.8.17.8201 >> Processo já foi verificado recentemente
+12/11/2024 22:37:05: advogado 0014817-22.2024.8.17.8201 >> Processo já foi verificado recentemente
+12/11/2024 22:37:05: advogado 0009535-03.2024.8.17.8201 >> Processo já foi verificado recentemente
+12/11/2024 22:37:06: Total: 2
+12/11/2024 22:37:06: Total: 2
+12/11/2024 22:37:06: advogado 0081656-39.2023.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:37:06: advogado 0059283-77.2024.8.17.2001 >> Processo já foi verificado recentemente
+12/11/2024 22:37:06: Entrou na aba acervo do perfil e mapeou 12 processos e teve erro em 0 processos
+12/11/2024 22:37:09: Rodou com falha
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.17.pje.1
+12/11/2024 22:38:10: Acessou https://pje.cloud.tjpe.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0.dun2cn2xttf "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+12/11/2024 22:56:31: Erro no acesso: Desconhecido
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.17.pje.1
+12/11/2024 22:59:11: Não abriu a página de login https://pje.cloud.tjpe.jus.br/1g/login.seam

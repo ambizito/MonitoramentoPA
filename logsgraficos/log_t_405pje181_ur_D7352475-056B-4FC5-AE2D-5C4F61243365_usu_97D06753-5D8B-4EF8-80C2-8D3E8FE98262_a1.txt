@@ -1,0 +1,18 @@
+RN1727@magnaadvogadosassociados@D7352475-056B-4FC5-AE2D-5C4F61243365@mark em 4.05.pje.1.81
+12/11/2024 16:46:19: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 26121964 y2yd65PkoIqANGPwN1jfNenycDp6juR9 "MAGNA LETICIA DE AZEVEDO LOPES CAMARA:37883380400"
+12/11/2024 16:46:23: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:46:23: Perfil advogado e usuário Magnas Letícia de Azevedo Lopes Câmara
+OAB = RN1727 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN1727@magnaadvogadosassociados@D7352475-056B-4FC5-AE2D-5C4F61243365@mark ; Cookies (
+Name = JSESSIONID ; Value = 6nJohq-Ci7EC+RD31RiQYmfd.node02 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+12/11/2024 16:46:30: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 16:46:50: Total: 0
+12/11/2024 16:46:50: Total: 0
+12/11/2024 16:47:08: Total: 0
+12/11/2024 16:47:08: Total: 0
+12/11/2024 16:47:22: Total: 0
+12/11/2024 16:47:22: Total: 0
+12/11/2024 16:47:24: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:47:24: Rodou

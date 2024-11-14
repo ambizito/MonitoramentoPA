@@ -1,0 +1,13 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 8.07.pje.2
+12/11/2024 20:17:11: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 0.aou7j79xcdh "GERSON SANTINI:01529424160"
+12/11/2024 20:17:14: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:17:14: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = hRBaG5TEf86Q0Xh_lpKl6xOxzfJgNazQlQ6ZOsMq.hc-zdu114:pje2i-internet-zdu114 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 20:17:14: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:17:16: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:17:16: Rodou

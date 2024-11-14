@@ -1,0 +1,22 @@
+RN11915@mgmadvocacia@32AC42C9-F109-4544-A24E-1A5E78D03236@linus em 4.05.pje.1.85
+12/11/2024 22:40:18: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mgm12345 T6xzL29qvWUfgrcDpJSxAgmYm2az5iH3 "MARCOS GEORGE DE MEDEIROS:83901507434"
+12/11/2024 22:40:21: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:40:21: Perfil advogado e usuário MARCOS GEORGE DE MEDEIROS
+OAB = RN11915 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = RN11915@mgmadvocacia@32AC42C9-F109-4544-A24E-1A5E78D03236@linus ; Cookies (
+Name = JSESSIONID ; Value = pCxmapU7G-uKyvjJATrX2uwi.node04 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c376b4215dc33679ae3d9162b83e5fcb9a5f7030f24ab13542eafa41e553bfb40c20e115f5c0ab9fdd40e4d7208d11f0f1c267835941d89beb0d7be4c35e1681d1 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c31f3928ab2e888ed9227ed299f3ab658d5f7030f24ab13542eafa41e553bfb40c1fa2bab2aa4d43b6d93f7a7ea8165390d12d39bd9f447370bd78588d1349370d ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c31f3928ab2e888ed9227ed299f3ab658d5f7030f24ab13542eafa41e553bfb40c1fa2bab2aa4d43b6d93f7a7ea8165390d12d39bd9f447370bd78588d1349370d ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:40:23: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:40:28: Total: 0
+12/11/2024 22:40:28: Total: 0
+12/11/2024 22:40:33: Total: 0
+12/11/2024 22:40:33: Total: 0
+12/11/2024 22:40:36: Total: 0
+12/11/2024 22:40:36: Total: 0
+12/11/2024 22:40:38: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:40:38: Rodou

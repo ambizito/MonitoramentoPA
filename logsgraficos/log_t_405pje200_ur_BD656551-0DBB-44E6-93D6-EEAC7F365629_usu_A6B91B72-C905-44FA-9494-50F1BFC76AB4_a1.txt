@@ -1,0 +1,39 @@
+RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 4.05.pje.2.00
+12/11/2024 19:38:23: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar K4APBQI5 faVB2lROg9MzIjG1ufS0vK5lYLt0qUWj "MARIO MATOS JUNIOR:01062490452"
+12/11/2024 19:38:26: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:38:26: Perfil advogado e usuário Mario Matos Junior
+OAB = RN7292 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = -bcxGjJ5vurMef9G2fo0ZGV4.node07 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000b7ad7ae60092d6fc468410921855a8cec0590e3d25bd6bd564597bc3ae41c6e40838575ce8113000daced4dbcdaf8931c5f16af78856d1b800b21978e269fd573f848cd4f2a9b860c556ec5b6deb2a0d008fa4794fbedced ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 19:39:59: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 19:40:13: Total: 2
+12/11/2024 19:40:13: Total: 2
+12/11/2024 19:40:13:  0805433-92.2020.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:13:  0801509-60.2021.4.05.8102 >> Processo já foi verificado recentemente
+12/11/2024 19:40:30: Total: 18
+12/11/2024 19:40:30: Total: 18
+12/11/2024 19:40:46:  0800026-18.2014.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0804165-22.2016.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0808501-69.2016.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0004011-33.2011.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0800186-38.2017.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0801251-34.2018.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0004709-73.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0806085-80.2018.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0804196-28.2017.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0801695-09.2014.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0801070-67.2017.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0807970-95.2019.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0804258-73.2014.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0802077-64.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0802168-57.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0806909-97.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0801264-57.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 19:40:46:  0814781-12.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:41:15: Total: 0
+12/11/2024 19:41:15: Total: 0
+12/11/2024 19:41:16: Entrou na aba acervo do perfil e mapeou 20 processos e teve erro em 0 processos
+12/11/2024 19:41:17: Rodou

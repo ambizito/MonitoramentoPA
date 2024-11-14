@@ -1,0 +1,11 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.17.pje.2
+14/11/2024 09:39:41: Acessou https://pje.tjpe.jus.br/2g/login.seam
+14/11/2024 09:39:43: Logou https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam
+14/11/2024 09:39:43: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje.tjpe.jus.br/2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.17.pje.2 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = MO ; Value = P ; Domain = pje.tjpe.jus.br ; Path = /
+Name = JSESSIONID ; Value = d2JFm6hDByDrGoUqagMpSOMf5ydwdFSoe3S6-CVp.keycloak-3 ; Domain = pje.tjpe.jus.br ; Path = /2g/Painel/painel_usuario/advogado.seam
+)
+14/11/2024 09:39:44: Entrou na aba expediente do perfil para as categorias Respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 09:39:46: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+14/11/2024 09:39:46: Rodou

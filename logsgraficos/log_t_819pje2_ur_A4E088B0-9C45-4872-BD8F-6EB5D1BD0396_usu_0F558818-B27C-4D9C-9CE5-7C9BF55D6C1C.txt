@@ -1,0 +1,8 @@
+15547486744@annemonteiroadv@A4E088B0-9C45-4872-BD8F-6EB5D1BD0396@mark em 8.19.pje.2
+13/11/2024 01:34:59: Acessou https://tjrj.pje.jus.br/2g/login.seam
+13/11/2024 01:34:59: Erro no acesso: Desconhecido
+html: salvo no mongo.
+15547486744@annemonteiroadv@A4E088B0-9C45-4872-BD8F-6EB5D1BD0396@mark em 8.19.pje.2
+13/11/2024 01:36:00: Acessou https://tjrj.pje.jus.br/2g/login.seam
+13/11/2024 01:36:00: Erro no acesso: Desconhecido
+html: salvo no mongo.

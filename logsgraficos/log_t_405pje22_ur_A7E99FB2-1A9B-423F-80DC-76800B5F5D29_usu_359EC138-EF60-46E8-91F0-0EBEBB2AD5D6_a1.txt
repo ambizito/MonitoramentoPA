@@ -1,0 +1,21 @@
+RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 4.05.pje2.2
+12/11/2024 22:47:19: Acessou https://pje2g.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar coque123 0.dun2cn2xttf "LUCAS RODRIGUES DE MEDEIROS COQUE:09935787486"
+12/11/2024 22:47:22: Logou https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:47:22: Perfil advogado e usuário LUCAS RODRIGUES DE MEDEIROS COQUE
+OAB = RN14395 ; URL = https://pje2g.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje2.2 ; usuarioId = RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = gQB5Akar92Ry7Q0qr_zEbLZeJBwYUu08waVhWHaa.sg-119-nj4dv ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTEyNDEsImlhdCI6MTczMTQ2MjQ0MSwiYXV0aF90aW1lIjoxNzMxNDYyNDQxLCJqdGkiOiI3ZmZiODk5NS1iODg1LTQ2NDMtOTRkYS02MjBiZDkwNjA0YjkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmY1LTJnIiwic3ViIjoiNjQ3Mzk5MWEtNjU3OC00ODc3LWEzZTAtNTczYTg0OGFlNTQwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmNS0yZyIsInNlc3Npb25fc3RhdGUiOiI0ZTBiMGI2Ny02YjA2LTRiYmUtYmU0My0zZjU4NzNmM2MyMDYiLCJhdF9oYXNoIjoiU25ueHdXeDVUZVk2QmtLQjZnNzhGUSIsImFjciI6IjEiLCJzaWQiOiI0ZTBiMGI2Ny02YjA2LTRiYmUtYmU0My0zZjU4NzNmM2MyMDYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxVQ0FTIFJPRFJJR1VFUyBERSBNRURFSVJPUyBDT1FVRSIsIkpUUiI6IjQwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA5OTM1Nzg3NDg2IiwiZ2l2ZW5fbmFtZSI6IkxVQ0FTIFJPRFJJR1VFUyBERSBNRURFSVJPUyBDT1FVRSIsImVtYWlsIjoibHVjYXNyY29xdWVAZ21haWwuY29tIn0.oP5Ej5WHm6yX2I4UW2YgbcmpQjpS2lxuxc5pSZrsZP6l59GKEs-KtZ2ZA7atARYfXenZeLuMNfEoZ301qQC7Tbux5l1eWXxis2TLhZy9FYgoh1PSMRpkJ5Gr8_Kd4XVP9PFYX1oK9WgToe4UisE0kuJSMI67lIr_EqCaN9PVhAp7ca7iUl8vmHrfs_0P07Uq5ZqeB0ixWYuZZj4oSjenMq-KVQYXJZvJZLZnc2JNxp7rqkC-UiUuFlq5u_OCKSC3zTLjcGu61MnN_ErUVkHjixAsu082SY7Epy7WS35vxbw0lLZsVwtWf7cwJqBL2lZ24J6WLOrhU95_quPUs84FUg ; Domain = pje2g.trf5.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 98cd00aa48a73a8145360589f6d5fc28 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_B4945352DBD7D7F126C9621A195E62E8_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.trf5.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_B4945352DBD7D7F126C9621A195E62E8_perc_100000_ol_0_mul_1_app-3Ac546fd711269dad0_0 ; Domain = .trf5.jus.br ; Path = /
+)
+12/11/2024 22:47:23: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:47:26: Total: 2
+12/11/2024 22:47:26: Total: 2
+12/11/2024 22:47:26: advogado 0000860-05.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 22:47:31: advogado 0000149-16.2022.4.05.9840 >> Processo com 3 parte(s), 40 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 22:47:32: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 22:47:32: Rodou

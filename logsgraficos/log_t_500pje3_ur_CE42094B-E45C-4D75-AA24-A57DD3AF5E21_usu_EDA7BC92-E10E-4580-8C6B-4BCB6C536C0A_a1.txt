@@ -1,0 +1,27 @@
+PB21058@vwadvocacia@CE42094B-E45C-4D75-AA24-A57DD3AF5E21@linus em 5.00.pje.3
+12/11/2024 19:44:22: Acessou https://pje.tst.jus.br/tst/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar bruna1010 ZU4BBrNn2phuvIc58DgbW0QoTJgWkGNa "NATHAN BEZERRA WANDERLEY:08774562401"
+12/11/2024 19:44:24: Erro ao assinar
+12/11/2024 19:44:24: Erro ao assinar
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar bruna1010 0.0llkemx1rlw "NATHAN BEZERRA WANDERLEY:08774562401"
+12/11/2024 19:44:25: Erro ao assinar
+12/11/2024 19:44:25: Erro ao assinar
+12/11/2024 19:44:26: Erro no acesso: Desconhecido
+PB21058@vwadvocacia@CE42094B-E45C-4D75-AA24-A57DD3AF5E21@linus em 5.00.pje.3
+12/11/2024 19:45:27: Acessou https://pje.tst.jus.br/tst/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar bruna1010 HujsF0RIDFPOa36d1LqdTXoLfmzmJH0G "NATHAN BEZERRA WANDERLEY:08774562401"
+12/11/2024 19:45:28: Erro ao assinar
+12/11/2024 19:45:28: Erro ao assinar
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar bruna1010 0.xsy30l8pg8p "NATHAN BEZERRA WANDERLEY:08774562401"
+12/11/2024 19:45:30: Erro ao assinar
+12/11/2024 19:45:30: Erro ao assinar
+12/11/2024 19:45:30: Erro no acesso: Desconhecido
+PB21058@vwadvocacia@CE42094B-E45C-4D75-AA24-A57DD3AF5E21@linus em 5.00.pje.3
+12/11/2024 19:46:46: Acessou https://pje.tst.jus.br/tst/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar bruna1010 jIqO1te72g4Cmgkbsws5PMemU74haAYj "NATHAN BEZERRA WANDERLEY:08774562401"
+12/11/2024 19:46:47: Erro ao assinar
+12/11/2024 19:46:47: Erro ao assinar
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar bruna1010 0.eg3g0ewx4kw "NATHAN BEZERRA WANDERLEY:08774562401"
+12/11/2024 19:46:49: Erro ao assinar
+12/11/2024 19:46:49: Erro ao assinar
+12/11/2024 19:46:50: Erro no acesso: Desconhecido

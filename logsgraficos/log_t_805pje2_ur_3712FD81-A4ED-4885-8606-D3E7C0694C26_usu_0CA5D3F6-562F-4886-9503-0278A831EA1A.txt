@@ -1,0 +1,4 @@
+01193472458@meirozegrilo@3712FD81-A4ED-4885-8606-D3E7C0694C26@jobs em 8.05.pje.2
+12/11/2024 17:10:20: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+12/11/2024 17:10:21: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

@@ -1,0 +1,39 @@
+SP438903@katiabargierirocha@96D2D2B0-67C1-4B17-ADE1-769CAE3EEEE0@mark em 5.02.pje.1
+12/11/2024 20:40:03: Acessou https://pje.trt2.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 092021 XmlQQGePnyXyK5CKnv6OTmIJ5zMLgeea "KATIA BARGIERI DE CARVALHO ROCHA:29587752830"
+12/11/2024 20:40:06: Logou https://pje.trt2.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 20:40:06: Perfil advogado e usuário KATIA BARGIERI DE CARVALHO ROCHA
+OAB = SP438903 ; URL = https://pje.trt2.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.02.pje.1 ; usuarioId = SP438903@katiabargierirocha@96D2D2B0-67C1-4B17-ADE1-769CAE3EEEE0@mark ; Cookies (
+Name = JSESSIONID ; Value = 9c232f55773f4d60~pje2I0qiVFRzfdGVldzlHUT1 ; Domain = pje.trt2.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt2.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 61d8e7b0-e39f-40b9-95b7-fef61d2bdb83 ; Domain = pje.trt2.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt2.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2MDQ5NGI4OS00MjMyLTQ4OWQtYTA4OC0xMThkODA5NjQ3MDgiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU0ODA1LCJzdWIiOiJlOTk3NWFjYS1hMzE5LTQ3ZWUtYTUwNi1kOTZjZGQ1MzJlMjYucGplIiwiZXhwIjoxNzMxNDU4NDA1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ2NjYwMDAsImxvZ2luIjoiMjk1ODc3NTI4MzAiLCJub21lIjoiS0FUSUEgQkFSR0lFUkkgREUgQ0FSVkFMSE8gUk9DSEEiLCJwZXJmaWwiOjM2ODczNywicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoyMzg5MzMsImRlc2NyaWNhbyI6IktBVElBIEJBUkdJRVJJIERFIENBUlZBTEhPIFJPQ0hBICgyOTUuODc3LjUyOC0zMCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiQ0VSVElGSUNBRE8iLCJvcmlnZW0iOiJUUlQyIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt2.jus.br ; Path = /
+Name = access_token_footer ; Value = 2eJlM5S8sTbDj7P_A8e8TxqqfRo8qpx5fgCDFBjS_Qw ; Domain = pje.trt2.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIzMWZjODVmOS01OWNkLTQ0MmUtYmY1NS0zOTlmNWJjZDMzMDkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDU0ODA1LCJzdWIiOiJlOTk3NWFjYS1hMzE5LTQ3ZWUtYTUwNi1kOTZjZGQ1MzJlMjYucGplIiwiZXhwIjoxNzMxNDk4MDA1LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIyOTU4Nzc1MjgzMCIsInBlcmZpbCI6MzY4NzM3LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDIifQ.QUBZ2M5JYdw16L4ylWFg2aPBiRCGmtGj4_Jp9xf_E3E ; Domain = pje.trt2.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 673CB9C2806ED02A2B89669C3143AE70C780D7A7F1406EE5D78120C68E8513136FCBB0DBC47416BD6E2AE1D341BB94E65524 ; Domain = pje.trt2.jus.br ; Path = /
+)
+12/11/2024 20:40:07: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:40:08: Total: 1
+12/11/2024 20:40:08: Total: 1
+12/11/2024 20:40:11: advogado 1001937-43.2024.5.02.0604 >> Processo com 2 parte(s), 31 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 20:40:12: Total: 11
+12/11/2024 20:40:12: Total: 11
+12/11/2024 20:40:14: advogado 1000379-59.2023.5.02.0058 >> Processo com 2 parte(s), 59 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 20:40:18: advogado 1000587-74.2021.5.02.0038 >> Processo com 3 parte(s), 151 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 20:40:20: advogado 1001081-04.2024.5.02.0047 >> Processo com 2 parte(s), 43 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 20:40:22: advogado 1001193-78.2024.5.02.0012 >> Processo com 2 parte(s), 27 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:40:24: advogado 1001255-39.2024.5.02.0006 >> Processo com 2 parte(s), 21 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:40:26: advogado 1001376-49.2024.5.02.0012 >> Processo com 2 parte(s), 20 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:40:27: advogado 1001391-32.2024.5.02.0072 >> Processo com 2 parte(s), 13 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 20:40:33: advogado 1001416-88.2022.5.02.0048 >> Processo com 4 parte(s), 275 andamento(s) e 52 expediente(s) atualizado
+12/11/2024 20:40:34: advogado 1001473-63.2024.5.02.0072 >> Processo com 2 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 20:40:34: advogado 1001794-49.2024.5.02.0056 >> Processo já foi verificado recentemente
+12/11/2024 20:40:34: advogado 1001840-76.2024.5.02.0011 >> Processo já foi verificado recentemente
+12/11/2024 20:40:34: Total: 3
+12/11/2024 20:40:34: Total: 3
+12/11/2024 20:40:37: advogado 1001093-11.2024.5.02.0502 >> Processo com 5 parte(s), 51 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 20:40:38: advogado 1001181-52.2024.5.02.0501 >> Processo com 3 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 20:40:39: advogado 1001644-91.2024.5.02.0501 >> Processo com 3 parte(s), 2 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 20:40:41: Entrou na aba acervo do perfil e mapeou 15 processos e teve erro em 0 processos
+12/11/2024 20:40:41: Rodou

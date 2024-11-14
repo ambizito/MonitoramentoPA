@@ -1,0 +1,13 @@
+RO3279@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark em 8.03.pje.1
+13/11/2024 14:14:53: Acessou https://pje.tjap.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 327906 0.mas1ml52rho "handerson simoes da silva:62927558272"
+13/11/2024 14:15:16: Logou https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam
+13/11/2024 14:15:17: Perfil advogado e usuário HANDERSON SIMOES DA SILVA
+OAB = RO3279 ; URL = https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.03.pje.1 ; usuarioId = RO3279@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark ; Cookies (
+Name = JSESSIONID ; Value = -L-UZl6ebxm1PUJkViOHTlg73QrJDKB89VipXk_G.prd-1g-5c48ccb77-wmfs5 ; Domain = pje.tjap.jus.br ; Path = /1g
+Name = INGRESSCOOKIE ; Value = e5e18d9f27708557 ; Domain = pje.tjap.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjap.jus.br ; Path = /
+)
+13/11/2024 14:15:44: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 14:22:12: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 14:22:12: Rodou

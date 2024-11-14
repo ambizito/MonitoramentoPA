@@ -1,0 +1,4 @@
+RN10374@vilarsaldanha@FB8670EC-485E-40BF-96B1-A2BA212BEEF4@berners em 4.05.CRETA.1.84
+13/11/2024 19:27:37: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 19:28:11: Erro no acesso: Senha invalida
+html: salvo no mongo.

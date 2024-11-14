@@ -1,0 +1,12 @@
+allanjob46@gmailcom@allanjob46@E3D8590F-5286-428A-BC1E-F82915A6E9A3@mark em 8.18.Projudi.1
+12/11/2024 17:11:56: Acessou https://projudi.tjpi.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 17:11:57: Logou https://projudi.tjpi.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 17:11:57: Não acessou a url de pesquisa para o OAB allanjob46@gmailcom
+html: salvo no mongo.
+12/11/2024 17:11:57: Rodou com falha
+allanjob46@gmailcom@allanjob46@E3D8590F-5286-428A-BC1E-F82915A6E9A3@mark em 8.18.Projudi.1
+12/11/2024 17:12:57: Acessou https://projudi.tjpi.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 17:12:57: Logou https://projudi.tjpi.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 17:12:57: Não acessou a url de pesquisa para o OAB allanjob46@gmailcom
+html: salvo no mongo.
+12/11/2024 17:12:57: Rodou com falha

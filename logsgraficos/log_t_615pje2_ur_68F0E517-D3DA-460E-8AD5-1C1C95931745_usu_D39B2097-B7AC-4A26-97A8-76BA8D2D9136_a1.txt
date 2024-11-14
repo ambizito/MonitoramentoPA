@@ -1,0 +1,210 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 6.15.pje.2
+12/11/2024 19:43:07: Acessou https://pje.tre-pb.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 0.rs37px5kc73 "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 19:43:10: Logou https://pje.tre-pb.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:43:10: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje.tre-pb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 6.15.pje.2 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = JbqU2Wz5X1hfLG7pSPlAnKU2K05F38XFMvvS_QsI.pje-pb-02 ; Domain = pje.tre-pb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tre-pb.jus.br ; Path = /pje
+Name = TS01251549 ; Value = 0103a0ceaeb283640df9b66bf74a58053795405788b534c0a420860976003320005a4418d756e13406a096cc8ceb84051aa7dd9b77f3b7a821dcdb0fbc79a80aafb1a922b2630131743827548486211a030de961d3badc549cedb13456cea219daa9fa508afb42ff40492a5c6704a3fa7d15c63293 ; Domain = pje.tre-pb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODAxODksImlhdCI6MTczMTQ1MTM4OSwiYXV0aF90aW1lIjoxNzMxNDUxMzg5LCJqdGkiOiI2OWZlZDEyOS0zZjdiLTQ5ZTgtYWI0Zi1mMzlkOGU0M2FmMjciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmVwYi0yZyIsInN1YiI6Ijg0MTk2N2MzLTAwMmEtNGQzYi1hY2M4LTU2Yjg5OGY2NzQ0NCIsInR5cCI6IklEIiwiYXpwIjoicGplLXRyZXBiLTJnIiwic2Vzc2lvbl9zdGF0ZSI6ImJlYTYxNDY1LTBkNGUtNGY5OS1iNjE5LWEyNjk0YjVkZmI5MCIsImF0X2hhc2giOiJKaUhzS2lIM2g3ODNfMjBua09JRkp3IiwiYWNyIjoiMSIsInNpZCI6ImJlYTYxNDY1LTBkNGUtNGY5OS1iNjE5LWEyNjk0YjVkZmI5MCIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJsb2dpbkNvbUNlcnRpZmljYWRvIjp0cnVlLCJuYW1lIjoiTUFOT0xZUyBNQVJDRUxJTk8gUEFTU0VSQVQgREUgU0lMQU5TIiwianRyIjoiNjE1IiwiSlRSIjoiNjE1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDA4MTAwNjQ0NjQiLCJnaXZlbl9uYW1lIjoiTUFOT0xZUyBNQVJDRUxJTk8gUEFTU0VSQVQgREUgU0lMQU5TIiwiZW1haWwiOiJtYW5vbHlzX3NpbGFuc0Bob3RtYWlsLmNvbSJ9.vGoSkiq03Bz2gqkT_WKULEB63jQzJ_3jWkCMw157WvZWJCapzLFuhtELYRJxJaCTgfgZBVoadbHqlcPIvZGt_qwBsP7S1LZsiE4GMKaPk2XYZIXhe_IcujJooHw15teUbIRpuwAKXwekVTLUdBKRbFHGLJdE-EHFd2N3JDfNR2xQ3MjPGgggHEZ21SjtwIUtbiOZNvBkLsv7_I-DvU9FafGez9DT5eSLjQIcpvrq0d1iIWxDQNIuF_THtWNC_jRRvOgfnfY8zeKyijutACHLXqc_7EB8cLY8DlpUfNO7ABor354QFoCnRce3iaRdQVhsosPMdfBI2vDV3uWSsljzQw ; Domain = pje.tre-pb.jus.br ; Path = /pje
+Name = PJE-TREPB-2G-StickySessionRule ; Value = "pje-pb-02:pje-trepb-2g" ; Domain = pje.tre-pb.jus.br ; Path = /pje
+Name = _8b409 ; Value = 4e3f38bcad25a7c8 ; Domain = pje.tre-pb.jus.br ; Path = /
+Name = TS016b3b55 ; Value = 0103a0ceae4c06fa9292374f509c2755277c67cb52b534c0a420860976003320005a4418d73d3211433271bcd41b2110b486ee9025e40b0e271196f4aaf9e90919e7c5fb4055bcf65aa0ba972485a3fafa89626125245183123912c554b0da3b96cd8b560e293c9eea71eaf8b58d1595fd736bbcaa ; Domain = pje.tre-pb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tre-pb.jus.br ; Path = /
+)
+12/11/2024 19:43:11: Total: 3
+12/11/2024 19:43:13: advogado 0600475-78.2024.6.15.0020 >> Processo com 6 parte(s), 58 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 19:43:13: advogado 0600475-78.2024.6.15.0020 >> Processo já foi verificado recentemente
+12/11/2024 19:43:14: advogado 0600014-40.2022.6.15.0000 >> Processo com 3 parte(s), 61 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:43:15: Total: 1
+12/11/2024 19:43:16: advogado 0600014-40.2022.6.15.0000 >> Processo com 3 parte(s), 61 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:43:16: Total: 2
+12/11/2024 19:43:17: advogado 0600475-78.2024.6.15.0020 >> Processo com 6 parte(s), 58 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 19:43:17: advogado 0600475-78.2024.6.15.0020 >> Processo já foi verificado recentemente
+12/11/2024 19:43:18: Total: 1
+12/11/2024 19:43:19: advogado 0600132-56.2024.6.15.0061 >> Processo com 4 parte(s), 62 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:43:20: Total: 2
+12/11/2024 19:43:21: advogado 0600260-36.2022.6.15.0000 >> Processo com 5 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:21: advogado 0600260-36.2022.6.15.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:43:21: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo Judiciário - pendente de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta, Sem prazo e detectou 18 e leu 8
+12/11/2024 19:43:23: Total: 176
+12/11/2024 19:43:23: Total: 176
+12/11/2024 19:43:24: advogado 0600738-56.2024.6.15.0038 >> Processo com 5 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:43:25: advogado 0600733-34.2024.6.15.0038 >> Processo com 5 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:43:26: advogado 0600583-81.2024.6.15.0061 >> Processo com 6 parte(s), 54 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:43:27: advogado 0600278-03.2024.6.15.0060 >> Processo com 4 parte(s), 65 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:43:28: advogado 0600192-05.2024.6.15.0069 >> Processo com 6 parte(s), 54 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:43:28: advogado 0600185-30.2024.6.15.0031 >> Processo já foi verificado recentemente
+12/11/2024 19:43:29: advogado 0600158-54.2024.6.15.0061 >> Processo com 8 parte(s), 60 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 19:43:29: advogado 0600132-56.2024.6.15.0061 >> Processo já foi verificado recentemente
+12/11/2024 19:43:31: advogado 0600103-79.2024.6.15.0069 >> Processo com 5 parte(s), 51 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:43:32: advogado 0600102-03.2024.6.15.0067 >> Processo com 6 parte(s), 58 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:43:33: advogado 0600084-73.2024.6.15.0069 >> Processo com 5 parte(s), 61 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:43:34: advogado 0600052-29.2023.6.15.0061 >> Processo com 4 parte(s), 55 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:43:35: advogado 0601767-32.2022.6.15.0000 >> Processo com 4 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:37: advogado 0601510-07.2022.6.15.0000 >> Processo com 5 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:38: advogado 0601508-37.2022.6.15.0000 >> Processo com 3 parte(s), 66 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:43:39: advogado 0601473-77.2022.6.15.0000 >> Processo com 5 parte(s), 62 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:43:40: advogado 0601160-19.2022.6.15.0000 >> Processo com 4 parte(s), 46 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:43:41: advogado 0600917-75.2022.6.15.0000 >> Processo com 4 parte(s), 60 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:43:42: advogado 0600905-61.2022.6.15.0000 >> Processo com 4 parte(s), 59 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:43:42: advogado 0600260-36.2022.6.15.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:43:44: advogado 0600095-86.2022.6.15.0000 >> Processo com 5 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:45: advogado 0600071-86.2021.6.15.0002 >> Processo com 25 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:46: advogado 0600001-43.2021.6.15.0043 >> Processo com 6 parte(s), 62 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 19:43:47: advogado 0600955-46.2020.6.15.0004 >> Processo com 21 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:48: advogado 0600670-33.2020.6.15.0043 >> Processo com 6 parte(s), 57 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:43:50: advogado 0600444-60.2020.6.15.0000 >> Processo com 5 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:51: advogado 0600315-51.2020.6.15.0066 >> Processo com 9 parte(s), 57 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:43:52: advogado 0600241-85.2020.6.15.0069 >> Processo com 21 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:54: advogado 0600001-46.2019.6.15.0000 >> Processo com 62 parte(s), 50 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:43:55: advogado 0600741-11.2024.6.15.0038 >> Processo com 4 parte(s), 68 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:43:57: advogado 0600737-71.2024.6.15.0038 >> Processo com 5 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:43:58: advogado 0600607-12.2024.6.15.0061 >> Processo com 6 parte(s), 53 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:43:58: advogado 0600591-58.2024.6.15.0061 >> Processo com 4 parte(s), 40 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:43:59: advogado 0600579-44.2024.6.15.0061 >> Processo com 6 parte(s), 53 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:44:00: advogado 0600485-96.2024.6.15.0061 >> Processo com 5 parte(s), 53 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:44:00: advogado 0600475-78.2024.6.15.0020 >> Processo já foi verificado recentemente
+12/11/2024 19:44:00: advogado 0600474-93.2024.6.15.0020 >> Processo já foi verificado recentemente
+12/11/2024 19:44:00: advogado 0600372-45.2024.6.15.0061 >> Processo já foi verificado recentemente
+12/11/2024 19:44:01: advogado 0600356-91.2024.6.15.0061 >> Processo com 4 parte(s), 50 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:44:02: advogado 0600347-21.2024.6.15.0000 >> Processo com 2 parte(s), 12 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:44:04: advogado 0600247-66.2024.6.15.0000 >> Processo com 7 parte(s), 62 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 19:44:05: advogado 0600237-22.2024.6.15.0000 >> Processo com 5 parte(s), 58 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 19:44:06: advogado 0600227-04.2024.6.15.0056 >> Processo com 5 parte(s), 56 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:44:06: advogado 0600187-97.2024.6.15.0031 >> Processo já foi verificado recentemente
+12/11/2024 19:44:07: advogado 0600185-26.2024.6.15.0000 >> Processo com 6 parte(s), 38 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 19:44:08: advogado 0600103-85.2024.6.15.0067 >> Processo com 6 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:09: advogado 0600102-94.2024.6.15.0069 >> Processo com 3 parte(s), 59 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:10: advogado 0600101-25.2024.6.15.0000 >> Processo com 5 parte(s), 57 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:44:11: advogado 0600088-19.2024.6.15.0067 >> Processo com 5 parte(s), 56 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:44:12: advogado 0600085-71.2024.6.15.0000 >> Processo com 5 parte(s), 37 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:44:13: advogado 0600073-54.2024.6.15.0001 >> Processo com 5 parte(s), 58 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:44:14: advogado 0600071-84.2024.6.15.0001 >> Processo com 5 parte(s), 57 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:44:15: advogado 0600070-09.2024.6.15.0031 >> Processo com 4 parte(s), 58 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:17: advogado 0600070-02.2024.6.15.0001 >> Processo com 6 parte(s), 57 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:44:18: advogado 0600066-62.2024.6.15.0001 >> Processo com 5 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:44:19: advogado 0600056-18.2024.6.15.0001 >> Processo com 5 parte(s), 63 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:44:20: advogado 0600035-49.2024.6.15.0031 >> Processo com 4 parte(s), 53 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 19:44:21: advogado 0600346-70.2023.6.15.0000 >> Processo com 3 parte(s), 61 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:44:22: advogado 0600341-48.2023.6.15.0000 >> Processo com 2 parte(s), 69 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 19:44:23: advogado 0600254-92.2023.6.15.0000 >> Processo com 4 parte(s), 59 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:44:24: advogado 0600200-46.2023.6.00.0000 >> Processo com 7 parte(s), 45 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:25: advogado 0600184-75.2023.6.15.0000 >> Processo com 3 parte(s), 60 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:26: advogado 0600100-74.2023.6.15.0000 >> Processo com 4 parte(s), 60 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:44:27: advogado 0600048-89.2023.6.15.0061 >> Processo com 4 parte(s), 59 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:28: advogado 0600020-06.2023.6.15.0067 >> Processo com 3 parte(s), 60 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:30: advogado 0600001-07.2023.6.15.0000 >> Processo com 6 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:31: advogado 0601947-48.2022.6.15.0000 >> Processo com 4 parte(s), 39 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 19:44:32: advogado 0601934-49.2022.6.15.0000 >> Processo com 5 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:33: advogado 0601717-06.2022.6.15.0000 >> Processo com 3 parte(s), 61 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:44:34: advogado 0601682-46.2022.6.15.0000 >> Processo com 4 parte(s), 60 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:44:35: advogado 0601543-94.2022.6.15.0000 >> Processo com 4 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:44:36: advogado 0601517-96.2022.6.15.0000 >> Processo com 8 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:37: advogado 0601111-75.2022.6.15.0000 >> Processo com 4 parte(s), 53 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:44:38: advogado 0600927-22.2022.6.15.0000 >> Processo com 4 parte(s), 65 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:44:39: advogado 0600907-31.2022.6.15.0000 >> Processo com 4 parte(s), 68 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:44:40: advogado 0600868-34.2022.6.15.0000 >> Processo com 5 parte(s), 63 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:44:41: advogado 0600329-68.2022.6.15.0000 >> Processo com 5 parte(s), 78 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:43: advogado 0600182-42.2022.6.15.0000 >> Processo com 5 parte(s), 66 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 19:44:44: advogado 0600154-74.2022.6.15.0000 >> Processo com 4 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:44: advogado 0600014-40.2022.6.15.0000 >> Processo já foi verificado recentemente
+12/11/2024 19:44:46: advogado 0600048-53.2021.6.15.0031 >> Processo com 4 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:47: advogado 0600039-87.2021.6.15.0000 >> Processo com 6 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:48: advogado 0600025-43.2021.6.15.0020 >> Processo com 5 parte(s), 58 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:50: advogado 0600010-74.2021.6.15.0020 >> Processo com 15 parte(s), 54 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:51: advogado 0600001-89.2021.6.15.0060 >> Processo com 19 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:52: advogado 0600956-37.2020.6.15.0002 >> Processo com 30 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:44:54: advogado 0600875-08.2020.6.15.0061 >> Processo com 6 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:55: advogado 0600791-07.2020.6.15.0061 >> Processo com 5 parte(s), 61 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:44:56: advogado 0600776-38.2020.6.15.0061 >> Processo com 7 parte(s), 13 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:44:57: advogado 0600774-68.2020.6.15.0061 >> Processo com 6 parte(s), 58 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:44:59: advogado 0600725-71.2020.6.15.0014 >> Processo com 4 parte(s), 80 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:00: advogado 0600724-86.2020.6.15.0014 >> Processo com 5 parte(s), 80 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:01: advogado 0600715-36.2020.6.15.0011 >> Processo com 6 parte(s), 39 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:03: advogado 0600636-48.2020.6.15.0014 >> Processo com 5 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:04: advogado 0600605-84.2020.6.15.0060 >> Processo com 5 parte(s), 60 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:45:06: advogado 0600596-76.2020.6.15.0043 >> Processo com 4 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:07: advogado 0600574-06.2020.6.15.0047 >> Processo com 5 parte(s), 51 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:07: advogado 0600502-63.2020.6.15.0000 >> Processo com 5 parte(s), 30 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:45:09: advogado 0600499-11.2020.6.15.0000 >> Processo com 3 parte(s), 44 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:45:10: advogado 0600491-71.2020.6.15.0020 >> Processo com 8 parte(s), 59 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 19:45:11: advogado 0600478-88.2020.6.15.0047 >> Processo com 6 parte(s), 50 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 19:45:12: advogado 0600474-51.2020.6.15.0047 >> Processo com 4 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:14: advogado 0600472-81.2020.6.15.0047 >> Processo com 2 parte(s), 59 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:45:15: advogado 0600471-43.2020.6.15.0000 >> Processo com 5 parte(s), 56 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:45:16: advogado 0600468-02.2020.6.15.0061 >> Processo com 5 parte(s), 57 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:17: advogado 0600450-78.2020.6.15.0061 >> Processo com 4 parte(s), 58 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:45:18: advogado 0600448-55.2020.6.15.0014 >> Processo com 6 parte(s), 56 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 19:45:20: advogado 0600443-86.2020.6.15.0061 >> Processo com 4 parte(s), 55 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:45:21: advogado 0600418-18.2020.6.15.0047 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:22: advogado 0600417-45.2020.6.15.0043 >> Processo com 3 parte(s), 57 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:45:23: advogado 0600396-57.2020.6.15.0047 >> Processo com 4 parte(s), 59 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:45:24: advogado 0600392-20.2020.6.15.0047 >> Processo com 4 parte(s), 60 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:45:25: advogado 0600390-50.2020.6.15.0047 >> Processo com 3 parte(s), 50 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:45:26: advogado 0600390-52.2020.6.15.0014 >> Processo com 4 parte(s), 63 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:45:28: advogado 0600335-29.2020.6.15.0038 >> Processo com 4 parte(s), 47 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:29: advogado 0600327-77.2020.6.15.0062 >> Processo com 4 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:45:30: advogado 0600321-18.2020.6.15.0047 >> Processo com 6 parte(s), 54 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:31: advogado 0600315-63.2020.6.15.0062 >> Processo com 5 parte(s), 55 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:45:33: advogado 0600291-52.2020.6.15.0024 >> Processo com 5 parte(s), 76 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:34: advogado 0600282-56.2020.6.15.0003 >> Processo com 4 parte(s), 64 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 19:45:36: advogado 0600268-85.2020.6.15.0031 >> Processo com 6 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:37: advogado 0600240-65.2020.6.15.0016 >> Processo com 3 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:45:38: advogado 0600224-11.2020.6.15.0017 >> Processo com 4 parte(s), 47 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 19:45:40: advogado 0600195-96.2020.6.15.0069 >> Processo com 6 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:41: advogado 0600174-40.2020.6.15.0031 >> Processo com 6 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:42: advogado 0600171-85.2020.6.15.0031 >> Processo com 6 parte(s), 56 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 19:45:43: advogado 0600170-03.2020.6.15.0031 >> Processo com 6 parte(s), 56 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:45: advogado 0600161-37.2020.6.15.0000 >> Processo com 6 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:46: advogado 0600142-31.2020.6.15.0000 >> Processo com 4 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:45:47: advogado 0600140-10.2020.6.15.0017 >> Processo com 6 parte(s), 55 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:48: advogado 0600139-25.2020.6.15.0017 >> Processo com 5 parte(s), 57 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:45:49: advogado 0600135-85.2020.6.15.0017 >> Processo com 4 parte(s), 57 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:45:51: advogado 0600124-56.2020.6.15.0017 >> Processo com 6 parte(s), 58 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:52: advogado 0600111-86.2020.6.15.0072 >> Processo com 8 parte(s), 50 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:45:53: advogado 0600090-49.2020.6.15.0060 >> Processo com 4 parte(s), 61 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:45:54: advogado 0600073-79.2020.6.15.0038 >> Processo com 3 parte(s), 56 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:45:56: advogado 0600070-27.2020.6.15.0038 >> Processo com 3 parte(s), 46 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:45:57: advogado 0600050-36.2020.6.15.0038 >> Processo com 4 parte(s), 59 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:45:58: advogado 0600037-50.2020.6.15.0066 >> Processo com 4 parte(s), 52 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:45:59: advogado 0600036-27.2020.6.15.0014 >> Processo com 4 parte(s), 56 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:46:00: advogado 0600035-42.2020.6.15.0014 >> Processo com 8 parte(s), 75 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:02: advogado 0600013-14.2020.6.15.0004 >> Processo com 3 parte(s), 55 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:46:03: advogado 0600003-83.2020.6.15.0031 >> Processo com 4 parte(s), 49 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:46:04: advogado 0600061-19.2019.6.15.0000 >> Processo com 5 parte(s), 74 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:05: advogado 0601564-12.2018.6.15.0000 >> Processo com 3 parte(s), 60 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 19:46:06: advogado 0601470-64.2018.6.15.0000 >> Processo com 4 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:09: advogado 0601439-44.2018.6.15.0000 >> Processo com 13 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:10: advogado 0601429-97.2018.6.15.0000 >> Processo com 5 parte(s), 59 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:46:12: advogado 0601406-54.2018.6.15.0000 >> Processo com 27 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:13: advogado 0601341-59.2018.6.15.0000 >> Processo com 3 parte(s), 63 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 19:46:14: advogado 0601219-46.2018.6.15.0000 >> Processo com 5 parte(s), 55 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:16: advogado 0601201-25.2018.6.15.0000 >> Processo com 4 parte(s), 53 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 19:46:17: advogado 0601200-40.2018.6.15.0000 >> Processo com 4 parte(s), 71 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:46:18: advogado 0601199-55.2018.6.15.0000 >> Processo com 3 parte(s), 60 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 19:46:19: advogado 0601185-71.2018.6.15.0000 >> Processo com 4 parte(s), 63 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 19:46:20: advogado 0601175-27.2018.6.15.0000 >> Processo com 8 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:21: advogado 0601174-42.2018.6.15.0000 >> Processo com 4 parte(s), 59 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 19:46:23: advogado 0601173-57.2018.6.15.0000 >> Processo com 5 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:24: advogado 0601172-72.2018.6.15.0000 >> Processo com 4 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:25: advogado 0601170-05.2018.6.15.0000 >> Processo com 3 parte(s), 58 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 19:46:27: advogado 0601094-78.2018.6.15.0000 >> Processo com 4 parte(s), 58 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 19:46:28: advogado 0601045-37.2018.6.15.0000 >> Processo com 4 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:29: advogado 0600988-19.2018.6.15.0000 >> Processo com 4 parte(s), 53 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:30: advogado 0600763-96.2018.6.15.0000 >> Processo com 4 parte(s), 56 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 19:46:31: advogado 0600756-07.2018.6.15.0000 >> Processo com 3 parte(s), 54 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:46:32: advogado 0600752-67.2018.6.15.0000 >> Processo com 4 parte(s), 57 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:46:33: advogado 0600733-61.2018.6.15.0000 >> Processo com 3 parte(s), 60 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:46:34: advogado 0600719-77.2018.6.15.0000 >> Processo com 3 parte(s), 61 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:46:35: advogado 0600713-70.2018.6.15.0000 >> Processo com 3 parte(s), 64 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 19:46:37: advogado 0600412-26.2018.6.15.0000 >> Processo com 4 parte(s), 61 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:46:38: advogado 0600185-36.2018.6.15.0000 >> Processo com 4 parte(s), 48 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 19:46:39: advogado 0600072-82.2018.6.15.0000 >> Processo com 6 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:40: advogado 0600338-06.2017.6.15.0000 >> Processo com 3 parte(s), 42 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 19:46:41: advogado 0600180-48.2017.6.15.0000 >> Processo com 5 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 19:46:42: advogado 0000266-42.2016.6.15.0020 >> Processo com 6 parte(s), 53 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 19:46:43: advogado 0000047-09.2014.6.15.0017 >> Processo com 5 parte(s), 60 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 19:46:45: Entrou na aba acervo do perfil e mapeou 176 processos e teve erro em 0 processos
+12/11/2024 19:46:45: Rodou

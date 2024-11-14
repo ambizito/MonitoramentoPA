@@ -1,0 +1,9 @@
+16549PB@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.05.Projudi.1
+13/11/2024 01:20:24: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:20:25: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:20:25: Entrou na aba acervo e mapeou 0 processos
+13/11/2024 01:20:25: Total: 1
+13/11/2024 01:20:26: Entrou na aba acervo e mapeou 1 processos
+13/11/2024 01:20:26: Entrou na aba acervo e mapeou 0 processos
+13/11/2024 01:20:26: Rodou
+13/11/2024 01:20:26: Rodou

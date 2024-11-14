@@ -1,0 +1,28 @@
+ES30696@luanazordan@0494BFB6-09EE-4AD1-B909-7DC0449011EB@mark em 5.17.pje.2
+12/11/2024 22:08:39: Acessou https://pje.trt17.jus.br/segundograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 YFt1s50DDt32YtgEbmp9Ch5U2Nodr0Js "LUANA ZORDAN PALOMBO:09292635700"
+12/11/2024 22:08:41: Logou https://pje.trt17.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 22:08:42: Perfil advogado e usuário LUANA ZORDAN PALOMBO
+OAB = ES30696 ; URL = https://pje.trt17.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.17.pje.2 ; usuarioId = ES30696@luanazordan@0494BFB6-09EE-4AD1-B909-7DC0449011EB@mark ; Cookies (
+Name = JSESSIONID ; Value = 281bb4d55def301e~8auuwTnHFK7ss3RQ3duSOr-F ; Domain = pje.trt17.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt17.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = 279edff7-623c-43bb-8038-3c7992d06cd0 ; Domain = pje.trt17.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt17.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1ZDIzMmIzYi1iNGEzLTQwZDgtODFiYi02NGUyNDYxYjFmZjgiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYwMTIxLCJzdWIiOiJlYTQ4NTljNC1hNzU1LTRiMWItYTE3OC1jYTY3MDI1ODcyYjEucGplIiwiZXhwIjoxNzMxNDYzNzIxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjIwOTcwNCwibG9naW4iOiIwOTI5MjYzNTcwMCIsIm5vbWUiOiJMVUFOQSBaT1JEQU4gUEFMT01CTyIsInBlcmZpbCI6NDA1MDQsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6MzQwMTAsImRlc2NyaWNhbyI6IkxVQU5BIFpPUkRBTiBQQUxPTUJPICgwOTIuOTI2LjM1Ny0wMCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiQ0VSVElGSUNBRE8iLCJvcmlnZW0iOiJUUlQxNyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt17.jus.br ; Path = /
+Name = access_token_footer ; Value = byHhjyVpZPQ7L8Ajc6PiqmPNG_juGxZe8LmMPjQLJCs ; Domain = pje.trt17.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlNTViOGRhMy01YjAzLTRlYTMtOTY1Yi00NjAwNjA0NTMwNWYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYwMTIxLCJzdWIiOiJlYTQ4NTljNC1hNzU1LTRiMWItYTE3OC1jYTY3MDI1ODcyYjEucGplIiwiZXhwIjoxNzMxNTAzMzIxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwOTI5MjYzNTcwMCIsInBlcmZpbCI6NDA1MDQsIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMTcifQ.KJrPMzJIR15KoWBUnKK4kqOZdFQ1UAVmZZDruTGprbY ; Domain = pje.trt17.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 5DB3D8ECFB15F41E494562246DC928E915C8A284679961E675C0AC2EA43A6D4BAAF1E10BC9DEFE0783917E146CA580FF8718 ; Domain = pje.trt17.jus.br ; Path = /
+)
+12/11/2024 22:08:42: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 22:08:44: Total: 2
+12/11/2024 22:08:44: Total: 2
+12/11/2024 22:08:46: advogado 0000530-58.2016.5.17.0191 >> Processo com 5 parte(s), 24 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 22:08:48: advogado 0000837-70.2020.5.17.0191 >> Processo com 6 parte(s), 28 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 22:08:48: Total: 1
+12/11/2024 22:08:48: Total: 1
+12/11/2024 22:08:48: advogado 0000530-58.2016.5.17.0191 >> Processo já foi verificado recentemente
+12/11/2024 22:08:49: Total: 1
+12/11/2024 22:08:49: Total: 1
+12/11/2024 22:08:49: advogado 0000837-70.2020.5.17.0191 >> Processo já foi verificado recentemente
+12/11/2024 22:08:52: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 22:08:52: Rodou

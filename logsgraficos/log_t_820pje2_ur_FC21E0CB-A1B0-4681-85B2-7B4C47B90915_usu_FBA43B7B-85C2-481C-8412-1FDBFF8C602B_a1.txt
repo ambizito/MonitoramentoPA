@@ -1,0 +1,19 @@
+PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus em 8.20.pje.2
+13/11/2024 00:36:05: Acessou https://pje2g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.dun2cn2xttf "tadeu leal reis de melo:03234429430 2023-12-19 09:50:24"
+13/11/2024 00:36:08: Logou https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:36:08: Perfil advogado e usuário TADEU LEAL REIS DE MELO
+OAB = PE23111 ; URL = https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.2 ; usuarioId = PE23111@reisdemelo@FC21E0CB-A1B0-4681-85B2-7B4C47B90915@linus ; Cookies (
+Name = JSESSIONID ; Value = MMpZLckysG6LYSk9PMDtPUu0Wa6n4pDf6wlSg4Ku.pje2g-90-zbz4m ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTc3NjcsImlhdCI6MTczMTQ2ODk2NywiYXV0aF90aW1lIjoxNzMxNDY4OTY3LCJqdGkiOiI5NTJkMmMyZC05NWZjLTQyY2ItYWFiZS00YTQxY2VjMzc1OTEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTJnIiwic3ViIjoiNDgxZDM4ZWYtZGI0Ni00NmU0LWEwNTUtNjJiZDZiYTUxNjYzIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0yZyIsInNlc3Npb25fc3RhdGUiOiJkNjhhNzUzMy05YmE0LTRjYTktOWFiNC00OGRhODhlYjg4ZjkiLCJhdF9oYXNoIjoiSGxFS1FNMGJadWFJUVNoM1BxVUpnZyIsImFjciI6IjEiLCJzaWQiOiJkNjhhNzUzMy05YmE0LTRjYTktOWFiNC00OGRhODhlYjg4ZjkiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlRBREVVIExFQUwgUkVJUyBERSBNRUxPIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDMyMzQ0Mjk0MzAiLCJnaXZlbl9uYW1lIjoiVEFERVUgTEVBTCBSRUlTIERFIE1FTE8iLCJlbWFpbCI6InRhZGV1QHJlaXNkZW1lbG8uYWR2LmJyIn0.k0d7vUdpDjSiwsalskG-AMeFclVsjBmGoaKnHu6CaGLcEjmcXJ2CwJ5sU-QOdFs7aeJXAo04CwcdFVqNVjizQS7VcoAwQqe9nMmwDG1-bT23f_8AKVRNrQPRTnhwJoeut-P6EQmtxB4jFktKCDjg1WpzR1yihOjvz9UJXa3uKqsA3SdQretwBxWXqJz3npSBZXQ_mI3TrVTmHy5OYn5uzsygsg5vhEe82M-IghwyS7RkeIgxjI3_KY6n2IbuCCCc9SMEawBI-GQth2qJAaY8lAb9x243mHvoauCh5p2rEuk94MFfoJMgv58f2hs-80DAucN1MxcT0e-vMK0CqkDBnQ ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-2G-StickySessionRule ; Value = "pje2g-90-zbz4m:pje-tjrn-2g" ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 6fc0b89eb2b6c5c2dbc3b7ced6510d5a ; Domain = pje2g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /
+)
+13/11/2024 00:36:09: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:36:11: Total: 1
+13/11/2024 00:36:11: Total: 1
+13/11/2024 00:36:11: advogado 0803893-15.2018.8.20.5106 >> Processo já foi verificado recentemente
+13/11/2024 00:36:11: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+13/11/2024 00:36:11: Rodou

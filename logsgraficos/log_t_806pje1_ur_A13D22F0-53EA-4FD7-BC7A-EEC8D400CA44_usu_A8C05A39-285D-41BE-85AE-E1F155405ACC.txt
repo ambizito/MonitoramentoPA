@@ -1,0 +1,4 @@
+63100720300@colaresbarbosaeuchoa@A13D22F0-53EA-4FD7-BC7A-EEC8D400CA44@linus em 8.06.pje.1
+13/11/2024 19:26:47: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+13/11/2024 19:26:49: Erro no acesso: Senha invalida
+html: salvo no mongo.

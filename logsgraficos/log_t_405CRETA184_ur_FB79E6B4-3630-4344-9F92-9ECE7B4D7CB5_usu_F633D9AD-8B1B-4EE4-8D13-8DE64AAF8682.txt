@@ -1,0 +1,24 @@
+RN15865@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs em 4.05.CRETA.1.84
+13/11/2024 01:14:23: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:14:44: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+13/11/2024 01:15:04: Total: 11
+13/11/2024 01:15:04:  0502611-31.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0503087-98.2021.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0502866-18.2021.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0502266-31.2020.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0503318-96.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0504956-67.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0503454-93.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0503455-78.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0501756-52.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:04:  0501536-54.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:14:  0502336-48.2020.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:14:  0503049-57.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:14:  0501638-76.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:14:  0503909-24.2020.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:15:  0503531-34.2021.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:15:  0502741-55.2018.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:15:  0503317-14.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:15:  0502558-50.2019.4.05.8404 >> Processo salvo no mongo sem os detalhes
+13/11/2024 01:15:15: Rodou
+13/11/2024 01:15:15: Rodou

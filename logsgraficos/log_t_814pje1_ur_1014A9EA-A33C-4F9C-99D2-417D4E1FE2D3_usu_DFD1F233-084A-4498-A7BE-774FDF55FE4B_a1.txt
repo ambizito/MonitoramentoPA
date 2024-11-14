@@ -1,0 +1,33 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.14.pje.1
+12/11/2024 20:16:27: Acessou https://pje.tjpa.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 0.726h211o79y "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+12/11/2024 20:16:30: Logou https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:16:30: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.14.pje.1 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = S16SfoA5MoHY7kjzs5ye0xgI870E4ukcQwrCx-Mx.pje2-1g-n24 ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODIxODksImlhdCI6MTczMTQ1MzM5MCwiYXV0aF90aW1lIjoxNzMxNDUzMzg5LCJqdGkiOiJmYjRhNTE4NC0wNTQ3LTRiNjMtODE4MC1mZWExNjYzZDA5ZDEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBhLTFnIiwic3ViIjoiMTk5MmQwMDQtZGNkMi00ZjEzLTg4OGItYjhmOTY3MzFjMGYwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYS0xZyIsInNlc3Npb25fc3RhdGUiOiJhMGY0OWQxNS02NWRmLTQ4NWUtYjA0Yy0xZmIxNTJjOTRjYjIiLCJhdF9oYXNoIjoiaVRzR2ExdDhtT3dVMFpTWXc2RnpqZyIsImFjciI6IjEiLCJzaWQiOiJhMGY0OWQxNS02NWRmLTQ4NWUtYjA0Yy0xZmIxNTJjOTRjYjIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkJSRU5EQSBKT1JEQU5BIExPQkFUTyBBUkFVSk8gVEVJWEVJUkEiLCJqdHIiOiI4MTQiLCJKVFIiOiI4MTQiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIxMDM0MDUwNjQ4MiIsImdpdmVuX25hbWUiOiJCUkVOREEgSk9SREFOQSBMT0JBVE8gQVJBVUpPIFRFSVhFSVJBIiwiZW1haWwiOiJicmVuZGFAdGF2YXJlc3F1ZWlyb3ouY29tLmJyIn0.quZeyRNYhH8TlD5OLU6ZXFYjLbhP7TLNbcXDNbXD0HOP1EwFqwuNMfPGhUCIchqkZQezR2ura84qY8P7wfJZsJ45JkD7TeXWG-XVGd2cbFt1ole2HuYsqNYG3GQDi_4uc_ruuwwKGBvXQrWgD6NdIdej1LnCCRtbITExthCUVJfgw1XloWv1daTjnoNZBZwfHZ2TJ3KSrA43nviYgeuy95mMzGre27_1xAkxootF3hIDJm941OIQsYekzI_bC2oFvprn8Auz8aytpsATJdlRaLGt0D9a6-nshsNrxhPjh-fH5TulhHsrcWnxu8D9-x8CwArwPp6oJ0YHukEa9sSxHw ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = PJE-TJPA-1G-StickySessionRule ; Value = "pje2-1g-n24:pje-tjpa-1g" ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /
+)
+12/11/2024 20:16:31: Total: 2
+12/11/2024 20:16:33: advogado 0890161-89.2024.8.14.0301 >> Processo com 2 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:33: advogado 0890161-89.2024.8.14.0301 >> Processo já foi verificado recentemente
+12/11/2024 20:16:33: Total: 1
+12/11/2024 20:16:34: advogado 0890161-89.2024.8.14.0301 >> Processo com 2 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:35: Total: 1
+12/11/2024 20:16:36: advogado 0890161-89.2024.8.14.0301 >> Processo com 2 parte(s), 25 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 20:16:36: Total: 2
+12/11/2024 20:16:39: advogado 0801028-21.2024.8.14.0015 >> Processo com 5 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 20:16:39: advogado 0801028-21.2024.8.14.0015 >> Processo já foi verificado recentemente
+12/11/2024 20:16:39: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Ciência dada pelo Judiciário - pendente de resposta, Respondidos nos últimos 10 dias e detectou 15 e leu 4
+12/11/2024 20:16:40: Total: 2
+12/11/2024 20:16:40: Total: 2
+12/11/2024 20:16:40: advogado 0837007-30.2022.8.14.0301 >> Processo já foi verificado recentemente
+12/11/2024 20:16:40: advogado 0890161-89.2024.8.14.0301 >> Processo já foi verificado recentemente
+12/11/2024 20:16:41: Total: 2
+12/11/2024 20:16:41: Total: 2
+12/11/2024 20:16:41: advogado 0800148-29.2024.8.14.0015 >> Processo já foi verificado recentemente
+12/11/2024 20:16:41: advogado 0801028-21.2024.8.14.0015 >> Processo já foi verificado recentemente
+12/11/2024 20:16:41: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 20:16:41: Rodou

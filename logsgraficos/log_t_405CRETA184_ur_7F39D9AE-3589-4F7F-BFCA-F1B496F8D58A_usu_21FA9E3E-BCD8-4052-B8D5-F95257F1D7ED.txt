@@ -1,0 +1,4 @@
+RN14759@npjufrncaico@7F39D9AE-3589-4F7F-BFCA-F1B496F8D58A@linus em 4.05.CRETA.1.84
+12/11/2024 19:12:04: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+12/11/2024 19:12:35: Erro no acesso: Senha invalida
+html: salvo no mongo.

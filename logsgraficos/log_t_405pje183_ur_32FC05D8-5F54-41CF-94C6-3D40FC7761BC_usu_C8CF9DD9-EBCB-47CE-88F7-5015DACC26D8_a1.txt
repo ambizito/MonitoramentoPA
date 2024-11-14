@@ -1,0 +1,24 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 4.05.pje.1.83
+12/11/2024 18:44:12: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 pLgBCQ2xtLfQLhw3r7VQE3K4aSnUsASE "HERMANO GADELHA DE SA46843574491"
+12/11/2024 18:44:15: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:44:15: Perfil advogado e usuário HERMANO GADELHA DE SÁ
+OAB = PB8463 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = aY1W802M6rAv8F4fHypG1-cx.node04 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c5f977b2e604e0ea5788eed0aa83e2baa244e9c8baecd48eaaca5f4ddba42bfd599ab25dae52110bf85c0d041f4f5b6a7205dd3ab185abd18dcf4a84749ff2a62 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab20004c130f5887bfa2fa41d42f0db86566bc1f4f5f7add36d8a3d27b323901627fb508e011f04a1130008f4a71297e19c513478c1784bd52b0bad380da42fe4378a57c4e6fb1c669ba02a39584f0fe1ba0bc749c0b1cd1a7e3b8 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c82d5644f9a6af985fb18ea00124dd0e9244e9c8baecd48eaaca5f4ddba42bfd52d0a543326ba386308f81a67f7cae14c4aeea0a3a70e4d3587607d3c626f97c2 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_B7C010BDBF459131B03EC19669DD35E0_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357c82d5644f9a6af985fb18ea00124dd0e9244e9c8baecd48eaaca5f4ddba42bfd52d0a543326ba386308f81a67f7cae14c4aeea0a3a70e4d3587607d3c626f97c2 ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_B7C010BDBF459131B03EC19669DD35E0_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 18:44:22: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:44:40: Total: 0
+12/11/2024 18:44:40: Total: 0
+12/11/2024 18:45:02: Total: 0
+12/11/2024 18:45:02: Total: 0
+12/11/2024 18:45:16: Total: 0
+12/11/2024 18:45:16: Total: 0
+12/11/2024 18:45:18: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:45:18: Rodou

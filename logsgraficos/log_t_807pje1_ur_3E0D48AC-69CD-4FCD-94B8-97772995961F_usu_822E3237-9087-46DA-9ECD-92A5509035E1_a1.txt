@@ -1,0 +1,28 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 8.07.pje.1
+12/11/2024 22:52:51: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 0.hdts2rbl3ux "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 22:52:53: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:52:53: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = BTL5bKtjtSfTNVyL6uo6GaHqECvn023idyfZrgD0.hc-zdu130:pje-internet-zdu130 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 22:52:54: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:52:55: Total: 3
+12/11/2024 22:52:55: Total: 3
+12/11/2024 22:52:57: advogado 0720873-31.2021.8.07.0015 >> Processo com 4 parte(s), 17 andamento(s) e 1 expediente(s) atualizado
+12/11/2024 22:52:57: advogado 0730906-51.2019.8.07.0015 >> Falha ao abrir o processo
+html: salvo no mongo.
+12/11/2024 22:52:57: advogado 0730906-51.2019.8.07.0015 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+12/11/2024 22:53:07: advogado 0730906-51.2019.8.07.0015 >> Falha ao salvar atualizacao da fila para o processo
+Stack Trace:    at ProcessoAgil.Dados.Mongo.AtualizarProcesso(String numero, Boolean change, Boolean arquivado, Boolean remetido, Boolean remetidoPJe, Boolean remetidoSEEU, String tribunalCode, Int32 qntAndamentos, Int32 qntExpedientes, String segredo, String token, Boolean sucessoToken) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\Dados\Mongo.cs:line 3193
+   at ProcessoAgil.TribunalToken.CapturarProcesso(Match mProcesso, String post, CookieContainer cookie, String& ViewState, String tribunal, String usuarioId, List`1 numeroDosProcessos, String html, List`1 listaExpedientesLido, ControleExpedienteLido controleExpedienteLido, String parteNome, String perfil, Nullable`1 idTokenContador, Nullable`1 tokenId) in C:\Users\Luis Miguel\source\repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:line 2556
+12/11/2024 22:53:07: advogado 0708566-45.2021.8.07.0015 >> Processo já foi verificado recentemente
+12/11/2024 22:53:07: Total: 2
+12/11/2024 22:53:07: Total: 2
+12/11/2024 22:53:09: advogado 0725455-88.2023.8.07.0020 >> Processo com 6 parte(s), 62 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 22:53:11: advogado 0713320-83.2023.8.07.0007 >> Processo com 5 parte(s), 59 andamento(s) e 10 expediente(s) atualizado
+12/11/2024 22:53:12: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 1 processos
+12/11/2024 22:53:12: Rodou

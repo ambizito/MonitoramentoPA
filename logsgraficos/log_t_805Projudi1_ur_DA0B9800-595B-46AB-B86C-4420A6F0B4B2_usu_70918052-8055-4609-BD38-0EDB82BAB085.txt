@@ -1,0 +1,12 @@
+22530PB@kaioalves@DA0B9800-595B-46AB-B86C-4420A6F0B4B2@bezos em 8.05.Projudi.1
+13/11/2024 01:16:01: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:16:01: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:16:02: Não capturou o total de processos para o OAB 22530PB
+html: salvo no mongo.
+13/11/2024 01:16:02: Rodou com falha
+22530PB@kaioalves@DA0B9800-595B-46AB-B86C-4420A6F0B4B2@bezos em 8.05.Projudi.1
+13/11/2024 01:17:02: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:17:02: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:17:02: Não capturou o total de processos para o OAB 22530PB
+html: salvo no mongo.
+13/11/2024 01:17:02: Rodou com falha

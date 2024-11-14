@@ -1,0 +1,70 @@
+05830512432@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 8.13.pje.1
+14/11/2024 09:57:11: Acessou https://pje.tjmg.jus.br/pje/login.seam
+14/11/2024 09:57:13: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+14/11/2024 09:57:13: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = 05830512432 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = 05830512432@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = fACwBOUPYPsoB60Wqr0FT9vnwwDhZGEw2TNJgvzz.pje1g-poapp29.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE2MTc4MzIsImlhdCI6MTczMTU4OTAzMiwiYXV0aF90aW1lIjoxNzMxNTg5MDMyLCJqdGkiOiJjNDY3ODJkNS1jMGM0LTRmZjktYTkzYy1lOWIxNzc5M2IzYWIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiYTkwMjIxMzMtZWNlNC00YWU3LThjOGItNDg0ZWI0MzE3ZjQ4IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiJkNTAxYWJkOC1hNzI0LTRmM2QtOWIwMi1lZmJhNjc5OWMxZjQiLCJhdF9oYXNoIjoieUI4RGJlM0NVLVBZZGMxeG91cEhKUSIsImFjciI6IjEiLCJzaWQiOiJkNTAxYWJkOC1hNzI0LTRmM2QtOWIwMi1lZmJhNjc5OWMxZjQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJNQVggVE9SUVVBVE8gRk9OVEVTIFZBUkVMQSIsIkpUUiI6IjgxMyIsImp0ciI6IjgxMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1ODMwNTEyNDMyIiwiZ2l2ZW5fbmFtZSI6Ik1BWCBUT1JRVUFUTyBGT05URVMgVkFSRUxBIiwiZW1haWwiOiJtYXhAZm9udGVzdmFyZWxhLmNvbS5iciJ9.0Ur_k1SiIbnmkTgKRnw_RfemnCU7Cza0f0oZdtaaaRH9kDgox7BQQJ5F_z39aShoDLE44bBWWDmn-1YSy2_p07w53nw25NaT5dsE9K5rgODogH17a2Qjoiwj3Uv0qJUpHkJBZDSJK5I7SPjc2cs995mMm3_qUF46p7_3bjxsmtGSvPGBjMTqC8SnXHGIXc856dM1lJsMTh15ThcidrT2OuYK9DSxRyWJa1huiswYH7fJ3t-JJ8maK-3v450L7l5cS-x6SkJsL_915qrYYycPHoLLQ9lfUTBUkKlgbbR1AQRzlUfZlbuoRdFZQfAvhAS8iJqy7NPArh3Oi_2MfJ_Z2w ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp29:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+14/11/2024 09:57:14: Total: 1
+14/11/2024 09:57:16: advogado 5034061-84.2023.8.13.0702 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 09:57:16: Entrou na aba expediente do perfil para as categorias Respondidos nos últimos 10 dias e detectou 5 e leu 1
+14/11/2024 09:57:17: Total: 3
+14/11/2024 09:57:17: advogado 5265146-04.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:17: advogado 5156470-59.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:17: advogado 5025256-76.2022.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:18: Total: 3
+14/11/2024 09:57:18: advogado 5265146-04.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:18: advogado 5156470-59.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:18: advogado 5025256-76.2022.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:19: Total: 3
+14/11/2024 09:57:19: advogado 5008893-15.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:19: advogado 5010427-91.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:19: advogado 5010419-17.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:20: Total: 3
+14/11/2024 09:57:20: advogado 5265146-04.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:20: advogado 5156470-59.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:20: advogado 5025256-76.2022.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:20: Total: 3
+14/11/2024 09:57:20: advogado 5008893-15.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:20: advogado 5010427-91.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:20: advogado 5010419-17.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:21: Total: 3
+14/11/2024 09:57:21: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:21: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:22: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:23: Total: 3
+14/11/2024 09:57:23: advogado 5265146-04.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:23: advogado 5156470-59.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:23: advogado 5025256-76.2022.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:23: Total: 3
+14/11/2024 09:57:23: advogado 5008893-15.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:23: advogado 5010427-91.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:23: advogado 5010419-17.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:24: Total: 3
+14/11/2024 09:57:24: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:24: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:24: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:25: Total: 1
+14/11/2024 09:57:25: advogado 5016572-89.2023.8.13.0231 >> Processo já foi verificado recentemente
+14/11/2024 09:57:26: Total: 3
+14/11/2024 09:57:26: advogado 5265146-04.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:26: advogado 5156470-59.2023.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:26: advogado 5025256-76.2022.8.13.0024 >> Processo já foi verificado recentemente
+14/11/2024 09:57:26: Total: 3
+14/11/2024 09:57:26: advogado 5008893-15.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:26: advogado 5010427-91.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:26: advogado 5010419-17.2023.8.13.0271 >> Processo já foi verificado recentemente
+14/11/2024 09:57:27: Total: 3
+14/11/2024 09:57:27: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:27: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:27: advogado 5006604-06.2019.8.13.0480 >> Processo já foi verificado recentemente
+14/11/2024 09:57:28: Total: 1
+14/11/2024 09:57:28: advogado 5016572-89.2023.8.13.0231 >> Processo já foi verificado recentemente
+14/11/2024 09:57:28: Total: 1
+14/11/2024 09:57:28: advogado 5034061-84.2023.8.13.0702 >> Processo já foi verificado recentemente
+14/11/2024 09:57:29: Entrou na aba acervo do perfil e mapeou 39 processos e teve erro em 0 processos
+14/11/2024 09:57:29: Rodou

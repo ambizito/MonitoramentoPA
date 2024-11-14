@@ -1,0 +1,13 @@
+RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos em 8.07.pje.1
+12/11/2024 22:24:48: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Rodrigo@053 0.thp9r9ai6o5 "RODRIGO ALVES DA SILVA RODRIGUES GENTIL:05370712450"
+12/11/2024 22:24:53: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:24:53: Perfil advogado e usuário RODRIGO ALVES DA SILVA RODRIGUES
+OAB = RN9792 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos ; Cookies (
+Name = JSESSIONID ; Value = 6PK6iyRh0pF2GepCV4w3LEQARagugKmuJQW2n6-E.hc-zdu135:pje-internet-zdu135 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 22:24:54: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:24:57: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:24:57: Rodou

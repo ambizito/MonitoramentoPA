@@ -1,0 +1,19 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 8.19.pje.1
+13/11/2024 12:54:28: Acessou https://tjrj.pje.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 0.6t1krpgd8eq "HEITOR FERNANDES MOREIRA04532923484"
+13/11/2024 12:55:50: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+13/11/2024 12:55:50: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = 2Iu_JwoVO0-R4OotgPXyz2ZvO_aeqQgE7WHyo6-k.pje-legacy-5ddfc8fb55-p5tp4 ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDIwNzMsImlhdCI6MTczMTUxMzI3MywiYXV0aF90aW1lIjoxNzMxNTEzMjczLCJqdGkiOiI2MTIwZmIzZi00ZWE2LTQzYTItOTJjOC1iYjU1Y2MyN2FmZGEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiMDg3ZmI1NTAtODk0MC00NjlhLTg2NWEtOGJlODQzMjY0ZjY5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiIyODIzMWZhMC1mYWVmLTQ1MGMtOWQ0NC0xNGJlYzY4NDQ3NDgiLCJhdF9oYXNoIjoiS0RReHBBVEhiekJiS25sWlhKUmNVUSIsImFjciI6IjEiLCJzaWQiOiIyODIzMWZhMC1mYWVmLTQ1MGMtOWQ0NC0xNGJlYzY4NDQ3NDgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsImp0ciI6IjgxOSIsIkpUUiI6IjgxOSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0NTMyOTIzNDg0IiwiZ2l2ZW5fbmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsImVtYWlsIjoiaGVpdG9yZmVybmFuZGVzYWR2b2NhY2lhQGdtYWlsLmNvbSJ9.hjkYJvSQkkYfhHMnUzyPJKhh_Rua5WbVBE1_4pzZtFH2aeNeHaPNK_GWyzE7ZhNzJWwpDykO78mUqF6LnJLnsR-VD3QzQKYh7MbCz57YqKHnn8Kz9HDBX-b8v7fqd2gQfrldtJUMPj3UDXbawxovArfSmF27QngnEzZg-cvKC2s5IF15nhhhv567kOj22VPytDrSYXcMZRO0BS0m8QjFi7WF-BYV2EQ1yoxvzF_XAvnL9OGvJrKX6VOjr7zR_DdzGF_y8qvtIN0pW5pSmP87S4KQB4b8kYvuZ7u9-k7rw8YxLZy5Tr9NGuL4Eby604Z7w1_9ddh-Orz5e_68F23DOg ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-5ddfc8fb55-p5tp4:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAADn69Ia3Ml5u8QyesykAeMkIIv7VKaz2uu45MHSX9m2BS48SkPd85ypXqNrtPJBqynDdIeBOragAYYe6Sx/8BrVQNaElkFvCq536zeYGhBIlIGswjXCzr77sbdigolaUP2/0tg= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+)
+13/11/2024 12:55:52: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 13:00:12: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 13:00:13: Rodou

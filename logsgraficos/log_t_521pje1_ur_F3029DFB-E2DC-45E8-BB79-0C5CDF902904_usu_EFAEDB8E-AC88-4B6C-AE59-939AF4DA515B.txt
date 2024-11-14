@@ -1,0 +1,2 @@
+04605000402@lra@F3029DFB-E2DC-45E8-BB79-0C5CDF902904@berners em 5.21.pje.1
+13/11/2024 01:09:49: Não abriu a página de login https://pje.trt21.jus.br/primeirograu/login.seam

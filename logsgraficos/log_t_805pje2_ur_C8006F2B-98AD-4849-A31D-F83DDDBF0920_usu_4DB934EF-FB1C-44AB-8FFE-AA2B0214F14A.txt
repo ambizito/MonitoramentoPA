@@ -1,0 +1,4 @@
+05830512432@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 8.05.pje.2
+13/11/2024 01:25:38: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+13/11/2024 01:25:40: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

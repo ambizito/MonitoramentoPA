@@ -1,0 +1,24 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 4.05.pje.1.83
+12/11/2024 23:12:45: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 qWOZ6pW4BWtQoiRcbjCPNG7fvK5l2bI0 "GERSON SANTINI:01529424160"
+12/11/2024 23:12:48: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:12:48: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = nnRakqDKvVaRD66DoP7amgr2.node03 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c4e60903024f4ee7cd927236899e18e9b2c220809b6000b305506138a3048d1817d17cf5abe1a7c90a0a81232aa9857a457039178f9ce6ed3e6ff9d2aa1cbccec ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab2000d2bc7350d178e83572292050e177d2cf8a2bc59d9b9b97ce4a6c908dc7c34fd708a18264351130008006edda8689174734732ee0351665f993cc3b9bda52e777fdab4ec96afcd8ec78b200a714a8d64a0f0eb9a66c6d423c ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357ce5b8ff8605bd19e970a1766614b578342c220809b6000b305506138a3048d1810e37d00a1433691b5f754f2b87527bfc ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357ce5b8ff8605bd19e970a1766614b578342c220809b6000b305506138a3048d1810e37d00a1433691b5f754f2b87527bfc ; Domain = .pje.jfpe.jus.br ; Path = /
+)
+12/11/2024 23:12:56: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 23:13:18: Total: 1
+12/11/2024 23:13:18: Total: 1
+12/11/2024 23:13:27:  0810133-86.2021.4.05.8300 >> Processo com 2 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 23:13:48: Total: 1
+12/11/2024 23:13:48: Total: 1
+12/11/2024 23:13:58:  0800794-70.2021.4.05.8311 >> Processo com 2 parte(s), 15 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 23:14:12: Total: 0
+12/11/2024 23:14:12: Total: 0
+12/11/2024 23:14:17: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 23:14:17: Rodou

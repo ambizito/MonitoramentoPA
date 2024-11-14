@@ -1,0 +1,4 @@
+56079893568@lucianajacob@21869FEC-B370-4DF4-9A63-F87D02AA9315@bezos em 8.05.pje.2
+13/11/2024 01:10:59: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+13/11/2024 01:11:00: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

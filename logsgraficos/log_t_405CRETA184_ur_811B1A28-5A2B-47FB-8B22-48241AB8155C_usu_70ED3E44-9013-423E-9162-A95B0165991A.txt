@@ -1,0 +1,6 @@
+RN15900@erikacorreia@811B1A28-5A2B-47FB-8B22-48241AB8155C@gates em 4.05.CRETA.1.84
+13/11/2024 01:02:08: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:02:39: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+13/11/2024 01:02:49: Não acessou a url de pesquisa para o OAB RN15900
+html: salvo no mongo.
+13/11/2024 01:02:49: Rodou

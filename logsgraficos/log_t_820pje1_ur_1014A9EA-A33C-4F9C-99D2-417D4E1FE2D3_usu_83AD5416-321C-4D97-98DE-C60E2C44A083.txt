@@ -1,0 +1,8 @@
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.20.pje.1
+13/11/2024 01:41:50: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+13/11/2024 01:41:52: Erro no acesso: Senha invalida
+html: salvo no mongo.
+01329307496@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@jobs em 8.20.pje.1
+13/11/2024 01:41:53: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+13/11/2024 01:41:55: Erro no acesso: Senha invalida
+html: salvo no mongo.

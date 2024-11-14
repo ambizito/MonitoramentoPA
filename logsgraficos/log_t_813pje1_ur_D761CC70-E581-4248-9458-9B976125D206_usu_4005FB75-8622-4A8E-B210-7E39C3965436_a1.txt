@@ -1,0 +1,15 @@
+RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos em 8.13.pje.1
+13/11/2024 00:24:07: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Rodrigo@053 0.syje12ofgq9 "RODRIGO ALVES DA SILVA RODRIGUES GENTIL:05370712450"
+13/11/2024 00:24:10: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:24:10: Perfil advogado e usuário RODRIGO ALVES DA SILVA RODRIGUES
+OAB = RN9792 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = RN9792@crisantoealves@D761CC70-E581-4248-9458-9B976125D206@bezos ; Cookies (
+Name = JSESSIONID ; Value = KGmJqIYGSL70tPmR8aLaZbkZ6C26RF511mxo1ZBs.pje1g-poapp14.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTcwNDksImlhdCI6MTczMTQ2ODI0OSwiYXV0aF90aW1lIjoxNzMxNDY4MjQ5LCJqdGkiOiIxOGEwZGYzZS1mNGQ1LTRlNjEtODA4Ny0zMGZiMWM2MDUwYjEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiYzMzMjMyMzYtOWE4ZC00Y2EzLTk3NjYtYmNhY2NkY2FkYTlkIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiIwYjRlODZmOS0wOTM2LTQ3M2YtYmZlMS0xYjI0MDQ3M2I5NDgiLCJhdF9oYXNoIjoibnk0U0ZrajBaMy1ISFdhQW9PTjl4QSIsImFjciI6IjEiLCJzaWQiOiIwYjRlODZmOS0wOTM2LTQ3M2YtYmZlMS0xYjI0MDQ3M2I5NDgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlJPRFJJR08gQUxWRVMgREEgU0lMVkEgUk9EUklHVUVTIiwiSlRSIjoiODEzIiwianRyIjoiODEzIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDUzNzA3MTI0NTAiLCJnaXZlbl9uYW1lIjoiUk9EUklHTyBBTFZFUyBEQSBTSUxWQSBST0RSSUdVRVMiLCJlbWFpbCI6ImFsdmVzcm9kcmlnbzIwMjBAaG90bWFpbC5jb20ifQ.Bp7WC26hxQ2ncTyo7BaWZeUmySu_-rIvlP_f6uPqQmKjAhr5sOGHFIUcckFw6fbcQgTb8gkj-C_Z9NCGzQYpfqaZZALQvvlZUAy_U_q97k93ayAwXbXaoFrYKebkSm2y6eEsD0F3Geb-TSDC7v_LD7ufzY-kUzp_7bXNHPZceWeMXtQLMXaDUo_109K1tOuZpH05609B2V5Al_8uZSf5pn3a630F2A6rJYubS9m_RB6Fp_H73ar6RUI0HjnOFojOZ4FuIuHkltBvbNIk2SH4mIAmCETANP5jmpiDSwqV0uV3YAGYgS39Gj924Nq3g66olGb8Wm61mRyetYCPkYKrbg ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp14:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+13/11/2024 00:24:14: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:24:29: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:24:31: Rodou

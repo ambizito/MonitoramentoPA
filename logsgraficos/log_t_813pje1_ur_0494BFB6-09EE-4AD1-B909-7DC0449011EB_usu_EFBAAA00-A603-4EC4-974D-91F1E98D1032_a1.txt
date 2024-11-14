@@ -1,0 +1,17 @@
+ES30696@luanazordan@0494BFB6-09EE-4AD1-B909-7DC0449011EB@mark em 8.13.pje.1
+12/11/2024 20:23:06: Acessou https://pje.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.afw4x0jh7uf "LUANA ZORDAN PALOMBO:09292635700"
+12/11/2024 20:23:09: Logou https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:23:09: Perfil advogado e usuário LUANA ZORDAN PALOMBO
+OAB = ES30696 ; URL = https://pje.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.1 ; usuarioId = ES30696@luanazordan@0494BFB6-09EE-4AD1-B909-7DC0449011EB@mark ; Cookies (
+Name = JSESSIONID ; Value = 7xbGTjsBWQIWoZpySAtErWAMzDGh0_SP1OkZta6k.pje1g-poapp02.intra.tjmg.gov.br ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODI1ODgsImlhdCI6MTczMTQ1Mzc4OCwiYXV0aF90aW1lIjoxNzMxNDUzNzg4LCJqdGkiOiI1YzdiZGFlYi03Zjk3LTQzNjktYjE4YS0wMWU1ODZiYzZlNjEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTFnIiwic3ViIjoiYzI1NGIwZWMtZmQ2Ni00YjA4LWI2YzMtOTc5NmFmM2JhN2U0IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0xZyIsInNlc3Npb25fc3RhdGUiOiJkY2JmZDg0OS1hZjQ5LTRhY2YtYjQxYi05N2JmNmExMDc3ZmYiLCJhdF9oYXNoIjoiZC0zZ2lJeHZ2RWpwOVNYSWhuRm1RQSIsImFjciI6IjEiLCJzaWQiOiJkY2JmZDg0OS1hZjQ5LTRhY2YtYjQxYi05N2JmNmExMDc3ZmYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkxVQU5BIFpPUkRBTiBQQUxPTUJPIiwiSlRSIjoiODEzIiwianRyIjoiODEzIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDkyOTI2MzU3MDAiLCJnaXZlbl9uYW1lIjoiTFVBTkEgWk9SREFOIFBBTE9NQk8iLCJlbWFpbCI6Imx1YW5hemRuQGhvdG1haWwuY29tIn0.NQbtEZKRVlcAleQKG-xgGiQRrudYqr0Khm88BhgptimEzEbvcC0_5x5316NrBk1h2EFACHbXPtzFaJSciVLR1kWlJBfXoy8jXdh_2bBjLLbroOr27RKj75KDDn0u9LV9BBHpWODxsep8_3n3KlNDWocDeCuJMvw1LxeQhiel-2Ahs27wHqxOrq76RLeGEU_zuCUI9fEQFKe4suX6hMSootMj_74F9pnnXBY275P36ol6swCuFvvE3JNfV-gwXeiSQQgE-izkEABnNTgNwniJd-X-0suGHLM0HB3nAcAsQjwv5nTvfbP3ozlo8vHFAxKv5jn1M-06I9TnC1WtpQyLKQ ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-1G-StickySessionRule ; Value = pje1g-poapp02:pje-tjmg-1g ; Domain = pje.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjmg.jus.br ; Path = /
+)
+12/11/2024 20:23:09: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:23:11: Total: 1
+12/11/2024 20:23:13: advogado 5013018-15.2018.8.13.0105 >> Processo com 2 parte(s), 82 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 20:23:14: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:23:14: Rodou

@@ -1,0 +1,36 @@
+01201029430@dinizecavalcanti@0830B712-F398-4B1A-86F9-228848DF1F73@berners em 8.20.pje.2
+13/11/2024 22:49:54: Acessou https://pje2g.tjrn.jus.br/pje/login.seam
+13/11/2024 22:50:00: Logou https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 22:50:00: Perfil advogado e usuário DANIEL DORNELAS CAMARA CAVALCANTI
+OAB = 01201029430 ; URL = https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.2 ; usuarioId = 01201029430@dinizecavalcanti@0830B712-F398-4B1A-86F9-228848DF1F73@berners ; Cookies (
+Name = JSESSIONID ; Value = deRjhntwruI8DtWsmogVtJjwCTuL5OuV2De9ZraB.pje2g-90-cfqzq ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1Nzc3OTUsImlhdCI6MTczMTU0ODk5NSwiYXV0aF90aW1lIjoxNzMxNTQ4OTk1LCJqdGkiOiJhMzJjMDlmNC0xNTU5LTQxZDktYTI4OC0xNmUwMWIwYmQ3NDMiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTJnIiwic3ViIjoiYTc2OWJkNGMtOGRlMy00NzgyLThjYWMtOTdiNzE1YTU0ZTA1IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0yZyIsInNlc3Npb25fc3RhdGUiOiIwZjhhMDcxNC00ZGMzLTRlZDEtYjUyNy0xM2ViMmFjMzdmZTAiLCJhdF9oYXNoIjoid0dlVkNpcTZ6cW44cHJyUUZDdm5FQSIsImFjciI6IjEiLCJzaWQiOiIwZjhhMDcxNC00ZGMzLTRlZDEtYjUyNy0xM2ViMmFjMzdmZTAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJEQU5JRUwgRE9STkVMQVMgQ0FNQVJBIENBVkFMQ0FOVEkiLCJKVFIiOiI4MjAiLCJqdHIiOiI4MjAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwMTIwMTAyOTQzMCIsImdpdmVuX25hbWUiOiJEQU5JRUwgRE9STkVMQVMgQ0FNQVJBIENBVkFMQ0FOVEkiLCJlbWFpbCI6ImRhbmllbC5jYXZhbGNhbnRpQGRpbml6Y2F2YWxjYW50aS5hZHYuYnIifQ.M62-mJfCPkn4ZiieT1CUAELe9hDdHIRGverhrdMPNLhl7VDi6rsG0mGgzTpuK1CDhUTnRaB7eYB_h3pEKW-Yvy4JOxtxAv3LWFUsre20S41Y98qW6UpI3A1_dGda2hz2YB2RyeoIVsoulVKIqeDzE-wY9xz41K81-kuyc4kkD8l_YsrBiOdT0BqmL82nwUkOeG0mH7RN8YC-_bD_zdnd5QGSAbTyYPvgsibaWyX6XlTKOPqs1eqD-rrN4AU5Ay97xLOwjrITHKJqquMkqRG2Fdayta5GeFJbWdkkH47N1tDExKeG7MMeYngiGTwvxEM1a9kCp_En1TVHwTeSCH7pGA ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-2G-StickySessionRule ; Value = "pje2g-90-cfqzq:pje-tjrn-2g" ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = db4d208e018c893492ffbaabd81b0ad1 ; Domain = pje2g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /
+)
+13/11/2024 22:50:05: Total: 2
+13/11/2024 22:52:15: advogado 0811766-48.2024.8.20.0000 >> Processo com 3 parte(s), 23 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 22:52:33: advogado 0816477-75.2022.8.20.5106 >> Processo com 3 parte(s), 49 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 22:52:34: Total: 1
+13/11/2024 22:52:58: advogado 0816477-75.2022.8.20.5106 >> Processo com 3 parte(s), 49 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 22:52:58: Total: 1
+13/11/2024 22:53:36: advogado 0811766-48.2024.8.20.0000 >> Processo com 3 parte(s), 23 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 22:53:36: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo Judiciário - pendente de resposta, Sem prazo e detectou 3 e leu 2
+13/11/2024 22:53:43: Total: 4
+13/11/2024 22:53:43: Total: 4
+13/11/2024 22:53:43: advogado 0811766-48.2024.8.20.0000 >> Processo já foi verificado recentemente
+13/11/2024 22:54:03: advogado 0800043-18.2022.8.20.5136 >> Processo com 3 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 22:54:03: advogado 0816477-75.2022.8.20.5106 >> Processo já foi verificado recentemente
+13/11/2024 22:54:15: advogado 0877216-77.2018.8.20.5001 >> Processo com 8 parte(s), 53 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 22:54:15: Total: 6
+13/11/2024 22:54:15: Total: 6
+13/11/2024 22:54:22: advogado 0802401-04.2024.8.20.5162 >> Processo com 3 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 22:55:04: advogado 0801722-09.2023.8.20.5107 >> Processo com 3 parte(s), 45 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 22:55:17: advogado 0801465-81.2023.8.20.5107 >> Processo com 3 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 22:55:44: advogado 0806195-75.2022.8.20.5106 >> Processo com 3 parte(s), 50 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 22:55:49: advogado 0800418-05.2021.8.20.5152 >> Processo com 3 parte(s), 50 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 22:55:55: advogado 0800368-46.2019.8.20.5120 >> Processo com 5 parte(s), 54 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 22:57:37: Entrou na aba acervo do perfil e mapeou 10 processos e teve erro em 0 processos
+13/11/2024 22:57:37: Rodou

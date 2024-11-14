@@ -1,0 +1,13 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 8.10.pje.2
+12/11/2024 20:25:14: Acessou https://pje2.tjma.jus.br/pje2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 0.b00lgw6xk5y "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 20:25:17: Logou https://pje2.tjma.jus.br/pje2g/Painel/painel_usuario/advogado.seam
+12/11/2024 20:25:17: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje2.tjma.jus.br/pje2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.2 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = nF5xOuq_3oAn9A_VVobuv9BBfNDMgbnB94TCb2Vr.pje-web-ss-2 ; Domain = pje2.tjma.jus.br ; Path = /pje2g
+Name = 1800063213a96c7b454057e9861b120b ; Value = fc11fbe17eb0805f945f0821127ed20a ; Domain = pje2.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2.tjma.jus.br ; Path = /
+)
+12/11/2024 20:25:18: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:25:20: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 20:25:20: Rodou

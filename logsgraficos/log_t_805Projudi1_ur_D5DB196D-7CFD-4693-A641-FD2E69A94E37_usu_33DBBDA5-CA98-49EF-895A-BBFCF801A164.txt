@@ -1,0 +1,12 @@
+03523218497@jofreadvogados@D5DB196D-7CFD-4693-A641-FD2E69A94E37@linus em 8.05.Projudi.1
+13/11/2024 15:39:13: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 15:39:15: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 15:39:17: Não capturou o total de processos para o OAB 03523218497
+html: salvo no mongo.
+13/11/2024 15:39:17: Rodou com falha
+03523218497@jofreadvogados@D5DB196D-7CFD-4693-A641-FD2E69A94E37@linus em 8.05.Projudi.1
+13/11/2024 15:40:17: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 15:42:03: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 15:42:05: Não capturou o total de processos para o OAB 03523218497
+html: salvo no mongo.
+13/11/2024 15:42:30: Rodou com falha

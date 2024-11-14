@@ -1,0 +1,8 @@
+00988761475@andrefranco@229CE933-B5B7-4A1A-A6A8-AA98664096A7@linus em 8.19.pje.2
+12/11/2024 21:26:27: Acessou https://tjrj.pje.jus.br/2g/login.seam
+12/11/2024 21:26:28: Erro no acesso: Desconhecido
+html: salvo no mongo.
+00988761475@andrefranco@229CE933-B5B7-4A1A-A6A8-AA98664096A7@linus em 8.19.pje.2
+12/11/2024 21:27:28: Acessou https://tjrj.pje.jus.br/2g/login.seam
+12/11/2024 21:27:29: Erro no acesso: Desconhecido
+html: salvo no mongo.

@@ -1,0 +1,25 @@
+00957595492@ivanaalves@15A2D3FC-A0D7-4A1E-A6CE-232A78C858E3@jobs em 8.20.pje.2
+12/11/2024 16:52:56: Acessou https://pje2g.tjrn.jus.br/pje/login.seam
+12/11/2024 16:52:58: Logou https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:52:58: Perfil advogado e usuário IVANA ALVES DE MORAES MEDEIROS
+OAB = 00957595492 ; URL = https://pje2g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.2 ; usuarioId = 00957595492@ivanaalves@15A2D3FC-A0D7-4A1E-A6CE-232A78C858E3@jobs ; Cookies (
+Name = JSESSIONID ; Value = PeKH8QkDfwZw6yFbLCe-Vc9qYp6ks7viLGl7Huzu.pje2g-90-79s9b ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njk5NzcsImlhdCI6MTczMTQ0MTE3NywiYXV0aF90aW1lIjoxNzMxNDQxMTc3LCJqdGkiOiI1ZTE3NTIyYi02MWY3LTQ5YjgtYWFkMC02NzFiM2M0OTdjMWUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTJnIiwic3ViIjoiM2ZhYjQ1NWQtMmVlMi00NGFkLWFjZWUtZjlkNzhmODUzNTNjIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0yZyIsInNlc3Npb25fc3RhdGUiOiJhYmVhM2U3OS1lMTFlLTQ1NjQtYjk1OC1iMjZlZGIyYzg1M2MiLCJhdF9oYXNoIjoiSzZxeGwyMEk5U1kwWl9oQndjV0ZDUSIsImFjciI6IjEiLCJzaWQiOiJhYmVhM2U3OS1lMTFlLTQ1NjQtYjk1OC1iMjZlZGIyYzg1M2MiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJJVkFOQSBBTFZFUyBERSBNT1JBRVMgTUVERUlST1MiLCJKVFIiOiI4MjAiLCJqdHIiOiI4MjAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwMDk1NzU5NTQ5MiIsImdpdmVuX25hbWUiOiJJVkFOQSBBTFZFUyBERSBNT1JBRVMgTUVERUlST1MiLCJlbWFpbCI6Iml2YW5hYWx2ZXMuYWR2QGdtYWlsLmNvbSJ9.SgpnwM8KLxmZMSwDlJnUoH36X3-ksQEeDomwlYgc3qbMtcSu3dVSA3VspPJKl0qSZhehQ8Vz9l79s7KOPVPGHLlfv0gi8fH08SPzHsEbnlZyv3i33DtV7IdiUvCWr98CvpYpzIDfwuv37DdQM_KzENcWLaA1VZRQhvna5gETb7YIbU7sKZhmAUpt3yuY5rN_EYYBmhbdswFwV_78RM1MFtIbsxmFz8KO5wOYSLGdqA9wsNTRvdV5VbHopOS-vobZ4AycTA1F_aDngKNjJ2vUR-30JoTszMrzOdQ0R11JGI1eNEWiJwLZhXILTjDNnbhmuOsucxkXTIcxzLftKXeP8g ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-2G-StickySessionRule ; Value = "pje2g-90-79s9b:pje-tjrn-2g" ; Domain = pje2g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = a9e62c9a4679a8c2a04e8599b7e8e026 ; Domain = pje2g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjrn.jus.br ; Path = /
+)
+12/11/2024 16:52:59: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:53:01: Total: 3
+12/11/2024 16:53:01: Total: 3
+12/11/2024 16:53:07: advogado 0808784-95.2023.8.20.0000 >> Processo com 7 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 16:53:07: advogado 0800962-55.2023.8.20.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:53:07: advogado 0807228-34.2018.8.20.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:53:08: Total: 3
+12/11/2024 16:53:08: Total: 3
+12/11/2024 16:53:08: advogado 0102561-81.2017.8.20.0129 >> Processo já foi verificado recentemente
+12/11/2024 16:53:08: advogado 0810525-21.2014.8.20.6004 >> Processo já foi verificado recentemente
+12/11/2024 16:53:08: advogado 0814123-09.2019.8.20.5001 >> Processo já foi verificado recentemente
+12/11/2024 16:53:09: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 16:53:09: Rodou

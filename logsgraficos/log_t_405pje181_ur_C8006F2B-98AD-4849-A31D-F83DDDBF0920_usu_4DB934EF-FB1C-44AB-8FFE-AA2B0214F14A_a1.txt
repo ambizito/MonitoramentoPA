@@ -1,0 +1,24 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 4.05.pje.1.81
+12/11/2024 19:36:46: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# FSA7DjYlCnBr1gwrA8nUkD3WWFQa617J "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+12/11/2024 19:36:49: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:36:49: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = TiBzCj01IuwS1CmXmVw5onxw.node04 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+12/11/2024 19:36:56: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 19:37:14: Total: 1
+12/11/2024 19:37:14: Total: 1
+12/11/2024 19:37:14:  0811547-35.2024.4.05.8100 >> Processo já foi verificado recentemente
+12/11/2024 19:37:33: Total: 5
+12/11/2024 19:37:33: Total: 5
+12/11/2024 19:37:33:  0801119-27.2020.4.05.8102 >> Processo já foi verificado recentemente
+12/11/2024 19:37:33:  0801121-94.2020.4.05.8102 >> Processo já foi verificado recentemente
+12/11/2024 19:37:33:  0810294-51.2020.4.05.8100 >> Processo já foi verificado recentemente
+12/11/2024 19:37:33:  0813050-33.2020.4.05.8100 >> Processo já foi verificado recentemente
+12/11/2024 19:37:33:  0813792-58.2020.4.05.8100 >> Processo já foi verificado recentemente
+12/11/2024 19:37:46: Total: 0
+12/11/2024 19:37:46: Total: 0
+12/11/2024 19:37:47: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 19:37:47: Rodou

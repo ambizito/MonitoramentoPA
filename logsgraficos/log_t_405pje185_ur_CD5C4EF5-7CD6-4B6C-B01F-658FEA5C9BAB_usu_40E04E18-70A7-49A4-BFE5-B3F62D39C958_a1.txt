@@ -1,0 +1,22 @@
+PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus em 4.05.pje.1.85
+12/11/2024 18:45:29: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar mari222502 8kiiCFLiWHKHDUw4GWsP2rSh5w6F1FGd "JOSE HARAN DE BRITO VEIGA PESSOA:04446141414"
+12/11/2024 18:45:31: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:45:31: Perfil advogado e usuário JOSE HARAN DE BRITO VEIGA PESSOA
+OAB = PB13028 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = PB13028@veigapessoa@CD5C4EF5-7CD6-4B6C-B01F-658FEA5C9BAB@linus ; Cookies (
+Name = JSESSIONID ; Value = cM6T+Obl0AIJBCFGHGwiM0b3.node04 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c3466ece65658d2a43b86610fc991cee5f6075c39b9bed7cef08f09748337226944108a4b77f3ab1340ea6f3bc02d40203d0571f7c5221de11564ab478f4aed367 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3668cd1fbe8277898565f9cec124e701b6075c39b9bed7cef08f0974833722694d79156d9463471da024a913463b76f246cdfd16db1214eb566b93f222497df3c ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c3668cd1fbe8277898565f9cec124e701b6075c39b9bed7cef08f0974833722694d79156d9463471da024a913463b76f246cdfd16db1214eb566b93f222497df3c ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 18:45:34: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:45:38: Total: 0
+12/11/2024 18:45:38: Total: 0
+12/11/2024 18:45:43: Total: 0
+12/11/2024 18:45:43: Total: 0
+12/11/2024 18:45:47: Total: 0
+12/11/2024 18:45:47: Total: 0
+12/11/2024 18:45:48: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:45:48: Rodou

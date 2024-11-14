@@ -1,0 +1,6 @@
+RN14821@silvana@5CA0355F-3367-4B44-AD31-499F361F3F7E@jobs em 4.05.CRETA.1.84
+13/11/2024 01:12:50: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:13:32: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+13/11/2024 01:13:52: Não capturou o total de processos para o OAB RN14821
+html: salvo no mongo.
+13/11/2024 01:13:52: Rodou

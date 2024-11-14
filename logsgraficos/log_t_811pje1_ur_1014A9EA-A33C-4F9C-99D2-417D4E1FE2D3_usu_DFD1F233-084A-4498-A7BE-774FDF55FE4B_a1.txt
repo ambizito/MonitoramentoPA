@@ -1,0 +1,14 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.11.pje.1
+13/11/2024 12:42:11: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 0.hrisj05h7sb "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+13/11/2024 12:43:12: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 12:43:12: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = 3UoAVFXc7uM5pGAzbbhGIwDTD9vQwg9EXyspzC2c.pjev2-vra-0027 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_2_sn_3D641BD77FD034FF3432C517ED573F62_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_2_sn_3D641BD77FD034FF3432C517ED573F62_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+13/11/2024 12:43:21: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 12:48:40: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 12:48:40: Rodou

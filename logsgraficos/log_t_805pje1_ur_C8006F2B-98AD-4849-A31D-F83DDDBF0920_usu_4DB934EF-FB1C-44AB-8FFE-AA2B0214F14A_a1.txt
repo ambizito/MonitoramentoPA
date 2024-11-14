@@ -1,0 +1,15 @@
+RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos em 8.05.pje.1
+13/11/2024 00:17:35: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Max11331# 0.j89qynlxtsc "max torquato fontes varela:05830512432 2024-01-26 11:10:10"
+13/11/2024 00:17:38: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:17:38: Perfil advogado e usuário MAX TORQUATO FONTES VARELA
+OAB = RN11331 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = RN11331@fontesvarela@C8006F2B-98AD-4849-A31D-F83DDDBF0920@bezos ; Cookies (
+Name = JSESSIONID ; Value = 9YyxGUgDw8GXiRjF_yopQ5IoOLTnTIEbWotqrKEj.pje1gapp036 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTY2NTYsImlhdCI6MTczMTQ2Nzg1NywiYXV0aF90aW1lIjoxNzMxNDY3ODU2LCJqdGkiOiI2N2YxZGYxNi05NDUwLTRmYjMtYjU5OS0zMmNhMmYyNjNhNDQiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiYTkwMjIxMzMtZWNlNC00YWU3LThjOGItNDg0ZWI0MzE3ZjQ4IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiIzNTUyMGViMC1jN2YzLTQzMWUtYWFkNy03MGQxZDVhNzJhM2QiLCJhdF9oYXNoIjoicGhsdUctQ2txbFJLWmFGM3l1NnZMZyIsImFjciI6IjEiLCJzaWQiOiIzNTUyMGViMC1jN2YzLTQzMWUtYWFkNy03MGQxZDVhNzJhM2QiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BWCBUT1JRVUFUTyBGT05URVMgVkFSRUxBIiwiSlRSIjoiODA1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDU4MzA1MTI0MzIiLCJnaXZlbl9uYW1lIjoiTUFYIFRPUlFVQVRPIEZPTlRFUyBWQVJFTEEiLCJlbWFpbCI6Im1heEBmb250ZXN2YXJlbGEuY29tLmJyIn0.V0NxVlGJ8rXduS6ra8DrVHzoEhKlq7sEkJrnDm8wWON9I9Y6ef5Umiy0KZrbs3W7oKrAAjmPEtI85_Af-d4rjbX_mDTtIXLnWs9_uncIY_dsXFj2n55CjgVG87NPaCT9hpe1fd0j4F5VVX8MNDJdOTuMsUWsMjHET1gkgj0Uu_ud7rhrMfoCeAs-EItgWX2bgkCJ-TxP_iihK4sc9sqCjAbrsLHvFD8obrwEtZQX2a-vTedGA1732NR66iKrEI4_gso37a9r73yjTelWvIGOCijqpgmDKoJfQD0sS_8CgyMQZcD6TipoQqNtYiS53rDtPOVB48JaL3_6W2iUv5EIWA ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp036:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+13/11/2024 00:17:38: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:17:48: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:17:48: Rodou

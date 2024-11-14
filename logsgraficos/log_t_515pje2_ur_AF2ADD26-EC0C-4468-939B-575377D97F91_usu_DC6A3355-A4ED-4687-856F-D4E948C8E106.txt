@@ -1,0 +1,23 @@
+32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus em 5.15.pje.2
+12/11/2024 17:59:36: Acessou https://pje.trt15.jus.br/segundograu/login.seam
+12/11/2024 17:59:39: Logou https://pje.trt15.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 17:59:40: Perfil advogado e usuário EIDER FURTADO DE MENDONCA E MENEZES FILHO
+OAB = 32262787468 ; URL = https://pje.trt15.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.15.pje.2 ; usuarioId = 32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus ; Cookies (
+Name = JSESSIONID ; Value = 547c7597c53835fa~kZ-3tT4RLp6XWqh--pE-4U05 ; Domain = pje.trt15.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt15.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = 7fc7a552-fc73-41e2-98b3-1affdf662eff ; Domain = pje.trt15.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt15.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmMmFhMjQ2MS1lOGZkLTQ3MDctYTQ3Mi0xMzU1ZDMwZGY2NzUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQ1MTc2LCJzdWIiOiI2OWY0N2M1Ny0zMmNjLTQzNmYtODA1NS1lMDU0ZmViYzU2MjEucGplIiwiZXhwIjoxNzMxNDQ4Nzc2LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjcxNzE0NiwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsIm5vbWUiOiJFSURFUiBGVVJUQURPIERFIE1FTkRPTkNBIEUgTUVORVpFUyBGSUxITyIsInBlcmZpbCI6MTIxNDEwLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjEwMDg5OCwiZGVzY3JpY2FvIjoiRUlERVIgRlVSVEFETyBERSBNRU5ET05DQSBFIE1FTkVaRVMgRklMSE8gKDMyMi42MjcuODc0LTY4KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDE1IiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt15.jus.br ; Path = /
+Name = access_token_footer ; Value = xsSxzgUDy1S5I2oC9XLkSKowntYFYdeOZGm309QfsOE ; Domain = pje.trt15.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkNGM3ZDFhZS0zMmNmLTQ3MDAtODM5Yi02MTE3MmVmNTQzNzkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQ1MTc2LCJzdWIiOiI2OWY0N2M1Ny0zMmNjLTQzNmYtODA1NS1lMDU0ZmViYzU2MjEucGplIiwiZXhwIjoxNzMxNDg4Mzc2LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsInBlcmZpbCI6MTIxNDEwLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDE1In0.gAV3Sn1ccewWUb3IbTaVZb3-IPdm7foGrlzQM_HkI7c ; Domain = pje.trt15.jus.br ; Path = /
+Name = Xsrf-Token ; Value = B269E2A36130722098E46514BE6F82EC75D841D8429AE186F8D7BEFDCB856E1DD7A72E3C77F61F1711DA890E65CDEF1A44DD ; Domain = pje.trt15.jus.br ; Path = /
+)
+12/11/2024 17:59:42: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 17:59:43: Total: 1
+12/11/2024 17:59:43: Total: 1
+12/11/2024 17:59:46: advogado 0010409-42.2019.5.15.0126 >> Processo com 3 parte(s), 32 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 17:59:46: Total: 1
+12/11/2024 17:59:46: Total: 1
+12/11/2024 17:59:46: advogado 0010409-42.2019.5.15.0126 >> Processo já foi verificado recentemente
+12/11/2024 17:59:46: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 17:59:46: Rodou

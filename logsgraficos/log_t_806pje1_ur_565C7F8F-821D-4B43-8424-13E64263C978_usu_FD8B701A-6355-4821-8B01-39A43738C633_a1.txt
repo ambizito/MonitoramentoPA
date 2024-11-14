@@ -1,0 +1,25 @@
+RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 8.06.pje.1
+12/11/2024 22:22:13: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1857 0.bielenqbcs3 "JESSICA XAVIER DA SILVA SANTOS:08295861484"
+12/11/2024 22:22:16: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+12/11/2024 22:22:16: Perfil advogado e usuário JESSICA XAVIER DA SILVA SANTOS
+OAB = RN11345 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = bjMioUABX5p14VPbWY27nE3OwX2g8bnxrdo8-k6F.tjpjp04 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODk3MzUsImlhdCI6MTczMTQ2MDkzNiwiYXV0aF90aW1lIjoxNzMxNDYwOTM1LCJqdGkiOiJiNzk2ODZhYi02MzQzLTRjMWMtYjlkNy01MzJiOWVkZTA4NjIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiNzc5MmU1NTQtMTk0My00OWE0LWFmN2UtZWJhOThlNzllYmNmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiI5OWQ1ODgyNC00YzkxLTQ4NmMtOTZkNi05YzdlOTQ5NDViYjUiLCJhdF9oYXNoIjoiWU9YR3M4TVhiMVFVSThmTl8wVVkyZyIsImFjciI6IjEiLCJzaWQiOiI5OWQ1ODgyNC00YzkxLTQ4NmMtOTZkNi05YzdlOTQ5NDViYjUiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkpFU1NJQ0EgWEFWSUVSIERBIFNJTFZBIFNBTlRPUyIsImp0ciI6IjgwNiIsIkpUUiI6IjgwNiIsInByZWZlcnJlZF91c2VybmFtZSI6IjA4Mjk1ODYxNDg0IiwiZ2l2ZW5fbmFtZSI6IkpFU1NJQ0EgWEFWSUVSIERBIFNJTFZBIFNBTlRPUyIsImVtYWlsIjoiY29udGF0b0BzYW50b3Nlc2FudG9zYWR2b2dhZG9zLmNvbSJ9.L9t5TIsWlCVKr2w4P00FaVO9ZiiSEpOJpLolXJvO4dHCrfvAYAysUuVCnxlWo-n5svZhaeK5o24Tpttx9lvr6ljTZMXVFuVRYWkEKrnvLucc1ERKU21bWvv6LDTWGn0YniKqrfao_mHY1oTtLxAPdgRb_8uR8c6o0Bxe6ksXk_HZ3bPCTw8rc6MIcGJgCTvAJ-BRi1Zy5zE3cruT9P4tuEkst8vy1e_7CLalTykrRcAoBbm18ePpk3uDkCTXPXjwDCSqyXoOfoFFAtekOoslX5xNIB0PhfBsEL4nRbpr484VwlwTEXcAhSsfVH-lbuCr_46uth___rTiSuzug0O4NA ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp04:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 22:22:16: Total: 1
+12/11/2024 22:22:18: advogado 3002180-94.2024.8.06.0246 >> Processo com 2 parte(s), 17 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:22:19: Total: 1
+12/11/2024 22:22:20: advogado 3002180-94.2024.8.06.0246 >> Processo com 2 parte(s), 17 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 22:22:20: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência e detectou 2 e leu 2
+12/11/2024 22:22:21: Total: 1
+12/11/2024 22:22:21: Total: 1
+12/11/2024 22:22:21: advogado 3002180-94.2024.8.06.0246 >> Processo já foi verificado recentemente
+12/11/2024 22:22:21: Total: 1
+12/11/2024 22:22:21: Total: 1
+12/11/2024 22:22:21: advogado 3000210-23.2023.8.06.0140 >> Processo já foi verificado recentemente
+12/11/2024 22:22:22: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 22:22:22: Rodou

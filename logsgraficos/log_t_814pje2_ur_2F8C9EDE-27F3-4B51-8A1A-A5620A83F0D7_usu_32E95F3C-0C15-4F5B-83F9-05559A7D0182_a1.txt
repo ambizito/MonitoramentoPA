@@ -1,0 +1,15 @@
+PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos em 8.14.pje.2
+12/11/2024 23:35:05: Acessou https://pje.tjpa.jus.br/pje-2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.wvf78mryso5 "PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL:05577988411"
+12/11/2024 23:35:09: Logou https://pje.tjpa.jus.br/pje-2g/Painel/painel_usuario/advogado.seam
+12/11/2024 23:35:09: Perfil advogado e usuário PRISCILLA LICIA FEITOSA DE ARAUJO CABRAL
+OAB = PB15472 ; URL = https://pje.tjpa.jus.br/pje-2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.14.pje.2 ; usuarioId = PB15472@feitosaebrandao@2F8C9EDE-27F3-4B51-8A1A-A5620A83F0D7@bezos ; Cookies (
+Name = JSESSIONID ; Value = nfEdHROSqGr6273fHfQacH6XbjP7JwL1XFCuOLlA.pje2-2g-n01 ; Domain = pje.tjpa.jus.br ; Path = /pje-2g
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /pje-2g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTQxMDcsImlhdCI6MTczMTQ2NTMwOSwiYXV0aF90aW1lIjoxNzMxNDY1MzA3LCJqdGkiOiIyYTQyY2Q3Ny0yZWU3LTRjZWEtYmU0OS1iZjAxZmNhZTk1NjciLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBhLTJnIiwic3ViIjoiMDdiMzFjNDMtYWI1Yy00NDMxLWE2MWUtM2M2M2RhNjhmMzg2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYS0yZyIsInNlc3Npb25fc3RhdGUiOiJiZTE2ODcxYi01NjlkLTRiZTAtOTMyMy03MjE5NzUwMDAzNjQiLCJhdF9oYXNoIjoiWjh2am1EUDJ0RjVPaDJYTlhTcVNjUSIsImFjciI6IjEiLCJzaWQiOiJiZTE2ODcxYi01NjlkLTRiZTAtOTMyMy03MjE5NzUwMDAzNjQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IlBSSVNDSUxMQSBMSUNJQSBGRUlUT1NBIERFIEFSQVVKTyBDQUJSQUwiLCJKVFIiOiI4MTQiLCJqdHIiOiI4MTQiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNTU3Nzk4ODQxMSIsImdpdmVuX25hbWUiOiJQUklTQ0lMTEEgTElDSUEgRkVJVE9TQSBERSBBUkFVSk8gQ0FCUkFMIiwiZW1haWwiOiJjb250cm9sYWRvcmlhQGZlaXRvc2FlYnJhbmRhby5jb20uYnIifQ.EWzYbxJ15At-vQteWdrsk2Rv8w_DQR_Bp2pbEluwhNpWt1xR2GBcxxHFZYr6pg1g0q4XDRnB1U-ckx9tVailfJVqwWZ7_OQhjOqKiqJau51mLjQ8dgBMHx0spdEPvDXDNYF9rULjAzUQmSe2YYmy9J8DwrfEm_6NG0sMclH0yQjN1RDjtRQhuFw9-uoDgZodQ18h_-c-8WkkZVgbcyHS2uh2UAReaIvU-X4AfRlwGGblBvzGK2jCI71RRJ90Qsfyw0PXLjaZpSBWrWNqCoOVgcsZKbgcYZq-oxG8QItwGAQz5kXbj4QwvhD2CiLkbHmsPW6h3v9l43GJszoxnk9xgg ; Domain = pje.tjpa.jus.br ; Path = /pje-2g
+Name = PJE-TJPA-2G-StickySessionRule ; Value = "pje2-2g-n01:pje-tjpa-2g" ; Domain = pje.tjpa.jus.br ; Path = /pje-2g
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /
+)
+12/11/2024 23:35:10: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 23:35:18: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 23:35:18: Rodou

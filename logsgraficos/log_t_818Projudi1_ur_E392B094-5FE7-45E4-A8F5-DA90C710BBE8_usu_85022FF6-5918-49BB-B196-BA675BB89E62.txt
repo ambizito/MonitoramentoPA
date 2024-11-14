@@ -1,0 +1,12 @@
+00842533397@araujobrito@E392B094-5FE7-45E4-A8F5-DA90C710BBE8@linus em 8.18.Projudi.1
+13/11/2024 01:18:17: Acessou https://projudi.tjpi.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:18:18: Logou https://projudi.tjpi.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:18:18: Não acessou a url de pesquisa para o OAB 00842533397
+html: salvo no mongo.
+13/11/2024 01:18:18: Rodou com falha
+00842533397@araujobrito@E392B094-5FE7-45E4-A8F5-DA90C710BBE8@linus em 8.18.Projudi.1
+13/11/2024 01:19:18: Acessou https://projudi.tjpi.jus.br/projudi/PaginaPrincipal.jsp
+13/11/2024 01:19:18: Logou https://projudi.tjpi.jus.br/projudi/buscas/ProcessosParte
+13/11/2024 01:19:18: Não acessou a url de pesquisa para o OAB 00842533397
+html: salvo no mongo.
+13/11/2024 01:19:18: Rodou com falha

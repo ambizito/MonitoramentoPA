@@ -1,0 +1,4 @@
+87689693415@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.05.pje.2
+12/11/2024 21:09:54: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+12/11/2024 21:09:56: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

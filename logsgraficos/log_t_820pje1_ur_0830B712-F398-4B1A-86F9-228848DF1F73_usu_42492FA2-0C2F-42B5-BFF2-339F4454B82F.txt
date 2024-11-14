@@ -1,0 +1,28 @@
+06586731496@dinizecavalcanti@0830B712-F398-4B1A-86F9-228848DF1F73@berners em 8.20.pje.1
+13/11/2024 14:59:42: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+13/11/2024 15:00:23: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 15:00:24: Perfil advogado e usuário MURIEL LEITAO MARQUES DINIZ
+OAB = 06586731496 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = 06586731496@dinizecavalcanti@0830B712-F398-4B1A-86F9-228848DF1F73@berners ; Cookies (
+Name = JSESSIONID ; Value = jH1XVQft3x2IvuWQ1jah36-mTrB0Iy5c_Tuu9ZCk.pje1g-104-h2qds ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1NDk2MTYsImlhdCI6MTczMTUyMDgxNiwiYXV0aF90aW1lIjoxNzMxNTIwODE2LCJqdGkiOiIwNzZjZjdmYS04MGRhLTRmNzktOTQ4NC1iNDhiZjEyM2Y5OWEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiODZiNmE2YTgtOTJkOC00MmRmLWJhMWMtMzllYmVhZGZhOTBmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiIyZjY0YTk4OC1mMWNjLTQ1N2YtYWZiYS0yNWRjYzJmOWJkMWYiLCJhdF9oYXNoIjoidk13OU5qc2dyWVllT3V6b1oyR2xVQSIsImFjciI6IjEiLCJzaWQiOiIyZjY0YTk4OC1mMWNjLTQ1N2YtYWZiYS0yNWRjYzJmOWJkMWYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJNVVJJRUwgTEVJVEFPIE1BUlFVRVMgRElOSVoiLCJKVFIiOiI4MjAiLCJqdHIiOiI4MjAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNjU4NjczMTQ5NiIsImdpdmVuX25hbWUiOiJNVVJJRUwgTEVJVEFPIE1BUlFVRVMgRElOSVoiLCJlbWFpbCI6Im11cmllbC5kaW5pei5hZHZAZ21haWwuY29tIn0.vYRDUX1k-zbNclvM1nxxqIezHdagLYK9EPjCpGrkBiHI8bR5Z0RiU_Klm8qg4d427VE2bejd308InSkI0mNS1fqNzvGYG9D2X9lodYv2x5H_GRb-uFBB94l7JUx8N2evJdaHGY3bu_xz-dUY7M0H0Pk17AlWJlQUG7IyGnoWq6iMxkgaElmKEekgeVtEDwSMUsirVCEiyl-G0n1kxEY6amRjv3nR0G-YSiw_NxOpMEEsa6udAFpDLamcX0M8toCj6zFc6OXxb6HB0C4EmbU_q3yrGcn4BkNDNL4Vyvgc9KaWj6vK55Vanp8ADoiV2PRjVE85xaqPCaILvQGskxtg_g ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-h2qds:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 8689e0329a40e4c8ada4b70afeb55288 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 15:00:35: Total: 1
+13/11/2024 15:01:05: advogado 0877216-77.2018.8.20.5001 >> Processo com 5 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 15:01:06: Total: 1
+13/11/2024 15:01:12: advogado 0877216-77.2018.8.20.5001 >> Processo com 5 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 15:01:13: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência e detectou 1 e leu 1
+13/11/2024 15:01:24: Total: 1
+13/11/2024 15:01:24: Total: 1
+13/11/2024 15:01:46: advogado 0802046-85.2021.8.20.5004 >> Processo com 4 parte(s), 66 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 15:01:46: Total: 1
+13/11/2024 15:01:46: Total: 1
+13/11/2024 15:01:46: advogado 0877216-77.2018.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 15:01:47: Total: 1
+13/11/2024 15:01:47: Total: 1
+13/11/2024 15:02:13: advogado 0866934-04.2023.8.20.5001 >> Processo com 3 parte(s), 56 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 15:05:56: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+13/11/2024 15:05:56: Rodou

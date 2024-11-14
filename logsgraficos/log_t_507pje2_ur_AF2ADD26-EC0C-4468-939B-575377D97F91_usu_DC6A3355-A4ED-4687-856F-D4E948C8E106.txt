@@ -1,0 +1,31 @@
+32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus em 5.07.pje.2
+14/11/2024 00:59:57: Acessou https://pje.trt7.jus.br/segundograu/login.seam
+14/11/2024 00:59:58: Logou https://pje.trt7.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 00:59:58: Perfil advogado e usuário EIDER FURTADO DE MENDONCA E MENEZES FILHO
+OAB = 32262787468 ; URL = https://pje.trt7.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.07.pje.2 ; usuarioId = 32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus ; Cookies (
+Name = JSESSIONID ; Value = 4172b0e8f2c751ff~RJ9Dhi1n7FVOooZs2NckRRbp ; Domain = pje.trt7.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt7.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = dc0b9016-809f-4b73-bdd2-67c88b45f171 ; Domain = pje.trt7.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5ZWFmMjJmOS00YTgyLTRkNWQtOGUyNi0wMDAxYjJlYWM1NDUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2Nzk3LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTYwMzk3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjQ4NzQ3LCJsb2dpbiI6IjMyMjYyNzg3NDY4Iiwibm9tZSI6IkVJREVSIEZVUlRBRE8gREUgTUVORE9OQ0EgRSBNRU5FWkVTIEZJTEhPIiwicGVyZmlsIjoxMjY2NSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxMjE3NywiZGVzY3JpY2FvIjoiRUlERVIgRlVSVEFETyBERSBNRU5ET05DQSBFIE1FTkVaRVMgRklMSE8gKDMyMi42MjcuODc0LTY4KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDciLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token_footer ; Value = O74uquehVKpLMJMy9BSkcF4S_74k3omrIFSXPAgg6-w ; Domain = pje.trt7.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI0MzMxNzM0NC1jNWZlLTQ4ZGItYTVkZC0xZjk2Y2QyYmZkYjIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2Nzk3LCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTk5OTk3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsInBlcmZpbCI6MTI2NjUsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNyJ9.9iDeoDeJ-1QGLqqp7zig8pwQeqaR1p7OelstODa6WNM ; Domain = pje.trt7.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 1CA667658DBB4F3E7732FB1011B5EA331B7A9F90CC055A140FC45BAD715B094A6E9EB5DD355A93CB687F23F0829C58F1715C ; Domain = pje.trt7.jus.br ; Path = /
+)
+14/11/2024 00:59:59: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 01:00:00: Total: 4
+14/11/2024 01:00:00: Total: 4
+14/11/2024 01:00:02: advogado 0000649-61.2022.5.07.0005 >> Processo com 3 parte(s), 33 andamento(s) e 5 expediente(s) atualizado
+14/11/2024 01:00:04: advogado 0000952-12.2021.5.07.0005 >> Processo com 3 parte(s), 38 andamento(s) e 6 expediente(s) atualizado
+14/11/2024 01:00:06: advogado 0001472-33.2016.5.07.0009 >> Processo com 3 parte(s), 68 andamento(s) e 12 expediente(s) atualizado
+14/11/2024 01:00:08: advogado 0001596-90.2014.5.07.0007 >> Processo com 3 parte(s), 13 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 01:00:08: Total: 2
+14/11/2024 01:00:08: Total: 2
+14/11/2024 01:00:08: advogado 0000649-61.2022.5.07.0005 >> Processo já foi verificado recentemente
+14/11/2024 01:00:08: advogado 0001596-90.2014.5.07.0007 >> Processo já foi verificado recentemente
+14/11/2024 01:00:08: Total: 2
+14/11/2024 01:00:08: Total: 2
+14/11/2024 01:00:08: advogado 0000952-12.2021.5.07.0005 >> Processo já foi verificado recentemente
+14/11/2024 01:00:08: advogado 0001472-33.2016.5.07.0009 >> Processo já foi verificado recentemente
+14/11/2024 01:00:09: Entrou na aba acervo do perfil e mapeou 8 processos e teve erro em 0 processos
+14/11/2024 01:00:09: Rodou

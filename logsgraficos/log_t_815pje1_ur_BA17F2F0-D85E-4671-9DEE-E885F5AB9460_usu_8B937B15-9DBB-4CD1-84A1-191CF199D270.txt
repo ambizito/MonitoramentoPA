@@ -1,0 +1,34 @@
+01066033455@pmaadvogados@BA17F2F0-D85E-4671-9DEE-E885F5AB9460@jobs em 8.15.pje.1
+13/11/2024 00:08:31: Acessou https://pje.tjpb.jus.br/pje/login.seam
+13/11/2024 00:08:33: Logou https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:08:33: Perfil advogado e usuário GLAUCIO GUEDES PITA
+OAB = 01066033455 ; URL = https://pje.tjpb.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.15.pje.1 ; usuarioId = 01066033455@pmaadvogados@BA17F2F0-D85E-4671-9DEE-E885F5AB9460@jobs ; Cookies (
+Name = JSESSIONID ; Value = NXTKT861lYr2wSLOyN08T2waDq3Elgthq-BUEgFw.pje36-v21 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = TS019bf079 ; Value = 01766fbb17e62dfd5b3c8d1968a825a21b6309d9901e364bd130cc05e3c00eac8a00057027d55380912c3d92683aaf9e3159ebff15 ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTYxMTIsImlhdCI6MTczMTQ2NzMxMywiYXV0aF90aW1lIjoxNzMxNDY3MzEyLCJqdGkiOiJlMmFjNzZmMy0yMmY0LTRmYzgtODRlMy1kNGY2OGU1ZDA5YWIiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBiLTFnIiwic3ViIjoiYzcxMmVkNjYtNjc5ZC00NGJmLWIwZTEtNTA1OTlmZjk5MmU2IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYi0xZyIsInNlc3Npb25fc3RhdGUiOiI0NjdiOGJhYy01NGNkLTQ4NzgtOTFiMy05YmMzODIxODU5ZWMiLCJhdF9oYXNoIjoiQkt5UmRXamJJVWlMMmRZQWtieGJPdyIsImFjciI6IjEiLCJzaWQiOiI0NjdiOGJhYy01NGNkLTQ4NzgtOTFiMy05YmMzODIxODU5ZWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJHTEFVQ0lPIEdVRURFUyBQSVRBIiwiSlRSIjoiODE1IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDEwNjYwMzM0NTUiLCJnaXZlbl9uYW1lIjoiR0xBVUNJTyBHVUVERVMgUElUQSIsImVtYWlsIjoiZ2xhdWNpb0BwbWFhZHZvZ2Fkb3MuY29tLmJyIn0.SB6vJ0KGWuTaXob8xjOJo4wlo7ZUj5HLS_O-j5eg1PY3yQAaWoaEGaeIsDWL-gIgVY2-jOh1IbU9skSNLpaXDCwu-NERhWgNkURmo3mIndu7TfSsPK9uhm9hi0vovu-HAuC9qqNM8bTG9apJFhn7wsKaMBTQU9maGdhcJHrhJNo0EzJ1oSNkoAunXm3EVjBD_MH_zLk5ZOPqI402eVf16PxHzJegtj5UfI91n1RLZx8bn-AAsyl-PgmbownCTFyTP3TOMEHcvC9P267xYDQUswyxmMei_4XbYnAp2M8HkkJHih2jwBv_hXsi3tD1lF-8b1adCd_sSbVlavg0a8V7Ww ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = PJE-TJPB-1G-StickySessionRule ; Value = pje36-v21:pje-tjpb-1g ; Domain = pje.tjpb.jus.br ; Path = /pje
+Name = BIGipServerpool_pje1g_prod ; Value = 1275396106.36895.0000 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = TS01d5de65 ; Value = 01766fbb17e62dfd5b3c8d1968a825a21b6309d9901e364bd130cc05e3c00eac8a00057027d55380912c3d92683aaf9e3159ebff15 ; Domain = pje.tjpb.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjpb.jus.br ; Path = /
+)
+13/11/2024 00:08:35: Total: 1
+13/11/2024 00:08:38: advogado 0037488-94.2009.8.15.2001 >> Processo com 3 parte(s), 64 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 00:08:38: Entrou na aba expediente do perfil para as categorias Cujo prazo findou nos últimos 10 dias - sem resposta e detectou 6 e leu 1
+13/11/2024 00:08:42: Total: 1
+13/11/2024 00:08:42: Total: 1
+13/11/2024 00:08:42: advogado 0000875-76.2008.8.15.0751 >> Processo já foi verificado recentemente
+13/11/2024 00:08:43: Total: 5
+13/11/2024 00:08:43: Total: 5
+13/11/2024 00:08:43: advogado 0037488-94.2009.8.15.2001 >> Processo já foi verificado recentemente
+13/11/2024 00:08:43: advogado 0838307-41.2022.8.15.2001 >> Processo já foi verificado recentemente
+13/11/2024 00:08:45: advogado 0034305-18.2009.8.15.2001 >> Processo com 3 parte(s), 70 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:08:45: advogado 0847773-88.2024.8.15.2001 >> Processo já foi verificado recentemente
+13/11/2024 00:08:45: advogado 0831731-61.2024.8.15.2001 >> Processo já foi verificado recentemente
+13/11/2024 00:08:45: Total: 3
+13/11/2024 00:08:45: Total: 3
+13/11/2024 00:08:45: advogado 0806281-93.2023.8.15.0371 >> Processo já foi verificado recentemente
+13/11/2024 00:08:45: advogado 0800705-22.2023.8.15.0371 >> Processo já foi verificado recentemente
+13/11/2024 00:08:45: advogado 0805282-43.2023.8.15.0371 >> Processo já foi verificado recentemente
+13/11/2024 00:08:50: Entrou na aba acervo do perfil e mapeou 9 processos e teve erro em 0 processos
+13/11/2024 00:08:50: Rodou

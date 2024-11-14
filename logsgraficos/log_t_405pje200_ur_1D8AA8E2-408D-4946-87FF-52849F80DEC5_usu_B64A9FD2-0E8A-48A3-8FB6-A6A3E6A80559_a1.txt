@@ -1,0 +1,62 @@
+PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 4.05.pje.2.00
+12/11/2024 17:59:00: Acessou https://pje.trf5.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Wms@2546 hImLkbt303Th5Nubfgy18gzgO4UVwgYK "WILSON RIBEIRO DE MORAES NETO:05651954414"
+12/11/2024 17:59:03: Logou https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 17:59:04: Perfil advogado e usuário wilson ribeiro de moraes neto
+OAB = PB15660 ; URL = https://pje.trf5.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.2.00 ; usuarioId = PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos ; Cookies (
+Name = JSESSIONID ; Value = JdWXcUPejDCddXAwyuwOPsQW.node12 ; Domain = pje.trf5.jus.br ; Path = /pje
+Name = trf555c76b70027 ; Value = 08e38928b9ab2000edb342676b69fbb3f8c4e3c939a602bdbe6146dac1051d36a97a086ffb1f208d08972ba31d113000cfb4020ee13c627c401a9b82f996c74acb83b72b16f03e39203a582b75a250464b7a115487682ed619c7d75e7de59d50 ; Domain = pje.trf5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trf5.jus.br ; Path = /
+)
+12/11/2024 18:00:45: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 18:01:00: Total: 1
+12/11/2024 18:01:00: Total: 1
+12/11/2024 18:01:00:  0000641-74.1996.8.15.0441 >> Processo já foi verificado recentemente
+12/11/2024 18:01:22: Total: 42
+12/11/2024 18:01:22: Total: 42
+12/11/2024 18:01:59:  0817254-48.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0802447-86.2020.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803642-34.2021.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803643-19.2021.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803644-04.2021.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0800894-04.2020.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0813018-53.2019.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0800008-05.2020.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0809141-37.2021.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0806359-82.2022.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0809569-19.2021.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803966-28.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0800254-30.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0814195-09.2022.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0801147-46.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0801235-84.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0802445-73.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0808808-51.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803392-73.2020.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803285-83.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803290-08.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:01:59:  0803843-55.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0808385-91.2022.4.05.8200 >> Processo com 4 parte(s), 14 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 18:02:11:  0808449-04.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0806403-67.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0810105-93.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800860-24.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800432-42.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0809886-80.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800252-26.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0809173-08.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0809328-36.2023.4.05.0000 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0809326-41.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800608-21.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800393-45.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0801768-81.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0810076-43.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800626-42.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0800261-22.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0808848-33.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0809054-47.2022.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:11:  0805246-97.2023.4.05.8200 >> Processo já foi verificado recentemente
+12/11/2024 18:02:47: Total: 0
+12/11/2024 18:02:47: Total: 0
+12/11/2024 18:02:49: Entrou na aba acervo do perfil e mapeou 43 processos e teve erro em 0 processos
+12/11/2024 18:02:49: Rodou

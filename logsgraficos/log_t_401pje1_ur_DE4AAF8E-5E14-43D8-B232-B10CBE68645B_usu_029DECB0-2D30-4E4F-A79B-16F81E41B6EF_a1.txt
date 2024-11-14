@@ -1,0 +1,16 @@
+RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark em 4.01.pje.1
+12/11/2024 16:25:52: Acessou https://pje1g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Henf0714 0.urxay4w1kh7 "HENRIQUE EDUARDO NUNES DE FRANCA:01126394459"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Henf0714 zD3fmyLu4Qib6UvN6mrC5gPfSIEkFgmt "HENRIQUE EDUARDO NUNES DE FRANCA:01126394459"
+12/11/2024 16:25:58: Logou https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:25:58: Perfil advogado e usuário HENRIQUE EDUARDO NUNES DE FRANCA
+OAB = RN15034 ; URL = https://pje1g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.1 ; usuarioId = RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark ; Cookies (
+Name = JSESSIONID ; Value = Jp7g_OedqUNZ5sm7whBkQt1JJZLG7LIstlGVkjmf.srvpje1goutjb26 ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NjgzNTQsImlhdCI6MTczMTQzOTU1NCwiYXV0aF90aW1lIjoxNzMxNDM5NTU0LCJqdGkiOiIwMGFjNTU3ZC00MGQwLTRiZjYtYWI1OS1iNDRiM2JmNzk0MmMiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTFnIiwic3ViIjoiYTM1YzJiYjYtYzM0Yy00OTVjLWJkNzYtN2U5MjQwMzBjZWUwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0xZyIsInNlc3Npb25fc3RhdGUiOiI4ODQ2NTdkNC0yY2E4LTQ0NmYtYjA2NC1mMGY1ZWU1NDQ1ZTEiLCJhdF9oYXNoIjoicUVXbF8tXzZmYnk1TTUwb1B0dWI2USIsImFjciI6IjEiLCJzaWQiOiI4ODQ2NTdkNC0yY2E4LTQ0NmYtYjA2NC1mMGY1ZWU1NDQ1ZTEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFTlJJUVVFIEVEVUFSRE8gTlVORVMgREUgRlJBTkNBIiwiSlRSIjoiNDAxIiwianRyIjoiNDAxIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDExMjYzOTQ0NTkiLCJnaXZlbl9uYW1lIjoiSEVOUklRVUUgRURVQVJETyBOVU5FUyBERSBGUkFOQ0EiLCJlbWFpbCI6ImFkdmhlbnJpcXVlZnJhbmNhQGdtYWlsLmNvbSJ9.Z7PwbmnQmi4_RW4mrMIXIytngwz4q4QqjkN1dWASTBKDeHtNKI9xIAf31zCI63QWe41M7WJaRkJ8kCxTjLmFeM9-xapPIx4p11tiKwW_KRZ5f0GucBy_xeqhjbGYj_Q0jVQp5yhFUO_5gQZj9WFbwan6VwfuC7oYR7-jfMdOzeLmf-9WroF5uT1wIz0f632wbAPIF9LZLhWHDl7mLxGnHbrYxjxhQ-uNoUgArnzCA9esJVSiBryls52EJF_tTHDr8-zTLmrlrTaU-Eu58UtZ56ogDgz4-LTeowG1yec4Ks39ZZNB4r9xheqyJRdkGt8RUKdIYRu-osLEF-T7tdttoA ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-1G-StickySessionRule ; Value = srvpje1goutjb26:pje-trf1-1g ; Domain = pje1g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.trf1.jus.br ; Path = /
+)
+12/11/2024 16:25:58: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:26:01: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:26:01: Rodou

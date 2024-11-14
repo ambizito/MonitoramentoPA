@@ -1,0 +1,4 @@
+RN12470@raulinosales@19486416-45F3-4FD5-BECA-8824008EC746@jobs em 4.05.CRETA.1.84
+13/11/2024 20:29:21: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 20:30:04: Erro no acesso: Senha invalida
+html: salvo no mongo.

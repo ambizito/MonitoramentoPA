@@ -1,3 +1,0 @@
-Tribunal desconhecido
-   em ProcessoAgil.TribunalToken.PegarPje(String tribunal) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 4342
-   em ProcessoAgil.TribunalToken.ProcessoAgil(String senha, String oab, String dominio, String ur, String server, Int32& erro) na C:\Users\AndreAzevedo\Source\Repos\ProcessoAgil\ProcessoAgil\TribunalToken.cs:linha 4579

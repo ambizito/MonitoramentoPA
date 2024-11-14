@@ -1,0 +1,22 @@
+RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos em 5.02.pje.1
+12/11/2024 16:34:45: Acessou https://pje.trt2.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1857 T0E1kwyQAVrnZFUlkjr5MDMumyRIGo6R "JESSICA XAVIER DA SILVA SANTOS:08295861484"
+12/11/2024 16:34:48: Logou https://pje.trt2.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 16:34:48: Perfil advogado e usuário JESSICA XAVIER DA SILVA SANTOS
+OAB = RN11345 ; URL = https://pje.trt2.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.02.pje.1 ; usuarioId = RN11345@santosesantosadv@565C7F8F-821D-4B43-8424-13E64263C978@bezos ; Cookies (
+Name = JSESSIONID ; Value = a2d6c255b698d662~RE2+UGqklaGZjUvtqj+CWFgD ; Domain = pje.trt2.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt2.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = fb39b0f2-1d6b-440a-ae5f-276545688c05 ; Domain = pje.trt2.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt2.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5ODZjZGJjZS0wMWVjLTRiODMtYTBhOS00ZmI3ZmU0MTY3OWYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQwMDg3LCJzdWIiOiJlOTk3NWFjYS1hMzE5LTQ3ZWUtYTUwNi1kOTZjZGQ1MzJlMjYucGplIiwiZXhwIjoxNzMxNDQzNjg3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjYxMTY2MjYsImxvZ2luIjoiMDgyOTU4NjE0ODQiLCJub21lIjoiSkVTU0lDQSBYQVZJRVIgREEgU0lMVkEgU0FOVE9TIiwicGVyZmlsIjo1MzE1MzMsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6MzI1OTc4LCJkZXNjcmljYW8iOiJKRVNTSUNBIFhBVklFUiBEQSBTSUxWQSBTQU5UT1MgKDA4Mi45NTguNjE0LTg0KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDIiLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt2.jus.br ; Path = /
+Name = access_token_footer ; Value = PNOp9K6T4THzRUNeYnnshZIIBRglitB3-6C-Lau0Sek ; Domain = pje.trt2.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlMWFkNDM4Ny1iOTVhLTQ2OWItYmMyMC04OWE2ZDdlZDBlYjYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQwMDg3LCJzdWIiOiJlOTk3NWFjYS1hMzE5LTQ3ZWUtYTUwNi1kOTZjZGQ1MzJlMjYucGplIiwiZXhwIjoxNzMxNDgzMjg3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwODI5NTg2MTQ4NCIsInBlcmZpbCI6NTMxNTMzLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRSVDIifQ.gmGb9Px1UPeiEvK_Lq5AoahQaxk4_zOFQkdJ_iU1n3U ; Domain = pje.trt2.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 919185BE8B389973CF27E7D32794DFC9E314F7AFAE02F16823EC967BF9CD10517C1251EC94656605FA52403232A3E8D18F29 ; Domain = pje.trt2.jus.br ; Path = /
+)
+12/11/2024 16:34:48: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:34:50: Total: 2
+12/11/2024 16:34:50: Total: 2
+12/11/2024 16:34:52: advogado 1000461-35.2023.5.02.0044 >> Processo com 3 parte(s), 30 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 16:34:54: advogado 1001741-75.2022.5.02.0044 >> Processo com 2 parte(s), 22 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:34:55: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 16:34:55: Rodou

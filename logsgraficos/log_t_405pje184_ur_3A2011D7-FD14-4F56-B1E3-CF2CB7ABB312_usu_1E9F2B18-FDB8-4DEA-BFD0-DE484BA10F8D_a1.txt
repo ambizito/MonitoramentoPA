@@ -1,0 +1,50 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 4.05.pje.1.84
+12/11/2024 21:16:43: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 6rlwizNh6JbaaDv7qSjiVTt1CSf6mGZ2 "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 21:16:45: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:16:45: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = JSESSIONID ; Value = rZJ8PXTaHkdwfGfrB-KNEKI6.node05 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 21:16:49: Total: 1
+12/11/2024 21:21:07: advogado 0000006-18.1981.4.05.8400 >> Processo com 13 parte(s), 12 andamento(s) e 1385 expediente(s) atualizado
+12/11/2024 21:21:07: Total: 1
+12/11/2024 21:21:14: advogado 0810761-95.2023.4.05.8400 >> Processo com 5 parte(s), 12 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 21:21:14: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 79 e leu 2
+12/11/2024 21:21:20: Total: 10
+12/11/2024 21:21:20: Total: 10
+12/11/2024 21:21:20:  0000006-18.1981.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0000259-82.2013.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0010031-50.2005.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0003104-92.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0811776-70.2021.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0810094-46.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0803957-14.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0804973-03.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0810785-26.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:20:  0007700-03.2002.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:28: Total: 18
+12/11/2024 21:21:28: Total: 18
+12/11/2024 21:21:35:  0805639-82.2015.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0807116-43.2015.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0807238-56.2015.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0810502-47.2016.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0804773-69.2018.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0806073-95.2020.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0802185-84.2021.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0800170-30.2021.4.05.8405 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0800464-82.2021.4.05.8405 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0003957-04.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0801237-11.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0004240-27.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0003800-31.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0003328-30.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0009224-54.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0003410-61.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0004242-94.2010.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:35:  0810761-95.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 21:21:48: Total: 0
+12/11/2024 21:21:48: Total: 0
+12/11/2024 21:21:49: Entrou na aba acervo do perfil e mapeou 28 processos e teve erro em 0 processos
+12/11/2024 21:21:49: Rodou

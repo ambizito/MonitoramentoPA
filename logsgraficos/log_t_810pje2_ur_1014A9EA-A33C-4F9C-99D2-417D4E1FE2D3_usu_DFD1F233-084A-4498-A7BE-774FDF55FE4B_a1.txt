@@ -1,0 +1,13 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 8.10.pje.2
+13/11/2024 00:23:57: Acessou https://pje2.tjma.jus.br/pje2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 0.v35nn18iefl "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+13/11/2024 00:24:00: Logou https://pje2.tjma.jus.br/pje2g/Painel/painel_usuario/advogado.seam
+13/11/2024 00:24:00: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje2.tjma.jus.br/pje2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.10.pje.2 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = 1YJ6YHlC4OZb74dKp9qYJWCS-8IqWn7UTvdAqCSX.pje-web-ss-2 ; Domain = pje2.tjma.jus.br ; Path = /pje2g
+Name = 1800063213a96c7b454057e9861b120b ; Value = fc11fbe17eb0805f945f0821127ed20a ; Domain = pje2.tjma.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2.tjma.jus.br ; Path = /
+)
+13/11/2024 00:24:00: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:24:08: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:24:08: Rodou

@@ -1,0 +1,10 @@
+PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 4.05.CRETA.1.84
+13/11/2024 01:45:46: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:46:47: Erro no acesso: Senha invalida
+html: salvo no mongo.
+15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 4.05.CRETA.1.84
+13/11/2024 01:46:47: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:47:08: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+13/11/2024 01:47:28: Não capturou o total de processos para o OAB 
+html: salvo no mongo.
+13/11/2024 01:47:28: Rodou

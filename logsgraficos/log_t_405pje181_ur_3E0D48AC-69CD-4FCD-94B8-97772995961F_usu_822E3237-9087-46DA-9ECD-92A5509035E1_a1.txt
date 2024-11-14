@@ -1,0 +1,18 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 4.05.pje.1.81
+12/11/2024 21:48:11: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 qqgVU0qGjrbTuvGfGLarwX9msdTx8Fsn "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 21:48:14: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:48:14: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = J-AJH5Y5g612YzOeDTy97vfp.node02 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+12/11/2024 21:48:20: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 21:48:37: Total: 0
+12/11/2024 21:48:37: Total: 0
+12/11/2024 21:48:54: Total: 0
+12/11/2024 21:48:54: Total: 0
+12/11/2024 21:49:06: Total: 0
+12/11/2024 21:49:06: Total: 0
+12/11/2024 21:49:08: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 21:49:08: Rodou

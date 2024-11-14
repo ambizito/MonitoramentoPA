@@ -1,0 +1,2 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 4.05.pje.1.82
+13/11/2024 01:43:40: Não abriu a página de login https://pje.jfpb.jus.br/pje/login.seam

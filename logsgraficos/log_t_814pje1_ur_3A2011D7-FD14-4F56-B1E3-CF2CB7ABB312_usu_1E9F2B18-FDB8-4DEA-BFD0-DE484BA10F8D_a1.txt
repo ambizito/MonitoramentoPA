@@ -1,0 +1,18 @@
+RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 8.14.pje.1
+12/11/2024 20:14:10: Acessou https://pje.tjpa.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar advrocha1456 0.syje12ofgq9 "FERNANDA COSTA FONSECA SERRANO DA ROCHA:05083629461"
+12/11/2024 20:14:13: Logou https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:14:13: Perfil advogado e usuário FERNANDA COSTA FONSECA SERRANO DA ROCHA
+OAB = RN7053 ; URL = https://pje.tjpa.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.14.pje.1 ; usuarioId = RN7053@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = JSESSIONID ; Value = Tv3VqznLMKvv4G53q1fo5fWpjqZSMBWZw-hgxvNj.pje2-1g-n40 ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODIwNTIsImlhdCI6MTczMTQ1MzI1MywiYXV0aF90aW1lIjoxNzMxNDUzMjUyLCJqdGkiOiI4Njg2NWIxNC0yZmI0LTRjODktOWZmMC1jNDFkZjU4MzNkNTUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anBhLTFnIiwic3ViIjoiZGU5ZWZjNjYtOGZmMC00MGZlLWE1NTQtZGQxZWUwN2VkMGNjIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpwYS0xZyIsInNlc3Npb25fc3RhdGUiOiJlMjhiYzRjNy0zZDRlLTQzMGQtOWZiMi0xMTg5Y2ZmZTUwMDkiLCJhdF9oYXNoIjoiazI2MkVjOHE5RmlxZS1zS1VNcVQ0USIsImFjciI6IjEiLCJzaWQiOiJlMjhiYzRjNy0zZDRlLTQzMGQtOWZiMi0xMTg5Y2ZmZTUwMDkiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkZFUk5BTkRBIENPU1RBIEZPTlNFQ0EgU0VSUkFOTyBEQSBST0NIQSIsImp0ciI6IjgxNCIsIkpUUiI6IjgxNCIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1MDgzNjI5NDYxIiwiZ2l2ZW5fbmFtZSI6IkZFUk5BTkRBIENPU1RBIEZPTlNFQ0EgU0VSUkFOTyBEQSBST0NIQSIsImVtYWlsIjoiZXNjcml0b3Jpb0BhZHZvY2FjaWFyb2NoYS5jb20uYnIifQ.jCcLH0uCtcLgjmzQ-jQI8z2i-_MBKlcPe7jo4jw0DGdLHgOUU4xfwg9qOvA46OwwVCNBWGQ1zOlvrKPv4RHKvhD4BTkHqNUR0tP3SdIyNOF1-VSvIjrhc9vYmA_coIAupJmQW6qpLKD7BGwC0BUR6kCqMmRvUfH18Lu2nk94jm-mmCxkPXKBpNfNj2bSBw6-DLyDniL0K7wt3-BvrrTdANpWFksvFLT42go9Lal-xO4H3nvt4sDlKPWD4599ZPVWwWGIiMixeISeW-OsNx2pJadOfvUfh8LSpzL2mxJ2CZxXYC5Z0jKBbjPt4sM0TgFVB65ej30WMGDQFCrfag3byQ ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = PJE-TJPA-1G-StickySessionRule ; Value = "pje2-1g-n40:pje-tjpa-1g" ; Domain = pje.tjpa.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjpa.jus.br ; Path = /
+)
+12/11/2024 20:14:13: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:14:14: Total: 1
+12/11/2024 20:14:14: Total: 1
+12/11/2024 20:14:14: advogado 0809235-75.2020.8.14.0006 >> Processo já foi verificado recentemente
+12/11/2024 20:14:15: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:14:15: Rodou

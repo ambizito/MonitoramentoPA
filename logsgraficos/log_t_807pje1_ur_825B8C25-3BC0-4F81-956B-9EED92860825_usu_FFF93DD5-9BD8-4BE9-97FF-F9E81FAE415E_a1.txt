@@ -1,0 +1,21 @@
+RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 8.07.pje.1
+12/11/2024 22:42:25: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 1234 0.b00lgw6xk5y "RODRIGO ANDRADE DO NASCIMENTO01399099400"
+12/11/2024 22:42:28: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:42:28: Perfil advogado e usuário RODRIGO ANDRADE DO NASCIMENTO
+OAB = RN11195 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN11195@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus ; Cookies (
+Name = JSESSIONID ; Value = 47E5PXnLqeY9mULWyHfzHeluLxVLaRUS29nAlU7Y.hc-zdu116:pje-internet-zdu116 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 22:42:29: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:42:30: Total: 3
+12/11/2024 22:42:30: Total: 3
+12/11/2024 22:42:30: advogado 0709560-05.2023.8.07.0015 >> Processo já foi verificado recentemente
+12/11/2024 22:42:30: advogado 0721470-63.2022.8.07.0015 >> Processo já foi verificado recentemente
+12/11/2024 22:42:30: advogado 0712481-68.2022.8.07.0015 >> Processo já foi verificado recentemente
+12/11/2024 22:42:30: Total: 1
+12/11/2024 22:42:30: Total: 1
+12/11/2024 22:42:30: advogado 0729455-85.2023.8.07.0003 >> Processo já foi verificado recentemente
+12/11/2024 22:42:31: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 22:42:31: Rodou

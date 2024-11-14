@@ -1,0 +1,26 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.07.pje.2
+12/11/2024 21:41:10: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+12/11/2024 21:41:12: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:41:12: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = 04944471416 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = 04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = BPstxb-BUvoBQcjTO3uZ9jCQ2WC825NerBzj8rbo.hc-zdu153:pje2i-internet-zdu153 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+12/11/2024 21:41:13: Total: 1
+12/11/2024 21:41:16: advogado 0727525-90.2023.8.07.0016 >> Processo com 6 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:41:16: Total: 1
+12/11/2024 21:41:18: advogado 0734347-12.2024.8.07.0000 >> Processo com 6 parte(s), 33 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 21:41:19: Total: 1
+12/11/2024 21:41:21: advogado 0727525-90.2023.8.07.0016 >> Processo com 6 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 21:41:21: Total: 1
+12/11/2024 21:41:23: advogado 0734347-12.2024.8.07.0000 >> Processo com 6 parte(s), 33 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 21:41:23: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo Judiciário - pendente de resposta e detectou 6 e leu 2
+12/11/2024 21:41:24: Total: 1
+12/11/2024 21:41:24: Total: 1
+12/11/2024 21:41:24: advogado 0727525-90.2023.8.07.0016 >> Processo já foi verificado recentemente
+12/11/2024 21:41:24: Total: 1
+12/11/2024 21:41:24: Total: 1
+12/11/2024 21:41:24: advogado 0734347-12.2024.8.07.0000 >> Processo já foi verificado recentemente
+12/11/2024 21:41:25: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 21:41:25: Rodou

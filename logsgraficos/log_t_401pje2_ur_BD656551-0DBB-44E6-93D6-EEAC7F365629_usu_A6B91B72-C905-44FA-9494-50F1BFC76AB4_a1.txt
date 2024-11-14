@@ -1,0 +1,19 @@
+RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 4.01.pje.2
+12/11/2024 19:21:20: Acessou https://pje2g.trf1.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar K4APBQI5 0.psqj8jvfy0a "MARIO MATOS JUNIOR:01062490452"
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar K4APBQI5 ZBkRAKSJzL9L4F2g7Vm3hquX2azvlOBc "MARIO MATOS JUNIOR:01062490452"
+12/11/2024 19:21:27: Logou https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:21:27: Perfil advogado e usuário MARIO MATOS JUNIOR
+OAB = RN7292 ; URL = https://pje2g.trf1.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.01.pje.2 ; usuarioId = RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = 37fo3egMohOXjs6EB_Z6CIOCW-AE52rjOunXznw2.srvpje2goutjb06 ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Nzg4ODIsImlhdCI6MTczMTQ1MDA4MiwiYXV0aF90aW1lIjoxNzMxNDUwMDgyLCJqdGkiOiIxNjA3MGVkOS0yZmNmLTQ1ZWEtYWNmOC03YzNjMWI1YmIxZWEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10cmYxLTJnIiwic3ViIjoiYjRjZmUyMjItNWI1ZS00NzQ1LWEwMjUtY2Y2NzBhZmU4YzdhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdHJmMS0yZyIsInNlc3Npb25fc3RhdGUiOiI3OWUxZGI4NC01MjcyLTQxMzQtOTAwMy05MjdmMzFmM2ZhMmEiLCJhdF9oYXNoIjoidjBjOWRhSnkyYkFUa3lIalVpckpzQSIsImFjciI6IjEiLCJzaWQiOiI3OWUxZGI4NC01MjcyLTQxMzQtOTAwMy05MjdmMzFmM2ZhMmEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BUklPIE1BVE9TIEpVTklPUiIsIkpUUiI6IjQwMSIsImp0ciI6IjQwMSIsInByZWZlcnJlZF91c2VybmFtZSI6IjAxMDYyNDkwNDUyIiwiZ2l2ZW5fbmFtZSI6Ik1BUklPIE1BVE9TIEpVTklPUiIsImVtYWlsIjoiYWR2bWFyaW9qdW5pb3I4MUBnbWFpbC5jb20ifQ.qcuRg7z1SKkGygOL-huelTrVyJjzyO5VRNUfwFo290lQQfJhDu_PPMUWV9aqtGqZrTZ8avsEkMStLdmvXtduY1gvWymuwlrw6Lp8QFTtEr0OuJSwi9iP52WBftVioeJm3hcORwabLnLyMZ11T6fyoCRRlas6goo0UmA9CVK6-hfwQfE2Tx_l4JQyMzivJ3yiwKZsL5S8yTyhQQBN-ikOGQ6azpYIX6l8IeYED4Pu9hcXf7FYAnizmXnyX3nrZqx5UyZqIK5CF7W6pGZLydRi5IR9zM1Vs1My_dFaCwzVN1ZEuP69Ai0IQL9HzX4vtE7W8xlLuigdcGLcNKumg8fuYA ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = PJE-TRF1-2G-StickySessionRule ; Value = srvpje2goutjb06:pje-trf1-2g ; Domain = pje2g.trf1.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.trf1.jus.br ; Path = /
+)
+12/11/2024 19:21:29: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:21:33: Total: 1
+12/11/2024 19:21:33: Total: 1
+12/11/2024 19:21:33: advogado 0021277-22.2015.4.01.3900 >> Processo já foi verificado recentemente
+12/11/2024 19:21:34: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 19:21:34: Rodou

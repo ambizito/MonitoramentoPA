@@ -1,0 +1,14 @@
+06586731496@dinizecavalcanti@0830B712-F398-4B1A-86F9-228848DF1F73@berners em 8.06.pje.2
+12/11/2024 16:10:59: Acessou https://pje.tjce.jus.br/pje2grau/login.seam
+12/11/2024 16:11:03: Logou https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam
+12/11/2024 16:11:03: Perfil advogado e usuário MURIEL LEITAO MARQUES DINIZ
+OAB = 06586731496 ; URL = https://pje.tjce.jus.br/pje2grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.2 ; usuarioId = 06586731496@dinizecavalcanti@0830B712-F398-4B1A-86F9-228848DF1F73@berners ; Cookies (
+Name = JSESSIONID ; Value = g5NwFTqaI6tpPiOdBlKUbPUDtZako_zDUktAQR6o.tjpjp44 ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njc0NjMsImlhdCI6MTczMTQzODY2MywiYXV0aF90aW1lIjoxNzMxNDM4NjYzLCJqdGkiOiJkODVjOTE0Zi1kYzRjLTQ3NGYtYTc0MS01M2UzNjg5NzdkOTEiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTJnIiwic3ViIjoiODZiNmE2YTgtOTJkOC00MmRmLWJhMWMtMzllYmVhZGZhOTBmIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0yZyIsInNlc3Npb25fc3RhdGUiOiIxZGE3N2EwNi1jOTIwLTRkOWUtOTA0NC03YjUxMjU1MTZjZGMiLCJhdF9oYXNoIjoidXczZUZwX09RSEFrTFFoVWJ3dm1lQSIsImFjciI6IjEiLCJzaWQiOiIxZGE3N2EwNi1jOTIwLTRkOWUtOTA0NC03YjUxMjU1MTZjZGMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJNVVJJRUwgTEVJVEFPIE1BUlFVRVMgRElOSVoiLCJqdHIiOiI4MDYiLCJKVFIiOiI4MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNjU4NjczMTQ5NiIsImdpdmVuX25hbWUiOiJNVVJJRUwgTEVJVEFPIE1BUlFVRVMgRElOSVoiLCJlbWFpbCI6Im11cmllbC5kaW5pei5hZHZAZ21haWwuY29tIn0.R0z35H8h7Z-e0L-EJdmGT_PYqReSoGJncOEDunEe5iOiyE20RvjES8uSKLhD7oRE9hG0HcZNsJFaeLb530iAvaJbkdWEeF7rvwG9lF-EnKo_iLk7Gg4OV5xi0qx8Z_hEf9e5IyUtBS6b9x6zJiQgxJfoqh1eryJ4fyS1eE2JTejTQkg7wzb-ZZrK5JZoEUgslHVl86WWUdTyRjIjAoYqVjDJaBIZaoWol1LSn_yEZAml83sgyndPNTcDIo1_llLXEV4yMKO5PaO_ElO8wE--Ep2Dyid_4EwBQ72e094OJO9NF-Y137brb06obKO5yAuJr8L_6VFeUxkukq-6NFYpxA ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = PJE-TJCE-2G-StickySessionRule ; Value = "tjpjp44:pje-tjce-2g" ; Domain = pje.tjce.jus.br ; Path = /pje2grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+12/11/2024 16:11:04: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:11:11: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:11:11: Rodou

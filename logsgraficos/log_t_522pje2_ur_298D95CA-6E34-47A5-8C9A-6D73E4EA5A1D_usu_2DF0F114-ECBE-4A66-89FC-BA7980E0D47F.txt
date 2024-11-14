@@ -1,0 +1,17 @@
+05146428409@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 5.22.pje.2
+12/11/2024 16:24:32: Acessou https://pje.trt22.jus.br/segundograu/login.seam
+12/11/2024 16:24:34: Logou https://pje.trt22.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 16:24:34: Perfil advogado e usuário GABRIEL GALVAO DANTAS TENORIO
+OAB = 05146428409 ; URL = https://pje.trt22.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.22.pje.2 ; usuarioId = 05146428409@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 89d0b22e6a16f753~K6lgrlH8x88-q3LP7BuKJwzc ; Domain = pje.trt22.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt22.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = ccec2d69-da90-40e5-8e92-9bfe16088e4c ; Domain = pje.trt22.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt22.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkZDNjNmQ4YS1lMmYyLTQ2OGUtODBmMC04NzNiOTM0MTFkNGYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDM5NDczLCJzdWIiOiJiMTcxN2NmMy04NjcxLTQzODMtOGUyMC1lMWY4ZDhhNzRhNTYucGplIiwiZXhwIjoxNzMxNDQzMDczLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjk5NDYwLCJsb2dpbiI6IjA1MTQ2NDI4NDA5Iiwibm9tZSI6IkdBQlJJRUwgR0FMVkFPIERBTlRBUyBURU5PUklPIiwicGVyZmlsIjoyNjQxOSwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoyMzczNCwiZGVzY3JpY2FvIjoiR0FCUklFTCBHQUxWQU8gREFOVEFTIFRFTk9SSU8gKDA1MS40NjQuMjg0LTA5KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDIyIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3RwUGVyc2lzdGlkbyI6ZmFsc2V9 ; Domain = pje.trt22.jus.br ; Path = /
+Name = access_token_footer ; Value = smlp1YLyqhthybq0w9nXgGmuIboZ5KLEpsiKcTFwVPo ; Domain = pje.trt22.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwOGUxZDJkOC0wYjI5LTQ5MWItYjY2Yy1mZmZiYTQ4YzlmZGUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDM5NDczLCJzdWIiOiJiMTcxN2NmMy04NjcxLTQzODMtOGUyMC1lMWY4ZDhhNzRhNTYucGplIiwiZXhwIjoxNzMxNDgyNjczLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNTE0NjQyODQwOSIsInBlcmZpbCI6MjY0MTksIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMjIifQ.kz7VPf5acwljRo1Y2io-0_aFdOm1V04Egx_Cx7xhbhY ; Domain = pje.trt22.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 805B03E2A44D2CB2468917105514F783F495059C322D7604E52F76EEC862DB490430AB5625F8355E808F87F501B4EF819EC3 ; Domain = pje.trt22.jus.br ; Path = /
+)
+12/11/2024 16:24:35: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 16:24:39: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 16:24:39: Rodou

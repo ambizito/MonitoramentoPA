@@ -1,0 +1,68 @@
+06648573457@esouto@DDED2018-3966-4323-94BC-49F4E5A0E040@bezos em 5.06.pje.1
+14/11/2024 00:56:36: Acessou https://pje.trt6.jus.br/primeirograu/login.seam
+14/11/2024 00:56:38: Logou https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 00:56:39: Perfil advogado e usuário MYRELLA MARIA MORAES LUCKWU
+OAB = 06648573457 ; URL = https://pje.trt6.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.1 ; usuarioId = 06648573457@esouto@DDED2018-3966-4323-94BC-49F4E5A0E040@bezos ; Cookies (
+Name = JSESSIONID ; Value = c3204520f87cda6c~ws+Lpq1yeZRcAJLbQyN8nvor ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 1c2a9a0b-f3ed-4f35-a9b2-82a4f08b4289 ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4NWI3NDM2Yi0xMjI0LTQ1OTAtYmRmMy03MjhiZTU4MzVmZmYiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NTk3LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTYwMTk3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjExMTQ4ODgsImxvZ2luIjoiMDY2NDg1NzM0NTciLCJub21lIjoiTVlSRUxMQSBNQVJJQSBNT1JBRVMgTFVDS1dVIiwicGVyZmlsIjoxMzAyOTAsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6OTg5MzAsImRlc2NyaWNhbyI6Ik1ZUkVMTEEgTUFSSUEgTU9SQUVTIExVQ0tXVSAoMDY2LjQ4NS43MzQtNTcpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFJUNiIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = Vy9Xeua87UzHx6zXBTBP-nyUILxYQLSn-my899RKuiI ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIwNmNmNzYzYS1lOTgwLTRiNjgtOWMwYi0zMTdhYTEyNGNkZTciLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NTk3LCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTk5Nzk3LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNjY0ODU3MzQ1NyIsInBlcmZpbCI6MTMwMjkwLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDYifQ.q4rGevR_eZWqAXMP18mjwBqajfZ_YFua54gIzxR2gM0 ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 341524B75CEE590E71352ABE974BB2041BCEECE22F70D9F0FD4CCD611131F0C7E07412A446341E77950732695105F835CBFC ; Domain = pje.trt6.jus.br ; Path = /
+)
+14/11/2024 00:56:41: Total: 3
+14/11/2024 00:56:42: advogado 0001141-61.2024.5.06.0021 >> Processo com 2 parte(s), 30 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:56:42: advogado 0001141-61.2024.5.06.0021 >> Processo já foi verificado recentemente
+14/11/2024 00:56:45: advogado 0000378-58.2022.5.06.0012 >> Processo com 4 parte(s), 111 andamento(s) e 18 expediente(s) atualizado
+14/11/2024 00:57:14: Total: 1
+14/11/2024 00:57:17: advogado 0000560-74.2022.5.06.0002 >> Processo com 2 parte(s), 176 andamento(s) e 31 expediente(s) atualizado
+14/11/2024 00:57:17: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 31 e leu 4
+14/11/2024 00:57:18: Total: 1
+14/11/2024 00:57:18: Total: 1
+14/11/2024 00:57:20: advogado 0000709-18.2022.5.06.0181 >> Processo com 2 parte(s), 53 andamento(s) e 7 expediente(s) atualizado
+14/11/2024 00:57:20: Total: 3
+14/11/2024 00:57:20: Total: 3
+14/11/2024 00:57:23: advogado 0000549-48.2015.5.06.0145 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:57:23: advogado 0000549-48.2015.5.06.0145 >> Processo com 3 parte(s), 253 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:57:27: advogado 0000711-93.2022.5.06.0146 >> Processo com 2 parte(s), 202 andamento(s) e 32 expediente(s) atualizado
+14/11/2024 00:57:29: advogado 0000945-75.2022.5.06.0146 >> Processo com 2 parte(s), 95 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 00:57:29: Total: 26
+14/11/2024 00:57:29: Total: 26
+14/11/2024 00:57:32: advogado 0000060-69.2022.5.06.0014 >> Processo com 3 parte(s), 212 andamento(s) e 42 expediente(s) atualizado
+14/11/2024 00:57:34: advogado 0000065-50.2024.5.06.0005 >> Processo com 2 parte(s), 86 andamento(s) e 11 expediente(s) atualizado
+14/11/2024 00:57:36: advogado 0000108-46.2022.5.06.0008 >> Processo com 3 parte(s), 30 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:57:38: advogado 0000117-63.2022.5.06.0022 >> Processo com 2 parte(s), 62 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 00:57:40: advogado 0000211-74.2022.5.06.0001 >> Processo com 2 parte(s), 83 andamento(s) e 14 expediente(s) atualizado
+14/11/2024 00:57:45: advogado 0000289-30.2022.5.06.0143 >> Processo com 5 parte(s), 227 andamento(s) e 35 expediente(s) atualizado
+14/11/2024 00:57:45: advogado 0000378-58.2022.5.06.0012 >> Processo já foi verificado recentemente
+14/11/2024 00:57:46: advogado 0000382-86.2022.5.06.0015 >> Processo com 2 parte(s), 28 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:57:48: advogado 0000387-79.2024.5.06.0002 >> Processo com 2 parte(s), 37 andamento(s) e 8 expediente(s) atualizado
+14/11/2024 00:57:52: advogado 0000452-88.2022.5.06.0020 >> Processo com 5 parte(s), 178 andamento(s) e 37 expediente(s) atualizado
+14/11/2024 00:57:54: advogado 0000468-81.2022.5.06.0007 >> Processo com 4 parte(s), 144 andamento(s) e 27 expediente(s) atualizado
+14/11/2024 00:57:56: advogado 0000469-95.2024.5.06.0007 >> Processo com 3 parte(s), 33 andamento(s) e 4 expediente(s) atualizado
+14/11/2024 00:57:59: advogado 0000501-65.2022.5.06.0009 >> Processo com 4 parte(s), 148 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 00:58:01: advogado 0000558-68.2022.5.06.0014 >> Processo com 2 parte(s), 139 andamento(s) e 29 expediente(s) atualizado
+14/11/2024 00:58:01: advogado 0000560-74.2022.5.06.0002 >> Processo já foi verificado recentemente
+14/11/2024 00:58:06: advogado 0000582-23.2022.5.06.0006 >> Processo com 4 parte(s), 273 andamento(s) e 60 expediente(s) atualizado
+14/11/2024 00:58:09: advogado 0000616-05.2021.5.06.0015 >> Processo com 6 parte(s), 95 andamento(s) e 25 expediente(s) atualizado
+14/11/2024 00:58:12: advogado 0000656-83.2022.5.06.0004 >> Processo com 2 parte(s), 155 andamento(s) e 24 expediente(s) atualizado
+14/11/2024 00:58:16: advogado 0000685-45.2022.5.06.0001 >> Processo com 4 parte(s), 256 andamento(s) e 54 expediente(s) atualizado
+14/11/2024 00:58:18: advogado 0000752-52.2023.5.06.0008 >> Processo com 2 parte(s), 77 andamento(s) e 10 expediente(s) atualizado
+14/11/2024 00:58:20: advogado 0000848-29.2021.5.06.0011 >> Processo com 2 parte(s), 120 andamento(s) e 19 expediente(s) atualizado
+14/11/2024 00:58:22: advogado 0000869-47.2022.5.06.0018 >> Processo com 2 parte(s), 103 andamento(s) e 16 expediente(s) atualizado
+14/11/2024 00:58:25: advogado 0001012-40.2020.5.06.0007 >> Processo com 4 parte(s), 94 andamento(s) e 21 expediente(s) atualizado
+14/11/2024 00:58:25: advogado 0001141-61.2024.5.06.0021 >> Processo já foi verificado recentemente
+14/11/2024 00:58:26: advogado 0001157-48.2024.5.06.0010 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+14/11/2024 00:58:29: advogado 0010376-80.2013.5.06.0007 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 00:58:29: advogado 0010376-80.2013.5.06.0007 >> Processo com 4 parte(s), 257 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 00:58:29: Subpastas não implementado ainda.
+html: salvo no mongo.
+14/11/2024 00:58:30: Total: 1
+14/11/2024 00:58:30: Total: 1
+14/11/2024 00:58:35: advogado 0000926-72.2020.5.06.0006 >> Processo com 4 parte(s), 334 andamento(s) e 68 expediente(s) atualizado
+14/11/2024 00:58:37: Entrou na aba acervo do perfil e mapeou 31 processos e teve erro em 0 processos
+14/11/2024 00:58:37: Rodou

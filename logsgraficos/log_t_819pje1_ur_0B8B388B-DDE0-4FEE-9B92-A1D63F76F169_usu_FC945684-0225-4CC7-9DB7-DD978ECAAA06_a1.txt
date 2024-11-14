@@ -1,0 +1,24 @@
+RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark em 8.19.pje.1
+12/11/2024 18:15:40: Acessou https://tjrj.pje.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Eu151929 0.na6g1ag07dw "ANA LUIZA BARRETO VERAS:05291758430"
+12/11/2024 18:15:43: Logou https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 18:15:43: Perfil advogado e usuário ANA LUIZA BARRETO VERAS
+OAB = RN19356 ; URL = https://tjrj.pje.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.19.pje.1 ; usuarioId = RN19356@safieheveras@0B8B388B-DDE0-4FEE-9B92-A1D63F76F169@mark ; Cookies (
+Name = JSESSIONID ; Value = fiFe1XD4bJw4cqU7MrNaSjcAikqdNusAH3ys8X5C.pje-legacy-6494dcd4ff-7w58z ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NzQ5NDIsImlhdCI6MTczMTQ0NjE0MiwiYXV0aF90aW1lIjoxNzMxNDQ2MTQyLCJqdGkiOiI0MGI0MjA0NC0wNzU5LTRlMTctOTkzYy1jZjMyNGFmYjYwZDUiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJqLTFnIiwic3ViIjoiMjNmZjVlMjgtNGMwMS00YThhLTlkMmEtNWVmYWEzZDFiMTBhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpyai0xZyIsInNlc3Npb25fc3RhdGUiOiI0MmNlNGNhOC05YTEzLTRmODAtYWE2NC04OTM1OTg4MmUzMWIiLCJhdF9oYXNoIjoiVklYbE1uV2wwYUZuQk1VQ2g4UkxvdyIsImFjciI6IjEiLCJzaWQiOiI0MmNlNGNhOC05YTEzLTRmODAtYWE2NC04OTM1OTg4MmUzMWIiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkFOQSBMVUlaQSBCQVJSRVRPIFZFUkFTIiwianRyIjoiODE5IiwiSlRSIjoiODE5IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDUyOTE3NTg0MzAiLCJnaXZlbl9uYW1lIjoiQU5BIExVSVpBIEJBUlJFVE8gVkVSQVMiLCJlbWFpbCI6ImNvbnRhdG9Ac2x2LmFkdi5iciJ9.XPVN8p6G_Q306Bmeh61lu9Ih-VBzSXA9jPQ4dLLTYZtsg10jUxJ5by63aBtwo6Ym87Gf3JGLHqTZN-apksJQo2mgBcbS6iSgoxM0uSjaE8xB_SiAq6-MuUx5sfTnWm5yiQnSzTl55-KXtxR56C6NvTGSZj7n7oEopQg8x2022BonoZreCyIWemJ5PqgjeX2rVgIuMIiO2bz7DHuyo_RspCL0-qBccXLLAF9VOfzHznPrG5BmIMzn6AbuVhATib_-YYFotY7-qFKExZjbZ7BeRrgwVhpcKADQdPyeIiEYnhZAJQ4xquLvJ-j3Y1QOucBzAlZRlnYMru_JHE3SFMug2w ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = PJE-TJRJ-1G-StickySessionRule ; Value = "pje-legacy-6494dcd4ff-7w58z:pje-tjrj-1g" ; Domain = tjrj.pje.jus.br ; Path = /1g
+Name = AWSALBAPP-0 ; Value = AAAAAAAAAADcw51wWy9gA3IoSRlaF2NafuMpis4dPktyZbr19KgCfYUkgME3z+aeKEtDCdQNLjHzxj4rGL8LNUBtG140LrCjZoyHA26PLszMdmiCYSvSNum0PhsyHXL2t2tO1QSGYilgUDA= ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-1 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-2 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = AWSALBAPP-3 ; Value = _remove_ ; Domain = tjrj.pje.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_3DD55D7B3F9C2658570A07F31C6DFDD0_perc_100000_ol_0_mul_1_app-3A4c976cd5f4b19d31_0_rcs-3Acss_0 ; Domain = tjrj.pje.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = tjrj.pje.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_5_sn_3DD55D7B3F9C2658570A07F31C6DFDD0_perc_100000_ol_0_mul_1_app-3A4c976cd5f4b19d31_0_rcs-3Acss_0 ; Domain = .pje.jus.br ; Path = /
+)
+12/11/2024 18:15:43: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:15:44: Total: 1
+12/11/2024 18:15:44: Total: 1
+12/11/2024 18:15:46: advogado 0804154-21.2024.8.19.0054 >> Processo com 3 parte(s), 74 andamento(s) e 15 expediente(s) atualizado
+12/11/2024 18:15:47: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 18:15:47: Rodou

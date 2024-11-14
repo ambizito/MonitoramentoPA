@@ -1,0 +1,18 @@
+RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 4.05.pje.1.81
+13/11/2024 00:41:56: Acessou https://pje.jfce.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar rodrigo10 0U4ICy4ODjGuJWAio7RyGGdM0jdmHQim "RODRIGO MORQUECHO DE CARVALHO:07257067406"
+13/11/2024 00:41:58: Logou https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:41:58: Perfil advogado e usuário RODRIGO MORQUECHO DE CARVALHO
+OAB = RN18719 ; URL = https://pje.jfce.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.81 ; usuarioId = RN18719@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = QmkIkdMLErDZDt-vVQ0jiArc.node04 ; Domain = pje.jfce.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfce.jus.br ; Path = /
+)
+13/11/2024 00:42:05: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+13/11/2024 00:42:21: Total: 0
+13/11/2024 00:42:21: Total: 0
+13/11/2024 00:42:37: Total: 0
+13/11/2024 00:42:37: Total: 0
+13/11/2024 00:42:49: Total: 0
+13/11/2024 00:42:49: Total: 0
+13/11/2024 00:42:50: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:42:51: Rodou

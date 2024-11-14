@@ -1,0 +1,23 @@
+05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.22.pje.1
+13/11/2024 00:08:15: Acessou https://pjepg.tjro.jus.br/login.seam
+13/11/2024 00:08:16: Logou https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam
+13/11/2024 00:08:16: Perfil advogado e usuário DIEGO DOMICIANO VIEIRA COSTA CABRAL
+OAB = 05479437410 ; URL = https://pjepg.tjro.jus.br/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.22.pje.1 ; usuarioId = 05479437410@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = f5avraaaaaaaaaaaaaaaa_session_ ; Value = LPHCNFANPPCOMKFPLGNKLAKHMLOJBNAGGGJLKOHELAEOACOEOOPLCKEMKDFMAPDGIOODBMJAFHLAJNCLCCDAFABCNBIIJNGNKAHEOOIKOMIPOGEPKFHNPLJKOOHONLIF ; Domain = pjepg.tjro.jus.br ; Path = /Painel/painel_usuario/advogado.seam
+Name = JSESSIONID ; Value = 7b56d90097a0f33faf1b131a1cc391ff~5uDP2jlNgAshTy74ErtMz-KuHmRlZTGzZRZ7HYax.pjepg-77d54846dc-7x7hh ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = TS01051b55 ; Value = 015c8d21738033f0def85ab478df67761b2649375870ebc299be11c11f4b4a3e3881b9b104648834e43d6f21cb682d9d4455c702d170585b931388eb1d7d24ae5ff2128fbbb7ef316d468a19e26b0e797610308ff573d36f146472b74a26d6b82d1b1bb4af9bd8ab1aa90c7a75a562fbe81c4e0888 ; Domain = pjepg.tjro.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pjepg.tjro.jus.br ; Path = /
+)
+13/11/2024 00:08:17: Total: 1
+13/11/2024 00:08:23: advogado 7010428-82.2018.8.22.0007 >> Processo com 4 parte(s), 61 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:08:23: Total: 1
+13/11/2024 00:08:28: advogado 7010428-82.2018.8.22.0007 >> Processo com 4 parte(s), 61 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 00:08:28: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência e detectou 7 e leu 1
+13/11/2024 00:08:32: Total: 1
+13/11/2024 00:08:32: Total: 1
+13/11/2024 00:08:32: advogado 7010428-82.2018.8.22.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:08:32: Total: 1
+13/11/2024 00:08:32: Total: 1
+13/11/2024 00:08:34: advogado 7000707-98.2021.8.22.0008 >> Processo com 7 parte(s), 23 andamento(s) e 1 expediente(s) atualizado
+13/11/2024 00:08:40: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+13/11/2024 00:08:40: Rodou

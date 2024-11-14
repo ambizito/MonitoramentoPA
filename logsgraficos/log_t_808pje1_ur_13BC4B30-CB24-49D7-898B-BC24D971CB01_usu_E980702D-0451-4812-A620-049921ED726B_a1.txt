@@ -1,0 +1,22 @@
+PR82985@cichellagoveia@13BC4B30-CB24-49D7-898B-BC24D971CB01@mark em 8.08.pje.1
+12/11/2024 16:09:49: Acessou https://pje.tjes.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 080313 0.ukxtwskfpho "(14649286819876362687636916634) BRUNO CICHELLA GOVEIA:05857963940"
+12/11/2024 16:09:56: Logou https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 16:09:56: Perfil advogado e usuário BRUNO CICHELLA GOVEIA
+OAB = PR82985 ; URL = https://pje.tjes.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.1 ; usuarioId = PR82985@cichellagoveia@13BC4B30-CB24-49D7-898B-BC24D971CB01@mark ; Cookies (
+Name = JSESSIONID ; Value = xKMXBL-wfVTkegEKm-3J-F7t7lw9oa-5WkbIKtwG.pje1g-8659f8cdd8-lmsm2 ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0NjczOTYsImlhdCI6MTczMTQzODU5NiwiYXV0aF90aW1lIjoxNzMxNDM4NTk2LCJqdGkiOiIyYTMwZGEyZS02YjRhLTQwOTMtOTljMi01MmFmZTY5YWI5Y2YiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTFnLWNsb3VkIiwic3ViIjoiZTliOWIzOGUtMGM1YS00M2VhLTljNmQtZWVmYzM3ODEwZjU0IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0xZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiJmYWEyMDI5OC05NDU2LTRiMjAtYjdjZC1lNmNhMWY2MjYyZGYiLCJhdF9oYXNoIjoiQU1GQW1fN3RXbDgyYjNyNkNmelJyQSIsImFjciI6IjEiLCJzaWQiOiJmYWEyMDI5OC05NDU2LTRiMjAtYjdjZC1lNmNhMWY2MjYyZGYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkJSVU5PIENJQ0hFTExBIEdPVkVJQSIsImp0ciI6IjgwOCIsInByZWZlcnJlZF91c2VybmFtZSI6IjA1ODU3OTYzOTQwIiwiZ2l2ZW5fbmFtZSI6IkJSVU5PIENJQ0hFTExBIEdPVkVJQSIsImVtYWlsIjoic2FjQGNpY2hlbGxhYWR2b2dhZG8uY29tLmJyIn0.AK57HiC4tWt28Furx1dKBMvOClpQChkPQnpt1o0Gn2YMCzfr6YJRFSzRZzMOaJbFz_nmLsqJT_zKqAGaJ5141RY3bNj9QUbV5owHMcEVUCLCOO09sRJXukQFOEF86mkQLI8Q6Ywn8RWrCSCWarDvINPPwzNue7h2J9sjuC4zj7WUOcX33PFL4e4X9qPaOpicTVUSAUk9BFx9x8HNjVxal8T8JyOKLIfkRmpfoxN9zrsaSoMtkOuPAdV2B9jmifQ0EDIu1Wx5H9xuB7t0x2clKBIr5tfqQt1lzUl_bchU9MvpbOpWdkUPQM0_HyNw3WqFQLe4s3l9XlxLYz4t6oFvFg ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = PJE-TJES-1G-StickySessionRule ; Value = "pje1g-8659f8cdd8-lmsm2:pje-tjes-1g" ; Domain = pje.tjes.jus.br ; Path = /pje
+Name = AWSALB ; Value = fswgPXqgcW+dHfsh8YoQ+XFXegnBBf0XrVgpgSNuQ2sqWkH/Mwe0Wv3upnwDeBZJQvZhpigwcEGiGMtIWQgecKwq8f3kq/48qN7CM9EppomNwpELHnEPgeYXcQBi ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = fswgPXqgcW+dHfsh8YoQ+XFXegnBBf0XrVgpgSNuQ2sqWkH/Mwe0Wv3upnwDeBZJQvZhpigwcEGiGMtIWQgecKwq8f3kq/48qN7CM9EppomNwpELHnEPgeYXcQBi ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = cd32abc5-c88a-469a-9eef-6317b0aba025 ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+12/11/2024 16:09:57: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 16:10:00: Total: 2
+12/11/2024 16:10:00: Total: 2
+12/11/2024 16:10:02: advogado 0003497-24.2018.8.08.0024 >> Processo com 2 parte(s), 48 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:10:04: advogado 0030779-42.2015.8.08.0024 >> Processo com 2 parte(s), 15 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:10:11: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+12/11/2024 16:10:11: Rodou

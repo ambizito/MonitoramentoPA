@@ -1,0 +1,13 @@
+PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.03.pje.1
+12/11/2024 22:06:12: Acessou https://pje.tjap.jus.br/1g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 0.klns0eflrb2 "JOSE PIRES RODRIGUES FILHO:04944471416"
+12/11/2024 22:06:15: Logou https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam
+12/11/2024 22:06:15: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = PB16549 ; URL = https://pje.tjap.jus.br/1g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.03.pje.1 ; usuarioId = PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = 9FUWDxWuUBqgf4Z8Soo5qNnikgdBb8peepdFDAzd.prd-1g-5f4d9c4447-5lss5 ; Domain = pje.tjap.jus.br ; Path = /1g
+Name = INGRESSCOOKIE ; Value = f398379a9907d631 ; Domain = pje.tjap.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjap.jus.br ; Path = /
+)
+12/11/2024 22:06:16: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:06:18: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:06:18: Rodou

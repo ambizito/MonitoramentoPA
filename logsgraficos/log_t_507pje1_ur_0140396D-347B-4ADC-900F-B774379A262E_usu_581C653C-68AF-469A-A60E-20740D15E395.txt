@@ -1,0 +1,220 @@
+67623476300@avelinocoelhoadv@0140396D-347B-4ADC-900F-B774379A262E@linus em 5.07.pje.1
+13/11/2024 00:10:21: Acessou https://pje.trt7.jus.br/primeirograu/login.seam
+13/11/2024 00:10:23: Logou https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 00:10:24: Perfil advogado e usuário GILMAR COELHO DE SALLES J&Uacute;NIOR
+OAB = 67623476300 ; URL = https://pje.trt7.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.07.pje.1 ; usuarioId = 67623476300@avelinocoelhoadv@0140396D-347B-4ADC-900F-B774379A262E@linus ; Cookies (
+Name = JSESSIONID ; Value = 32d127e4cea56bad~KXR3WuRi98aolbHps66fNiyT ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt7.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 66dedfc0-7dd4-40a2-9013-749e83ff7c0d ; Domain = pje.trt7.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJhZTllYTZmNS05NDgwLTRkNTItOTYyZi1lNTcxODcxYTVkYTkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY3NDIxLCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNDcxMDIxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjUyMCwibG9naW4iOiI2NzYyMzQ3NjMwMCIsIm5vbWUiOiJHSUxNQVIgQ09FTEhPIERFIFNBTExFUyBKw5pOSU9SIiwicGVyZmlsIjo3NTE4LCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjU2NDYsImRlc2NyaWNhbyI6IkdJTE1BUiBDT0VMSE8gREUgU0FMTEVTIErDmk5JT1IgKDY3NjIzNDc2MzAwKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDciLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt7.jus.br ; Path = /
+Name = access_token_footer ; Value = BdaTpWBKDfTvXoHVe6K24VCBwYyfGqU7fKA0nDlvHEE ; Domain = pje.trt7.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJmMWZiODA5OC0zNmUzLTQ3NDYtOWFjNC1kMGFhOWJmYjAwYTMiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY3NDIxLCJzdWIiOiIyN2ZjYzEwYS04ZmMwLTQzNjItYjJmZC0wYzg2NzkxMjExYzUucGplIiwiZXhwIjoxNzMxNTEwNjIxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI2NzYyMzQ3NjMwMCIsInBlcmZpbCI6NzUxOCwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvcmlnZW0iOiJUUlQ3In0.7H06ub_GmaLRRrC2GAJG2vj32FNmL5o2fA-2RJBkWOI ; Domain = pje.trt7.jus.br ; Path = /
+Name = Xsrf-Token ; Value = B16226D5B0113E292AC99857B6463000002226A9015A95B6C35026FEBC6008EDB75D3364573EC2070D11A2D85A9247861DBF ; Domain = pje.trt7.jus.br ; Path = /
+)
+13/11/2024 00:10:25: Total: 2
+13/11/2024 00:10:28: advogado 0000300-66.2024.5.07.0012 >> Processo com 4 parte(s), 49 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 00:10:32: advogado 0000662-83.2015.5.07.0012 >> Processo com 2 parte(s), 192 andamento(s) e 34 expediente(s) atualizado
+13/11/2024 00:10:32: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 2 e leu 2
+13/11/2024 00:10:37: Total: 2
+13/11/2024 00:10:37: Total: 2
+13/11/2024 00:10:37: advogado 0001089-63.2019.5.07.0037 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0001258-50.2019.5.07.0037 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: Total: 4
+13/11/2024 00:10:37: Total: 4
+13/11/2024 00:10:37: advogado 0000676-66.2022.5.07.0030 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0001558-43.2013.5.07.0030 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0001850-33.2010.5.07.0030 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0001991-81.2012.5.07.0030 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: Total: 3
+13/11/2024 00:10:37: Total: 3
+13/11/2024 00:10:37: advogado 0000384-11.2018.5.07.0034 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0001514-75.2014.5.07.0034 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0002064-94.2019.5.07.0034 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: Total: 169
+13/11/2024 00:10:37: Total: 169
+13/11/2024 00:10:37: advogado 0000004-68.2024.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000023-49.2016.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000024-62.2020.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000029-60.2015.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000041-69.2018.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000043-68.2024.5.07.0003 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000048-30.2019.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000066-51.2014.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000068-24.2019.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000076-20.2022.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000078-05.2022.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000091-68.2022.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000093-50.2022.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000094-16.2019.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:37: advogado 0000097-82.2011.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000098-59.2023.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000099-49.2011.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000100-51.2022.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000101-47.2019.5.07.0003 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000111-83.2022.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000113-76.2015.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000115-28.2019.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000123-82.2022.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000124-64.2022.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000124-70.2022.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000125-49.2022.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000127-43.2022.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000127-63.2020.5.07.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000130-53.2022.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000132-56.2022.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000135-11.2022.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000136-78.2022.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000136-93.2022.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000141-20.2024.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000147-68.2017.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000166-79.2014.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000192-65.2023.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000200-05.2019.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000204-24.2019.5.07.0013 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000205-92.2022.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000210-34.2019.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000234-77.2019.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000252-15.2016.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000269-92.2014.5.07.0013 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000283-36.2019.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000292-72.2022.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000300-66.2024.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000323-79.2019.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000356-64.2022.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000366-31.2019.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000367-31.2019.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000387-80.2023.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000392-02.2014.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000402-83.2022.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000407-38.2023.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000414-21.2018.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000418-34.2018.5.07.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000422-98.2018.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000427-57.2022.5.07.0017 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000429-51.2022.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000452-30.2018.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000465-48.2017.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000486-95.2015.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000508-41.2024.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000518-07.2018.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000521-76.2015.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000545-52.2020.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000551-03.2023.5.07.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000556-07.2018.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000556-62.2017.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000556-68.2017.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000564-93.2018.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000573-05.2011.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000575-13.2022.5.07.0003 >> Processo já foi verificado recentemente
+13/11/2024 00:10:38: advogado 0000576-95.2022.5.07.0003 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000579-32.2013.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000584-48.2022.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000586-30.2022.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000591-93.2020.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000607-26.2015.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000622-27.2012.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000631-98.2022.5.07.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000634-28.2023.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000662-83.2015.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000681-40.2020.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000691-04.2022.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000696-18.2011.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000705-54.2023.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000725-62.2016.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000738-27.2017.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000740-71.2010.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000741-31.2011.5.07.0003 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000758-75.2022.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000767-56.2016.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000781-15.2022.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000804-57.2014.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000814-50.2018.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000822-56.2020.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000833-30.2021.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000837-90.2023.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000838-82.2021.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000839-67.2021.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000892-72.2022.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000907-06.2010.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000912-75.2017.5.07.0003 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000916-60.2013.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000940-90.2020.5.07.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000942-63.2010.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000955-59.2020.5.07.0018 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000981-73.2014.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000981-85.2014.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000993-39.2013.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0000999-22.2017.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001004-30.2020.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001017-49.2017.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001019-42.2010.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001045-26.2017.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001048-78.2013.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001051-02.2023.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001068-95.2010.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001082-25.2014.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001101-61.2019.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001119-62.2022.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001169-69.2014.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001172-37.2012.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001223-29.2014.5.07.0017 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001232-67.2018.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001243-14.2019.5.07.0027 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001251-88.2018.5.07.0006 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001290-66.2019.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001299-32.2018.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001386-39.2014.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001472-49.2010.5.07.0007 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001478-98.2015.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001479-15.2017.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001527-73.2014.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001538-97.2013.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001583-46.2013.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001586-66.2016.5.07.0010 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001602-07.2013.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001619-04.2017.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001628-63.2017.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001643-24.2010.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001656-87.2010.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001668-90.2013.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001684-07.2014.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001699-94.2014.5.07.0008 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001746-93.2013.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001764-40.2015.5.07.0013 >> Processo já foi verificado recentemente
+13/11/2024 00:10:39: advogado 0001774-46.2013.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001775-40.2013.5.07.0013 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001790-75.2014.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001892-60.2015.5.07.0013 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001919-34.2015.5.07.0016 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001927-73.2017.5.07.0005 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001973-37.2014.5.07.0015 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0002085-53.2011.5.07.0001 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0005300-75.2009.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0011300-40.1999.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0044800-48.2009.5.07.0012 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0098800-16.2000.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0130800-54.2009.5.07.0011 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0169800-40.1999.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0176200-64.1999.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0185400-72.1997.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0206900-63.1998.5.07.0002 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0208400-60.2009.5.07.0009 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0226200-24.2006.5.07.0004 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0229500-61.2006.5.07.0014 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: Total: 4
+13/11/2024 00:10:40: Total: 4
+13/11/2024 00:10:40: advogado 0000062-05.2010.5.07.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0000244-88.2010.5.07.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0000483-14.2018.5.07.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0000564-26.2019.5.07.0023 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: Total: 3
+13/11/2024 00:10:40: Total: 3
+13/11/2024 00:10:40: advogado 0000731-81.2017.5.07.0033 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001148-13.2012.5.07.0032 >> Processo já foi verificado recentemente
+13/11/2024 00:10:40: advogado 0001430-43.2015.5.07.0033 >> Processo já foi verificado recentemente
+13/11/2024 00:10:41: Total: 1
+13/11/2024 00:10:41: Total: 1
+13/11/2024 00:10:41: advogado 0049600-26.2008.5.07.0022 >> Processo já foi verificado recentemente
+13/11/2024 00:10:47: Entrou na aba acervo do perfil e mapeou 186 processos e teve erro em 0 processos
+13/11/2024 00:10:47: Rodou

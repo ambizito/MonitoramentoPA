@@ -1,0 +1,25 @@
+PB19600@portoemaia@CED18B30-4BF2-404A-9222-0077FFD76501@bezos em 4.05.pje.1.83
+12/11/2024 23:11:07: Acessou https://pje.jfpe.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 230104 iwnszAcb8eHwkHoUqJchL3aRXHCaxWs7 "(9840792260056197938956338176) BARBARA CAMPOS PORTO PALHANO:05520521409"
+12/11/2024 23:11:09: Logou https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:11:09: Perfil advogado e usuário BÁRBARA CAMPOS PORTO
+OAB = PB19600 ; URL = https://pje.jfpe.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.83 ; usuarioId = PB19600@portoemaia@CED18B30-4BF2-404A-9222-0077FFD76501@bezos ; Cookies (
+Name = JSESSIONID ; Value = N5vOgqsZaC0MU1-zM4SQuyBH.node04 ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS01ad061a ; Value = 01c40b357c49cf63504b02f751af96985afd15f6d5723a4c8bc0e9e381a9117599af7a6c055d749f1f1e981ade3a5dfcf5b66bf5eaa721188de408bf3a350f29cd9964bd3e ; Domain = pje.jfpe.jus.br ; Path = /pje
+Name = TS8f0a270c027 ; Value = 08e9e04252ab20002d73f79789d48d05337facdbcea0cdadda5382a59686844f7988b0c9385e0eb4088a59fcec113000bffc619f456f0c1f413215b5ec16b7a427531fecc4e8779e4e30a1e22d672ea69f5e719bc83fed7d74ba326b68d85297 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357cbde45292f1a6fc23a4a3834c2a72d303723a4c8bc0e9e381a9117599af7a6c05a1afe41154cc7ba9b1cbbb11bc4026cb0d60312d51474c92811496092e9e31b2 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_DF711A0C09972F139B7252276CA08968_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = pje.jfpe.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfpe.jus.br ; Path = /
+Name = TS011cf4ca ; Value = 01c40b357cbde45292f1a6fc23a4a3834c2a72d303723a4c8bc0e9e381a9117599af7a6c05a1afe41154cc7ba9b1cbbb11bc4026cb0d60312d51474c92811496092e9e31b2 ; Domain = .pje.jfpe.jus.br ; Path = /
+Name = dtCookie ; Value = v_4_srv_1_sn_DF711A0C09972F139B7252276CA08968_perc_100000_ol_0_mul_1_app-3A21b222d9fefa68a0_1 ; Domain = .jfpe.jus.br ; Path = /
+)
+12/11/2024 23:11:18: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 23:11:38: Total: 1
+12/11/2024 23:11:38: Total: 1
+12/11/2024 23:11:38:  0807409-96.2018.4.05.8306 >> Processo já foi verificado recentemente
+12/11/2024 23:12:01: Total: 0
+12/11/2024 23:12:01: Total: 0
+12/11/2024 23:12:15: Total: 0
+12/11/2024 23:12:15: Total: 0
+12/11/2024 23:12:20: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 23:12:20: Rodou

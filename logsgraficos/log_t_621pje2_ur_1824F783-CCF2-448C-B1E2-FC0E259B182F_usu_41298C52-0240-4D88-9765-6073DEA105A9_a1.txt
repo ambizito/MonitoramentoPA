@@ -1,0 +1,12 @@
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 6.21.pje.2
+12/11/2024 18:48:03: Acessou https://pje.tre-rs.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.dun2cn2xttf "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 18:48:06: Erro no acesso: Desconhecido
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 6.21.pje.2
+12/11/2024 18:49:07: Acessou https://pje.tre-rs.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.l8bgg8e2lm4 "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 18:49:09: Erro no acesso: Desconhecido
+RN5382@marcellorocha@1824F783-CCF2-448C-B1E2-FC0E259B182F@berners em 6.21.pje.2
+12/11/2024 18:50:10: Acessou https://pje.tre-rs.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 12345678 0.dun2cn2xttf "MARCELLO ROCHA LOPES:83850333434"
+12/11/2024 19:06:52: Erro no acesso: Desconhecido

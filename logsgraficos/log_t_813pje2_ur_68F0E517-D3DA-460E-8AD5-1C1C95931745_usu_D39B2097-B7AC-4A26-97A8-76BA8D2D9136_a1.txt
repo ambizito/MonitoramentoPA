@@ -1,0 +1,15 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 8.13.pje.2
+12/11/2024 19:31:43: Acessou https://pjerecursal.tjmg.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 0.6oness6l4y6 "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 19:31:45: Logou https://pjerecursal.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:31:45: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pjerecursal.tjmg.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.13.pje.2 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = cCl3ZnMKvFZkzJjKPkP_AKFiYzRbWOBX49A00vp-.pjerecursal-poapp03.intra.tjmg.gov.br ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Nzk1MDUsImlhdCI6MTczMTQ1MDcwNSwiYXV0aF90aW1lIjoxNzMxNDUwNzA1LCJqdGkiOiJlNGNlOTAzYS05MmRlLTRmOWMtYjU0ZS1jODg4YzEyYWY1NDAiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10am1nLTJnIiwic3ViIjoiODQxOTY3YzMtMDAyYS00ZDNiLWFjYzgtNTZiODk4ZjY3NDQ0IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGptZy0yZyIsInNlc3Npb25fc3RhdGUiOiI2YWU2ZDMwNy1kYzQ5LTRlZTktYjU5MC0yM2NkZWM1NjBjMDgiLCJhdF9oYXNoIjoiLXlxb1UzeUdYb0l5Ynd6QnRublBKQSIsImFjciI6IjEiLCJzaWQiOiI2YWU2ZDMwNy1kYzQ5LTRlZTktYjU5MC0yM2NkZWM1NjBjMDgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6Ik1BTk9MWVMgTUFSQ0VMSU5PIFBBU1NFUkFUIERFIFNJTEFOUyIsIkpUUiI6IjgxMyIsImp0ciI6IjgxMyIsInByZWZlcnJlZF91c2VybmFtZSI6IjAwODEwMDY0NDY0IiwiZ2l2ZW5fbmFtZSI6Ik1BTk9MWVMgTUFSQ0VMSU5PIFBBU1NFUkFUIERFIFNJTEFOUyIsImVtYWlsIjoicHNpbGFuc2FkdkBvdXRsb29rLmNvbSJ9.wyaOHHUTNhCkLn5ZMOScOcbXikSNOq9y_NRlZzW91IroLMtmjO8poNiB6qVgJHNPXhsJHy54s1heat-t3Q14rGCFaZVPTA8KXK-lL8Z93qnOdVtBg5Wt5SdAVyQRchkuIekSITlOaVvRuXILiClzZnuK2GQR5M9lMB1Fl7Lv2mh3jPReuvL4jYzzZHaBNv1BA3XDZwwzSgAcRnUWy2d2TuVYMO0be6TUihDPosr1Ylat7MgrUtmMITAnK-6koSpTlMKlgeW6mLWDW7PtKfeBHZnHhreohEQVMUXtaRzqH0KzQvbQ5Eqz7aOttEPNJFiF13Cgoqr-JEVHr0pAkXe3TQ ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = PJE-TJMG-2G-StickySessionRule ; Value = pjerecursal-poapp03:pje-tjmg-2g ; Domain = pjerecursal.tjmg.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pjerecursal.tjmg.jus.br ; Path = /
+)
+12/11/2024 19:31:46: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:31:47: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 19:31:47: Rodou

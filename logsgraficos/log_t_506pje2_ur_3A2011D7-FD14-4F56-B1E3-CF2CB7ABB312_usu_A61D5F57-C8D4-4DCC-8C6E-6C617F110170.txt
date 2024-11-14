@@ -1,0 +1,17 @@
+87689693415@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos em 5.06.pje.2
+14/11/2024 00:58:01: Acessou https://pje.trt6.jus.br/segundograu/login.seam
+14/11/2024 00:58:02: Logou https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 00:58:02: Perfil advogado e usuário ADRIANA ANDRADE SINEDINO DE OLIVEIRA
+OAB = 87689693415 ; URL = https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.2 ; usuarioId = 87689693415@escritoriorocha@3A2011D7-FD14-4F56-B1E3-CF2CB7ABB312@bezos ; Cookies (
+Name = JSESSIONID ; Value = 38a8f9a2afd95a2d~IFCUfw7fAdkgnX8iZ5qUMIRF ; Domain = pje.trt6.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = 0f684f54-0ff2-40c2-8b13-fa7081ea269c ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJiN2VjMjBkMi01OTkwLTQ0MTMtYjVkNi02OGNkODNmNGI0ODAiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NjgxLCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTYwMjgxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjEyMTQ3NSwibG9naW4iOiI4NzY4OTY5MzQxNSIsIm5vbWUiOiJBRFJJQU5BIEFORFJBREUgU0lORURJTk8gREUgT0xJVkVJUkEiLCJwZXJmaWwiOjI1OTY2LCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjIyNDE3LCJkZXNjcmljYW8iOiJBRFJJQU5BIEFORFJBREUgU0lORURJTk8gREUgT0xJVkVJUkEgKDg3Ni44OTYuOTM0LTE1KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDYiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = S7K6VbVQnFuKgIwDcULWT6ndHEB7pZdWr8ql31h4rWY ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2OTA0MTI4MC1hYzUwLTQ4YWMtOGQ3Yy0zOTA1YWFjODNlMzIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NjgxLCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTk5ODgxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiI4NzY4OTY5MzQxNSIsInBlcmZpbCI6MjU5NjYsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNiJ9.3orvF76N28VXG99xd2eThEgCrbSWhzAz3-wMKOs_CWQ ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = C9AE0CEB7C219757F5B55A62587B0FD8A43E23E8D375CA7E5603EFBF9CB60733F814442E44010032188346412C23578A485B ; Domain = pje.trt6.jus.br ; Path = /
+)
+14/11/2024 00:58:03: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 00:58:05: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+14/11/2024 00:58:05: Rodou

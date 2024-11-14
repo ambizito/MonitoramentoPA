@@ -1,0 +1,20 @@
+PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos em 8.20.pje.1
+13/11/2024 01:01:50: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Wms@2546 0.ukxtwskfpho "WILSON RIBEIRO DE MORAES NETO:05651954414"
+13/11/2024 01:01:54: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:01:54: Perfil advogado e usuário WILSON RIBEIRO DE MORAES NETO
+OAB = PB15660 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB15660@wilsonmoraes@1D8AA8E2-408D-4946-87FF-52849F80DEC5@bezos ; Cookies (
+Name = JSESSIONID ; Value = yR9Htvdzw2cjlkXf92pCwtkaIrdw3TEJkxJ2n1wA.pje1g-104-cvvgk ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTkzMTIsImlhdCI6MTczMTQ3MDUxMiwiYXV0aF90aW1lIjoxNzMxNDcwNTEyLCJqdGkiOiI1YTMzNWIyMi1iM2Y5LTQ2NDAtOTFmZS0zMzNlZmVjNWRiZDYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiYTk5NmI3MzItNDk5NS00ODUyLTg1ZTMtMmQ4YjA3ZDE2MGUwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiJkMGQ1OTkzMS0wZDdlLTQzM2ItYmFkZC0yODA3MDI3Zjc5ODQiLCJhdF9oYXNoIjoiVnBaZlhaa3dGLVhIZTEyZWl6YVluZyIsImFjciI6IjEiLCJzaWQiOiJkMGQ1OTkzMS0wZDdlLTQzM2ItYmFkZC0yODA3MDI3Zjc5ODQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IldJTFNPTiBSSUJFSVJPIERFIE1PUkFFUyBORVRPIiwiSlRSIjoiODIwIiwianRyIjoiODIwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiMDU2NTE5NTQ0MTQiLCJnaXZlbl9uYW1lIjoiV0lMU09OIFJJQkVJUk8gREUgTU9SQUVTIE5FVE8iLCJlbWFpbCI6IndpbHNvbkB3aWxzb25tb3JhZXNhZHYuY29tLmJyIn0.pIc3Jy9OoXTMmRoQRgsK9K2NuptWOAsc5QRfGmnAImF1kXZYh5tbv3bmec2d6r0sG4wEIAiieOtiTGHE2XBdxredub6cbjISGXbygVRzzJPXGNUp2nHcRjrzIlByJD27nk8cgfI7UYwGvaVrP95lxOzc7kPG-yQqKmd7l4VuEwOGRo8qxp5HxtEeoOSPS6AU-I_g-0WpqTVohrsQlfXSj9PCgwruMfXHDdb-FMiVP2ujvZwupsrhjXqtplyl_OVIR2DAKTC-NWPfNEEkeMfYFSo8kp9zSDqujw1zYRgdCfRrCbMGrGNF4tq97rrck6LRMD2eF51HfzC9J_MX5xRtfw ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-cvvgk:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = d0a1b9581cb8b566f33d78ba9276b2a6 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:01:54: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:02:03: Total: 2
+13/11/2024 01:02:03: Total: 2
+13/11/2024 01:02:09: advogado 0000959-08.2011.8.20.0113 >> Processo com 2 parte(s), 71 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 01:02:15: advogado 0001064-82.2011.8.20.0113 >> Processo com 2 parte(s), 67 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:02:15: Entrou na aba acervo do perfil e mapeou 2 processos e teve erro em 0 processos
+13/11/2024 01:02:15: Rodou

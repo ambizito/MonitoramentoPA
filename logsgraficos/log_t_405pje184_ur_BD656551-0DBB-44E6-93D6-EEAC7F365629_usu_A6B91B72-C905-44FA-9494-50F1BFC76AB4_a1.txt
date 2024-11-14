@@ -1,0 +1,106 @@
+RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs em 4.05.pje.1.84
+12/11/2024 18:04:12: Acessou https://pje.jfrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar K4APBQI5 YSeqIBGye9zVzZahYjA1FbG4DiANMxQY "MARIO MATOS JUNIOR:01062490452"
+12/11/2024 18:04:15: Logou https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:04:15: Perfil advogado e usuário Mario Matos Junior
+OAB = RN7292 ; URL = https://pje.jfrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.84 ; usuarioId = RN7292@mariomatos@BD656551-0DBB-44E6-93D6-EEAC7F365629@jobs ; Cookies (
+Name = JSESSIONID ; Value = TWOToG36Ea61IJRYsxGSun8O.node02 ; Domain = pje.jfrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.jfrn.jus.br ; Path = /
+)
+12/11/2024 18:04:19: Total: 1
+12/11/2024 18:04:25: advogado 0802815-38.2024.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 18:04:26: Total: 2
+12/11/2024 18:04:32: advogado 0808208-75.2023.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 18:04:37: advogado 0808126-44.2023.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 18:04:37: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 10 e leu 2
+12/11/2024 18:04:45: Total: 33
+12/11/2024 18:04:45: Total: 33
+12/11/2024 18:05:02:  0805534-71.2016.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 37 expediente(s) atualizado
+12/11/2024 18:05:28:  0807025-16.2016.4.05.8400 >> Processo com 12 parte(s), 13 andamento(s) e 139 expediente(s) atualizado
+12/11/2024 18:05:34:  0801675-13.2017.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 18:05:41:  0801971-35.2017.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 18:05:48:  0807619-93.2017.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 18:06:12:  0007818-61.2011.4.05.8400 >> Processo com 14 parte(s), 15 andamento(s) e 139 expediente(s) atualizado
+12/11/2024 18:06:20:  0807283-55.2018.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 21 expediente(s) atualizado
+12/11/2024 18:06:29:  0001561-88.2009.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 25 expediente(s) atualizado
+12/11/2024 18:06:36:  0000147-16.2013.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 18:06:42:  0001563-53.2012.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 18:06:50:  0001567-22.2014.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 18:06:57:  0003998-63.2013.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 18:07:04:  0003719-82.2010.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 18:09:52:  0808119-91.2019.4.05.8400 >> Processo com 16 parte(s), 6 andamento(s) e 963 expediente(s) atualizado
+12/11/2024 18:10:01:  0811304-40.2019.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 18:10:06:  0801154-92.2022.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:10:06:  0802532-83.2022.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 18:10:13:  0805059-08.2022.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 18:10:44:  0805604-78.2022.4.05.8400 >> Processo com 20 parte(s), 7 andamento(s) e 212 expediente(s) atualizado
+12/11/2024 18:10:58:  0809475-19.2022.4.05.8400 >> Processo com 16 parte(s), 11 andamento(s) e 74 expediente(s) atualizado
+12/11/2024 18:11:04:  0811232-48.2022.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:11:09:  0806177-82.2023.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:11:16:  0806181-22.2023.4.05.8400 >> Processo com 2 parte(s), 13 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 18:11:22:  0806262-68.2023.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 18:11:22:  0808126-44.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 18:11:22:  0808208-75.2023.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 18:11:27:  0810748-96.2023.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:11:33:  0812143-26.2023.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:11:39:  0801924-17.2024.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 18:11:43:  0802023-84.2024.4.05.8400 >> Processo com 2 parte(s), 12 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 18:11:43:  0802815-38.2024.4.05.8400 >> Processo já foi verificado recentemente
+12/11/2024 18:11:49:  0804102-36.2024.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:11:56:  0805386-79.2024.4.05.8400 >> Processo com 3 parte(s), 10 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 18:12:05: Total: 50
+12/11/2024 18:12:05: Total: 50
+12/11/2024 18:12:58:  0801695-09.2014.4.05.8400 >> Processo com 11 parte(s), 10 andamento(s) e 194 expediente(s) atualizado
+12/11/2024 18:13:18:  0803531-17.2014.4.05.8400 >> Processo com 9 parte(s), 14 andamento(s) e 89 expediente(s) atualizado
+12/11/2024 18:13:46:  0804258-73.2014.4.05.8400 >> Processo com 8 parte(s), 12 andamento(s) e 145 expediente(s) atualizado
+12/11/2024 18:13:53:  0807795-43.2015.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:13:59:  0808594-86.2015.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 18:14:08:  0800807-69.2016.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 18:14:16:  0800207-33.2016.4.05.8405 >> Processo com 2 parte(s), 15 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 18:14:31:  0800012-29.2017.4.05.8400 >> Processo com 3 parte(s), 12 andamento(s) e 58 expediente(s) atualizado
+12/11/2024 18:14:41:  0800048-71.2017.4.05.8400 >> Processo com 4 parte(s), 14 andamento(s) e 42 expediente(s) atualizado
+12/11/2024 18:14:49:  0800186-38.2017.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 22 expediente(s) atualizado
+12/11/2024 18:15:02:  0801070-67.2017.4.05.8400 >> Processo com 9 parte(s), 9 andamento(s) e 52 expediente(s) atualizado
+12/11/2024 18:15:07:  0803705-21.2017.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 18:15:19:  0804196-28.2017.4.05.8400 >> Processo com 5 parte(s), 12 andamento(s) e 46 expediente(s) atualizado
+12/11/2024 18:15:25:  0004011-33.2011.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 18 expediente(s) atualizado
+12/11/2024 18:15:32:  0810340-18.2017.4.05.8400 >> Processo com 5 parte(s), 12 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 18:15:41:  0811132-69.2017.4.05.8400 >> Processo com 4 parte(s), 12 andamento(s) e 23 expediente(s) atualizado
+12/11/2024 18:15:49:  0000054-14.2017.4.05.8400 >> Processo com 12 parte(s), 9 andamento(s) e 17 expediente(s) atualizado
+12/11/2024 18:15:55:  0801251-34.2018.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 18:16:01:  0001581-69.2015.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 18:16:11:  0805390-29.2018.4.05.8400 >> Processo com 2 parte(s), 13 andamento(s) e 26 expediente(s) atualizado
+12/11/2024 18:16:27:  0004293-32.2015.4.05.8400 >> Processo com 4 parte(s), 13 andamento(s) e 85 expediente(s) atualizado
+12/11/2024 18:16:34:  0806085-80.2018.4.05.8400 >> Processo com 4 parte(s), 15 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 18:16:42:  0806824-53.2018.4.05.8400 >> Processo com 9 parte(s), 8 andamento(s) e 27 expediente(s) atualizado
+12/11/2024 18:16:51:  0004709-73.2010.4.05.8400 >> Processo com 12 parte(s), 8 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 18:18:33:  0003586-35.2013.4.05.8400 >> Processo com 12 parte(s), 3 andamento(s) e 590 expediente(s) atualizado
+12/11/2024 18:18:40:  0810814-52.2018.4.05.8400 >> Processo com 7 parte(s), 7 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 18:18:48:  0811136-72.2018.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 18 expediente(s) atualizado
+12/11/2024 18:18:55:  0001519-63.2014.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 18:19:01:  0003649-02.2009.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 18:19:07:  0004010-14.2012.4.05.8400 >> Processo com 4 parte(s), 11 andamento(s) e 20 expediente(s) atualizado
+12/11/2024 18:19:12:  0803267-24.2019.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 18:19:29:  0807846-15.2019.4.05.8400 >> Processo com 5 parte(s), 14 andamento(s) e 59 expediente(s) atualizado
+12/11/2024 18:19:42:  0807970-95.2019.4.05.8400 >> Processo com 4 parte(s), 11 andamento(s) e 48 expediente(s) atualizado
+12/11/2024 18:19:51:  0809033-58.2019.4.05.8400 >> Processo com 9 parte(s), 9 andamento(s) e 21 expediente(s) atualizado
+12/11/2024 18:19:57:  0809030-06.2019.4.05.8400 >> Processo com 3 parte(s), 15 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 18:20:06:  0801490-67.2020.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 21 expediente(s) atualizado
+12/11/2024 18:20:12:  0801948-84.2020.4.05.8400 >> Processo com 3 parte(s), 13 andamento(s) e 7 expediente(s) atualizado
+12/11/2024 18:20:18:  0804489-90.2020.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:20:37:  0805433-92.2020.4.05.8400 >> Processo com 9 parte(s), 13 andamento(s) e 103 expediente(s) atualizado
+12/11/2024 18:20:43:  0805532-28.2021.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:20:49:  0004258-72.2015.4.05.8400 >> Processo com 3 parte(s), 14 andamento(s) e 9 expediente(s) atualizado
+12/11/2024 18:20:55:  0800115-60.2022.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:21:05:  0800566-85.2022.4.05.8400 >> Processo com 4 parte(s), 15 andamento(s) e 40 expediente(s) atualizado
+12/11/2024 18:21:10:  0800250-66.2022.4.05.8402 >> Processo com 2 parte(s), 15 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 18:21:15:  0804721-34.2022.4.05.8400 >> Processo com 2 parte(s), 14 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:21:20:  0806909-97.2022.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 18:21:28:  0801264-57.2023.4.05.8400 >> Processo com 6 parte(s), 13 andamento(s) e 29 expediente(s) atualizado
+12/11/2024 18:21:34:  0801866-48.2023.4.05.8400 >> Processo com 2 parte(s), 13 andamento(s) e 11 expediente(s) atualizado
+12/11/2024 18:21:39:  0802197-30.2023.4.05.8400 >> Processo com 2 parte(s), 15 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 18:21:45:  0809901-94.2023.4.05.8400 >> Processo com 5 parte(s), 13 andamento(s) e 8 expediente(s) atualizado
+12/11/2024 18:22:15: Total: 0
+12/11/2024 18:22:15: Total: 0
+12/11/2024 18:22:16: Entrou na aba acervo do perfil e mapeou 83 processos e teve erro em 0 processos
+12/11/2024 18:22:18: Rodou

@@ -1,0 +1,22 @@
+32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus em 5.16.pje.1
+14/11/2024 01:28:44: Acessou https://pje.trt16.jus.br/primeirograu/login.seam
+14/11/2024 01:28:45: Logou https://pje.trt16.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 01:28:45: Perfil advogado e usuário EIDER FURTADO DE MENDONCA E MENEZES FILHO
+OAB = 32262787468 ; URL = https://pje.trt16.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.16.pje.1 ; usuarioId = 32262787468@eiderfurtado@AF2ADD26-EC0C-4468-939B-575377D97F91@linus ; Cookies (
+Name = JSESSIONID ; Value = f57de4bcf3eb629b~qPB2Lbc6qedfQzmbKS4TnbMN ; Domain = pje.trt16.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt16.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = 5030b153-ee93-4b9c-a9e8-3a56d76ee4df ; Domain = pje.trt16.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt16.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4NGM2MDRlMC1lMGQxLTRjMDgtOGIxYy1hNWUxNDNkM2NiZDAiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU4NTI0LCJzdWIiOiJlNzUzNDZiNi0wZTYzLTRmOTQtYTU1Yy1lZjZlM2Y4MDU5YmMucGplIiwiZXhwIjoxNzMxNTYyMTI0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjIwNjI0MCwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsIm5vbWUiOiJFSURFUiBGVVJUQURPIERFIE1FTkRPTkNBIEUgTUVORVpFUyBGSUxITyIsInBlcmZpbCI6MjQ0NzEsInBhcGVsIjp7ImlkIjoxMDA1LCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwicGFwZWxLeiI6eyJpZCI6MTAsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJsb2NhbGl6YWNhbyI6eyJpZCI6MTkwODQsImRlc2NyaWNhbyI6IkVJREVSIEZVUlRBRE8gREUgTUVORE9OQ0EgRSBNRU5FWkVTIEZJTEhPICgzMjIuNjI3Ljg3NC02OCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiTE9HSU5fU0VOSEEiLCJvcmlnZW0iOiJUUlQxNiIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt16.jus.br ; Path = /
+Name = access_token_footer ; Value = YjVd871mpIXxnUffNh5V8cIrD10qvR9qIouogvyDc7Y ; Domain = pje.trt16.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3NzhhNzZjNy00YWU0LTQ3ZmItYTUwNS1hN2Y1OTNjOWM5MGIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU4NTI0LCJzdWIiOiJlNzUzNDZiNi0wZTYzLTRmOTQtYTU1Yy1lZjZlM2Y4MDU5YmMucGplIiwiZXhwIjoxNzMxNjAxNzI0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIzMjI2Mjc4NzQ2OCIsInBlcmZpbCI6MjQ0NzEsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUMTYifQ.yj8xhYNrrcgEeftMHphgYWocSBsDcKx5u-MWM7QxoZo ; Domain = pje.trt16.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 731DE39511BAA9A413BC1B5DB0757683F44546D43B2E571DFA9F559646454D846F70AB01D5AF1F21E0FBDE6E28856DB14A9E ; Domain = pje.trt16.jus.br ; Path = /
+)
+14/11/2024 01:28:46: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 01:28:47: Total: 1
+14/11/2024 01:28:47: Total: 1
+14/11/2024 01:28:48: advogado 0016624-42.2016.5.16.0019 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+14/11/2024 01:28:48: advogado 0016624-42.2016.5.16.0019 >> Processo com 2 parte(s), 48 andamento(s) e 0 expediente(s) atualizado
+14/11/2024 01:28:50: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+14/11/2024 01:28:50: Rodou

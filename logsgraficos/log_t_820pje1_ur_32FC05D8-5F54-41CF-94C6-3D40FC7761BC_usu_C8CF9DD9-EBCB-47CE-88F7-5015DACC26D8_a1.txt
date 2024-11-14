@@ -1,0 +1,88 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.20.pje.1
+13/11/2024 01:41:19: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.c2bit1fhfkw "HERMANO GADELHA DE SA46843574491"
+13/11/2024 01:41:23: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:41:23: Perfil advogado e usuário Hermano Gadelha de Sá
+OAB = PB8463 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = EITFFdutUA6FevqpEnBL2D1rn_qO_wYWsvVMYFKm.pje1g-104-kxkjm ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1MDE2ODEsImlhdCI6MTczMTQ3Mjg4MiwiYXV0aF90aW1lIjoxNzMxNDcyODgxLCJqdGkiOiI2ZGQzZGJlMS05NWFmLTRiNGYtODM4OC1kNTVjNTBjYTI5OTYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiM2VlYzMwNmItMDIyMS00OTg5LTgyNGEtM2ZhNDI3NDBlZTE4IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiJhMTdhMjEyZC0yMWNhLTRmM2EtYjljMi03OGFlN2IzMzBkZTciLCJhdF9oYXNoIjoiRXFqRVVyMlRtdW8ySDB6dkRoVjZtQSIsImFjciI6IjEiLCJzaWQiOiJhMTdhMjEyZC0yMWNhLTRmM2EtYjljMi03OGFlN2IzMzBkZTciLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFUk1BTk8gR0FERUxIQSBERSBTQSIsIkpUUiI6IjgyMCIsImp0ciI6IjgyMCIsInByZWZlcnJlZF91c2VybmFtZSI6IjQ2ODQzNTc0NDkxIiwiZ2l2ZW5fbmFtZSI6IkhFUk1BTk8gR0FERUxIQSBERSBTQSIsImVtYWlsIjoiY29udHJvbGFkb3JpYUBjb3Jpb2xhbm8uYWR2LmJyIn0.E2waKlf1-6knTKJQiYnhkNHL-FFcJ-j2d3IGbdWjfpvvYKP9Ir0aHEP3dR-9vCfGUUQBPpWwx4OkK2jzt7nOj0Shc82WP_Iu6pNxK9tPpST6kvkClOeGuRFs5UcW3hxFvYZiNhumdYnWFAcll-vrG9-0jQsGS3vsND1G7mvX3kLIa2IooxOZlvu7rG8wAAA0rNiuR0kIboYgdlQFRhM_Za8OWOdFhIorcAtjdlCf6gaJYPkKaAq4hjzvAlHpcW9LYRmjo0U6E-qVcaW_heKCF1maZiUGfqCkTZGcXoqpDRKSMHwzpi_XBbq9Ljy3fLSykK0hTq5U6iMie5Apcgl4dw ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-kxkjm:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = b0dd27ccec676a0d5672049df3a04457 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:41:24: Total: 6
+13/11/2024 01:41:31: advogado 0889062-52.2022.8.20.5001 >> Processo com 2 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:41:31: advogado 0889062-52.2022.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:41:36: advogado 0850744-29.2024.8.20.5001 >> Processo com 2 parte(s), 56 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:41:36: advogado 0889062-52.2022.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:41:43: advogado 0803722-48.2024.8.20.5300 >> Processo com 3 parte(s), 59 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:41:46: advogado 0849336-71.2022.8.20.5001 >> Processo com 2 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:41:47: Total: 2
+13/11/2024 01:41:54: advogado 0889062-52.2022.8.20.5001 >> Processo com 2 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:41:54: advogado 0889062-52.2022.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:41:55: Total: 3
+13/11/2024 01:42:00: advogado 0850744-29.2024.8.20.5001 >> Processo com 2 parte(s), 56 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:42:08: advogado 0889062-52.2022.8.20.5001 >> Processo com 2 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:15: advogado 0803722-48.2024.8.20.5300 >> Processo com 3 parte(s), 59 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:42:16: Total: 2
+13/11/2024 01:42:23: advogado 0889062-52.2022.8.20.5001 >> Processo com 2 parte(s), 51 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:26: advogado 0846302-25.2021.8.20.5001 >> Processo com 4 parte(s), 54 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:27: Total: 1
+13/11/2024 01:42:31: advogado 0849336-71.2022.8.20.5001 >> Processo com 2 parte(s), 57 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:32: Total: 1
+13/11/2024 01:42:43: advogado 0805401-35.2023.8.20.5101 >> Processo com 4 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:43: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo Judiciário - pendente de resposta, Cujo prazo findou nos últimos 10 dias - sem resposta, Sem prazo, Respondidos nos últimos 10 dias e detectou 25 e leu 9
+13/11/2024 01:42:44: Total: 2
+13/11/2024 01:42:44: Total: 2
+13/11/2024 01:42:44: advogado 0805401-35.2023.8.20.5101 >> Processo já foi verificado recentemente
+13/11/2024 01:42:46: advogado 0802207-03.2018.8.20.5101 >> Processo com 2 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:47: Total: 6
+13/11/2024 01:42:47: Total: 6
+13/11/2024 01:42:49: advogado 0800061-47.2018.8.20.5114 >> Processo com 6 parte(s), 68 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:42:50: advogado 0000327-76.2011.8.20.0114 >> Processo com 2 parte(s), 50 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 01:42:52: advogado 0000395-26.2011.8.20.0114 >> Processo com 2 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+13/11/2024 01:42:54: advogado 0000033-24.2011.8.20.0114 >> Processo com 3 parte(s), 59 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 01:42:55: advogado 0800114-91.2019.8.20.5114 >> Processo com 2 parte(s), 59 andamento(s) e 4 expediente(s) atualizado
+13/11/2024 01:42:57: advogado 0800110-54.2019.8.20.5114 >> Processo com 2 parte(s), 53 andamento(s) e 6 expediente(s) atualizado
+13/11/2024 01:42:57: Total: 3
+13/11/2024 01:42:57: Total: 3
+13/11/2024 01:42:59: advogado 0817800-81.2023.8.20.5106 >> Processo com 2 parte(s), 71 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 01:43:01: advogado 0818173-59.2016.8.20.5106 >> Processo com 2 parte(s), 52 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:02: advogado 0108058-53.2014.8.20.0106 >> Processo com 4 parte(s), 50 andamento(s) e 12 expediente(s) atualizado
+13/11/2024 01:43:03: Total: 2
+13/11/2024 01:43:03: Total: 2
+13/11/2024 01:43:06: advogado 0813030-54.2024.8.20.5124 >> Processo com 2 parte(s), 68 andamento(s) e 7 expediente(s) atualizado
+13/11/2024 01:43:07: advogado 0801966-23.2019.8.20.5124 >> Processo com 2 parte(s), 49 andamento(s) e 9 expediente(s) atualizado
+13/11/2024 01:43:08: Total: 2
+13/11/2024 01:43:08: Total: 2
+13/11/2024 01:43:10: advogado 0819832-74.2023.8.20.5004 >> Processo com 3 parte(s), 62 andamento(s) e 13 expediente(s) atualizado
+13/11/2024 01:43:11: advogado 0828043-41.2019.8.20.5004 >> Processo com 2 parte(s), 58 andamento(s) e 5 expediente(s) atualizado
+13/11/2024 01:43:12: Total: 24
+13/11/2024 01:43:12: Total: 24
+13/11/2024 01:43:12: advogado 0889062-52.2022.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:43:12: advogado 0846302-25.2021.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:43:18: advogado 0866323-56.2020.8.20.5001 >> Processo com 6 parte(s), 64 andamento(s) e 8 expediente(s) atualizado
+13/11/2024 01:43:18: advogado 0850744-29.2024.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:43:18: advogado 0803722-48.2024.8.20.5300 >> Processo já foi verificado recentemente
+13/11/2024 01:43:20: advogado 0833666-03.2016.8.20.5001 >> Processo com 2 parte(s), 54 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:20: advogado 0849336-71.2022.8.20.5001 >> Processo já foi verificado recentemente
+13/11/2024 01:43:23: advogado 0801463-75.2022.8.20.5001 >> Processo com 4 parte(s), 53 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:25: advogado 0801029-33.2020.8.20.5300 >> Processo com 6 parte(s), 62 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:30: advogado 0835514-88.2017.8.20.5001 >> Processo com 2 parte(s), 53 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:33: advogado 0800541-73.2023.8.20.5300 >> Processo com 4 parte(s), 49 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:36: advogado 0857179-92.2019.8.20.5001 >> Processo com 3 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:37: advogado 0839085-62.2020.8.20.5001 >> Processo com 3 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:40: advogado 0807990-87.2015.8.20.5001 >> Processo com 2 parte(s), 71 andamento(s) e 14 expediente(s) atualizado
+13/11/2024 01:43:42: advogado 0827440-06.2021.8.20.5001 >> Processo com 2 parte(s), 64 andamento(s) e 10 expediente(s) atualizado
+13/11/2024 01:43:44: advogado 0852784-57.2019.8.20.5001 >> Processo com 3 parte(s), 56 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:47: advogado 0855297-90.2022.8.20.5001 >> Processo com 4 parte(s), 62 andamento(s) e 14 expediente(s) atualizado
+13/11/2024 01:43:50: advogado 0840213-20.2020.8.20.5001 >> Processo com 2 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:51: advogado 0836102-66.2015.8.20.5001 >> Processo com 2 parte(s), 61 andamento(s) e 14 expediente(s) atualizado
+13/11/2024 01:43:53: advogado 0104825-43.2012.8.20.0001 >> Processo com 2 parte(s), 65 andamento(s) e 15 expediente(s) atualizado
+13/11/2024 01:43:55: advogado 0808323-34.2018.8.20.5001 >> Processo com 3 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:43:56: advogado 0819735-64.2015.8.20.5001 >> Processo com 2 parte(s), 58 andamento(s) e 11 expediente(s) atualizado
+13/11/2024 01:43:58: advogado 0815176-64.2015.8.20.5001 >> Processo com 3 parte(s), 63 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:44:00: advogado 0848914-09.2016.8.20.5001 >> Processo com 3 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+13/11/2024 01:44:01: Entrou na aba acervo do perfil e mapeou 39 processos e teve erro em 0 processos
+13/11/2024 01:44:01: Rodou

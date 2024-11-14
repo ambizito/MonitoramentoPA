@@ -1,0 +1,16 @@
+RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus em 8.07.pje.1
+12/11/2024 18:25:05: Acessou https://pje.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Santini2020 0.yfselosnrnq "GERSON SANTINI:01529424160"
+12/11/2024 18:25:09: Logou https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:25:09: Perfil advogado e usuário GERSON SANTINI
+OAB = RN18318 ; URL = https://pje.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.1 ; usuarioId = RN18318@gersonsantini@14B5760D-017A-4463-A726-FD2F44953D9B@linus ; Cookies (
+Name = JSESSIONID ; Value = y80tyxJxg-TY8OP2zgH-ruj3lSm0hJV3zdqz7l8o.hc-zdu131:pje-internet-zdu131 ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjdft.jus.br ; Path = /
+)
+12/11/2024 18:25:10: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:25:12: Total: 1
+12/11/2024 18:25:12: Total: 1
+12/11/2024 18:25:16: advogado 0706099-96.2021.8.07.0014 >> Processo com 7 parte(s), 67 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 18:25:17: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 18:25:17: Rodou

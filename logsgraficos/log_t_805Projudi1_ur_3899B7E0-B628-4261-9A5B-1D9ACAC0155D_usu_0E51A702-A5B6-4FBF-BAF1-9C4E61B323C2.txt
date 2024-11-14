@@ -1,0 +1,12 @@
+01757551409@samoaadv@3899B7E0-B628-4261-9A5B-1D9ACAC0155D@bezos em 8.05.Projudi.1
+12/11/2024 21:35:28: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 21:35:28: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 21:35:28: Não capturou o total de processos para o OAB 01757551409
+html: salvo no mongo.
+12/11/2024 21:35:28: Rodou com falha
+01757551409@samoaadv@3899B7E0-B628-4261-9A5B-1D9ACAC0155D@bezos em 8.05.Projudi.1
+12/11/2024 21:36:28: Acessou https://projudi.tjba.jus.br/projudi/PaginaPrincipal.jsp
+12/11/2024 21:36:29: Logou https://projudi.tjba.jus.br/projudi/buscas/ProcessosParte
+12/11/2024 21:36:29: Não capturou o total de processos para o OAB 01757551409
+html: salvo no mongo.
+12/11/2024 21:36:29: Rodou com falha

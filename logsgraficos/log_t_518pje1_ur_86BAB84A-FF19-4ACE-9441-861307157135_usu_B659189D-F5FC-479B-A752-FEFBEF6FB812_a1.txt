@@ -1,0 +1,21 @@
+RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus em 5.18.pje.1
+12/11/2024 22:44:32: Acessou https://pje.trt18.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar djneto89 P7t2jmES1UNb81dlTzDi1ktYKN4WhS2m "djanirito de souza moura neto:06855029450 2023-11-26 12:44:24"
+12/11/2024 22:44:40: Logou https://pje.trt18.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 22:44:41: Perfil advogado e usuário DJANIRITO DE SOUZA MOURA NETO
+OAB = RN11793 ; URL = https://pje.trt18.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.18.pje.1 ; usuarioId = RN11793@djaniritomoura@86BAB84A-FF19-4ACE-9441-861307157135@linus ; Cookies (
+Name = JSESSIONID ; Value = e0013bf1f7fe500f~bgMNE92IxWzp8eYtASH0AbOS ; Domain = pje.trt18.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt18.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = afb60895-8c42-411f-b66d-bc2d621cd4d8 ; Domain = pje.trt18.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt18.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyNGFmYWU4OC1lYTIzLTQ4M2ItOGVmMy03NWMwMWIyZTdjMmIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYyMjc5LCJzdWIiOiJiNmJlOTQzZS1jZTRjLTQwZjYtYTg1MS0xODFiYTQ5MzM1MjAucGplIiwiZXhwIjoxNzMxNDY1ODc5LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjExNTQ5NTQsImxvZ2luIjoiMDY4NTUwMjk0NTAiLCJub21lIjoiREpBTklSSVRPIERFIFNPVVpBIE1PVVJBIE5FVE8iLCJwZXJmaWwiOjE1Nzc3NiwicGFwZWwiOnsiaWQiOjEwMDUsIm5vbWUiOiJBZHZvZ2FkbyIsImlkZW50aWZpY2Fkb3IiOiJBRFZPR0FETyJ9LCJwYXBlbEt6Ijp7ImlkIjoxMCwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sImxvY2FsaXphY2FvIjp7ImlkIjoxMjc5ODEsImRlc2NyaWNhbyI6IkRKQU5JUklUTyBERSBTT1VaQSBNT1VSQSBORVRPICgwNjguNTUwLjI5NC01MCkifSwibWV0b2RvQXV0ZW50aWNhY2FvIjoiQ0VSVElGSUNBRE8iLCJvcmlnZW0iOiJUUlQxOCIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt18.jus.br ; Path = /
+Name = access_token_footer ; Value = tZizUvFMF95ia06TTvB6BqMCtehSVN3_UoXQ_V7mmVI ; Domain = pje.trt18.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5MDgzNmRiZi05NjYxLTQ5ZDQtYjNmMy04ZGUwNjI5YjZkMWEiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDYyMjc5LCJzdWIiOiJiNmJlOTQzZS1jZTRjLTQwZjYtYTg1MS0xODFiYTQ5MzM1MjAucGplIiwiZXhwIjoxNzMxNTA1NDc5LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNjg1NTAyOTQ1MCIsInBlcmZpbCI6MTU3Nzc2LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDE4In0.mRO0ok573iu78zgOxtQrGL0XdRlpwkH6hxW3ohgA1fg ; Domain = pje.trt18.jus.br ; Path = /
+Name = Xsrf-Token ; Value = F664A20683EBE8BF56E4CC216EB8E5856AD2EB1DD9C13401E809744B8C6FBD06913DE1B0A4370BE7F7BE78AF4D1C05B29380 ; Domain = pje.trt18.jus.br ; Path = /
+)
+12/11/2024 22:44:41: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 22:44:43: Total: 1
+12/11/2024 22:44:43: Total: 1
+12/11/2024 22:45:04: advogado 0010910-90.2023.5.18.0281 >> Processo com 30 parte(s), 424 andamento(s) e 150 expediente(s) atualizado
+12/11/2024 22:45:05: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 22:45:05: Rodou

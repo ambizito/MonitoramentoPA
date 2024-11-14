@@ -1,0 +1,22 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 4.05.pje.1.85
+12/11/2024 22:42:35: Acessou https://pje.jfse.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 4tUSKYS35hwRMHGGl1fJ1haxWohP3FYG "HERMANO GADELHA DE SA46843574491"
+12/11/2024 22:42:37: Logou https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 22:42:37: Perfil advogado e usuário HERMANO GADELHA DE SÁ
+OAB = PB8463 ; URL = https://pje.jfse.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 4.05.pje.1.85 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = 15A9tHsBD7At+NZuLhb6CiSJ.node03 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = TS016e0973 ; Value = 018b8f40c355a9c7b695ca76b4a185784ffed271a82675881a96babd0eebdffc7d564cb29a4fa7d5374b2de0d3b9e3326254508b788c0a5b5cbba43d14617712374a332769 ; Domain = pje.jfse.jus.br ; Path = /pje
+Name = BIGipServerpool_pje ; Value = 335570954.47873.0000 ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c38b82f268027ae534c6bcbca3a0c9a4a52675881a96babd0eebdffc7d564cb29ad596ef95cdbffdb0febcb481ed69761f03fcb2c9079930321d5c666c6cf32b35 ; Domain = pje.jfse.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.jfse.jus.br ; Path = /
+Name = TS017768a4 ; Value = 018b8f40c38b82f268027ae534c6bcbca3a0c9a4a52675881a96babd0eebdffc7d564cb29ad596ef95cdbffdb0febcb481ed69761f03fcb2c9079930321d5c666c6cf32b35 ; Domain = .pje.jfse.jus.br ; Path = /
+)
+12/11/2024 22:42:40: Entrou na aba expediente do perfil para as categorias Pendentes, Confirmadas pelo intimado/citado e dentro do prazo, Confirmadas pelo PJe e dentro do prazo, Sem prazo e detectou 0 e leu 0
+12/11/2024 22:42:45: Total: 0
+12/11/2024 22:42:45: Total: 0
+12/11/2024 22:42:49: Total: 0
+12/11/2024 22:42:49: Total: 0
+12/11/2024 22:42:53: Total: 0
+12/11/2024 22:42:53: Total: 0
+12/11/2024 22:42:54: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 22:42:54: Rodou

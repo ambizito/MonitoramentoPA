@@ -1,0 +1,4 @@
+08669689464@renatocirne@8FB020A7-97F0-4FE5-A428-5F496DADB04A@bezos em 8.20.pje.1
+13/11/2024 21:06:14: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+13/11/2024 21:06:44: Erro no acesso: Senha invalida
+html: salvo no mongo.

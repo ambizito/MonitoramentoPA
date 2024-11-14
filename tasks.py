@@ -7,7 +7,7 @@ import time
 
 # URLs de conexão MongoDB
 mongoTribunalUrl = "mongodb://softurbanotribunal:ilovemongotribunal@token.softurbano.com:30050/admin?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1"
-TransparenciaUrl = "mongodb://bigtabletrasparencia:EssaSenhaEMuitoD1f1c1lParaTrasparencia%23@192.168.40.108:40060/admin?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1"
+TransparenciaUrl = "mongodb://bigtabletrasparencia:EssaSenhaEMuitoD1f1c1lParaTrasparencia#@mariobros:40060/admin?connectTimeoutMS=300000&socketTimeoutMS=300000&keepAlive=300000"
 
 
 # Conexão com o MongoDB do Tribunal
@@ -17,7 +17,8 @@ mongoTribunalFila = mongoTribunalSoftUrbano["fila"]
 
 # Conexão com o MongoDB da Transparência
 mongoTransparencia = MongoClient(TransparenciaUrl)
-mongoTransparenciaDB = mongoTransparencia["transparencia"]
+
+mongoTransparenciaDB = mongoTransparencia["softurbano"]
 bigtable_dominios = mongoTransparenciaDB["bigtable_dominios"]
 
 # Diretórios para salvar os arquivos
@@ -98,7 +99,7 @@ def task_queries_9am():
             logger.info("Dados da API salvos em 'dados_api.txt'")
 
         # Consultas MongoDB
-        data24h = datetime.now() - timedelta(hours=24)
+        data24h = datetime.now() - timedelta(hours=21)
         data6h = datetime.now() - timedelta(hours=6)
 
         # Primeira query: geral24h
@@ -158,17 +159,22 @@ def task_queries_9am():
 def task_bigtable_dominios():
     logger.info("Iniciando consulta 'bigtable_dominios'")
     try:
-        data6h = datetime.now() - timedelta(hours=6)
+        data12h = datetime.now() - timedelta(hours=12)
 
-        resultados_cursor = bigtable_dominios.find({
-            "servidor": {"$ne": "erro"},
-            "dataLock": {"$lte": data6h},
+        resultado_total = bigtable_dominios.count_documents({
+           "servidor": {"$ne": "erro"}   
         })
-        resultados_list = list(resultados_cursor)
-        resultados_count = len(resultados_list)
-        salvar_em_txt(resultados_list, 'bigtable_dominios_resultados.txt', DIRETORIO_TRANSPARENCIA)
-        if resultados_count > 0:
-            logger.warning(f"{resultados_count} registros em 'bigtable_dominios' estão atrasados")
+        
+        resultados_cursor = bigtable_dominios.count_documents({
+            "servidor": {"$ne": "erro"},
+            "dataLock": {"$gte": data12h},
+        })
+
+        salvar_em_txt(f"foram processados {resultados_cursor} de {resultado_total}", 'bigtable_dominios_resultados.txt', DIRETORIO_TRANSPARENCIA)
+        
+
+        if resultados_cursor != resultado_total:
+            logger.warning(f"{resultado_total - resultados_cursor} registros em 'bigtable_dominios' estão atrasados")
         else:
             logger.info("Nenhum registro em 'bigtable_dominios' está atrasado")
 

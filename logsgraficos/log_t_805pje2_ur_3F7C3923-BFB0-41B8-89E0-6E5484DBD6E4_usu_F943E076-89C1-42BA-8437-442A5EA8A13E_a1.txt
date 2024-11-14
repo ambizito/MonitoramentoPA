@@ -1,0 +1,16 @@
+PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos em 8.05.pje.2
+12/11/2024 19:36:41: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 2314lando MXNydOx17Gg3rdXFmC1I5S5WsVCrTyT1 "landoaldo falcao de sousa neto:05505553400 2024-09-02 12:06:18"
+12/11/2024 19:36:44: Logou https://pje2g.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:36:44: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO
+OAB = PB13544 ; URL = https://pje2g.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 8.05.pje.2 ; usuarioId = PB13544@falcaosousa@3F7C3923-BFB0-41B8-89E0-6E5484DBD6E4@bezos ; Cookies (
+Name = JSESSIONID ; Value = rO9hgL279PzOXwSbS0evV8hjU5-vEfnsc-xcFjyI.pje2gapp004 ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-2G-StickySessionRule ; Value = pje2gapp004:pje-tjba-2g ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = ADC_REQ_2E94AF76E7 ; Value = 55BF91027A05F12EF802FB16BCF9F7C030E9D15D9B5440B444A236C84E3447CA4809B06D52F3012E ; Domain = pje2g.tjba.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjba.jus.br ; Path = /
+)
+12/11/2024 19:36:44: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 19:36:46: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 19:36:46: Procuracao: Perfil advogado e usuário LANDOALDO FALCAO DE SOUSA NETO filtrado, não roda.
+12/11/2024 19:36:46: Rodou

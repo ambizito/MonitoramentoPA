@@ -1,0 +1,38 @@
+RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners em 5.02.pje.1
+13/11/2024 00:39:30: Acessou https://pje.trt2.jus.br/primeirograu/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar araujo10 DGgVIjLazn8iG5YRLAQOhU5OhaAoliBm "BRENDA JORDANA LOBATO ARAUJO TEIXEIRA:10340506482"
+13/11/2024 00:39:32: Logou https://pje.trt2.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+13/11/2024 00:39:32: Perfil advogado e usuário BRENDA JORDANA LOBATO ARAUJO TEIXEIRA
+OAB = RN14389 ; URL = https://pje.trt2.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.02.pje.1 ; usuarioId = RN14389@thiagotavares@1014A9EA-A33C-4F9C-99D2-417D4E1FE2D3@berners ; Cookies (
+Name = JSESSIONID ; Value = 42f370c907600457~9FD+MZKBWCwIvNM8FB15VXzK ; Domain = pje.trt2.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt2.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = c8fd3c93-f4ef-4093-a629-a6813c4c8c8c ; Domain = pje.trt2.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt2.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4NzVhZmVmNy1lMzc0LTQzMzUtYjYyOC01OTI3ZDFjMWY0OTkiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY5MTcxLCJzdWIiOiJlOTk3NWFjYS1hMzE5LTQ3ZWUtYTUwNi1kOTZjZGQ1MzJlMjYucGplIiwiZXhwIjoxNzMxNDcyNzcxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjYxNjUwMjcsImxvZ2luIjoiMTAzNDA1MDY0ODIiLCJub21lIjoiQlJFTkRBIEpPUkRBTkEgTE9CQVRPIEFSQVVKTyBURUlYRUlSQSIsInBlcmZpbCI6NTM5NjMxLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjMzMDEyOSwiZGVzY3JpY2FvIjoiQlJFTkRBIEpPUkRBTkEgTE9CQVRPIEFSQVVKTyBURUlYRUlSQSAoMTAzLjQwNS4wNjQtODIpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkNFUlRJRklDQURPIiwib3JpZ2VtIjoiVFJUMiIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt2.jus.br ; Path = /
+Name = access_token_footer ; Value = jdnUhxaBvbLttzs2whNPaOcpEWVo0EOuU5ioUDyNmZY ; Domain = pje.trt2.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI0MGE2YWFiMi0zYWQ5LTQyMGQtOGIzMS03OTJiY2Q4OGM3ZmQiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY5MTcxLCJzdWIiOiJlOTk3NWFjYS1hMzE5LTQ3ZWUtYTUwNi1kOTZjZGQ1MzJlMjYucGplIiwiZXhwIjoxNzMxNTEyMzcxLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIxMDM0MDUwNjQ4MiIsInBlcmZpbCI6NTM5NjMxLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDIifQ.aXNT9TOHKsvy9Csk6DhkSw7be1xfc6UrAdxMi7xqF0A ; Domain = pje.trt2.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 4D90CBA33C3DFBD136509841C9C3B2BBADF0CB1EA9D2562C7507B5A4651B79142E41FE887D88ED2253006FD621CFFFE5F30F ; Domain = pje.trt2.jus.br ; Path = /
+)
+13/11/2024 00:39:33: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:39:34: Total: 18
+13/11/2024 00:39:34: Total: 18
+13/11/2024 00:39:34: advogado 1000052-36.2020.5.02.0312 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000383-17.2022.5.02.0322 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000472-93.2024.5.02.0314 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000568-25.2021.5.02.0311 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000575-31.2023.5.02.0316 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000667-81.2024.5.02.0313 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000851-65.2023.5.02.0315 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000886-98.2023.5.02.0323 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1000919-09.2023.5.02.0317 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001074-94.2023.5.02.0322 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001136-92.2022.5.02.0315 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001329-76.2023.5.02.0314 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001360-72.2023.5.02.0322 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001438-81.2023.5.02.0317 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001468-22.2023.5.02.0316 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001768-50.2024.5.02.0315 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001849-51.2019.5.02.0322 >> Processo já foi verificado recentemente
+13/11/2024 00:39:34: advogado 1001915-79.2024.5.02.0314 >> Processo já foi verificado recentemente
+13/11/2024 00:39:35: Entrou na aba acervo do perfil e mapeou 18 processos e teve erro em 0 processos
+13/11/2024 00:39:35: Rodou

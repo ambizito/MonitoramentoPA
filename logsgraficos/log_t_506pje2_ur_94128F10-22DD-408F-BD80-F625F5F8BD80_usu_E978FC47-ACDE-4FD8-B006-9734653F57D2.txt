@@ -1,0 +1,17 @@
+34245715472@mllc@94128F10-22DD-408F-BD80-F625F5F8BD80@linus em 5.06.pje.2
+14/11/2024 00:58:20: Acessou https://pje.trt6.jus.br/segundograu/login.seam
+14/11/2024 00:58:21: Logou https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+14/11/2024 00:58:21: Perfil advogado e usuário CRISTIANO MENDONCA DA SILVA
+OAB = 34245715472 ; URL = https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.06.pje.2 ; usuarioId = 34245715472@mllc@94128F10-22DD-408F-BD80-F625F5F8BD80@linus ; Cookies (
+Name = JSESSIONID ; Value = c2d13cc05e6374de~yiyQ2qwzXdILM2VaSgVlOTdZ ; Domain = pje.trt6.jus.br ; Path = /segundograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt6.jus.br ; Path = /segundograu
+Name = OAuth_Token_Request_State ; Value = a269951a-31db-4aa1-8456-9af6eebc4ce1 ; Domain = pje.trt6.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI5NjU5ZGY3ZS04Y2RlLTQ3ZTQtOWZhNy02NzRkNzBlYTBmMTgiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NzAwLCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTYwMzAwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJVU1VBUklPIiwiaWQiOjI4NjUyNCwibG9naW4iOiIzNDI0NTcxNTQ3MiIsIm5vbWUiOiJDUklTVElBTk8gTUVORE9OQ0EgREEgU0lMVkEiLCJwZXJmaWwiOjU1ODkwLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjQ4NjYyLCJkZXNjcmljYW8iOiJDUklTVElBTk8gTUVORE9OQ0EgREEgU0lMVkEgKDM0Mi40NTcuMTU0LTcyKSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsIm9yaWdlbSI6IlRSVDYiLCJ1c3VhcmlvVW5pZmljYWRvIjp0cnVlLCJvdHBQZXJzaXN0aWRvIjpmYWxzZX0 ; Domain = pje.trt6.jus.br ; Path = /
+Name = access_token_footer ; Value = haUCtcw8R2xbR2W-xk05fCebyHy8V3Sp9Ri0QOHYJyQ ; Domain = pje.trt6.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4ZWM0MWI5ZS0zMjEzLTQwZDAtOGUwMC05OTRhOTA4OWVmNmUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNTU2NzAwLCJzdWIiOiIyYWQwNGMyZC04ODcxLTRhM2YtYTUyNi04ZTkxMWE1YWU2NjMucGplIiwiZXhwIjoxNzMxNTk5OTAwLCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjIsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIzNDI0NTcxNTQ3MiIsInBlcmZpbCI6NTU4OTAsIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwidXN1YXJpb1VuaWZpY2FkbyI6dHJ1ZSwib3JpZ2VtIjoiVFJUNiJ9.qm5mA6o6AF3lfRRR9a9X5iZR8BkMZMfPckcvY3ifROw ; Domain = pje.trt6.jus.br ; Path = /
+Name = Xsrf-Token ; Value = A223E351AF134B46C6310E5569ACE475D4EF3662C4128F84A0AC257B20A81D84A8F13E82E7D67CE63A6A98225BE45B41576F ; Domain = pje.trt6.jus.br ; Path = /
+)
+14/11/2024 00:58:22: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+14/11/2024 00:58:24: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+14/11/2024 00:58:24: Rodou

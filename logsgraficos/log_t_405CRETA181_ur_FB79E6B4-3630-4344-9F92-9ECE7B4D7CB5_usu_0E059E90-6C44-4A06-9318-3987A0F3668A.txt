@@ -1,0 +1,6 @@
+RN14768@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs em 4.05.CRETA.1.81
+12/11/2024 16:51:36: Acessou https://wwws.jfce.jus.br/cretace/login.wsp
+12/11/2024 16:51:57: Logou https://wwws.jfce.jus.br/cretace/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+12/11/2024 16:52:17: Não capturou o total de processos para o OAB RN14768
+html: salvo no mongo.
+12/11/2024 16:52:17: Rodou

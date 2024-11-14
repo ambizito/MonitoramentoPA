@@ -1,0 +1,4 @@
+PE1972a@fredericoguilhermeborgesvilaca@0922CCA5-F19C-4D7A-B386-ED3C327EB4E9@bezos em 4.05.CRETA.1.82
+13/11/2024 19:30:34: Acessou https://jefvirtual.jfpb.jus.br/cretapb/login.wsp
+13/11/2024 19:31:19: Erro no acesso: Senha invalida
+html: salvo no mongo.

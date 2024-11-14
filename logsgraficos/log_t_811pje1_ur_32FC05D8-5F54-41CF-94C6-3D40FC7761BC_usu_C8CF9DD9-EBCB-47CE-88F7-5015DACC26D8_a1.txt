@@ -1,0 +1,109 @@
+PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos em 8.11.pje.1
+12/11/2024 23:39:54: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 000831 0.q87nkuafykn "HERMANO GADELHA DE SA46843574491"
+12/11/2024 23:39:57: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 23:39:57: Perfil advogado e usuário HERMANO GADELHA DE SA
+OAB = PB8463 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = PB8463@coriolano@32FC05D8-5F54-41CF-94C6-3D40FC7761BC@bezos ; Cookies (
+Name = JSESSIONID ; Value = cCb_547luq7_Opxu9y-2R4tXu7kyinj3BrKyQKD2.pjev2-vra-0028 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_4_sn_5E1F2741C4A6AAFD9828BF8BB7BF3E17_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_1 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_4_sn_5E1F2741C4A6AAFD9828BF8BB7BF3E17_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_1 ; Domain = .tjmt.jus.br ; Path = /
+)
+12/11/2024 23:39:58: Total: 1
+12/11/2024 23:40:02: advogado 1008400-79.2023.8.11.0007 >> Processo com 2 parte(s), 64 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 23:40:03: Total: 1
+12/11/2024 23:40:07: advogado 1007940-67.2024.8.11.0004 >> Processo com 7 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:08: Total: 3
+12/11/2024 23:40:12: advogado 1008827-65.2021.8.11.0001 >> Processo com 2 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:16: advogado 1022520-25.2023.8.11.0041 >> Processo com 5 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:16: advogado 1008827-65.2021.8.11.0001 >> Processo já foi verificado recentemente
+12/11/2024 23:40:16: Total: 1
+12/11/2024 23:40:20: advogado 1072404-46.2023.8.11.0001 >> Processo com 3 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:21: Total: 3
+12/11/2024 23:40:25: advogado 1023520-41.2023.8.11.0015 >> Processo com 7 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:27: advogado 1022876-98.2023.8.11.0015 >> Processo com 5 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:27: advogado 1022876-98.2023.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:40:28: Total: 1
+12/11/2024 23:40:32: advogado 1008827-65.2021.8.11.0001 >> Processo com 2 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:32: Total: 1
+12/11/2024 23:40:34: advogado 1022876-98.2023.8.11.0015 >> Processo com 5 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:35: Total: 1
+12/11/2024 23:40:39: advogado 1008400-79.2023.8.11.0007 >> Processo com 2 parte(s), 64 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 23:40:39: Total: 1
+12/11/2024 23:40:44: advogado 1007940-67.2024.8.11.0004 >> Processo com 7 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:44: Total: 2
+12/11/2024 23:40:48: advogado 1022520-25.2023.8.11.0041 >> Processo com 5 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:52: advogado 1008827-65.2021.8.11.0001 >> Processo com 2 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:53: Total: 1
+12/11/2024 23:40:57: advogado 1072404-46.2023.8.11.0001 >> Processo com 3 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:40:57: Total: 2
+12/11/2024 23:41:01: advogado 1023520-41.2023.8.11.0015 >> Processo com 7 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:04: advogado 1022876-98.2023.8.11.0015 >> Processo com 5 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:04: Total: 1
+12/11/2024 23:41:07: advogado 1042383-69.2020.8.11.0041 >> Processo com 2 parte(s), 72 andamento(s) e 14 expediente(s) atualizado
+12/11/2024 23:41:08: Total: 1
+12/11/2024 23:41:12: advogado 1000437-05.2024.8.11.0033 >> Processo com 3 parte(s), 70 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 23:41:12: Total: 1
+12/11/2024 23:41:17: advogado 1008400-79.2023.8.11.0007 >> Processo com 2 parte(s), 64 andamento(s) e 13 expediente(s) atualizado
+12/11/2024 23:41:17: Total: 1
+12/11/2024 23:41:22: advogado 1007940-67.2024.8.11.0004 >> Processo com 7 parte(s), 60 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:22: Total: 2
+12/11/2024 23:41:26: advogado 1022520-25.2023.8.11.0041 >> Processo com 5 parte(s), 66 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:30: advogado 1008827-65.2021.8.11.0001 >> Processo com 2 parte(s), 69 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:31: Total: 1
+12/11/2024 23:41:35: advogado 1072404-46.2023.8.11.0001 >> Processo com 3 parte(s), 64 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:35: Total: 3
+12/11/2024 23:41:40: advogado 1023520-41.2023.8.11.0015 >> Processo com 7 parte(s), 65 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:42: advogado 1022876-98.2023.8.11.0015 >> Processo com 5 parte(s), 59 andamento(s) e 16 expediente(s) atualizado
+12/11/2024 23:41:42: advogado 1022876-98.2023.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:41:42: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Apenas pendentes de ciência, Ciência dada pelo destinatário direto ou indireto - pendente de resposta, Ciência dada pelo Judiciário - pendente de resposta, Respondidos nos últimos 10 dias, Apenas pendentes de resposta e detectou 44 e leu 14
+12/11/2024 23:41:45: Total: 2
+12/11/2024 23:41:45: Total: 2
+12/11/2024 23:41:45: advogado 1001124-60.2024.8.11.0007 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: advogado 1008400-79.2023.8.11.0007 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: Total: 1
+12/11/2024 23:41:45: Total: 1
+12/11/2024 23:41:45: advogado 1007940-67.2024.8.11.0004 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: Total: 5
+12/11/2024 23:41:45: Total: 5
+12/11/2024 23:41:45: advogado 1042383-69.2020.8.11.0041 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: advogado 1008827-65.2021.8.11.0001 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: advogado 1022520-25.2023.8.11.0041 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: advogado 1033046-85.2022.8.11.0041 >> Processo já foi verificado recentemente
+12/11/2024 23:41:45: advogado 1054047-97.2020.8.11.0041 >> Processo já foi verificado recentemente
+12/11/2024 23:41:46: Total: 2
+12/11/2024 23:41:46: Total: 2
+12/11/2024 23:41:46: advogado 1072404-46.2023.8.11.0001 >> Processo já foi verificado recentemente
+12/11/2024 23:41:46: advogado 1019047-54.2023.8.11.0001 >> Processo já foi verificado recentemente
+12/11/2024 23:41:46: Total: 2
+12/11/2024 23:41:46: Total: 2
+12/11/2024 23:41:46: advogado 1000008-90.2024.8.11.0048 >> Processo já foi verificado recentemente
+12/11/2024 23:41:46: advogado 1000683-87.2023.8.11.0048 >> Processo já foi verificado recentemente
+12/11/2024 23:41:46: Total: 2
+12/11/2024 23:41:46: Total: 2
+12/11/2024 23:41:46: advogado 1007047-50.2024.8.11.0045 >> Processo já foi verificado recentemente
+12/11/2024 23:41:46: advogado 1001903-76.2016.8.11.0045 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: Total: 2
+12/11/2024 23:41:47: Total: 2
+12/11/2024 23:41:47: advogado 1033512-62.2023.8.11.0003 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: advogado 1038245-71.2023.8.11.0003 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: Total: 4
+12/11/2024 23:41:47: Total: 4
+12/11/2024 23:41:47: advogado 1023520-41.2023.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: advogado 1022876-98.2023.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: advogado 1002068-38.2024.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: advogado 1002613-11.2024.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:41:47: Total: 1
+12/11/2024 23:41:47: Total: 1
+12/11/2024 23:41:47: advogado 1030736-53.2023.8.11.0015 >> Processo já foi verificado recentemente
+12/11/2024 23:41:48: Total: 1
+12/11/2024 23:41:48: Total: 1
+12/11/2024 23:41:48: advogado 1000437-05.2024.8.11.0033 >> Processo já foi verificado recentemente
+12/11/2024 23:41:48: Total: 1
+12/11/2024 23:41:48: Total: 1
+12/11/2024 23:41:48: advogado 1015708-22.2023.8.11.0055 >> Processo já foi verificado recentemente
+12/11/2024 23:41:48: Total: 1
+12/11/2024 23:41:48: Total: 1
+12/11/2024 23:41:48: advogado 1031974-49.2023.8.11.0002 >> Processo já foi verificado recentemente
+12/11/2024 23:41:54: Entrou na aba acervo do perfil e mapeou 24 processos e teve erro em 0 processos
+12/11/2024 23:41:54: Rodou

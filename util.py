@@ -7,12 +7,8 @@ from datetime import datetime
 from pymongo import MongoClient
 
 # URLs de conexão MongoDB
-mongoTribunalUrl = ""
-TransparenciaUrl = ""
-
-# URLs de conexão MongoDB
-mongoTribunalUrl = ""
-TransparenciaUrl = ""
+mongoTribunalUrl = "mongodb://softurbanotribunal:ilovemongotribunal@token.softurbano.com:30050/admin?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1"
+TransparenciaUrl = "mongodb://bigtabletrasparencia:EssaSenhaEMuitoD1f1c1lParaTrasparencia%23@192.168.40.108:40060/admin?retryWrites=true&loadBalanced=false&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1"
 
 # Conexão com o MongoDB do Tribunal
 mongoTribunal = MongoClient(mongoTribunalUrl)
@@ -36,7 +32,7 @@ __all__ = [
 
 
 # URLs e Headers
-urlConsultaP = "https://bi.processoagil.com.br/api/bigtable/estatisticas/tribunais"
+urlConsultaP = "https://bi.processoagil.com.br/api/bigtable/estatisticas/tribunais?range=24h"
 Header = {"authorization": "Basic uPIEIs2JxxpbqzKBt3oVkTFsePrfEz3zNg4fbn7aIu4yh226XKBzQMc5TEbtFZi7+PqXRDrEkTObIq8DAXmBoAAGvjrDrxWFw2c12VbDdW8="}
 
 

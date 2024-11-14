@@ -1,0 +1,4 @@
+04944471416@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 8.05.pje.2
+14/11/2024 09:19:53: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+14/11/2024 09:19:54: Erro no acesso: 2captcha resposta errada
+html: salvo no mongo.

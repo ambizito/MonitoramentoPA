@@ -1,0 +1,6 @@
+6713@hugogodeiro@5ED38E1C-7EE7-424E-BD8B-959E4D50A11C@jobs em 4.05.CRETA.1.84
+13/11/2024 01:05:10: Acessou https://cretarn.jfrn.jus.br/cretarn/login.wsp
+13/11/2024 01:05:51: Logou https://cretarn.jfrn.jus.br/cretarn/consulta/processo/pesquisar_geral.wsp?consulta.processo.tp_link=consulta
+13/11/2024 01:06:11: Não capturou o total de processos para o OAB 
+html: salvo no mongo.
+13/11/2024 01:06:11: Rodou

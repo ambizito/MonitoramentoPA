@@ -1,0 +1,41 @@
+ES40560@fabionascimento@5D77D797-37B7-45F3-BE93-724F0392733A@mark em 8.08.pje.2
+12/11/2024 16:11:58: Acessou https://pje.tjes.jus.br/pje2g/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 7315 0.wvf78mryso5 "FABIO NASCIMENTO DE CARVALHO07523797717"
+12/11/2024 16:12:05: Logou https://pje.tjes.jus.br/pje2g/Painel/painel_usuario/advogado.seam
+12/11/2024 16:12:05: Perfil advogado e usuário FABIO NASCIMENTO DE CARVALHO
+OAB = ES40560 ; URL = https://pje.tjes.jus.br/pje2g/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.08.pje.2 ; usuarioId = ES40560@fabionascimento@5D77D797-37B7-45F3-BE93-724F0392733A@mark ; Cookies (
+Name = JSESSIONID ; Value = HIt1eXmqFIwFp6aoJzmsfEuI0ahU3eoctlksAHTD.pje2g-7868fd5b77-z2gmn ; Domain = pje.tjes.jus.br ; Path = /pje2g
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /pje2g
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0Njc1MjUsImlhdCI6MTczMTQzODcyNSwiYXV0aF90aW1lIjoxNzMxNDM4NzI1LCJqdGkiOiI0MjkzZTExNy1iOGFiLTQ5ZWEtYTM0OC04MTM5ODM5ZDkzMmMiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amVzLTJnLWNsb3VkIiwic3ViIjoiNzc2ZjYwYjktYmNiNy00Yzg2LWIwMTctMTc1Yzg4NmFhYTlhIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGplcy0yZy1jbG91ZCIsInNlc3Npb25fc3RhdGUiOiJlMmE5Y2FlYy0xY2ViLTRiN2YtYmY1NC1jZmI0NWZiOWNjMTYiLCJhdF9oYXNoIjoiU19tYVpwbndRTlFhLVFJSXJWQmlGZyIsImFjciI6IjEiLCJzaWQiOiJlMmE5Y2FlYy0xY2ViLTRiN2YtYmY1NC1jZmI0NWZiOWNjMTYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkZBQklPIE5BU0NJTUVOVE8gREUgQ0FSVkFMSE8iLCJqdHIiOiI4MDgiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNzUyMzc5NzcxNyIsImdpdmVuX25hbWUiOiJGQUJJTyBOQVNDSU1FTlRPIERFIENBUlZBTEhPIiwiZW1haWwiOiJmYWJpb0BleGF0YWNhcGl0YWwuY29tLmJyIn0.g9xD4cJgtSZgCKIU5MjS1lYH_8Q516gNhHRjArsA5k76U6GfAygNG-m0rxoZMFPZ61vMfL0qfaiIOnhLaSXQhsTNk6bqKcl72m-xCLDhsn-gk_jkUWoZrhWGYFTm2zHGZ0pzeb6JzSKWX31-xtm8ohZWmN-McDTlD2Cyk6gsWOfzTHtyDRCCwuPfLvfsSTmCiqemtv5qYwYkXiM5zzTECzglkl2iyydHcivnyOHhhCWwnOGeBEwsexRCX8mz9kiImjCPd3bIkKAr9Ew79JpU6nQ80BCCHX2nFuTfBHpaqGhN3skLejL4WI0pWDX1kUP3V2FCmHXNF-p5cWXJiWPoNw ; Domain = pje.tjes.jus.br ; Path = /pje2g
+Name = PJE-TJES-2G-StickySessionRule ; Value = "pje2g-7868fd5b77-z2gmn:pje-tjes-2g" ; Domain = pje.tjes.jus.br ; Path = /pje2g
+Name = AWSALB ; Value = y1Kozq0xsxx8Gq50h8GxqTyY/gwS71K76NvH/OnM04pilfq3idpAB6t0GEPC0Kzyp1kotnbPWzxHasVDr446AeKeTlRtZLSTBxQ60xON3L+MBHEJVWaWoZbYeLEU ; Domain = pje.tjes.jus.br ; Path = /
+Name = AWSALBCORS ; Value = y1Kozq0xsxx8Gq50h8GxqTyY/gwS71K76NvH/OnM04pilfq3idpAB6t0GEPC0Kzyp1kotnbPWzxHasVDr446AeKeTlRtZLSTBxQ60xON3L+MBHEJVWaWoZbYeLEU ; Domain = pje.tjes.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 9ac59394-543b-4c69-86e1-cb1068ce5cb8 ; Domain = pje.tjes.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjes.jus.br ; Path = /
+)
+12/11/2024 16:12:06: Total: 1
+12/11/2024 16:12:08: advogado 0003345-38.2024.8.08.0000 >> Processo com 5 parte(s), 35 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:09: Total: 1
+12/11/2024 16:12:11: advogado 0003345-38.2024.8.08.0000 >> Processo com 5 parte(s), 35 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:11: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de resposta, Ciência dada pelo Judiciário - pendente de resposta e detectou 1 e leu 1
+12/11/2024 16:12:14: Total: 17
+12/11/2024 16:12:14: Total: 17
+12/11/2024 16:12:16: advogado 0000982-70.2024.8.08.0035 >> Processo com 15 parte(s), 51 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 16:12:16: advogado 0003345-38.2024.8.08.0000 >> Processo já foi verificado recentemente
+12/11/2024 16:12:18: advogado 5007628-19.2024.8.08.0000 >> Processo com 6 parte(s), 64 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 16:12:19: advogado 0002179-68.2024.8.08.0000 >> Processo com 5 parte(s), 48 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 16:12:21: advogado 0002084-38.2024.8.08.0000 >> Processo com 5 parte(s), 65 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 16:12:23: advogado 0002089-60.2024.8.08.0000 >> Processo com 5 parte(s), 62 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:24: advogado 0002074-91.2024.8.08.0000 >> Processo com 5 parte(s), 60 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 16:12:26: advogado 0002069-69.2024.8.08.0000 >> Processo com 5 parte(s), 58 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 16:12:28: advogado 0002079-16.2024.8.08.0000 >> Processo com 5 parte(s), 57 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:30: advogado 0002063-62.2024.8.08.0000 >> Processo com 5 parte(s), 39 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:31: advogado 5006437-36.2024.8.08.0000 >> Processo com 6 parte(s), 62 andamento(s) e 5 expediente(s) atualizado
+12/11/2024 16:12:33: advogado 5006213-98.2024.8.08.0000 >> Processo com 5 parte(s), 50 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:35: advogado 5006405-31.2024.8.08.0000 >> Processo com 6 parte(s), 53 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:12:37: advogado 5006501-46.2024.8.08.0000 >> Processo com 6 parte(s), 38 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:12:38: advogado 5006196-62.2024.8.08.0000 >> Processo com 6 parte(s), 41 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:40: advogado 5006389-77.2024.8.08.0000 >> Processo com 6 parte(s), 44 andamento(s) e 3 expediente(s) atualizado
+12/11/2024 16:12:42: advogado 5006260-72.2024.8.08.0000 >> Processo com 5 parte(s), 46 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 16:12:47: Entrou na aba acervo do perfil e mapeou 17 processos e teve erro em 0 processos
+12/11/2024 16:12:47: Rodou

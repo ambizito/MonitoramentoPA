@@ -1,0 +1,8 @@
+RN18979@vrpadvogados@825B8C25-3BC0-4F81-956B-9EED92860825@linus em 4.03.pje.1
+12/11/2024 18:28:18: Acessou https://pje1g.trf3.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 123456 0.upcf0xk48k7 "pedro ivo borges bigois capistrano:10167610406 2024-01-16 12:45:04"
+12/11/2024 18:28:20: Logou https://pje1g.trf3.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 18:28:20: Procuracao: Perfil advogado e usuário PEDRO IVO BORGES BIGOIS CAPISTRANO
+12/11/2024 18:28:21: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 18:28:24: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 18:28:24: Rodou

@@ -1,0 +1,15 @@
+RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners em 8.11.pje.1
+12/11/2024 21:23:49: Acessou https://pje.tjmt.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar ccl2586 0.gx8a2lj2rjs "CLAUDIO VINICIUS SANTA ROSA CASTIM:20262248468"
+12/11/2024 21:23:52: Logou https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 21:23:52: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM
+OAB = RN1695 ; URL = https://pje.tjmt.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.11.pje.1 ; usuarioId = RN1695@ccel@61A24C15-1E88-449B-A233-6699A824C216@berners ; Cookies (
+Name = JSESSIONID ; Value = WymisNi7Of8SzjFO7J9j_Jhxcr_eLru8NH4fz2tO.pjev2-vra-0025 ; Domain = pje.tjmt.jus.br ; Path = /pje
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_0C532FBAD721F5B59AF62360961AE548_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = pje.tjmt.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tjmt.jus.br ; Path = /
+Name = dtCookievnlkm1km ; Value = v_4_srv_6_sn_0C532FBAD721F5B59AF62360961AE548_perc_100000_ol_0_mul_1_app-3A45dc082225a64592_1_rcs-3Acss_0 ; Domain = .tjmt.jus.br ; Path = /
+)
+12/11/2024 21:23:52: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 21:23:53: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 21:23:53: Procuracao: Perfil advogado e usuário CLAUDIO VINICIUS SANTA ROSA CASTIM filtrado, não roda.
+12/11/2024 21:23:53: Rodou

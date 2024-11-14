@@ -1,0 +1,12 @@
+RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark em 8.05.pje.1
+12/11/2024 20:16:01: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Henf0714 0.psqj8jvfy0a "HENRIQUE EDUARDO NUNES DE FRANCA:01126394459"
+12/11/2024 20:16:04: Erro no acesso: Desconhecido
+RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark em 8.05.pje.1
+12/11/2024 20:17:05: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Henf0714 0.5r26qjx42uo "HENRIQUE EDUARDO NUNES DE FRANCA:01126394459"
+12/11/2024 20:17:08: Erro no acesso: Desconhecido
+RN15034@advhenriquefranca@DE4AAF8E-5E14-43D8-B232-B10CBE68645B@mark em 8.05.pje.1
+12/11/2024 20:18:09: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar Henf0714 0.1vy1u8if8us "HENRIQUE EDUARDO NUNES DE FRANCA:01126394459"
+12/11/2024 20:34:51: Erro no acesso: Desconhecido

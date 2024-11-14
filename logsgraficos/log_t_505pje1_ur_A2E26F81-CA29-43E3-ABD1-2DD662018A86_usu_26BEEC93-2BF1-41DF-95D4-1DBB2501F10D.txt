@@ -1,0 +1,37 @@
+00684881578@almeidaadvogados@A2E26F81-CA29-43E3-ABD1-2DD662018A86@linus em 5.05.pje.1
+12/11/2024 16:47:33: Acessou https://pje.trt5.jus.br/primeirograu/login.seam
+12/11/2024 16:47:37: Logou https://pje.trt5.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 16:47:39: Perfil advogado e usuário DANIEL JESUS DE ALMEIDA
+OAB = 00684881578 ; URL = https://pje.trt5.jus.br/primeirograu/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.05.pje.1 ; usuarioId = 00684881578@almeidaadvogados@A2E26F81-CA29-43E3-ABD1-2DD662018A86@linus ; Cookies (
+Name = JSESSIONID ; Value = c87eb3215568cc62~BiI-fIBV4rL7P0nZ2mTiekus ; Domain = pje.trt5.jus.br ; Path = /primeirograu
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.trt5.jus.br ; Path = /primeirograu
+Name = OAuth_Token_Request_State ; Value = d955f430-98f6-4037-af1d-17baa7df4a52 ; Domain = pje.trt5.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1YmI4ZjFjZS1jYjJmLTRjMDUtYTU1OS00ZjBmYzc1MTg3NjUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQwODU0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDQ0NDU0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJVU1VBUklPIiwiaWQiOjI5MTg3MiwibG9naW4iOiIwMDY4NDg4MTU3OCIsIm5vbWUiOiJEQU5JRUwgSkVTVVMgREUgQUxNRUlEQSIsInBlcmZpbCI6MjM5ODQ0LCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjg5ODQ4LCJkZXNjcmljYW8iOiJEQU5JRUwgSkVTVVMgREUgQUxNRUlEQSAoMDA2Ljg0OC44MTUtNzgpIn0sIm1ldG9kb0F1dGVudGljYWNhbyI6IkxPR0lOX1NFTkhBIiwib3JpZ2VtIjoiVFJUNSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.trt5.jus.br ; Path = /
+Name = access_token_footer ; Value = LJZ9tUnKPwOYDLmG9hdB2Ix6Ox8JvDUbozXUwECDtgc ; Domain = pje.trt5.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlZDVlOGY1MS0wNTIzLTQxOGQtYjJlYS1jMjM1NDg3OGJiNjUiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDQwODU0LCJzdWIiOiIyZGY5YzMwZi0yMzMyLTQ5ZjUtYjQ0ZC0wMWM2NDdjMzQ0MjAucGplIiwiZXhwIjoxNzMxNDg0MDU0LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjEsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwMDY4NDg4MTU3OCIsInBlcmZpbCI6MjM5ODQ0LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJMT0dJTl9TRU5IQSIsInVzdWFyaW9VbmlmaWNhZG8iOnRydWUsIm9yaWdlbSI6IlRSVDUifQ.KjzKiTVxmNOwnaZbsj6eGzwty2G4mtwfPWdIMRGNlzQ ; Domain = pje.trt5.jus.br ; Path = /
+Name = Xsrf-Token ; Value = BCE5301486332C8D84B6C15B200171B4731631F8E18CE952EC70AF8E87C1585F98699CCF94083F3CA4E1C90E58ADDEE9A930 ; Domain = pje.trt5.jus.br ; Path = /
+)
+12/11/2024 16:47:42: Total: 1
+12/11/2024 16:47:46: advogado 0001040-07.2017.5.05.0018 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+12/11/2024 16:47:46: advogado 0001040-07.2017.5.05.0018 >> Processo com 12 parte(s), 338 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 16:47:46: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 1 e leu 1
+12/11/2024 16:47:47: Total: 1
+12/11/2024 16:47:47: Total: 1
+12/11/2024 16:47:47: advogado 0000163-98.2021.5.05.0221 >> Processo já foi verificado recentemente
+12/11/2024 16:47:47: Total: 9
+12/11/2024 16:47:47: Total: 9
+12/11/2024 16:47:47: advogado 0000143-86.2021.5.05.0034 >> Processo já foi verificado recentemente
+12/11/2024 16:47:47: advogado 0000280-47.2020.5.05.0020 >> Processo já foi verificado recentemente
+12/11/2024 16:47:47: advogado 0000363-26.2017.5.05.0034 >> Processo já foi verificado recentemente
+12/11/2024 16:47:47: advogado 0000373-86.2020.5.05.0027 >> Processo já foi verificado recentemente
+12/11/2024 16:47:54: advogado 0000380-08.2020.5.05.0018 >> Processo com 5 parte(s), 290 andamento(s) e 52 expediente(s) atualizado
+12/11/2024 16:47:54: advogado 0000617-33.2016.5.05.0034 >> Processo já foi verificado recentemente
+12/11/2024 16:47:54: advogado 0000880-95.2015.5.05.0003 >> Processo já foi verificado recentemente
+12/11/2024 16:47:57: advogado 0001025-11.2017.5.05.0027 >> Falha ao pegar os expedientes do processo
+html: salvo no mongo.
+12/11/2024 16:47:57: advogado 0001025-11.2017.5.05.0027 >> Processo com 9 parte(s), 347 andamento(s) e 0 expediente(s) atualizado
+12/11/2024 16:47:57: advogado 0001040-07.2017.5.05.0018 >> Processo já foi verificado recentemente
+12/11/2024 16:47:58: Entrou na aba acervo do perfil e mapeou 10 processos e teve erro em 0 processos
+12/11/2024 16:47:58: Rodou

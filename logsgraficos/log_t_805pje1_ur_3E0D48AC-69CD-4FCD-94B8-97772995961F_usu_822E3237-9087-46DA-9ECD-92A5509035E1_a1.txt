@@ -1,0 +1,18 @@
+RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus em 8.05.pje.1
+12/11/2024 20:03:42: Acessou https://pje.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 31930425 0.94grnfcx4m2 "HEITOR FERNANDES MOREIRA04532923484"
+12/11/2024 20:03:45: Logou https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 20:03:45: Perfil advogado e usuário HEITOR FERNANDES MOREIRA
+OAB = RN14419 ; URL = https://pje.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.05.pje.1 ; usuarioId = RN14419@hfadvocacia@3E0D48AC-69CD-4FCD-94B8-97772995961F@linus ; Cookies (
+Name = JSESSIONID ; Value = HC1Q0w95zc5Xyfuq3jLtW0KggO7LPSb5rVpiS--S.pje1gapp078 ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0ODE0MjMsImlhdCI6MTczMTQ1MjYyNCwiYXV0aF90aW1lIjoxNzMxNDUyNjIzLCJqdGkiOiIzYmJmMzNiZi05ODE0LTQ0NDEtODlhNy05MDk5YjljZWZkODkiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amJhLTFnIiwic3ViIjoiMDg3ZmI1NTAtODk0MC00NjlhLTg2NWEtOGJlODQzMjY0ZjY5IiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpiYS0xZyIsInNlc3Npb25fc3RhdGUiOiJkMTE3ZTEzMy00OWY0LTQyYWMtYTYwNi1iMjQ4MDU4NWQxNzAiLCJhdF9oYXNoIjoiVlNkZHR0ZmRxZjdHRW1Ed1k5WnZOZyIsImFjciI6IjEiLCJzaWQiOiJkMTE3ZTEzMy00OWY0LTQyYWMtYTYwNi1iMjQ4MDU4NWQxNzAiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsIkpUUiI6IjgwNSIsInByZWZlcnJlZF91c2VybmFtZSI6IjA0NTMyOTIzNDg0IiwiZ2l2ZW5fbmFtZSI6IkhFSVRPUiBGRVJOQU5ERVMgTU9SRUlSQSIsImVtYWlsIjoiaGVpdG9yZmVybmFuZGVzYWR2b2NhY2lhQGdtYWlsLmNvbSJ9.Rh7KX3JEaPmjjv5qPj9KZYN_CR6AbzGxj4ibs60tKGVjgMJvODxvhwSa0Vy-pNjuI-zftKe6Mw2qiTy7ORQgB8JGS6Jg_qY-dC7sHJBb3ogzG7SEFKk_o6hHXIE7jZL7BpBT9tEBRVcsEl_4vJntg8cbYxYxogfwAk7q32CYEwMDYnNxLC9yS9tUdvs7EISbr-FEfn5vZRb9qu-5LVF7dXSgqeI_EFW3eA8Qkr7Ee9r9tPeDgCZKf9LPs4WlT22IKf9T1hc5s6Y_V2BoSyK5EwgQuZgkAsBnFyJP99TlFxW8ecFHskZ-qtBEgU6BL35GVysR2uFI8GPdeQsuZ0uQtg ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-1G-StickySessionRule ; Value = pje1gapp078:pje-tjba-1g ; Domain = pje.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje.tjba.jus.br ; Path = /
+)
+12/11/2024 20:03:45: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+12/11/2024 20:03:46: Total: 1
+12/11/2024 20:03:46: Total: 1
+12/11/2024 20:03:48: advogado 8017266-11.2021.8.05.0001 >> Processo com 2 parte(s), 65 andamento(s) e 12 expediente(s) atualizado
+12/11/2024 20:03:49: Entrou na aba acervo do perfil e mapeou 1 processos e teve erro em 0 processos
+12/11/2024 20:03:49: Rodou

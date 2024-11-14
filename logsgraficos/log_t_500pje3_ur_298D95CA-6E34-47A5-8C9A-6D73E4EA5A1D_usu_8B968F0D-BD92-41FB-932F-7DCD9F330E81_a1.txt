@@ -1,0 +1,29 @@
+PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates em 5.00.pje.3
+12/11/2024 23:19:36: Acessou https://pje.tst.jus.br/tst/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar gcp123 r36wlIUlXEIMsXgBBzsp8QbytxTNRvwo "JOSE PIRES RODRIGUES FILHO:04944471416"
+12/11/2024 23:19:39: Logou https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 23:19:40: Perfil advogado e usuário JOSE PIRES RODRIGUES FILHO
+OAB = PB16549 ; URL = https://pje.tst.jus.br/tst/Painel/painel_usuario/advogado.seam?tab=agrupadores ; ViewState = j_id3 ; tribunal = 5.00.pje.3 ; usuarioId = PB16549@gcpadvogados@298D95CA-6E34-47A5-8C9A-6D73E4EA5A1D@gates ; Cookies (
+Name = JSESSIONID ; Value = c158e9fc4269fdcd~4g-lb0K2Zbg99rHp7ZAjCTUN ; Domain = pje.tst.jus.br ; Path = /tst
+Name = br.com.infox.ibpm.skin ; Value = skin/azul ; Domain = pje.tst.jus.br ; Path = /tst
+Name = INSTANCIA ; Value = pje-prd ; Domain = pje.tst.jus.br ; Path = /
+Name = OAuth_Token_Request_State ; Value = 69154115-d6f3-45c0-84bf-ae7f80b05e75 ; Domain = pje.tst.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1ZTFmZWY4MC1iZjA4LTQwMmUtOGJhYS05YzMzOGZlODllY2UiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY0Mzc4LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNDY3OTc4LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJVU1VBUklPIiwiaWQiOjI0MzAwMCwibG9naW4iOiIwNDk0NDQ3MTQxNiIsIm5vbWUiOiJKT1NFIFBJUkVTIFJPRFJJR1VFUyBGSUxITyIsInBlcmZpbCI6MTc1NDUyLCJwYXBlbCI6eyJpZCI6MTAwNSwibm9tZSI6IkFkdm9nYWRvIiwiaWRlbnRpZmljYWRvciI6IkFEVk9HQURPIn0sInBhcGVsS3oiOnsiaWQiOjEwLCJub21lIjoiQWR2b2dhZG8iLCJpZGVudGlmaWNhZG9yIjoiQURWT0dBRE8ifSwibG9jYWxpemFjYW8iOnsiaWQiOjE2MTA5OCwiZGVzY3JpY2FvIjoiSk9TRSBQSVJFUyBST0RSSUdVRVMgRklMSE8gKDA0OS40NDQuNzE0LTE2KSJ9LCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRTVCIsIm90cFBlcnNpc3RpZG8iOmZhbHNlfQ ; Domain = pje.tst.jus.br ; Path = /
+Name = access_token_footer ; Value = oS4Lofutjwm7dkT8zjJm40HgFYB1dkeLcISTLZ-J-Ds ; Domain = pje.tst.jus.br ; Path = /
+Name = refresh_token ; Value = eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyYWYwYWMwZi05NTRhLTQ5YzgtOWFlYy0yNzAwM2VhMzQ3MzIiLCJpc3MiOiJwamUtc2VndXJhbmNhIiwiaWF0IjoxNzMxNDY0Mzc4LCJzdWIiOiJkMGNhMjQ0Zi1kMmI3LTRlYzEtYWY0Yi03Nzg3NTQyMzkwMWUucGplIiwiZXhwIjoxNzMxNTA3NTc4LCJzaWdsYVNpc3RlbWEiOiJQSkUiLCJpbnN0YW5jaWEiOjMsInRpcG8iOiJSRUZSRVNIX1RPS0VOIiwibG9naW4iOiIwNDk0NDQ3MTQxNiIsInBlcmZpbCI6MTc1NDUyLCJtZXRvZG9BdXRlbnRpY2FjYW8iOiJDRVJUSUZJQ0FETyIsIm9yaWdlbSI6IlRTVCJ9.hLif7GJNW7WLl7XyE52Oo8M3p5YlBL2SEtljZn1cFyg ; Domain = pje.tst.jus.br ; Path = /
+Name = Xsrf-Token ; Value = 93B5A1276C97B7E94DDB60D1534273C36403ED09A12D986925E5F61590F41D95C07DC29C1ED5044D9035561677320B4CB88A ; Domain = pje.tst.jus.br ; Path = /
+)
+12/11/2024 23:19:41: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 23:19:44: Total: 2
+12/11/2024 23:19:44: Total: 2
+12/11/2024 23:19:44: advogado 0000030-36.2024.5.06.0411 >> Processo já foi verificado recentemente
+12/11/2024 23:19:44: advogado 0000221-06.2022.5.06.0006 >> Processo já foi verificado recentemente
+12/11/2024 23:19:45: Total: 1
+12/11/2024 23:19:45: Total: 1
+12/11/2024 23:19:45: advogado 0000030-36.2024.5.06.0411 >> Processo já foi verificado recentemente
+12/11/2024 23:19:45: Total: 1
+12/11/2024 23:19:45: Total: 1
+12/11/2024 23:19:45: advogado 0000221-06.2022.5.06.0006 >> Processo já foi verificado recentemente
+12/11/2024 23:19:50: Entrou na aba acervo do perfil e mapeou 4 processos e teve erro em 0 processos
+12/11/2024 23:19:50: Rodou

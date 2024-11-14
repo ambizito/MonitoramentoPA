@@ -1,0 +1,16 @@
+PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos em 8.05.pje.2
+12/11/2024 19:35:51: Acessou https://pje2g.tjba.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar manu1234 xU5jc8Df81ev6TD3Q9H8diDzMQ21ohGL "MANOLYS MARCELINO PASSERAT DE SILANS:00810064464"
+12/11/2024 19:35:53: Logou https://pje2g.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam
+12/11/2024 19:35:53: Perfil advogado e usuário MANOLYS MARCELINO PASSERAT DE SILANS
+OAB = PB11536 ; URL = https://pje2g.tjba.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id4 ; tribunal = 8.05.pje.2 ; usuarioId = PB11536@passeratdesilans@68F0E517-D3DA-460E-8AD5-1C1C95931745@bezos ; Cookies (
+Name = JSESSIONID ; Value = 5yBvUXp69EJ3bAPjWAcYv0ycCIas0iuPEtySNrzY.pje2gapp012 ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = PJE-TJBA-2G-StickySessionRule ; Value = pje2gapp012:pje-tjba-2g ; Domain = pje2g.tjba.jus.br ; Path = /pje
+Name = ADC_REQ_2E94AF76E7 ; Value = ADFD252E1B4EF62E11EB286FDB2AFF0C71AD8A54B94A2CFA80B6158366320C6FA94A7A6D21C43520 ; Domain = pje2g.tjba.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje2g.tjba.jus.br ; Path = /
+)
+12/11/2024 19:36:35: Não acessou a url de pesquisa de expedientes para o OAB PB11536
+html: salvo no mongo.
+12/11/2024 19:36:37: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+12/11/2024 19:36:37: Rodou

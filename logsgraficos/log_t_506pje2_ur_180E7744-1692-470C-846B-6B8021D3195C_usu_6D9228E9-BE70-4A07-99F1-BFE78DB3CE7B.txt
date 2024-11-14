@@ -1,0 +1,19 @@
+03444243405@meloadvogados@180E7744-1692-470C-846B-6B8021D3195C@berners em 5.06.pje.2
+12/11/2024 23:47:06: Acessou https://pje.trt6.jus.br/segundograu/login.seam
+12/11/2024 23:47:07: Logou https://pje.trt6.jus.br/segundograu/Painel/painel_usuario/advogado.seam?tab=agrupadores
+12/11/2024 23:47:08: Procuracao: Perfil advogado e usuário JOAO PAULO DOS SANTOS MELO
+12/11/2024 23:47:08: Entrou na aba expediente do perfil para as categorias Pendentes de ciência ou de seu registro, Comunicações confirmadas e dentro do prazo, Ciência nos últimos 30 dias, sem prazo, Expedientes respondidos nos últimos 10 dias e detectou 0 e leu 0
+12/11/2024 23:47:11: Total: 3
+12/11/2024 23:47:11: Total: 3
+12/11/2024 23:47:15: advogado 0000991-38.2013.5.06.0192 >> Processo com 7 parte(s), 18 andamento(s) e 6 expediente(s) atualizado
+12/11/2024 23:47:17: advogado 0001023-40.2013.5.06.0193 >> Processo com 7 parte(s), 27 andamento(s) e 4 expediente(s) atualizado
+12/11/2024 23:47:19: advogado 0001096-12.2013.5.06.0193 >> Processo com 3 parte(s), 14 andamento(s) e 2 expediente(s) atualizado
+12/11/2024 23:47:19: Total: 1
+12/11/2024 23:47:19: Total: 1
+12/11/2024 23:47:19: advogado 0001096-12.2013.5.06.0193 >> Processo já foi verificado recentemente
+12/11/2024 23:47:19: Total: 2
+12/11/2024 23:47:19: Total: 2
+12/11/2024 23:47:19: advogado 0000991-38.2013.5.06.0192 >> Processo já foi verificado recentemente
+12/11/2024 23:47:19: advogado 0001023-40.2013.5.06.0193 >> Processo já foi verificado recentemente
+12/11/2024 23:47:24: Entrou na aba acervo do perfil e mapeou 6 processos e teve erro em 0 processos
+12/11/2024 23:47:24: Rodou

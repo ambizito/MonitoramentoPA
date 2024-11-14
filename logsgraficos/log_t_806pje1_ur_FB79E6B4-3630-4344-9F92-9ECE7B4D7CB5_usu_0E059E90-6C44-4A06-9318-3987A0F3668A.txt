@@ -1,0 +1,14 @@
+04609608499@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs em 8.06.pje.1
+13/11/2024 01:20:40: Acessou https://pje.tjce.jus.br/pje1grau/login.seam
+13/11/2024 01:20:42: Logou https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam
+13/11/2024 01:20:42: Perfil advogado e usuário ODAIR JOSE REGO FERREIRA
+OAB = 04609608499 ; URL = https://pje.tjce.jus.br/pje1grau/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.06.pje.1 ; usuarioId = 04609608499@feitosarocha@FB79E6B4-3630-4344-9F92-9ECE7B4D7CB5@jobs ; Cookies (
+Name = JSESSIONID ; Value = 3AGmvpcvdpCveZW9TpM-Bpaz_KrMrtpkHYi4TUBs.tjpjp13 ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE1MDA0NDEsImlhdCI6MTczMTQ3MTY0MiwiYXV0aF90aW1lIjoxNzMxNDcxNjQxLCJqdGkiOiJhMWY2ZmM4Zi1kYzE5LTQzY2YtOGU4Zi0yNDlmZDc5OTQ4YjYiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10amNlLTFnIiwic3ViIjoiYjEyYmI2NDYtODZmMi00ZGQ0LTliNGItNzU1YzE1ZGYxNGMyIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpjZS0xZyIsInNlc3Npb25fc3RhdGUiOiIxZDMwOGYxNC1kNjRjLTRkMmMtYTY3ZC1lYmM1YzNmY2ZjODMiLCJhdF9oYXNoIjoiVDYzZ29vLUNHU0pJb2VndFYweW41dyIsImFjciI6IjEiLCJzaWQiOiIxZDMwOGYxNC1kNjRjLTRkMmMtYTY3ZC1lYmM1YzNmY2ZjODMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6ZmFsc2UsIm5hbWUiOiJPREFJUiBKT1NFIFJFR08gRkVSUkVJUkEiLCJqdHIiOiI4MDYiLCJKVFIiOiI4MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiIwNDYwOTYwODQ5OSIsImdpdmVuX25hbWUiOiJPREFJUiBKT1NFIFJFR08gRkVSUkVJUkEiLCJlbWFpbCI6Im9kYWlyanJmQGhvdG1haWwuY29tIn0.EwHye7d_tnS4eDALv6k1Dj23rYIrqyVi65NuX3fHga7I1KzSKkQ6-1hOYexUTUQl9beVuVQF4y4E1wzHUCgj3uubUUUPTCQouOSmUis8REaRpOegxsTjFGmcBeo0FiPOFSeGmNIoF3E6quJubATjeOp0RgU4db_g2Bqg2GE5gL7CV-3GffE_RsDxso_FH4DnWWg0s6fVmM5u8-GmXWpJPQATdMtYz511Ilw12J1-GfSgbkKFVQrhJv_65S0T4t8BRbtXGW8v863egkzlBs7tYWMz7lO-OuRmernOTZEaMhh1XERUPQI3ysp2Ai3vguSXZRQt6_O5V0m_r-GkUhlJQw ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = PJE-TJCE-1G-StickySessionRule ; Value = "tjpjp13:pje-tjce-1g" ; Domain = pje.tjce.jus.br ; Path = /pje1grau
+Name = MO ; Value = P ; Domain = pje.tjce.jus.br ; Path = /
+)
+13/11/2024 01:20:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:20:48: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 01:20:48: Rodou

@@ -1,0 +1,23 @@
+RO3279@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark em 8.20.pje.1
+13/11/2024 01:01:29: Acessou https://pje1g.tjrn.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar 327906 0.nv8fjc22197 "handerson simoes da silva:62927558272"
+13/11/2024 01:01:33: Logou https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 01:01:33: Perfil advogado e usuário HANDERSON SIMOES DA SILVA
+OAB = RO3279 ; URL = https://pje1g.tjrn.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.20.pje.1 ; usuarioId = RO3279@handersonsimoes@EC9942FD-9D4A-4D00-B1F8-4D2AE406EEE4@mark ; Cookies (
+Name = JSESSIONID ; Value = GAHfR_j23jiz4TXM0eGDP354R5Keuv4J00fc_PAo.pje1g-104-bnqb6 ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = KEYCLOAK_IDENTITY ; Value = eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1dnJEZ1hCS21FLTdFb3J2a0U1TXU5VmxJZF9JU2dsMnY3QWYyM25EdkRVIn0.eyJleHAiOjE3MzE0OTkyOTEsImlhdCI6MTczMTQ3MDQ5MSwiYXV0aF90aW1lIjoxNzMxNDcwNDkxLCJqdGkiOiI3Y2ZlMWQyNy00ODA4LTRmMjgtYmIwZS01NGMwNDQzZDFkY2EiLCJpc3MiOiJodHRwczovL3Nzby5jbG91ZC5wamUuanVzLmJyL2F1dGgvcmVhbG1zL3BqZSIsImF1ZCI6InBqZS10anJuLTFnIiwic3ViIjoiZjI1MDZhYmQtNmE5Yy00ZGZjLWIwMTMtNDU1NmJmMTVjZjAwIiwidHlwIjoiSUQiLCJhenAiOiJwamUtdGpybi0xZyIsInNlc3Npb25fc3RhdGUiOiJhZGUzOTBhMi00MjMxLTRkZDMtODYzMS03NTVkYTIzMDM4NDYiLCJhdF9oYXNoIjoibGxNRFRJMHdpZmpPTmtLLXdVVHdzUSIsImFjciI6IjEiLCJzaWQiOiJhZGUzOTBhMi00MjMxLTRkZDMtODYzMS03NTVkYTIzMDM4NDYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibG9naW5Db21DZXJ0aWZpY2FkbyI6dHJ1ZSwibmFtZSI6IkhBTkRFUlNPTiBTSU1PRVMgREEgU0lMVkEiLCJKVFIiOiI4MjAiLCJqdHIiOiI4MjAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiI2MjkyNzU1ODI3MiIsImdpdmVuX25hbWUiOiJIQU5ERVJTT04iLCJmYW1pbHlfbmFtZSI6IlNJTU9FUyBEQSBTSUxWQSIsImVtYWlsIjoiaGFuZGVyc29uLnNpbW9lc0B5YWhvby5jb20uYnIifQ.Pmj6ZP7pKsJZufYObDsHbSe-UR7MNWp9C87_NOKMZCk7s0eHPD0F_6FB_uGuCU_tSh2AZgTPabGVDF1RPd3XiingPEYhNimq-eZ4pYhn79Z7OI3z8Kf4Z9VJHGVBDRM7onhjEbhegcFX57_n86s84JNMxcjWmdDfn4gYLZDBa-mU01-p3jTGrhK6y0qwA0pWRrS7gcgVL88HUACcTEF6zP_cJXsyWU05KEybUSNa2JghJi2DKhREORAC4bUdDN8dWUkbZVCme89uZzu1srqCeRaiR89mvD96d0aGoCrOTAu-YShbgVWk6XAO1gCubU0MF4xyWxN9EJ1urVwz-w1oiQ ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = PJE-TJRN-1G-StickySessionRule ; Value = "pje1g-104-bnqb6:pje-tjrn-1g" ; Domain = pje1g.tjrn.jus.br ; Path = /pje
+Name = ROUTER_ID ; Value = 601542ed51c79261d112a14160050ab7 ; Domain = pje1g.tjrn.jus.br ; Path = /
+Name = MO ; Value = P ; Domain = pje1g.tjrn.jus.br ; Path = /
+)
+13/11/2024 01:01:33: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 01:01:35: Total: 1
+13/11/2024 01:01:35: Total: 1
+13/11/2024 01:01:38: advogado 0800444-87.2022.8.20.5145 >> Processo com 4 parte(s), 70 andamento(s) e 15 expediente(s) atualizado
+13/11/2024 01:01:38: Total: 2
+13/11/2024 01:01:39: Total: 2
+13/11/2024 01:01:40: advogado 0839330-78.2017.8.20.5001 >> Processo com 2 parte(s), 35 andamento(s) e 3 expediente(s) atualizado
+13/11/2024 01:01:42: advogado 0836323-83.2014.8.20.5001 >> Processo com 2 parte(s), 39 andamento(s) e 2 expediente(s) atualizado
+13/11/2024 01:01:43: Entrou na aba acervo do perfil e mapeou 3 processos e teve erro em 0 processos
+13/11/2024 01:01:43: Rodou

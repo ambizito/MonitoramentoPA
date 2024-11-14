@@ -1,0 +1,13 @@
+RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus em 8.07.pje.2
+13/11/2024 00:20:36: Acessou https://pje2i.tjdft.jus.br/pje/login.seam
+Acesso: .\jre\bin\java.exe -jar .\AssinaturaPjeSu.jar coque123 0.ytpbjj4sjjv "LUCAS RODRIGUES DE MEDEIROS COQUE:09935787486"
+13/11/2024 00:20:38: Logou https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam
+13/11/2024 00:20:38: Perfil advogado e usuário LUCAS RODRIGUES DE MEDEIROS COQUE
+OAB = RN14395 ; URL = https://pje2i.tjdft.jus.br/pje/Painel/painel_usuario/advogado.seam ; ViewState = j_id2 ; tribunal = 8.07.pje.2 ; usuarioId = RN14395@amcadvogados@A7E99FB2-1A9B-423F-80DC-76800B5F5D29@linus ; Cookies (
+Name = JSESSIONID ; Value = GvkH4JtPvG76GdJKlMDbkTOs2d6lNLK3K94KstkT.hc-zdu155:pje2i-internet-zdu155 ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /pje
+Name = MO ; Value = P ; Domain = pje2i.tjdft.jus.br ; Path = /
+)
+13/11/2024 00:20:42: Entrou na aba expediente do perfil para as categorias  e detectou 0 e leu 0
+13/11/2024 00:20:59: Entrou na aba acervo do perfil e mapeou 0 processos e teve erro em 0 processos
+13/11/2024 00:21:02: Rodou
